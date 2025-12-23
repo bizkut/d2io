@@ -1,0 +1,1674 @@
+[
+  {
+    "id": "recipe-socketed-magic-weapon-ilvl-25",
+    "name": "Recipe: Socketed Magic Weapon ilvl 25",
+    "type": "Recipe",
+    "inputs": [
+      "3  Any Chipped Gem\n1  Any Magic Weapon"
+    ],
+    "outputs": [
+      "1  Socketed Magic Weapon (ilvl 25)"
+    ]
+  },
+  {
+    "id": "recipe-blood-gloves",
+    "name": "Recipe: Blood Gloves",
+    "type": "Recipe",
+    "inputs": [
+      "1  Heavy Gloves\nor 1  Sharkskin Gloves\nor 1  Vampirebone Gloves\n1  Nef\n1  Perfect Ruby\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Blood Gloves"
+    ]
+  },
+  {
+    "id": "recipe-caster-weapon",
+    "name": "Recipe: Caster Weapon",
+    "type": "Recipe",
+    "inputs": [
+      "1  Scepter\nor 1  Rune Scepter\nor 1  Mighty Scepter\n1  Tir\n1  Perfect Amethyst\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Caster Weapon"
+    ]
+  },
+  {
+    "id": "recipe-portal-to-the-secret-cow-level",
+    "name": "Recipe: Portal to the Secret Cow Level",
+    "type": "Recipe",
+    "inputs": [
+      "1  Tome of Town Portal\n1  Wirt's Leg"
+    ],
+    "outputs": [
+      "1  Portal to the Secret Cow Level"
+    ]
+  },
+  {
+    "id": "recipe-add-sockets-to-normal-body-armor",
+    "name": "Recipe: Add Sockets to Normal Body Armor",
+    "type": "Recipe",
+    "inputs": [
+      "1  Tal\n1  Thul\n1  Perfect Topaz\n1  Any Normal Body Armor"
+    ],
+    "outputs": [
+      "1  Normal Body Armor with 1-4 Sockets"
+    ]
+  },
+  {
+    "id": "recipe-hit-power-weapon",
+    "name": "Recipe: Hit Power Weapon",
+    "type": "Recipe",
+    "inputs": [
+      "1  Morning Star\nor 1  Jagged Star\nor 1  Devil Star\n1  Tir\n1  Perfect Sapphire\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Hit Power Weapon"
+    ]
+  },
+  {
+    "id": "recipe-socketed-magic-weapon-of-same-type",
+    "name": "Recipe: Socketed Magic Weapon of Same Type",
+    "type": "Recipe",
+    "inputs": [
+      "3  Any Normal Gem\n1  Any Socketed Weapon"
+    ],
+    "outputs": [
+      "1  Socketed Magic Weapon of Same Type"
+    ]
+  },
+  {
+    "id": "recipe-token-of-absolution",
+    "name": "Recipe: Token of Absolution",
+    "type": "Recipe",
+    "inputs": [
+      "1  Twisted Essence of Suffering\n1  Charged Essence of Hatred\n1  Burning Essence of Terror\n1  Festering Essence of Destruction"
+    ],
+    "outputs": [
+      "1  Token of Absolution"
+    ]
+  },
+  {
+    "id": "recipe-low-quality-rare-item-of-same-type",
+    "name": "Recipe: Low Quality Rare Item of Same Type",
+    "type": "Recipe",
+    "inputs": [
+      "6  Perfect Skull\n1  Any Rare Item"
+    ],
+    "outputs": [
+      "1  Low Quality Rare Item of Same Type"
+    ]
+  },
+  {
+    "id": "recipe-add-sockets-to-normal-weapon",
+    "name": "Recipe: Add Sockets to Normal Weapon",
+    "type": "Recipe",
+    "inputs": [
+      "1  Ral\n1  Amn\n1  Perfect Amethyst\n1  Any Normal Weapon"
+    ],
+    "outputs": [
+      "1  Normal Weapon with 1-6 Sockets"
+    ]
+  },
+  {
+    "id": "recipe-elite-version-of-unique-armor",
+    "name": "Recipe: Elite Version of Unique Armor",
+    "type": "Recipe",
+    "inputs": [
+      "1  Ko\n1  Lem\n1  Perfect Diamond\n1  Exceptional Unique Armor"
+    ],
+    "outputs": [
+      "1  Elite Version of Armor"
+    ]
+  },
+  {
+    "id": "recipe-random-magic-item-of-same-type",
+    "name": "Recipe: Random Magic Item of Same Type",
+    "type": "Recipe",
+    "inputs": [
+      "3  Perfect Gems\n1  Any Magic Item"
+    ],
+    "outputs": [
+      "1  Random Magic Item of Same Type"
+    ]
+  },
+  {
+    "id": "recipe-elite-version-of-unique-weapon",
+    "name": "Recipe: Elite Version of Unique Weapon",
+    "type": "Recipe",
+    "inputs": [
+      "1  Lum\n1  Pul\n1  Perfect Emerald\n1  Exceptional Unique Weapon"
+    ],
+    "outputs": [
+      "1  Elite Version of Weapon"
+    ]
+  },
+  {
+    "id": "recipe-elite-version-of-set-armor",
+    "name": "Recipe: Elite Version of Set Armor",
+    "type": "Recipe",
+    "inputs": [
+      "1  Ko\n1  Lem\n1  Perfect Diamond\n1  Exceptional Set Armor"
+    ],
+    "outputs": [
+      "1  Elite Version of Set Armor"
+    ]
+  },
+  {
+    "id": "recipe-elite-version-of-set-weapon",
+    "name": "Recipe: Elite Version of Set Weapon",
+    "type": "Recipe",
+    "inputs": [
+      "1  Lum\n1  Pul\n1  Perfect Emerald\n1  Exceptional Set Weapon"
+    ],
+    "outputs": [
+      "1  Elite Version of Set Weapon"
+    ]
+  },
+  {
+    "id": "recipe-exceptional-version-of-unique-armor",
+    "name": "Recipe: Exceptional Version of Unique Armor",
+    "type": "Recipe",
+    "inputs": [
+      "1  Tal\n1  Shael\n1  Perfect Diamond\n1  Normal Unique Armor"
+    ],
+    "outputs": [
+      "1  Exceptional Version of Armor"
+    ]
+  },
+  {
+    "id": "recipe-exceptional-version-of-rare-weapon",
+    "name": "Recipe: Exceptional Version of Rare Weapon",
+    "type": "Recipe",
+    "inputs": [
+      "1  Ort\n1  Amn\n1  Perfect Sapphire\n1  Normal Rare Weapon"
+    ],
+    "outputs": [
+      "1  Exceptional Rare Weapon"
+    ]
+  },
+  {
+    "id": "recipe-exceptional-version-of-rare-armor",
+    "name": "Recipe: Exceptional Version of Rare Armor",
+    "type": "Recipe",
+    "inputs": [
+      "1  Ral\n1  Thul\n1  Perfect Amethyst\n1  Normal Rare Armor"
+    ],
+    "outputs": [
+      "1  Exceptional Rare Armor"
+    ]
+  },
+  {
+    "id": "recipe-exceptional-version-of-unique-weapon",
+    "name": "Recipe: Exceptional Version of Unique Weapon",
+    "type": "Recipe",
+    "inputs": [
+      "1  Ral\n1  Sol\n1  Perfect Emerald\n1  Normal Unique Weapon"
+    ],
+    "outputs": [
+      "1  Exceptional Version of Weapon"
+    ]
+  },
+  {
+    "id": "recipe-elite-version-of-rare-weapon",
+    "name": "Recipe: Elite Version of Rare Weapon",
+    "type": "Recipe",
+    "inputs": [
+      "1  Fal\n1  Um\n1  Perfect Sapphire\n1  Exceptional Rare Weapon"
+    ],
+    "outputs": [
+      "1  Elite Rare Weapon"
+    ]
+  },
+  {
+    "id": "recipe-elite-version-of-rare-armor",
+    "name": "Recipe: Elite Version of Rare Armor",
+    "type": "Recipe",
+    "inputs": [
+      "1  Ko\n1  Pul\n1  Perfect Amethyst\n1  Exceptional Rare Armor"
+    ],
+    "outputs": [
+      "1  Elite Rare Armor"
+    ]
+  },
+  {
+    "id": "recipe-exceptional-version-of-set-weapon",
+    "name": "Recipe: Exceptional Version of Set Weapon",
+    "type": "Recipe",
+    "inputs": [
+      "1  Ral\n1  Sol\n1  Perfect Emerald\n1  Normal Set Weapon"
+    ],
+    "outputs": [
+      "1  Exceptional Version of Set Weapon"
+    ]
+  },
+  {
+    "id": "recipe-exceptional-version-of-set-armor",
+    "name": "Recipe: Exceptional Version of Set Armor",
+    "type": "Recipe",
+    "inputs": [
+      "1  Tal\n1  Shael\n1  Perfect Diamond\n1  Normal Set Armor"
+    ],
+    "outputs": [
+      "1  Exceptional Version of Set Armor"
+    ]
+  },
+  {
+    "id": "recipe-fully-repaired-armor",
+    "name": "Recipe: Fully Repaired Armor",
+    "type": "Recipe",
+    "inputs": [
+      "1  Ral\n1  Armor to be repaired"
+    ],
+    "outputs": [
+      "1  Fully repaired armor"
+    ]
+  },
+  {
+    "id": "recipe-blood-ring",
+    "name": "Recipe: Blood Ring",
+    "type": "Recipe",
+    "inputs": [
+      "1  Any Magic Ring\n1  Sol\n1  Perfect Ruby\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Blood Ring"
+    ]
+  },
+  {
+    "id": "recipe-savage-polearm-class-weapon",
+    "name": "Recipe: Savage Polearm Class Weapon",
+    "type": "Recipe",
+    "inputs": [
+      "1  Any Diamond\n1  Any Staff\n1  Kris\n1  Belt"
+    ],
+    "outputs": [
+      "1  Savage Polearm Class Weapon"
+    ]
+  },
+  {
+    "id": "recipe-normal-quality-weapon-of-same-type",
+    "name": "Recipe: Normal Quality Weapon of Same Type",
+    "type": "Recipe",
+    "inputs": [
+      "1  Eld\n1  Any Chipped Gem\n1  Low Quality Weapon"
+    ],
+    "outputs": [
+      "1  Normal Quality Weapon of Same Type"
+    ]
+  },
+  {
+    "id": "recipe-normal-quality-armor-of-same-type",
+    "name": "Recipe: Normal Quality Armor of Same Type",
+    "type": "Recipe",
+    "inputs": [
+      "1  El\n1  Any Chipped Gem\n1  Low Quality Armor"
+    ],
+    "outputs": [
+      "1  Normal Quality Armor of Same Type"
+    ]
+  },
+  {
+    "id": "recipe-high-quality-rare-item-of-same-type",
+    "name": "Recipe: High Quality Rare Item of Same Type",
+    "type": "Recipe",
+    "inputs": [
+      "1  Perfect Skull\n1  Any Rare Item\n1  The Stone of Jordan"
+    ],
+    "outputs": [
+      "1  High Quality Rare Item of Same Type"
+    ]
+  },
+  {
+    "id": "recipe-blood-weapon",
+    "name": "Recipe: Blood Weapon",
+    "type": "Recipe",
+    "inputs": [
+      "1  Axe\nor 1  Cleaver\nor 1  Small Crescent\n1  Ort\n1  Perfect Ruby\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Blood Weapon"
+    ]
+  },
+  {
+    "id": "recipe-safety-weapon",
+    "name": "Recipe: Safety Weapon",
+    "type": "Recipe",
+    "inputs": [
+      "1  Spear\nor 1  Javelin\n1  Sol\n1  Perfect Emerald\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Safety Weapon"
+    ]
+  },
+  {
+    "id": "recipe-add-1-socket-to-a-rare-item",
+    "name": "Recipe: Add 1 Socket to a Rare Item",
+    "type": "Recipe",
+    "inputs": [
+      "3  Perfect Skull\n1  Any Rare Item\n1  The Stone of Jordan"
+    ],
+    "outputs": [
+      "1  Rare Item with 1 Socket"
+    ]
+  },
+  {
+    "id": "recipe-remove-all-items-from-sockets",
+    "name": "Recipe: Remove All Items from Sockets",
+    "type": "Recipe",
+    "inputs": [
+      "1  Hel\n1  Scroll of Town Portal\n1  Any Socketed Item"
+    ],
+    "outputs": [
+      "1  All Items Removed from Sockets"
+    ]
+  },
+  {
+    "id": "recipe-caster-amulet",
+    "name": "Recipe: Caster Amulet",
+    "type": "Recipe",
+    "inputs": [
+      "1  Any Magic Amulet\n1  Ral\n1  Perfect Amethyst\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Caster Amulet"
+    ]
+  },
+  {
+    "id": "recipe-safety-shield",
+    "name": "Recipe: Safety Shield",
+    "type": "Recipe",
+    "inputs": [
+      "1  Kite Shield\nor 1  Dragon Shield\nor 1  Monarch\n1  Nef\n1  Perfect Emerald\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Safety Shield"
+    ]
+  },
+  {
+    "id": "recipe-portal-to-uber-tristram",
+    "name": "Recipe: Portal to Uber Tristram",
+    "type": "Recipe",
+    "inputs": [
+      "1  Mephisto's Brain\n1  Baal's Eye\n1  Diablo's Horn"
+    ],
+    "outputs": [
+      "1  Portal to Uber Tristram"
+    ]
+  },
+  {
+    "id": "recipe-hit-power-belt",
+    "name": "Recipe: Hit Power Belt",
+    "type": "Recipe",
+    "inputs": [
+      "1  Heavy Belt\nor 1  Battle Belt\nor 1  Troll Belt\n1  Tal\n1  Perfect Sapphire\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Hit Power Belt"
+    ]
+  },
+  {
+    "id": "recipe-safety-belt",
+    "name": "Recipe: Safety Belt",
+    "type": "Recipe",
+    "inputs": [
+      "1  Sash\nor 1  Demonhide Sash\nor 1  Spiderweb Sash\n1  Tal\n1  Perfect Emerald\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Safety Belt"
+    ]
+  },
+  {
+    "id": "recipe-caster-belt",
+    "name": "Recipe: Caster Belt",
+    "type": "Recipe",
+    "inputs": [
+      "1  Light Belt\nor 1  Sharkskin Belt\nor 1  Vampirefang Belt\n1  Ith\n1  Perfect Amethyst\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Caster Belt"
+    ]
+  },
+  {
+    "id": "recipe-blood-belt",
+    "name": "Recipe: Blood Belt",
+    "type": "Recipe",
+    "inputs": [
+      "1  Belt\nor 1  Mesh Belt\nor 1  Mithril Coil\n1  Tal\n1  Perfect Ruby\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Blood Belt"
+    ]
+  },
+  {
+    "id": "recipe-hit-power-boots",
+    "name": "Recipe: Hit Power Boots",
+    "type": "Recipe",
+    "inputs": [
+      "1  Chain Boots\nor 1  Mesh Boots\nor 1  Boneweave Boots\n1  Ral\n1  Perfect Sapphire\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Hit Power Boots"
+    ]
+  },
+  {
+    "id": "recipe-caster-boots",
+    "name": "Recipe: Caster Boots",
+    "type": "Recipe",
+    "inputs": [
+      "1  Boots\nor 1  Demonhide Boots\nor 1  Wyrmhide Boots\n1  Thul\n1  Perfect Amethyst\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Caster Boots"
+    ]
+  },
+  {
+    "id": "recipe-safety-boots",
+    "name": "Recipe: Safety Boots",
+    "type": "Recipe",
+    "inputs": [
+      "1  Greaves\nor 1  War Boots\nor 1  Myrmidon Greaves\n1  Ort\n1  Perfect Emerald\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Safety Boots"
+    ]
+  },
+  {
+    "id": "recipe-blood-boots",
+    "name": "Recipe: Blood Boots",
+    "type": "Recipe",
+    "inputs": [
+      "1  Light Plated Boots\nor 1  Battle Boots\nor 1  Mirrored Boots\n1  Eth\n1  Perfect Ruby\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Blood Boots"
+    ]
+  },
+  {
+    "id": "recipe-caster-gloves",
+    "name": "Recipe: Caster Gloves",
+    "type": "Recipe",
+    "inputs": [
+      "1  Leather Gloves\nor 1  Demonhide Gloves\nor 1  Bramble Mitts\n1  Ort\n1  Perfect Amethyst\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Caster Gloves"
+    ]
+  },
+  {
+    "id": "recipe-hit-power-gloves",
+    "name": "Recipe: Hit Power Gloves",
+    "type": "Recipe",
+    "inputs": [
+      "1  Chain Gloves\nor 1  Heavy Bracers\nor 1  Vambraces\n1  Ort\n1  Perfect Sapphire\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Hit Power Gloves"
+    ]
+  },
+  {
+    "id": "recipe-safety-gloves",
+    "name": "Recipe: Safety Gloves",
+    "type": "Recipe",
+    "inputs": [
+      "1  Gauntlets\nor 1  War Gauntlets\nor 1  Ogre Gauntlets\n1  Ral\n1  Perfect Emerald\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Safety Gloves"
+    ]
+  },
+  {
+    "id": "recipe-safety-ring",
+    "name": "Recipe: Safety Ring",
+    "type": "Recipe",
+    "inputs": [
+      "1  Any Magic Ring\n1  Amn\n1  Perfect Emerald\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Safety Ring"
+    ]
+  },
+  {
+    "id": "recipe-hit-power-ring",
+    "name": "Recipe: Hit Power Ring",
+    "type": "Recipe",
+    "inputs": [
+      "1  Any Magic Ring\n1  Amn\n1  Perfect Sapphire\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Hit Power Ring"
+    ]
+  },
+  {
+    "id": "recipe-caster-ring",
+    "name": "Recipe: Caster Ring",
+    "type": "Recipe",
+    "inputs": [
+      "1  Any Magic Ring\n1  Amn\n1  Perfect Amethyst\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Caster Ring"
+    ]
+  },
+  {
+    "id": "recipe-blood-amulet",
+    "name": "Recipe: Blood Amulet",
+    "type": "Recipe",
+    "inputs": [
+      "1  Any Magic Amulet\n1  Amn\n1  Perfect Ruby\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Blood Amulet"
+    ]
+  },
+  {
+    "id": "recipe-safety-amulet",
+    "name": "Recipe: Safety Amulet",
+    "type": "Recipe",
+    "inputs": [
+      "1  Any Magic Amulet\n1  Thul\n1  Perfect Emerald\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Safety Amulet"
+    ]
+  },
+  {
+    "id": "recipe-hit-power-amulet",
+    "name": "Recipe: Hit Power Amulet",
+    "type": "Recipe",
+    "inputs": [
+      "1  Any Magic Amulet\n1  Thul\n1  Perfect Sapphire\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Hit Power Amulet"
+    ]
+  },
+  {
+    "id": "recipe-socketed-magic-weapon-ilvl-30",
+    "name": "Recipe: Socketed Magic Weapon ilvl 30",
+    "type": "Recipe",
+    "inputs": [
+      "3  Any Flawless Gem\n1  Any Magic Weapon"
+    ],
+    "outputs": [
+      "1  Socketed Magic Weapon (ilvl 30)"
+    ]
+  },
+  {
+    "id": "recipe-portal-to-matrons-den",
+    "name": "Recipe: Portal to Matron's Den",
+    "type": "Recipe",
+    "inputs": [
+      "1  Key of Hate\n1  Key of Terror\n1  Key of Destruction"
+    ],
+    "outputs": [
+      "1  Portal to Matron's Den"
+    ]
+  },
+  {
+    "id": "recipe-portal-to-furnace-of-pain",
+    "name": "Recipe: Portal to Furnace of Pain",
+    "type": "Recipe",
+    "inputs": [
+      "1  Key of Hate\n1  Key of Terror\n1  Key of Destruction"
+    ],
+    "outputs": [
+      "1  Portal to Furnace of Pain"
+    ]
+  },
+  {
+    "id": "recipe-portal-to-forgotten-sands",
+    "name": "Recipe: Portal to Forgotten Sands",
+    "type": "Recipe",
+    "inputs": [
+      "1  Key of Hate\n1  Key of Terror\n1  Key of Destruction"
+    ],
+    "outputs": [
+      "1  Portal to Forgotten Sands"
+    ]
+  },
+  {
+    "id": "recipe-caster-helm",
+    "name": "Recipe: Caster Helm",
+    "type": "Recipe",
+    "inputs": [
+      "1  Mask\nor 1  Death Mask\nor 1  Demonhead\n1  Nef\n1  Perfect Amethyst\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Caster Helm"
+    ]
+  },
+  {
+    "id": "recipe-khalims-will",
+    "name": "Recipe: Khalim's Will",
+    "type": "Recipe",
+    "inputs": [
+      "1  Khalim's Eye\n1  Khalim's Brain\n1  Khalim's Heart\n1  Khalim's Flail"
+    ],
+    "outputs": [
+      "1  Khalim's Will"
+    ]
+  },
+  {
+    "id": "recipe-horadric-staff",
+    "name": "Recipe: Horadric Staff",
+    "type": "Recipe",
+    "inputs": [
+      "1  Amulet of the Viper\n1  Staff of Kings"
+    ],
+    "outputs": [
+      "1  Horadric Staff"
+    ]
+  },
+  {
+    "id": "recipe-blood-helm",
+    "name": "Recipe: Blood Helm",
+    "type": "Recipe",
+    "inputs": [
+      "1  Helm\nor 1  Casque\nor 1  Armet\n1  Ral\n1  Perfect Ruby\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Blood Helm"
+    ]
+  },
+  {
+    "id": "recipe-safety-body",
+    "name": "Recipe: Safety Body",
+    "type": "Recipe",
+    "inputs": [
+      "1  Breast Plate\nor 1  Cuirass\nor 1  Great Hauberk\n1  Eth\n1  Perfect Emerald\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Safety Body"
+    ]
+  },
+  {
+    "id": "recipe-safety-helm",
+    "name": "Recipe: Safety Helm",
+    "type": "Recipe",
+    "inputs": [
+      "1  Crown\nor 1  Grand Crown\nor 1  Corona\n1  Ith\n1  Perfect Emerald\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Safety Helm"
+    ]
+  },
+  {
+    "id": "recipe-caster-body",
+    "name": "Recipe: Caster Body",
+    "type": "Recipe",
+    "inputs": [
+      "1  Light Plate\nor 1  Mage Plate\nor 1  Archon Plate\n1  Tal\n1  Perfect Amethyst\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Caster Body"
+    ]
+  },
+  {
+    "id": "recipe-caster-shield",
+    "name": "Recipe: Caster Shield",
+    "type": "Recipe",
+    "inputs": [
+      "1  Small Shield\nor 1  Round Shield\nor 1  Luna\n1  Eth\n1  Perfect Amethyst\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Caster Shield"
+    ]
+  },
+  {
+    "id": "recipe-blood-body",
+    "name": "Recipe: Blood Body",
+    "type": "Recipe",
+    "inputs": [
+      "1  Plate Mail\nor 1  Templar Coat\nor 1  Hellforge Plate\n1  Thul\n1  Perfect Ruby\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Blood Body"
+    ]
+  },
+  {
+    "id": "recipe-blood-shield",
+    "name": "Recipe: Blood Shield",
+    "type": "Recipe",
+    "inputs": [
+      "1  Spiked Shield\nor 1  Barbed Shield\nor 1  Blade Barrier\n1  Ith\n1  Perfect Ruby\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Blood Shield"
+    ]
+  },
+  {
+    "id": "recipe-hit-power-body",
+    "name": "Recipe: Hit Power Body",
+    "type": "Recipe",
+    "inputs": [
+      "1  Field Plate\nor 1  Sharktooth Armor\nor 1  Kraken Shell\n1  Nef\n1  Perfect Sapphire\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Hit Power Body"
+    ]
+  },
+  {
+    "id": "recipe-hit-power-shield",
+    "name": "Recipe: Hit Power Shield",
+    "type": "Recipe",
+    "inputs": [
+      "1  Gothic Shield\nor 1  Ancient Shield\nor 1  Ward\n1  Eth\n1  Perfect Sapphire\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Hit Power Shield"
+    ]
+  },
+  {
+    "id": "recipe-hit-power-helm",
+    "name": "Recipe: Hit Power Helm",
+    "type": "Recipe",
+    "inputs": [
+      "1  Full Helm\nor 1  Basinet\nor 1  Giant Conch\n1  Ith\n1  Perfect Sapphire\n1  Any Jewel"
+    ],
+    "outputs": [
+      "1  Hit Power Helm"
+    ]
+  },
+  {
+    "id": "recipe-magic-shield-of-spikes",
+    "name": "Recipe: Magic Shield of Spikes",
+    "type": "Recipe",
+    "inputs": [
+      "1  Any Magic Shield\n1  Spiked Club\n2  Any Skull"
+    ],
+    "outputs": [
+      "1  Magic Shield of Spikes"
+    ]
+  },
+  {
+    "id": "recipe-prismatic-amulet",
+    "name": "Recipe: Prismatic Amulet",
+    "type": "Recipe",
+    "inputs": [
+      "6  Perfect Gems (One of Each Type)\n1  Any Magic Amulet"
+    ],
+    "outputs": [
+      "1  Prismatic Amulet"
+    ]
+  },
+  {
+    "id": "recipe-cobalt-ring",
+    "name": "Recipe: Cobalt Ring",
+    "type": "Recipe",
+    "inputs": [
+      "1  Any Magic Ring\n1  Perfect Sapphire\n1  Thawing Potion"
+    ],
+    "outputs": [
+      "1  Cobalt Ring"
+    ]
+  },
+  {
+    "id": "recipe-coral-ring",
+    "name": "Recipe: Coral Ring",
+    "type": "Recipe",
+    "inputs": [
+      "1  Any Magic Ring\n1  Perfect Topaz\n1  Rejuvenation Potion"
+    ],
+    "outputs": [
+      "1  Coral Ring"
+    ]
+  },
+  {
+    "id": "recipe-garnet-ring",
+    "name": "Recipe: Garnet Ring",
+    "type": "Recipe",
+    "inputs": [
+      "1  Any Magic Ring\n1  Perfect Ruby\n1  Exploding Potion"
+    ],
+    "outputs": [
+      "1  Garnet Ring"
+    ]
+  },
+  {
+    "id": "recipe-jade-ring",
+    "name": "Recipe: Jade Ring",
+    "type": "Recipe",
+    "inputs": [
+      "1  Any Magic Ring\n1  Perfect Emerald\n1  Antidote Potion"
+    ],
+    "outputs": [
+      "1  Jade Ring"
+    ]
+  },
+  {
+    "id": "recipe-add-sockets-to-normal-shield",
+    "name": "Recipe: Add Sockets to Normal Shield",
+    "type": "Recipe",
+    "inputs": [
+      "1  Tal\n1  Amn\n1  Perfect Ruby\n1  Any Normal Shield"
+    ],
+    "outputs": [
+      "1  Normal Shield with 1-4 Sockets"
+    ]
+  },
+  {
+    "id": "recipe-add-sockets-to-normal-helm",
+    "name": "Recipe: Add Sockets to Normal Helm",
+    "type": "Recipe",
+    "inputs": [
+      "1  Ral\n1  Thul\n1  Perfect Sapphire\n1  Any Normal Helm"
+    ],
+    "outputs": [
+      "1  Normal Helm with 1-3 Sockets"
+    ]
+  },
+  {
+    "id": "recipe-fully-repaired-and-recharged-armor",
+    "name": "Recipe: Fully Repaired and Recharged Armor",
+    "type": "Recipe",
+    "inputs": [
+      "1  Ral\n1  Any Flawed Gem\n1  Armor to be repaired"
+    ],
+    "outputs": [
+      "1  Fully Repaired and Recharged Armor"
+    ]
+  },
+  {
+    "id": "recipe-fully-repaired-and-recharged-weapon",
+    "name": "Recipe: Fully Repaired and Recharged Weapon",
+    "type": "Recipe",
+    "inputs": [
+      "1  Ort\n1  Any Chipped Gem\n1  Weapon to be repaired"
+    ],
+    "outputs": [
+      "1  Fully Repaired and Recharged Weapon"
+    ]
+  },
+  {
+    "id": "recipe-random-magic-ring",
+    "name": "Recipe: Random Magic Ring",
+    "type": "Recipe",
+    "inputs": [
+      "3  Magic Amulet"
+    ],
+    "outputs": [
+      "1  Magic Ring"
+    ]
+  },
+  {
+    "id": "recipe-random-magic-amulet",
+    "name": "Recipe: Random Magic Amulet",
+    "type": "Recipe",
+    "inputs": [
+      "3  Magic Ring"
+    ],
+    "outputs": [
+      "1  Magic Amulet"
+    ]
+  },
+  {
+    "id": "recipe-magic-sword-of-the-leech",
+    "name": "Recipe: Magic Sword of the Leech",
+    "type": "Recipe",
+    "inputs": [
+      "4  Any Healing Potion\n1  Any Ruby\n1  Any Magic Sword"
+    ],
+    "outputs": [
+      "1  Magic Sword of the Leech"
+    ]
+  },
+  {
+    "id": "recipe-full-rejuvenation-potion-alternative",
+    "name": "Recipe: Full Rejuvenation Potion (Alternative)",
+    "type": "Recipe",
+    "inputs": [
+      "3  Any Healing Potion\n3  Any Mana Potion\n1  Any Normal Gem"
+    ],
+    "outputs": [
+      "1  Full Rejuvenation Potion"
+    ]
+  },
+  {
+    "id": "recipe-rejuvenation-potion",
+    "name": "Recipe: Rejuvenation Potion",
+    "type": "Recipe",
+    "inputs": [
+      "3  Any Healing Potion\n3  Any Mana Potion\n1  Any Chipped Gem"
+    ],
+    "outputs": [
+      "1  Rejuvenation Potion"
+    ]
+  },
+  {
+    "id": "recipe-antidote-potion",
+    "name": "Recipe: Antidote Potion",
+    "type": "Recipe",
+    "inputs": [
+      "1  Strangling Gas Potion\n1  Any Healing Potion"
+    ],
+    "outputs": [
+      "1  Antidote Potion"
+    ]
+  },
+  {
+    "id": "recipe-throwing-axe",
+    "name": "Recipe: Throwing Axe",
+    "type": "Recipe",
+    "inputs": [
+      "1  Axe\n1  Dagger"
+    ],
+    "outputs": [
+      "1  Throwing Axe"
+    ]
+  },
+  {
+    "id": "recipe-javelin",
+    "name": "Recipe: Javelin",
+    "type": "Recipe",
+    "inputs": [
+      "1  Spear\n1  Arrows"
+    ],
+    "outputs": [
+      "1  Javelin"
+    ]
+  },
+  {
+    "id": "recipe-arrows",
+    "name": "Recipe: Arrows",
+    "type": "Recipe",
+    "inputs": [
+      "2  Bolts"
+    ],
+    "outputs": [
+      "1  Arrows"
+    ]
+  },
+  {
+    "id": "recipe-bolts",
+    "name": "Recipe: Bolts",
+    "type": "Recipe",
+    "inputs": [
+      "2  Arrows"
+    ],
+    "outputs": [
+      "1  Bolts"
+    ]
+  },
+  {
+    "id": "recipe-zod",
+    "name": "Recipe: Zod",
+    "type": "Recipe",
+    "inputs": [
+      "2  Cham\n1  Flawless Emerald"
+    ],
+    "outputs": [
+      "1  Zod"
+    ]
+  },
+  {
+    "id": "recipe-cham",
+    "name": "Recipe: Cham",
+    "type": "Recipe",
+    "inputs": [
+      "2  Jah\n1  Flawless Ruby"
+    ],
+    "outputs": [
+      "1  Cham"
+    ]
+  },
+  {
+    "id": "recipe-jah",
+    "name": "Recipe: Jah",
+    "type": "Recipe",
+    "inputs": [
+      "2  Ber\n1  Flawless Sapphire"
+    ],
+    "outputs": [
+      "1  Jah"
+    ]
+  },
+  {
+    "id": "recipe-ber",
+    "name": "Recipe: Ber",
+    "type": "Recipe",
+    "inputs": [
+      "2  Sur\n1  Flawless Amethyst"
+    ],
+    "outputs": [
+      "1  Ber"
+    ]
+  },
+  {
+    "id": "recipe-sur",
+    "name": "Recipe: Sur",
+    "type": "Recipe",
+    "inputs": [
+      "2  Lo\n1  Flawless Topaz"
+    ],
+    "outputs": [
+      "1  Sur"
+    ]
+  },
+  {
+    "id": "recipe-lo",
+    "name": "Recipe: Lo",
+    "type": "Recipe",
+    "inputs": [
+      "2  Ohm\n1  Diamond"
+    ],
+    "outputs": [
+      "1  Lo"
+    ]
+  },
+  {
+    "id": "recipe-ohm",
+    "name": "Recipe: Ohm",
+    "type": "Recipe",
+    "inputs": [
+      "2  Vex\n1  Emerald"
+    ],
+    "outputs": [
+      "1  Ohm"
+    ]
+  },
+  {
+    "id": "recipe-vex",
+    "name": "Recipe: Vex",
+    "type": "Recipe",
+    "inputs": [
+      "2  Gul\n1  Ruby"
+    ],
+    "outputs": [
+      "1  Vex"
+    ]
+  },
+  {
+    "id": "recipe-gul",
+    "name": "Recipe: Gul",
+    "type": "Recipe",
+    "inputs": [
+      "2  Ist\n1  Sapphire"
+    ],
+    "outputs": [
+      "1  Gul"
+    ]
+  },
+  {
+    "id": "recipe-ist",
+    "name": "Recipe: Ist",
+    "type": "Recipe",
+    "inputs": [
+      "2  Mal\n1  Amethyst"
+    ],
+    "outputs": [
+      "1  Ist"
+    ]
+  },
+  {
+    "id": "recipe-mal",
+    "name": "Recipe: Mal",
+    "type": "Recipe",
+    "inputs": [
+      "2  Um\n1  Topaz"
+    ],
+    "outputs": [
+      "1  Mal"
+    ]
+  },
+  {
+    "id": "recipe-um",
+    "name": "Recipe: Um",
+    "type": "Recipe",
+    "inputs": [
+      "2  Pul\n1  Flawed Diamond"
+    ],
+    "outputs": [
+      "1  Um"
+    ]
+  },
+  {
+    "id": "recipe-pul",
+    "name": "Recipe: Pul",
+    "type": "Recipe",
+    "inputs": [
+      "3  Lem\n1  Flawed Emerald"
+    ],
+    "outputs": [
+      "1  Pul"
+    ]
+  },
+  {
+    "id": "recipe-lem",
+    "name": "Recipe: Lem",
+    "type": "Recipe",
+    "inputs": [
+      "3  Fal\n1  Flawed Ruby"
+    ],
+    "outputs": [
+      "1  Lem"
+    ]
+  },
+  {
+    "id": "recipe-fal",
+    "name": "Recipe: Fal",
+    "type": "Recipe",
+    "inputs": [
+      "3  Ko\n1  Flawed Sapphire"
+    ],
+    "outputs": [
+      "1  Fal"
+    ]
+  },
+  {
+    "id": "recipe-ko",
+    "name": "Recipe: Ko",
+    "type": "Recipe",
+    "inputs": [
+      "3  Lum\n1  Flawed Amethyst"
+    ],
+    "outputs": [
+      "1  Ko"
+    ]
+  },
+  {
+    "id": "recipe-io",
+    "name": "Recipe: Io",
+    "type": "Recipe",
+    "inputs": [
+      "3  Hel\n1  Chipped Diamond"
+    ],
+    "outputs": [
+      "1  Io"
+    ]
+  },
+  {
+    "id": "recipe-hel",
+    "name": "Recipe: Hel",
+    "type": "Recipe",
+    "inputs": [
+      "3  Dol\n1  Chipped Emerald"
+    ],
+    "outputs": [
+      "1  Hel"
+    ]
+  },
+  {
+    "id": "recipe-dol",
+    "name": "Recipe: Dol",
+    "type": "Recipe",
+    "inputs": [
+      "3  Shael\n1  Chipped Ruby"
+    ],
+    "outputs": [
+      "1  Dol"
+    ]
+  },
+  {
+    "id": "recipe-shael",
+    "name": "Recipe: Shael",
+    "type": "Recipe",
+    "inputs": [
+      "3  Sol\n1  Chipped Sapphire"
+    ],
+    "outputs": [
+      "1  Shael"
+    ]
+  },
+  {
+    "id": "recipe-sol",
+    "name": "Recipe: Sol",
+    "type": "Recipe",
+    "inputs": [
+      "3  Amn\n1  Chipped Amethyst"
+    ],
+    "outputs": [
+      "1  Sol"
+    ]
+  },
+  {
+    "id": "recipe-ral",
+    "name": "Recipe: Ral",
+    "type": "Recipe",
+    "inputs": [
+      "3  Tal"
+    ],
+    "outputs": [
+      "1  Ral"
+    ]
+  },
+  {
+    "id": "recipe-ith",
+    "name": "Recipe: Ith",
+    "type": "Recipe",
+    "inputs": [
+      "3  Eth"
+    ],
+    "outputs": [
+      "1  Ith"
+    ]
+  },
+  {
+    "id": "recipe-eth",
+    "name": "Recipe: Eth",
+    "type": "Recipe",
+    "inputs": [
+      "3  Nef"
+    ],
+    "outputs": [
+      "1  Eth"
+    ]
+  },
+  {
+    "id": "recipe-nef",
+    "name": "Recipe: Nef",
+    "type": "Recipe",
+    "inputs": [
+      "3  Tir"
+    ],
+    "outputs": [
+      "1  Nef"
+    ]
+  },
+  {
+    "id": "recipe-tir",
+    "name": "Recipe: Tir",
+    "type": "Recipe",
+    "inputs": [
+      "3  Eld"
+    ],
+    "outputs": [
+      "1  Tir"
+    ]
+  },
+  {
+    "id": "recipe-eld",
+    "name": "Recipe: Eld",
+    "type": "Recipe",
+    "inputs": [
+      "3  El"
+    ],
+    "outputs": [
+      "1  Eld"
+    ]
+  },
+  {
+    "id": "recipe-perfect-topaz",
+    "name": "Recipe: Perfect Topaz",
+    "type": "Recipe",
+    "inputs": [
+      "3  Flawless Topaz"
+    ],
+    "outputs": [
+      "1  Perfect Topaz"
+    ]
+  },
+  {
+    "id": "recipe-perfect-diamond",
+    "name": "Recipe: Perfect Diamond",
+    "type": "Recipe",
+    "inputs": [
+      "3  Flawless Diamond"
+    ],
+    "outputs": [
+      "1  Perfect Diamond"
+    ]
+  },
+  {
+    "id": "recipe-perfect-ruby",
+    "name": "Recipe: Perfect Ruby",
+    "type": "Recipe",
+    "inputs": [
+      "3  Flawless Ruby"
+    ],
+    "outputs": [
+      "1  Perfect Ruby"
+    ]
+  },
+  {
+    "id": "recipe-perfect-emerald",
+    "name": "Recipe: Perfect Emerald",
+    "type": "Recipe",
+    "inputs": [
+      "3  Flawless Emerald"
+    ],
+    "outputs": [
+      "1  Perfect Emerald"
+    ]
+  },
+  {
+    "id": "recipe-perfect-amethyst",
+    "name": "Recipe: Perfect Amethyst",
+    "type": "Recipe",
+    "inputs": [
+      "3  Flawless Amethyst"
+    ],
+    "outputs": [
+      "1  Perfect Amethyst"
+    ]
+  },
+  {
+    "id": "recipe-perfect-skull",
+    "name": "Recipe: Perfect Skull",
+    "type": "Recipe",
+    "inputs": [
+      "3  Flawless Skull"
+    ],
+    "outputs": [
+      "1  Perfect Skull"
+    ]
+  },
+  {
+    "id": "recipe-flawless-topaz",
+    "name": "Recipe: Flawless Topaz",
+    "type": "Recipe",
+    "inputs": [
+      "3  Topaz"
+    ],
+    "outputs": [
+      "1  Flawless Topaz"
+    ]
+  },
+  {
+    "id": "recipe-flawless-diamond",
+    "name": "Recipe: Flawless Diamond",
+    "type": "Recipe",
+    "inputs": [
+      "3  Diamond"
+    ],
+    "outputs": [
+      "1  Flawless Diamond"
+    ]
+  },
+  {
+    "id": "recipe-flawless-ruby",
+    "name": "Recipe: Flawless Ruby",
+    "type": "Recipe",
+    "inputs": [
+      "3  Ruby"
+    ],
+    "outputs": [
+      "1  Flawless Ruby"
+    ]
+  },
+  {
+    "id": "recipe-flawless-emerald",
+    "name": "Recipe: Flawless Emerald",
+    "type": "Recipe",
+    "inputs": [
+      "3  Emerald"
+    ],
+    "outputs": [
+      "1  Flawless Emerald"
+    ]
+  },
+  {
+    "id": "recipe-flawless-sapphire",
+    "name": "Recipe: Flawless Sapphire",
+    "type": "Recipe",
+    "inputs": [
+      "3  Sapphire"
+    ],
+    "outputs": [
+      "1  Flawless Sapphire"
+    ]
+  },
+  {
+    "id": "recipe-flawless-amethyst",
+    "name": "Recipe: Flawless Amethyst",
+    "type": "Recipe",
+    "inputs": [
+      "3  Amethyst"
+    ],
+    "outputs": [
+      "1  Flawless Amethyst"
+    ]
+  },
+  {
+    "id": "recipe-flawless-skull",
+    "name": "Recipe: Flawless Skull",
+    "type": "Recipe",
+    "inputs": [
+      "3  Skull"
+    ],
+    "outputs": [
+      "1  Flawless Skull"
+    ]
+  },
+  {
+    "id": "recipe-topaz",
+    "name": "Recipe: Topaz",
+    "type": "Recipe",
+    "inputs": [
+      "3  Flawed Topaz"
+    ],
+    "outputs": [
+      "1  Topaz"
+    ]
+  },
+  {
+    "id": "recipe-diamond",
+    "name": "Recipe: Diamond",
+    "type": "Recipe",
+    "inputs": [
+      "3  Flawed Diamond"
+    ],
+    "outputs": [
+      "1  Diamond"
+    ]
+  },
+  {
+    "id": "recipe-ruby",
+    "name": "Recipe: Ruby",
+    "type": "Recipe",
+    "inputs": [
+      "3  Flawed Ruby"
+    ],
+    "outputs": [
+      "1  Ruby"
+    ]
+  },
+  {
+    "id": "recipe-emerald",
+    "name": "Recipe: Emerald",
+    "type": "Recipe",
+    "inputs": [
+      "3  Flawed Emerald"
+    ],
+    "outputs": [
+      "1  Emerald"
+    ]
+  },
+  {
+    "id": "recipe-sapphire",
+    "name": "Recipe: Sapphire",
+    "type": "Recipe",
+    "inputs": [
+      "3  Flawed Sapphire"
+    ],
+    "outputs": [
+      "1  Sapphire"
+    ]
+  },
+  {
+    "id": "recipe-amethyst",
+    "name": "Recipe: Amethyst",
+    "type": "Recipe",
+    "inputs": [
+      "3  Flawed Amethyst"
+    ],
+    "outputs": [
+      "1  Amethyst"
+    ]
+  },
+  {
+    "id": "recipe-skull",
+    "name": "Recipe: Skull",
+    "type": "Recipe",
+    "inputs": [
+      "3  Flawed Skull"
+    ],
+    "outputs": [
+      "1  Skull"
+    ]
+  },
+  {
+    "id": "recipe-flawed-diamond",
+    "name": "Recipe: Flawed Diamond",
+    "type": "Recipe",
+    "inputs": [
+      "3  Chipped Diamond"
+    ],
+    "outputs": [
+      "1  Flawed Diamond"
+    ]
+  },
+  {
+    "id": "recipe-flawed-ruby",
+    "name": "Recipe: Flawed Ruby",
+    "type": "Recipe",
+    "inputs": [
+      "3  Chipped Ruby"
+    ],
+    "outputs": [
+      "1  Flawed Ruby"
+    ]
+  },
+  {
+    "id": "recipe-flawed-emerald",
+    "name": "Recipe: Flawed Emerald",
+    "type": "Recipe",
+    "inputs": [
+      "3  Chipped Emerald"
+    ],
+    "outputs": [
+      "1  Flawed Emerald"
+    ]
+  },
+  {
+    "id": "recipe-flawed-sapphire",
+    "name": "Recipe: Flawed Sapphire",
+    "type": "Recipe",
+    "inputs": [
+      "3  Chipped Sapphire"
+    ],
+    "outputs": [
+      "1  Flawed Sapphire"
+    ]
+  },
+  {
+    "id": "recipe-flawed-amethyst",
+    "name": "Recipe: Flawed Amethyst",
+    "type": "Recipe",
+    "inputs": [
+      "3  Chipped Amethyst"
+    ],
+    "outputs": [
+      "1  Flawed Amethyst"
+    ]
+  },
+  {
+    "id": "recipe-flawed-skull",
+    "name": "Recipe: Flawed Skull",
+    "type": "Recipe",
+    "inputs": [
+      "3  Chipped Skull"
+    ],
+    "outputs": [
+      "1  Flawed Skull"
+    ]
+  },
+  {
+    "id": "recipe-fully-repaired-weapon",
+    "name": "Recipe: Fully repaired weapon",
+    "type": "Recipe",
+    "inputs": [
+      "1  Weapon to be repaired\n1  Ort"
+    ],
+    "outputs": [
+      "1  Fully repaired weapon"
+    ]
+  },
+  {
+    "id": "recipe-lum",
+    "name": "Recipe: Lum",
+    "type": "Recipe",
+    "inputs": [
+      "3  Io\n1  Flawed Topaz"
+    ],
+    "outputs": [
+      "1  Lum"
+    ]
+  },
+  {
+    "id": "recipe-full-rejuvenation-potion",
+    "name": "Recipe: Full Rejuvenation Potion",
+    "type": "Recipe",
+    "inputs": [
+      "3  Rejuvenation Potion"
+    ],
+    "outputs": [
+      "1  Full Rejuvenation Potion"
+    ]
+  },
+  {
+    "id": "recipe-perfect-sapphire",
+    "name": "Recipe: Perfect Sapphire",
+    "type": "Recipe",
+    "inputs": [
+      "3  Flawless Sapphire"
+    ],
+    "outputs": [
+      "1  Perfect Sapphire"
+    ]
+  },
+  {
+    "id": "recipe-flawed-topaz",
+    "name": "Recipe: Flawed Topaz",
+    "type": "Recipe",
+    "inputs": [
+      "3  Chipped Topaz"
+    ],
+    "outputs": [
+      "1  Flawed Topaz"
+    ]
+  },
+  {
+    "id": "recipe-amn",
+    "name": "Recipe: Amn",
+    "type": "Recipe",
+    "inputs": [
+      "3  Thul\n1  Chipped Topaz"
+    ],
+    "outputs": [
+      "1  Amn"
+    ]
+  },
+  {
+    "id": "recipe-ort",
+    "name": "Recipe: Ort",
+    "type": "Recipe",
+    "inputs": [
+      "3  Ral"
+    ],
+    "outputs": [
+      "1  Ort"
+    ]
+  },
+  {
+    "id": "recipe-thul",
+    "name": "Recipe: Thul",
+    "type": "Recipe",
+    "inputs": [
+      "3  Ort"
+    ],
+    "outputs": [
+      "1  Thul"
+    ]
+  },
+  {
+    "id": "recipe-tal",
+    "name": "Recipe: Tal",
+    "type": "Recipe",
+    "inputs": [
+      "3  Ith"
+    ],
+    "outputs": [
+      "1  Tal"
+    ]
+  }
+]

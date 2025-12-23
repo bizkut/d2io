@@ -1,0 +1,2876 @@
+[
+  {
+    "id": "bone",
+    "name": "Bone",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeSol_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Sol",
+      "Um",
+      "Um"
+    ],
+    "properties": {
+      "required_level": 47,
+      "magical_properties": [
+        "Patch 1.11 Runeword",
+        "Sol  Um  Um",
+        "3 socket Body Armor",
+        "15% Chance To Cast level 10 Bone Armor When Struck",
+        "15% Chance To Cast level 10 Bone Spear On Striking",
+        "+2 To Necromancer Skill Levels",
+        "+100-150 To Mana",
+        "All Resistances +30",
+        "Damage Reduced By 7"
+      ]
+    },
+    "local_image": "images/runewords/bone.png"
+  },
+  {
+    "id": "principle",
+    "name": "Principle",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeRal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Ral",
+      "Gul",
+      "Eld"
+    ],
+    "properties": {
+      "required_level": 53,
+      "magical_properties": [
+        "Patch 1.11 Runeword",
+        "Ral  Gul  Eld",
+        "3 socket Body Armor",
+        "100% Chance To Cast Level 5 Holy Bolt On Striking",
+        "+2 To Paladin Skill Levels",
+        "+50% Damage to Undead",
+        "+100-150 To Life",
+        "15% Slower Stamina Drain",
+        "+5% To Maximum Poison Resist",
+        "Fire Resist +30%"
+      ]
+    },
+    "local_image": "images/runewords/principle.png"
+  },
+  {
+    "id": "cure",
+    "name": "Cure",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Shael",
+      "Io",
+      "Tal"
+    ],
+    "properties": {
+      "required_level": 35,
+      "magical_properties": [
+        "Patch 2.6 Runeword",
+        "Shael  Io  Tal",
+        "3 socket Helms",
+        "Level 1 Cleansing Aura when Equipped",
+        "+20% Faster Hit Recovery",
+        "+75-100% Enhanced Defense",
+        "+10 to Vitality",
+        "Increase Maximum Life 5%",
+        "Poison Resist +40-60%",
+        "Poison Length Reduced by 50%",
+        "New item in 2.6",
+        "Ladder only"
+      ]
+    },
+    "local_image": "images/runewords/cure.png"
+  },
+  {
+    "id": "mosaic",
+    "name": "Mosaic",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeMal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Mal",
+      "Gul",
+      "Amn"
+    ],
+    "properties": {
+      "required_level": 53,
+      "magical_properties": [
+        "Patch 2.6 Runeword",
+        "Mal  Gul  Amn",
+        "3 socket Katars",
+        "+50% chance for finishing moves to not consume charges",
+        "When a finisher is executed this way, it now refreshes the expiration timer of the stack",
+        "+2 to Martial Arts (Assassin only)",
+        "+20% Increased Attack Speed",
+        "+200-250% Enhanced Damage",
+        "+20% Bonus to Attack Rating",
+        "7% Life Steal",
+        "+8-15% to Cold Skill Damage",
+        "+8-15% to Lightning Skill Damage",
+        "+8-15% to Fire Skill Damage",
+        "Prevent Monster Heal",
+        "New item in 2.6",
+        "Ladder only"
+      ]
+    },
+    "local_image": "images/runewords/mosaic.png"
+  },
+  {
+    "id": "plague",
+    "name": "Plague",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeCham_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Cham",
+      "Shael",
+      "Um"
+    ],
+    "properties": {
+      "required_level": 67,
+      "magical_properties": [
+        "Patch 2.4 Runeword",
+        "Cham  Shael  Um",
+        "3 socket Swords Katars Daggers",
+        "20% Chance To Cast Level 12 Lower Resist When Struck",
+        "25% Chance to Cast Level 15 Poison Nova On Striking",
+        "Level 13-17 Cleansing Aura When Equipped",
+        "+1-2 To All Skills",
+        "+20% Increased Attack Speed",
+        "+220-320% Enhanced Damage",
+        "-23% To Enemy Poison Resistance",
+        "+0.3% (0-29.7) Deadly Strike (Based on Character Level)",
+        "+25% Chance of Open Wounds",
+        "Freezes Target +3",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/runewords/plague.png"
+  },
+  {
+    "id": "stone",
+    "name": "Stone",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Shael",
+      "Um",
+      "Pul",
+      "Lum"
+    ],
+    "properties": {
+      "required_level": 47,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Shael  Um  Pul  Lum",
+        "4 socket Body Armor",
+        "+60% Faster Hit Recovery",
+        "+250-290% Enhanced Defense",
+        "+300 Defense vs. Missile",
+        "+16 To Strength",
+        "+16 To Vitality",
+        "+10 To Energy",
+        "All Resistances +15",
+        "Level 16 Molten Boulder (80 Charges)",
+        "Level 16 Clay Golem (16 Charges)"
+      ]
+    },
+    "local_image": "images/runewords/stone.png"
+  },
+  {
+    "id": "beast",
+    "name": "Beast",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeBer_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Ber",
+      "Tir",
+      "Um",
+      "Mal",
+      "Lum"
+    ],
+    "properties": {
+      "required_level": 63,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Ber  Tir  Um  Mal  Lum",
+        "5 socket Axes Scepters Hammers",
+        "Level 9 Fanaticism Aura When Equipped",
+        "+40% Increased Attack Speed",
+        "+240-270% Enhanced Damage",
+        "20% Chance of Crushing Blow",
+        "25% Chance of Open Wounds",
+        "+3 To Werebear",
+        "+3 To Lycanthropy",
+        "Prevent Monster Heal",
+        "+25-40 To Strength",
+        "+10 To Energy",
+        "+2 To Mana After Each Kill",
+        "Level 13 Summon Grizzly (5 Charges)"
+      ]
+    },
+    "local_image": "images/runewords/beast.png"
+  },
+  {
+    "id": "ground",
+    "name": "Ground",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Shael",
+      "Io",
+      "Ort"
+    ],
+    "properties": {
+      "required_level": 35,
+      "magical_properties": [
+        "Patch 2.6 Runeword",
+        "Shael  Io  Ort",
+        "3 socket Helms",
+        "+20% Faster Hit Recovery",
+        "+75-100% Enhanced Defense",
+        "+10 to Vitality",
+        "Increase Maximum Life 5%",
+        "Lightning Resist +40-60%",
+        "Lightning Absorb +10-15%",
+        "New item in 2.6",
+        "Ladder only"
+      ]
+    },
+    "local_image": "images/runewords/ground.png"
+  },
+  {
+    "id": "hearth",
+    "name": "Hearth",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Shael",
+      "Io",
+      "Thul"
+    ],
+    "properties": {
+      "required_level": 35,
+      "magical_properties": [
+        "Patch 2.6 Runeword",
+        "Shael  Io  Thul",
+        "3 socket Helms",
+        "+20% Faster Hit Recovery",
+        "+75-100% Enhanced Defense",
+        "+10 to Vitality",
+        "Increase Maximum Life 5%",
+        "Cold Resist +40-60%",
+        "Cold Absorb +10-15%",
+        "Cannot be Frozen",
+        "New item in 2.6",
+        "Ladder only"
+      ]
+    },
+    "local_image": "images/runewords/hearth.png"
+  },
+  {
+    "id": "doom",
+    "name": "Doom",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeHel_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Hel",
+      "Ohm",
+      "Um",
+      "Lo",
+      "Cham"
+    ],
+    "properties": {
+      "required_level": 67,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Hel  Ohm  Um  Lo  Cham",
+        "5 socket Axes Polearms Hammers",
+        "5% Chance To Cast Level 18 Volcano On Striking",
+        "Level 12 Holy Freeze Aura When Equipped",
+        "+2 To All Skills",
+        "+45% Increased Attack Speed",
+        "+330-370% Enhanced Damage",
+        "-(40-60)% To Enemy Cold Resistance",
+        "20% Deadly Strike",
+        "25% Chance of Open Wounds",
+        "Prevent Monster Heal",
+        "Freezes Target +3",
+        "Requirements -20%"
+      ]
+    },
+    "local_image": "images/runewords/doom.png"
+  },
+  {
+    "id": "leaf",
+    "name": "Leaf",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTir_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Tir",
+      "Ral"
+    ],
+    "properties": {
+      "required_level": 19,
+      "magical_properties": [
+        "Original Runeword",
+        "Tir  Ral",
+        "2 socket Staves",
+        "Adds 5-30 Fire Damage",
+        "+3 To Fire Skills",
+        "+3 To Fire Bolt (Sorceress Only)",
+        "+3 To Inferno (Sorceress Only)",
+        "+3 To Warmth (Sorceress Only)",
+        "+2 To Mana After Each Kill",
+        "+ (2 Per Character Level) +2-198 To Defense (Based On Character Level)",
+        "Cold Resist +33%"
+      ]
+    },
+    "local_image": "images/runewords/leaf.png"
+  },
+  {
+    "id": "temper",
+    "name": "Temper",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Shael",
+      "Io",
+      "Ral"
+    ],
+    "properties": {
+      "required_level": 35,
+      "magical_properties": [
+        "Patch 2.6 Runeword",
+        "Shael  Io  Ral",
+        "3 socket Helms",
+        "+20% Faster Hit Recovery",
+        "+75-100% Enhanced Defense",
+        "+10 to Vitality",
+        "Increase Maximum Life 5%",
+        "Fire Resist +40-60%",
+        "Fire Absorb +10-15%",
+        "New item in 2.6",
+        "Ladder only"
+      ]
+    },
+    "local_image": "images/runewords/temper.png"
+  },
+  {
+    "id": "metamorphosis",
+    "name": "Metamorphosis",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeIo_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Io",
+      "Cham",
+      "Fal"
+    ],
+    "properties": {
+      "required_level": 67,
+      "magical_properties": [
+        "Patch 2.6 Runeword",
+        "Io  Cham  Fal",
+        "3 socket Helms",
+        "Werewolf strikes grant Mark for 180 seconds",
+        "Mark of the Wolf:",
+        "+30% Bonus to Attack Rating",
+        "Increase Maximum Life 40%",
+        "Werebear strikes grant Mark for 180 seconds",
+        "Mark of the Bear:",
+        "+25% Attack Speed",
+        "Physical Damage Received Reduced by 20%",
+        "+5 to Shape Shifting Skills (Druid only)",
+        "+25% Chance of Crushing Blow",
+        "+50-80% Enhanced Defense",
+        "+10 to Strength",
+        "+10 to Vitality",
+        "All Resistances +10",
+        "Cannot be Frozen",
+        "New item in 2.6",
+        "Ladder only"
+      ]
+    },
+    "local_image": "images/runewords/metamorphosis.png"
+  },
+  {
+    "id": "bulwark",
+    "name": "Bulwark",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Shael",
+      "Io",
+      "Sol"
+    ],
+    "properties": {
+      "required_level": 35,
+      "magical_properties": [
+        "Patch 2.6 Runeword",
+        "Shael  Io  Sol",
+        "3 socket Helms",
+        "+20% Faster Hit Recovery",
+        "+4-6% Life stolen per hit",
+        "+75-100% Enhanced Defense",
+        "+10 to Vitality",
+        "Increase Maximum Life 5%",
+        "Replenish Life +30",
+        "Damage Reduced by 7",
+        "Physical Damage Received Reduced by 10-15%",
+        "New item in 2.6",
+        "Ladder only"
+      ]
+    },
+    "local_image": "images/runewords/bulwark.png"
+  },
+  {
+    "id": "hustle",
+    "name": "Hustle",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Shael",
+      "Ko",
+      "Eld"
+    ],
+    "properties": {
+      "required_level": 39,
+      "magical_properties": [
+        "Patch 2.6 Runeword",
+        "Shael  Ko  Eld",
+        "3 socket Weapons",
+        "5% Chance to cast level 1 Burst of Speed on striking",
+        "Level 1 Fanaticism Aura When Equipped",
+        "+30% Increased Attack Speed",
+        "+180-200% Enhanced Damage",
+        "+75% Damage to Undead",
+        "+50 to Attack Rating against Undead",
+        "+10 to Dexterity",
+        "3 socket Armor",
+        "+65% Faster Run/Walk",
+        "+40% Increased Attack Speed",
+        "+20% Faster Hit Recovery",
+        "+6 to Evade",
+        "+10 to Dexterity",
+        "50% Slower Stamina Drain",
+        "+All Resistances +10",
+        "New item in 2.6",
+        "Ladder only"
+      ]
+    },
+    "local_image": "images/runewords/hustle.png"
+  },
+  {
+    "id": "white",
+    "name": "White",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeDol_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Dol",
+      "Io"
+    ],
+    "properties": {
+      "required_level": 35,
+      "magical_properties": [
+        "Original Runeword",
+        "Dol  Io",
+        "2 socket Wand",
+        "Hit Causes Monster To Flee 25%",
+        "+10 To Vitality",
+        "+3 To Poison and Bone Spells (Necromancer Only)",
+        "+3 To Bone Armor (Necromancer Only)",
+        "+2 To Bone Spear (Necromancer Only)",
+        "+4 To Skeleton Mastery (Necromancer Only)",
+        "Magic Damage Reduced By 4",
+        "20% Faster Cast Rate",
+        "+13 To Mana"
+      ]
+    },
+    "local_image": "images/runewords/white.png"
+  },
+  {
+    "id": "holy-thunder",
+    "name": "Holy Thunder",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeEth_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Eth",
+      "Ral",
+      "Ort",
+      "Tal"
+    ],
+    "properties": {
+      "required_level": 21,
+      "magical_properties": [
+        "Original Runeword",
+        "Eth  Ral  Ort  Tal",
+        "4 socket Scepters",
+        "+60% Enhanced Damage",
+        "-25% Target Defense",
+        "Adds 5-30 Fire Damage",
+        "Adds 21-110 Lightning Damage",
+        "+75 Poison Damage Over 5 Seconds",
+        "+10 To Maximum Damage",
+        "Lightning Resistance +60%",
+        "+5 To Maximum Lightning Resistance",
+        "+3 To Holy Shock (Paladin Only)",
+        "Level 7 Chain Lightning (60 Charges)"
+      ]
+    },
+    "local_image": "images/runewords/holy-thunder.png"
+  },
+  {
+    "id": "infinity",
+    "name": "Infinity",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeBer_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Ber",
+      "Mal",
+      "Ber",
+      "Ist"
+    ],
+    "properties": {
+      "required_level": 63,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Ber  Mal  Ber  Ist",
+        "4 socket Polearms Spears",
+        "50% Chance To Cast Level 20 Chain Lightning When You Kill An Enemy",
+        "Level 12 Conviction Aura When Equipped",
+        "+35% Faster Run/Walk",
+        "+255-325% Enhanced Damage",
+        "-(45-55)% To Enemy Lightning Resistance",
+        "40% Chance of Crushing Blow",
+        "Prevent Monster Heal",
+        "0.5-49.5 To Vitality (Based on Character Level)",
+        "30% Better Chance of Getting Magic Items",
+        "Level 21 Cyclone Armor (30 Charges)",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/runewords/infinity.png"
+  },
+  {
+    "id": "harmony",
+    "name": "Harmony",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTir_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Tir",
+      "Ith",
+      "Sol",
+      "Ko"
+    ],
+    "properties": {
+      "required_level": 39,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Tir  Ith  Sol  Ko",
+        "4 socket Missile Weapons",
+        "Level 10 Vigor Aura When Equipped",
+        "+200-275% Enhanced Damage",
+        "+9 To Minimum Damage",
+        "+9 To Maximum Damage",
+        "Adds 55-160 Lightning Damage",
+        "Adds 55-160 Fire Damage",
+        "Adds 55-160 Cold Damage",
+        "+2-6 To Valkyrie",
+        "+10 To Dexterity",
+        "Regenerate Mana 20%",
+        "+2 To Mana After Each Kill",
+        "+2 To Light Radius",
+        "Level 20 Revive (25 Charges)"
+      ]
+    },
+    "local_image": "images/runewords/harmony.png"
+  },
+  {
+    "id": "sanctuary",
+    "name": "Sanctuary",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeKo_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Ko",
+      "Ko",
+      "Mal"
+    ],
+    "properties": {
+      "required_level": 49,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Ko  Ko  Mal",
+        "3 socket Shields",
+        "+20% Faster Hit Recovery",
+        "+20% Faster Block Rate",
+        "20% Increased Chance of Blocking",
+        "+130-160% Enhanced Defense",
+        "+250 Defense vs. Missile",
+        "+20 To Dexterity",
+        "All Resistances +50-70",
+        "Magic Damage Reduced By 7",
+        "Level 12 Slow Missiles (60 Charges)"
+      ]
+    },
+    "local_image": "images/runewords/sanctuary.png"
+  },
+  {
+    "id": "black",
+    "name": "Black",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeThul_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Thul",
+      "Io",
+      "Nef"
+    ],
+    "properties": {
+      "required_level": 35,
+      "magical_properties": [
+        "Original Runeword",
+        "Thul  Io  Nef",
+        "3 socket Clubs Hammers Maces",
+        "+120% Enhanced Damage",
+        "40% Chance of Crushing Blow",
+        "+200 to Attack Rating",
+        "Adds 3-14 Cold Damage for 3 seconds",
+        "+10 to Vitality",
+        "15% increased Attack Speed",
+        "Magic Damage Reduced by 2",
+        "Level 4 Corpse Explosion (12 charges)",
+        "Knockback"
+      ]
+    },
+    "local_image": "images/runewords/black.png"
+  },
+  {
+    "id": "flickering-flame",
+    "name": "Flickering Flame",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeNef_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Nef",
+      "Pul",
+      "Vex"
+    ],
+    "properties": {
+      "required_level": 55,
+      "magical_properties": [
+        "Patch 2.4 Runeword",
+        "Nef  Pul  Vex",
+        "3 socket Helms",
+        "Level 4-8 Resist Fire Aura When Equipped",
+        "+3 To Fire Skills",
+        "-10-15% To Enemy Fire Resistance",
+        "+30% Enhanced Defense",
+        "+30 Defense vs. Missile",
+        "+50-75 To Mana",
+        "Half Freeze Duration",
+        "+5% To Maximum Fire Resist",
+        "Poison Length Reduced by 50%",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/runewords/flickering-flame.png"
+  },
+  {
+    "id": "spirit",
+    "name": "Spirit",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Tal",
+      "Thul",
+      "Ort",
+      "Amn"
+    ],
+    "properties": {
+      "required_level": 25,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Tal  Thul  Ort  Amn",
+        "4 socket Swords",
+        "+2 To All Skills",
+        "+25-35% Faster Cast Rate",
+        "+55% Faster Hit Recovery",
+        "Adds 1-50 Lightning Damage",
+        "Adds 3-14 Cold Damage 3 Second Duration",
+        "+75 Poison Damage Over 5 Seconds",
+        "7% Life Stolen Per Hit",
+        "+250 Defense Vs. Missile",
+        "+22 To Vitality",
+        "+89-112 To Mana",
+        "+3-8 Magic Absorb",
+        "4 socket Shields",
+        "+2 To All Skills",
+        "+25-35% Faster Cast Rate",
+        "+55% Faster Hit Recovery",
+        "+250 Defense Vs. Missile",
+        "+22 To Vitality",
+        "+89-112 To Mana",
+        "Cold Resist +35%",
+        "Lightning Resist +35%",
+        "Poison Resist +35%",
+        "+3-8 Magic Absorb",
+        "Attacker Takes Damage of 14"
+      ]
+    },
+    "local_image": "images/runewords/spirit.png"
+  },
+  {
+    "id": "edge",
+    "name": "Edge",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTir_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Tir",
+      "Tal",
+      "Amn"
+    ],
+    "properties": {
+      "required_level": 25,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Tir  Tal  Amn",
+        "3 socket Missile Weapons",
+        "Level 15 Thorns Aura When Equipped",
+        "+35% Increased Attack Speed",
+        "+320-380% Damage To Demons",
+        "+280% Damage To Undead",
+        "+75 Poison Damage Over 5 Seconds",
+        "7% Life Stolen Per Hit",
+        "Prevent Monster Heal",
+        "+5-10 To All Attributes",
+        "+2 To Mana After Each Kill",
+        "Reduces All Vendor Prices 15%"
+      ]
+    },
+    "local_image": "images/runewords/edge.png"
+  },
+  {
+    "id": "ancients-pledge",
+    "name": "Ancients' Pledge",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeRal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Ral",
+      "Ort",
+      "Tal"
+    ],
+    "properties": {
+      "required_level": 21,
+      "magical_properties": [
+        "Original Runeword",
+        "Ral  Ort  Tal",
+        "3 socket Shields",
+        "+50% Enhanced Defense",
+        "Cold Resist +43%",
+        "Fire Resist +48%",
+        "Lightning Resist +48%",
+        "Poison Resist +48%",
+        "10% Damage Goes To Mana"
+      ]
+    },
+    "local_image": "images/runewords/ancients-pledge.png"
+  },
+  {
+    "id": "smoke",
+    "name": "Smoke",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeNef_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Nef",
+      "Lum"
+    ],
+    "properties": {
+      "required_level": 37,
+      "magical_properties": [
+        "Original Runeword",
+        "Nef  Lum",
+        "2 socket Body Armor",
+        "+75% Enhanced Defense",
+        "+280 Defense vs. Missiles",
+        "All Resistances +50",
+        "20% Faster Hit Recovery",
+        "Level 6 Weaken (18 Charges)",
+        "+10 To Energy",
+        "-1 To Light Radius"
+      ]
+    },
+    "local_image": "images/runewords/smoke.png"
+  },
+  {
+    "id": "voice-of-reason",
+    "name": "Voice of Reason",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeLem_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Lem",
+      "Ko",
+      "El",
+      "Eld"
+    ],
+    "properties": {
+      "required_level": 43,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Lem  Ko  El  Eld",
+        "4 socket Swords Maces",
+        "15% Chance To Cast Level 13 Frozen Orb On Striking",
+        "18% Chance To Cast Level 20 Ice Blast On Striking",
+        "+50 To Attack Rating",
+        "+220-350% Damage To Demons",
+        "+355-375% Damage To Undead",
+        "+50 To Attack Rating Against Undead",
+        "Adds 100-220 Cold Damage",
+        "-24% To Enemy Cold Resistance",
+        "+10 To Dexterity",
+        "Cannot Be Frozen",
+        "75% Extra Gold From Monsters",
+        "+1 To Light Radius"
+      ]
+    },
+    "local_image": "images/runewords/voice-of-reason.png"
+  },
+  {
+    "id": "hand-of-justice",
+    "name": "Hand of Justice",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeSur_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Sur",
+      "Cham",
+      "Amn",
+      "Lo"
+    ],
+    "properties": {
+      "required_level": 67,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Sur  Cham  Amn  Lo",
+        "4 socket Weapons",
+        "100% Chance To Cast Level 36 Blaze When You Level Up",
+        "100% Chance To Cast Level 48 Meteor When You Die",
+        "Level 16 Holy Fire Aura When Equipped",
+        "+33% Increased Attack Speed",
+        "+280-330% Enhanced Damage",
+        "Ignore Target's Defense",
+        "7% Life Stolen Per Hit",
+        "-20% To Enemy Fire Resistance",
+        "20% Deadly Strike",
+        "Hit Blinds Target",
+        "Freezes Target +3"
+      ]
+    },
+    "local_image": "images/runewords/hand-of-justice.png"
+  },
+  {
+    "id": "bramble",
+    "name": "Bramble",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeRal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Ral",
+      "Ohm",
+      "Sur",
+      "Eth"
+    ],
+    "properties": {
+      "required_level": 61,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Ral  Ohm  Sur  Eth",
+        "4 socket Body Armor",
+        "Level 15-21 Thorns Aura When Equipped",
+        "+50% Faster Hit Recovery",
+        "+25-50% To Poison Skill Damage",
+        "+300 Defense",
+        "Increase Maximum Mana 5%",
+        "Regenerate Mana 15%",
+        "+5% To Maximum Cold Resist",
+        "Fire Resist +30%",
+        "Poison Resist +100%",
+        "+13 Life After Each Kill",
+        "Level 13 Spirit of Barbs (33 Charges)"
+      ]
+    },
+    "local_image": "images/runewords/bramble.png"
+  },
+  {
+    "id": "pattern",
+    "name": "Pattern",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Tal",
+      "Ort",
+      "Thul"
+    ],
+    "properties": {
+      "required_level": 23,
+      "magical_properties": [
+        "Patch 2.4 Runeword",
+        "Tal  Ort  Thul",
+        "3 socket Katars",
+        "+30% Faster Block",
+        "+40-80% Enhanced Damage",
+        "10% Bonus to Attack Rating",
+        "Adds 12-32 Fire Damage",
+        "Adds 1-50 Lightning Damage",
+        "Adds 3-14 Cold Damage",
+        "+75 Poison Damage Over 5 Seconds",
+        "+6 Strength",
+        "+6 Dexterity",
+        "All Resistances +15",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/runewords/pattern.png"
+  },
+  {
+    "id": "wrath",
+    "name": "Wrath",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runePul_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Pul",
+      "Lum",
+      "Ber",
+      "Mal"
+    ],
+    "properties": {
+      "required_level": 63,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Pul  Lum  Ber  Mal",
+        "4 socket Missile Weapons",
+        "30% Chance To Cast Level 1 Decrepify On Striking",
+        "5% Chance To Cast Level 10 Life Tap On Striking",
+        "+375% Damage To Demons",
+        "+100 To Attack Rating Against Demons",
+        "+250-300% Damage To Undead",
+        "Adds 85-120 Magic Damage",
+        "Adds 41-240 Lightning Damage",
+        "20% Chance of Crushing Blow",
+        "Prevent Monster Heal",
+        "+10 To Energy",
+        "Cannot Be Frozen"
+      ]
+    },
+    "local_image": "images/runewords/wrath.png"
+  },
+  {
+    "id": "kingslayer",
+    "name": "Kingslayer",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeMal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Mal",
+      "Um",
+      "Gul",
+      "Fal"
+    ],
+    "properties": {
+      "required_level": 53,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Mal  Um  Gul  Fal",
+        "4 socket Swords Axes",
+        "+30% Increased Attack Speed",
+        "+230-270% Enhanced Damage",
+        "-25% Target Defense",
+        "20% Bonus To Attack Rating",
+        "33% Chance of Crushing Blow",
+        "50% Chance of Open Wounds",
+        "+1 To Vengeance",
+        "Prevent Monster Heal",
+        "+10 To Strength",
+        "40% Extra Gold From Monsters"
+      ]
+    },
+    "local_image": "images/runewords/kingslayer.png"
+  },
+  {
+    "id": "duress",
+    "name": "Duress",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Shael",
+      "Um",
+      "Thul"
+    ],
+    "properties": {
+      "required_level": 47,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Shael  Um  Thul",
+        "3 socket Body Armor",
+        "+40% Faster Hit Recovery",
+        "+10-20% Enhanced Damage",
+        "Adds 37-133 Cold Damage 2 sec. Duration",
+        "15% Chance of Crushing Blow",
+        "33% Chance of Open Wounds",
+        "+150-200% Enhanced Defense",
+        "-20% Slower Stamina Drain",
+        "Cold Resist +45%",
+        "Lightning Resist +15%",
+        "Fire Resist +15%",
+        "Poison Resist +15%"
+      ]
+    },
+    "local_image": "images/runewords/duress.png"
+  },
+  {
+    "id": "oath",
+    "name": "Oath",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Shael",
+      "Pul",
+      "Mal",
+      "Lum"
+    ],
+    "properties": {
+      "required_level": 49,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Shael  Pul  Mal  Lum",
+        "4 socket Swords Axes Maces",
+        "30% Chance To Cast Level 20 Bone Spirit On Striking",
+        "Indestructible",
+        "+50% Increased Attack Speed",
+        "+210-340% Enhanced Damage",
+        "+75% Damage To Demons",
+        "+100 To Attack Rating Against Demons",
+        "Prevent Monster Heal",
+        "+10 To Energy",
+        "+10-15 Magic Absorb",
+        "Level 16 Heart of Wolverine (20 Charges)",
+        "Level 17 Iron Golem (14 Charges)"
+      ]
+    },
+    "local_image": "images/runewords/oath.png"
+  },
+  {
+    "id": "stealth",
+    "name": "Stealth",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Tal",
+      "Eth"
+    ],
+    "properties": {
+      "required_level": 17,
+      "magical_properties": [
+        "Original Runeword",
+        "Tal  Eth",
+        "2 socket Body Armor",
+        "Magic Damage Reduced By 3",
+        "+6 To Dexterity",
+        "+15 To Maximum Stamina",
+        "Poison Resist +30%",
+        "Regenerate Mana 15%",
+        "25% Faster Run/Walk",
+        "25% Faster Cast Rate",
+        "25% Faster Hit Recovery"
+      ]
+    },
+    "local_image": "images/runewords/stealth.png"
+  },
+  {
+    "id": "venom",
+    "name": "Venom",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Tal",
+      "Dol",
+      "Mal"
+    ],
+    "properties": {
+      "required_level": 49,
+      "magical_properties": [
+        "Original Runeword",
+        "Tal  Dol  Mal",
+        "3 socket Weapons",
+        "Hit Causes Monster To Flee 25%",
+        "Prevent Monster Heal",
+        "Ignore Target's Defense",
+        "7% Mana Stolen Per Hit",
+        "Level 15 Poison Explosion (27 Charges)",
+        "Level 13 Poison Nova (11 Charges)",
+        "+273 Poison Damage Over 6 seconds"
+      ]
+    },
+    "local_image": "images/runewords/venom.png"
+  },
+  {
+    "id": "last-wish",
+    "name": "Last Wish",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeJo_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Jah",
+      "Mal",
+      "Jah",
+      "Sur",
+      "Jah",
+      "Ber"
+    ],
+    "properties": {
+      "required_level": 65,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Jah  Mal  Jah  Sur  Jah  Ber",
+        "6 socket Swords Hammers Axes",
+        "6% Chance To Cast Level 11 Fade When Struck",
+        "10% Chance To Cast Level 18 Life Tap On Striking",
+        "20% Chance To Cast Level 20 Charged Bolt On Attack",
+        "Level 17 Might Aura When Equipped",
+        "+330-375% Enhanced Damage",
+        "Ignore Target's Defense",
+        "60-70% Chance of Crushing Blow",
+        "Prevent Monster Heal",
+        "Hit Blinds Target",
+        "+(0.5 per character level) 0.5-49.5% Chance of Getting Magic Items (Based on Character Level)"
+      ]
+    },
+    "local_image": "images/runewords/last-wish.png"
+  },
+  {
+    "id": "heart-of-the-oak",
+    "name": "Heart of the Oak",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeKo_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Ko",
+      "Vex",
+      "Pul",
+      "Thul"
+    ],
+    "properties": {
+      "required_level": 55,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Ko  Vex  Pul  Thul",
+        "4 socket Maces Staves",
+        "+3 To All Skills",
+        "+40% Faster Cast Rate",
+        "+75% Damage To Demons",
+        "+100 To Attack Rating Against DemonsAdds 3-14 Cold Damage, 3 sec.Duration",
+        "7% Mana Stolen Per Hit",
+        "+10 To Dexterity",
+        "Replenish Life +20",
+        "Increase Maximum Mana 15%",
+        "All Resistances +30-40",
+        "Level 4 Oak Sage (25 Charges)",
+        "Level 14 Raven (60 Charges)"
+      ]
+    },
+    "local_image": "images/runewords/heart-of-the-oak.png"
+  },
+  {
+    "id": "dream",
+    "name": "Dream",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeIo_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Io",
+      "Jah",
+      "Pul"
+    ],
+    "properties": {
+      "required_level": 65,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Io  Jah  Pul",
+        "3 socket Helms Shields",
+        "10% Chance To Cast Level 15 Confuse When Struck",
+        "Level 15 Holy Shock Aura When Equipped",
+        "+20-30% Faster Hit Recovery",
+        "+30% Enhanced Defense",
+        "+150-220 Defense",
+        "+10 To Vitality",
+        "Increase Maximum Life 5% (Helms Only)",
+        "+50 To Life (Shields Only)",
+        "+0.625-61.875 To Mana (Based On Character Level)",
+        "All Resistances +5-20",
+        "12-25% Better Chance of Getting Magic Items"
+      ]
+    },
+    "local_image": "images/runewords/dream.png"
+  },
+  {
+    "id": "lore",
+    "name": "Lore",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeOrt_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Ort",
+      "Sol"
+    ],
+    "properties": {
+      "required_level": 27,
+      "magical_properties": [
+        "Original Runeword",
+        "Ort  Sol",
+        "2 socket Helms",
+        "+1 To All Skills",
+        "+10 To Energy",
+        "+2 To Mana After Each Kill",
+        "Lightning Resist +30%",
+        "Damage Reduced By 7",
+        "+2 To Light Radius"
+      ]
+    },
+    "local_image": "images/runewords/lore.png"
+  },
+  {
+    "id": "eternity",
+    "name": "Eternity",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Amn",
+      "Ber",
+      "Ist",
+      "Sol",
+      "Sur"
+    ],
+    "properties": {
+      "required_level": 63,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Amn  Ber  Ist  Sol  Sur",
+        "5 socket Melee Weapons",
+        "Indestructible",
+        "+260-310% Enhanced Damage",
+        "+9 To Minimum Damage",
+        "7% Life Stolen Per Hit",
+        "20% Chance of Crushing Blow",
+        "Hit Blinds Target",
+        "Slows Target By 33%",
+        "Regenerate Mana 16%",
+        "Replenish Life +16",
+        "Cannot Be Frozen",
+        "30% Better Chance Of Getting Magic Items",
+        "Level 8 Revive (88 Charges)"
+      ]
+    },
+    "local_image": "images/runewords/eternity.png"
+  },
+  {
+    "id": "honor",
+    "name": "Honor",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Amn",
+      "El",
+      "Ith",
+      "Tir",
+      "Sol"
+    ],
+    "properties": {
+      "required_level": 27,
+      "magical_properties": [
+        "Original Runeword",
+        "Amn  El  Ith  Tir  Sol",
+        "5 socket Melee Weapons",
+        "+160% Enhanced Damage",
+        "+9 to Minimum Damage",
+        "+9 to Maximum Damage",
+        "25% Deadly Strike",
+        "+250 to Attack Rating",
+        "+1 to All Skills",
+        "7% Life Stolen per Hit",
+        "+10 Replenish Life",
+        "+10 to Strength",
+        "+1 to Light Radius",
+        "+2 to Mana per Kill"
+      ]
+    },
+    "local_image": "images/runewords/honor.png"
+  },
+  {
+    "id": "insight",
+    "name": "Insight",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeRal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Ral",
+      "Tir",
+      "Tal",
+      "Sol"
+    ],
+    "properties": {
+      "required_level": 27,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Ral  Tir  Tal  Sol",
+        "4 socket Polearms Staves Missile Weapons",
+        "Level 12-17 Meditation Aura When Equipped",
+        "+35% Faster Cast Rate",
+        "+200-260% Enhanced Damage",
+        "+9 To Minimum Damage",
+        "180-250% Bonus to Attack Rating",
+        "Adds 5-30 Fire Damage",
+        "+75 Poison Damage Over 5 Seconds",
+        "+1-6 To Critical Strike",
+        "+5 To All Attributes",
+        "+2 To Mana After Each Kill",
+        "23% Better Chance of Getting Magic Items",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/runewords/insight.png"
+  },
+  {
+    "id": "wealth",
+    "name": "Wealth",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeLem_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Lem",
+      "Ko",
+      "Tir"
+    ],
+    "properties": {
+      "required_level": 43,
+      "magical_properties": [
+        "Original Runeword",
+        "Lem  Ko  Tir",
+        "3 socket Body Armor",
+        "300% Extra Gold From Monsters",
+        "100% Better Chance Of Getting Magic Items",
+        "+2 To Mana After Each Kill",
+        "+10 To Dexterity"
+      ]
+    },
+    "local_image": "images/runewords/wealth.png"
+  },
+  {
+    "id": "malice",
+    "name": "Malice",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeIth_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Ith",
+      "El",
+      "Eth"
+    ],
+    "properties": {
+      "required_level": 15,
+      "magical_properties": [
+        "Original Runeword",
+        "Ith  El  Eth",
+        "3 socket Melee Weapons",
+        "+33% Enhanced Damage",
+        "+9 To Maximum Damage",
+        "100% Chance Of Open Wounds",
+        "-25% Target Defense",
+        "-100 To Monster Defense per Hit",
+        "Prevent Monster Heal",
+        "+50 To Attack Rating",
+        "Drain Life -5"
+      ]
+    },
+    "local_image": "images/runewords/malice.png"
+  },
+  {
+    "id": "fury",
+    "name": "Fury",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeJo_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Jah",
+      "Gul",
+      "Eth"
+    ],
+    "properties": {
+      "required_level": 65,
+      "magical_properties": [
+        "Original Runeword",
+        "Jah  Gul  Eth",
+        "3 socket Melee Weapons",
+        "+209% Enhanced Damage",
+        "40% Increased Attack Speed",
+        "Prevent Monster Heal",
+        "66% Chance of Open Wounds",
+        "33% Chance of Deadly Strike",
+        "-25% Target Defense",
+        "20% to Attack Rating",
+        "6% Life Stolen Per Hit",
+        "Ignores Target Defense",
+        "+5 to Frenzy (Barbarian only)"
+      ]
+    },
+    "local_image": "images/runewords/fury.png"
+  },
+  {
+    "id": "crescent-moon-runeword",
+    "name": "Crescent Moon Runeword",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Shael",
+      "Um",
+      "Tir"
+    ],
+    "properties": {
+      "required_level": 47,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Shael  Um  Tir",
+        "3 socket Polearms Axes Swords",
+        "10% Chance To Cast Level 17 Chain Lightning On Striking",
+        "7% Chance To Cast Level 13 Static Field On Striking",
+        "+20% Increased Attack Speed",
+        "+180-220% Enhanced Damage",
+        "Ignore Target's Defense",
+        "-35% To Enemy Lightning Resistance",
+        "25% Chance of Open Wounds",
+        "+9-11 Magic Absorb",
+        "+2 To Mana After Each Kill",
+        "Level 18 Summon Spirit Wolf (30 Charges)"
+      ]
+    },
+    "local_image": "images/runewords/crescent-moon-runeword.png"
+  },
+  {
+    "id": "peace",
+    "name": "Peace",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Shael",
+      "Thul",
+      "Amn"
+    ],
+    "properties": {
+      "required_level": 29,
+      "magical_properties": [
+        "Patch 1.11 Runeword",
+        "Shael  Thul  Amn",
+        "3 socket Body Armor",
+        "4% Chance To Cast Level 5 Slow Missiles When Struck",
+        "2% Chance To Cast level 15 Valkyrie On Striking",
+        "+2 To Amazon Skill Levels",
+        "+20% Faster Hit Recovery",
+        "+2 To Critical Strike",
+        "Cold Resist +30%",
+        "Attacker Takes Damage of 14"
+      ]
+    },
+    "local_image": "images/runewords/peace.png"
+  },
+  {
+    "id": "call-to-arms",
+    "name": "Call To Arms",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Amn",
+      "Ral",
+      "Mal",
+      "Ist",
+      "Ohm"
+    ],
+    "properties": {
+      "required_level": 57,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Amn  Ral  Mal  Ist  Ohm",
+        "5 socket Weapons",
+        "+1 To All Skills",
+        "+40% Increased Attack Speed",
+        "+250-290% Enhanced Damage",
+        "Adds 5-30 Fire Damage",
+        "7% Life Stolen Per Hit",
+        "+2-6 To Battle Command",
+        "+1-6 To Battle Orders",
+        "+1-4 To Battle Cry",
+        "Prevent Monster Heal",
+        "Replenish Life +12",
+        "30% Better Chance of Getting Magic Items"
+      ]
+    },
+    "local_image": "images/runewords/call-to-arms.png"
+  },
+  {
+    "id": "faith",
+    "name": "Faith",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeOhm_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Ohm",
+      "Jah",
+      "Lem",
+      "Eld"
+    ],
+    "properties": {
+      "required_level": 65,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Ohm  Jah  Lem  Eld",
+        "4 socket Missile Weapons",
+        "Level 12-15 Fanaticism Aura When Equipped",
+        "+1-2 To All Skills",
+        "+330% Enhanced Damage",
+        "Ignore Target's Defense",
+        "300% Bonus To Attack Rating",
+        "+75% Damage To Undead",
+        "+50 To Attack Rating Against Undead",
+        "+120 Fire Damage",
+        "All Resistances +15",
+        "10% Reanimate As: Returned",
+        "75% Extra Gold From Monsters"
+      ]
+    },
+    "local_image": "images/runewords/faith.png"
+  },
+  {
+    "id": "death",
+    "name": "Death",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeHel_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Hel",
+      "El",
+      "Vex",
+      "Ort",
+      "Gul"
+    ],
+    "properties": {
+      "required_level": 55,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Hel  El  Vex  Ort  Gul",
+        "5 socket Swords Axes",
+        "100% Chance To Cast Level 44 Chain Lightning When You Die",
+        "25% Chance To Cast Level 18 Glacial Spike On Attack",
+        "Indestructible",
+        "+300-385% Enhanced Damage",
+        "20% Bonus To Attack Rating",
+        "+50 To Attack Rating",
+        "Adds 1-50 Lightning Damage",
+        "7% Mana Stolen Per Hit",
+        "50% Chance of Crushing Blow",
+        "+(0.5 per Character Level) 0.5-49.5% Deadly Strike (Based on Character Level)",
+        "+1 To Light Radius",
+        "Level 22 Blood Golem (15 Charges)",
+        "Requirements -20%"
+      ]
+    },
+    "local_image": "images/runewords/death.png"
+  },
+  {
+    "id": "chaos",
+    "name": "Chaos",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeFal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Fal",
+      "Ohm",
+      "Um"
+    ],
+    "properties": {
+      "required_level": 57,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Fal  Ohm  Um",
+        "3 socket Katars",
+        "9% Chance To Cast Level 11 Frozen Orb On Striking",
+        "11% Chance To Cast Level 9 Charged Bolt On Striking",
+        "+35% Increased Attack Speed",
+        "+290-340% Enhanced Damage",
+        "Adds 216-471 Magic Damage",
+        "25% Chance of Open Wounds",
+        "+1 To Whirlwind",
+        "+10 To Strength",
+        "+15 Life After Each Demon Kill"
+      ]
+    },
+    "local_image": "images/runewords/chaos.png"
+  },
+  {
+    "id": "breath-of-the-dying",
+    "name": "Breath of the Dying",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeVex_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Vex",
+      "Hel",
+      "El",
+      "Eld",
+      "Zod",
+      "Eth"
+    ],
+    "properties": {
+      "required_level": 69,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Vex  Hel  El  Eld  Zod  Eth",
+        "6 socket Weapons",
+        "50% Chance To Cast Level 20 Poison Nova When You Kill An Enemy",
+        "Indestructible",
+        "+60% Increased Attack Speed",
+        "+350-400% Enhanced Damage",
+        "+200% Damage To Undead",
+        "-25% Target Defense",
+        "+50 To Attack Rating",
+        "+50 To Attack Rating Against Undead",
+        "7% Mana Stolen per Hit",
+        "12-15% Life Stolen per Hit",
+        "Prevent Monster Heal",
+        "+30 To All Attributes",
+        "+1 To Light Radius",
+        "Requirements -20%"
+      ]
+    },
+    "local_image": "images/runewords/breath-of-the-dying.png"
+  },
+  {
+    "id": "grief",
+    "name": "Grief",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeEth_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Eth",
+      "Tir",
+      "Lo",
+      "Mal",
+      "Ral"
+    ],
+    "properties": {
+      "required_level": 59,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Eth  Tir  Lo  Mal  Ral",
+        "5 socket Axes Swords",
+        "35% Chance To Cast Level 15 Venom On Striking",
+        "+30-40% Increased Attack Speed",
+        "Damage +340-400",
+        "Ignore Target's Defense",
+        "-25% Target Defense",
+        "+(1.875 per character level) 1.875-185.625% Damage To Demons (Based on Character Level)",
+        "Adds 5-30 Fire Damage",
+        "-20-25% To Enemy Poison Resistance",
+        "20% Deadly Strike",
+        "Prevent Monster Heal",
+        "+2 To Mana After Each Kill",
+        "+10-15 Life After Each Kill"
+      ]
+    },
+    "local_image": "images/runewords/grief.png"
+  },
+  {
+    "id": "fortitude",
+    "name": "Fortitude",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeEl_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "El",
+      "Sol",
+      "Dol",
+      "Lo"
+    ],
+    "properties": {
+      "required_level": 59,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "El  Sol  Dol  Lo",
+        "4 socket Weapons",
+        "20% Chance To Cast Level 15 Chilling Armor when Struck",
+        "+25% Faster Cast Rate",
+        "+300% Enhanced Damage",
+        "+9 To Minimum Damage",
+        "+50 To Attack Rating",
+        "20% Deadly Strike",
+        "Hit Causes Monster To Flee 25%",
+        "+200% Enhanced Defense",
+        "+X To Life (Based on Character Level)",
+        "All Resistances +25-30",
+        "12% Damage Taken Goes To Mana",
+        "+1 To Light Radius",
+        "4 socket Body Armor",
+        "20% Chance To Cast Level 15 Chilling Armor when Struck",
+        "+25% Faster Cast Rate",
+        "+300% Enhanced Damage",
+        "+200% Enhanced Defense",
+        "+15 Defense",
+        "+X To Life (Based on Character Level)",
+        "Replenish Life +7",
+        "+5% To Maximum Lightning Resist",
+        "All Resistances +25-30",
+        "Damage Reduced By 7",
+        "12% Damage Taken Goes To Mana",
+        "+1 To Light Radius"
+      ]
+    },
+    "local_image": "images/runewords/fortitude.png"
+  },
+  {
+    "id": "ice",
+    "name": "Ice",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Amn",
+      "Shael",
+      "Jah",
+      "Lo"
+    ],
+    "properties": {
+      "required_level": 65,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Amn  Shael  Jah  Lo",
+        "4 socket Missile Weapons",
+        "100% Chance To Cast Level 40 Blizzard When You Level Up",
+        "25% Chance To Cast Level 22 Frost Nova On Striking",
+        "Level 18 Holy Freeze Aura When Equipped",
+        "+20% Increased Attack Speed",
+        "+140-210% Enhanced Damage",
+        "Ignore Target's Defense",
+        "+25-30% To Cold Skill Damage",
+        "-20% To Enemy Cold Resistance",
+        "7% Life Stolen Per Hit",
+        "20% Deadly Strike",
+        "3.125-309.375% Extra Gold From Monsters (Based on Character Level)"
+      ]
+    },
+    "local_image": "images/runewords/ice.png"
+  },
+  {
+    "id": "delirium",
+    "name": "Delirium",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeLem_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Lem",
+      "Ist",
+      "Io"
+    ],
+    "properties": {
+      "required_level": 51,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Lem  Ist  Io",
+        "3 socket Helms",
+        "1% Chance To Cast Level 50 Delirium (morph) When Struck",
+        "6% Chance To Cast Level 14 Mind Blast When Struck",
+        "14% Chance To Cast Level 13 Terror When Struck",
+        "11% Chance To Cast Level 18 Confuse On Striking",
+        "+2 To All Skills",
+        "+261 Defense",
+        "+10 To Vitality",
+        "50% Extra Gold From Monsters",
+        "25% Better Chance of Getting Magic Items",
+        "Level 17 Attract (60 Charges)"
+      ]
+    },
+    "local_image": "images/runewords/delirium.png"
+  },
+  {
+    "id": "gloom",
+    "name": "Gloom",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeFal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Fal",
+      "Um",
+      "Pul"
+    ],
+    "properties": {
+      "required_level": 47,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Fal  Um  Pul",
+        "3 socket Body Armor",
+        "15% Chance To Cast Level 3 Dim Vision When Struck",
+        "+10% Faster Hit Recovery",
+        "+200-260% Enhanced Defense",
+        "+10 To Strength",
+        "All Resistances +45",
+        "Half Freeze Duration",
+        "5% Damage Taken Goes To Mana",
+        "-3 To Light Radius"
+      ]
+    },
+    "local_image": "images/runewords/gloom.png"
+  },
+  {
+    "id": "radiance",
+    "name": "Radiance",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeNef_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Nef",
+      "Sol",
+      "Ith"
+    ],
+    "properties": {
+      "required_level": 27,
+      "magical_properties": [
+        "Original Runeword",
+        "Nef  Sol  Ith",
+        "3 socket Helms",
+        "+75% Enhanced Defense",
+        "+30 Defense Vs. Missile",
+        "+10 To Energy",
+        "+10 To Vitality",
+        "15% Damage Taken Goes To Mana",
+        "Magic Damage Reduced By 3",
+        "+33 To Mana",
+        "Damage Reduced By 7",
+        "+5 To Light Radius"
+      ]
+    },
+    "local_image": "images/runewords/radiance.png"
+  },
+  {
+    "id": "silence",
+    "name": "Silence",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeDol_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Dol",
+      "Eld",
+      "Hel",
+      "Ist",
+      "Tir",
+      "Vex"
+    ],
+    "properties": {
+      "required_level": 55,
+      "magical_properties": [
+        "Original Runeword",
+        "Dol  Eld  Hel  Ist  Tir  Vex",
+        "6 socket Weapons",
+        "200% Enhanced Damage",
+        "+75% Damage To Undead",
+        "Requirements -20%",
+        "20% Increased Attack Speed",
+        "+50 To Attack Rating Against Undead",
+        "+2 To All Skills",
+        "All Resistances +75",
+        "20% Faster Hit Recovery",
+        "11% Mana Stolen Per Hit",
+        "Hit Causes Monster To Flee 25%",
+        "Hit Blinds Target +33",
+        "+2 To Mana After Each Kill",
+        "30% Better Chance Of Getting Magic Items"
+      ]
+    },
+    "local_image": "images/runewords/silence.png"
+  },
+  {
+    "id": "dragon",
+    "name": "Dragon",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeSur_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Sur",
+      "Lo",
+      "Sol"
+    ],
+    "properties": {
+      "required_level": 61,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Sur  Lo  Sol",
+        "3 socket Shields Body Armor",
+        "20% Chance to Cast Level 18 Venom When Struck",
+        "12% Chance To Cast Level 15 Hydra On Striking",
+        "Level 14 Holy Fire Aura When Equipped",
+        "+360 Defense",
+        "+230 Defense vs. Missile",
+        "+3-5 To All Attributes",
+        "+0.375-37.125 To Strength (Based on Character Level)",
+        "Increase Maximum Mana 5% (Armor Only)",
+        "+50 To Mana (Shields Only)",
+        "+5% To Maximum Lightning Resist",
+        "Damage Reduced by 7"
+      ]
+    },
+    "local_image": "images/runewords/dragon.png"
+  },
+  {
+    "id": "rift",
+    "name": "Rift",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeHel_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Hel",
+      "Ko",
+      "Lem",
+      "Gul"
+    ],
+    "properties": {
+      "required_level": 53,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Hel  Ko  Lem  Gul",
+        "4 socket Polearms Scepters",
+        "20% Chance To Cast Level 16 Tornado On Striking",
+        "16% Chance To Cast Level 21 Frozen Orb On Attack",
+        "20% Bonus To Attack Rating",
+        "Adds 160-250 Magic Damage",
+        "Adds 60-180 Fire Damage",
+        "+5-10 To All Stats",
+        "+10 To Dexterity",
+        "38% Damage Taken Goes To Mana",
+        "75% Extra Gold From Monsters",
+        "Level 15 Iron Maiden (40 Charges)",
+        "Requirements -20%"
+      ]
+    },
+    "local_image": "images/runewords/rift.png"
+  },
+  {
+    "id": "enigma",
+    "name": "Enigma",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeJo_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Jah",
+      "Ith",
+      "Ber"
+    ],
+    "properties": {
+      "required_level": 65,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Jah  Ith  Ber",
+        "3 socket Body Armor",
+        "+2 To All Skills",
+        "+45% Faster Run/Walk",
+        "+1 To Teleport",
+        "+750-775 Defense",
+        "+ (0.75 Per Character Level) +0-74 To Strength (Based On Character Level)",
+        "Increase Maximum Life 5%",
+        "Damage Reduced By 8%",
+        "+14 Life After Each Kill",
+        "15% Damage Taken Goes To Mana",
+        "+ (1 Per Character Level) +1-99% Better Chance of Getting Magic Items (Based On Character Level)"
+      ]
+    },
+    "local_image": "images/runewords/enigma.png"
+  },
+  {
+    "id": "melody",
+    "name": "Melody",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Shael",
+      "Ko",
+      "Nef"
+    ],
+    "properties": {
+      "required_level": 39,
+      "magical_properties": [
+        "Original Runeword",
+        "Shael  Ko  Nef",
+        "3 socket Missile Weapons",
+        "+50% Enhanced Damage",
+        "+300% Damage To Undead",
+        "+3 To Bow and Crossbow Skills (Amazon Only)",
+        "+3 To Critical Strike (Amazon Only)",
+        "+3 To Dodge (Amazon Only)",
+        "+3 To Slow Missiles (Amazon Only)",
+        "20% Increased Attack Speed",
+        "+10 To Dexterity",
+        "Knockback"
+      ]
+    },
+    "local_image": "images/runewords/melody.png"
+  },
+  {
+    "id": "lawbringer",
+    "name": "Lawbringer",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Amn",
+      "Lem",
+      "Ko"
+    ],
+    "properties": {
+      "required_level": 43,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Amn  Lem  Ko",
+        "3 socket Swords Hammers Scepters",
+        "20% Chance To Cast Level 15 Decrepify On Striking",
+        "Level 16-18 Sanctuary Aura When Equipped",
+        "-50% Target Defense",
+        "Adds 150-210 Fire Damage",
+        "Adds 130-180 Cold Damage",
+        "7% Life Stolen Per Hit",
+        "Slain Monsters Rest In Peace",
+        "+200-250 Defense Vs. Missile",
+        "+10 To Dexterity",
+        "75% Extra Gold From Monsters"
+      ]
+    },
+    "local_image": "images/runewords/lawbringer.png"
+  },
+  {
+    "id": "rain",
+    "name": "Rain",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeOrt_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Ort",
+      "Mal",
+      "Ith"
+    ],
+    "properties": {
+      "required_level": 49,
+      "magical_properties": [
+        "Patch 1.11 Runeword",
+        "Ort  Mal  Ith",
+        "3 socket Body Armor",
+        "5% Chance To Cast Level 15 Cyclone Armor When Struck",
+        "5% Chance To Cast Level 15 Twister On Striking",
+        "+2 To Druid Skill Levels",
+        "+100-150 To Mana",
+        "Lightning Resist +30%",
+        "Magic Damage Reduced By 7",
+        "15% Damage Taken Goes to Mana"
+      ]
+    },
+    "local_image": "images/runewords/rain.png"
+  },
+  {
+    "id": "destruction",
+    "name": "Destruction",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeVex_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Vex",
+      "Lo",
+      "Ber",
+      "Jah",
+      "Ko"
+    ],
+    "properties": {
+      "required_level": 65,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Vex  Lo  Ber  Jah  Ko",
+        "5 socket Polearms Swords",
+        "23% Chance To Cast Level 12 Volcano On Striking",
+        "5% Chance To Cast Level 23 Molten Boulder On Striking",
+        "100% Chance To Cast level 45 Meteor When You Die",
+        "15% Chance To Cast Level 22 Nova On Attack",
+        "+350% Enhanced Damage",
+        "Ignore Target's Defense",
+        "Adds 100-180 Magic Damage",
+        "7% Mana Stolen Per Hit",
+        "20% Chance Of Crushing Blow",
+        "20% Deadly Strike",
+        "Prevent Monster Heal",
+        "+10 To Dexterity"
+      ]
+    },
+    "local_image": "images/runewords/destruction.png"
+  },
+  {
+    "id": "obedience",
+    "name": "Obedience",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeHel_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Hel",
+      "Ko",
+      "Thul",
+      "Eth",
+      "Fal"
+    ],
+    "properties": {
+      "required_level": 41,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Hel  Ko  Thul  Eth  Fal",
+        "5 socket Polearms Spears",
+        "30% Chance To Cast Level 21 Enchant When You Kill An Enemy",
+        "40% Faster Hit Recovery",
+        "+370% Enhanced Damage",
+        "-25% Target Defense",
+        "Adds 3-14 Cold Damage 3 Second Duration",
+        "-25% To Enemy Fire Resistance",
+        "40% Chance of Crushing Blow",
+        "+200-300 Defense",
+        "+10 To Strength",
+        "+10 To Dexterity",
+        "All Resistances +20-30",
+        "Requirements -20%",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/runewords/obedience.png"
+  },
+  {
+    "id": "chains-of-honor",
+    "name": "Chains of Honor",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeDol_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Dol",
+      "Um",
+      "Ber",
+      "Ist"
+    ],
+    "properties": {
+      "required_level": 63,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Dol  Um  Ber  Ist",
+        "4 socket Body Armor",
+        "+2 To All Skills",
+        "+200% Damage To Demons",
+        "+100% Damage To Undead",
+        "8% Life Stolen Per Hit",
+        "+70% Enhanced Defense",
+        "+20 To Strength",
+        "Replenish Life +7",
+        "All Resistances +65",
+        "Damage Reduced By 8%",
+        "25% Better Chance of Getting Magic Items"
+      ]
+    },
+    "local_image": "images/runewords/chains-of-honor.png"
+  },
+  {
+    "id": "wisdom",
+    "name": "Wisdom",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runePul_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Pul",
+      "Ith",
+      "Eld"
+    ],
+    "properties": {
+      "required_level": 45,
+      "magical_properties": [
+        "Patch 2.4 Runeword",
+        "Pul  Ith  Eld",
+        "3 socket Helms",
+        "+33% Piercing Attack",
+        "+15-25% Bonus to Attack Rating",
+        "4-8% Mana Stolen Per Hit",
+        "+30% Enhanced Defense",
+        "+10 Energy",
+        "15% Slower Stamina Drain",
+        "Cannot Be Frozen",
+        "+5 Mana After Each Kill",
+        "15% Damage Taken Goes to Mana",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/runewords/wisdom.png"
+  },
+  {
+    "id": "exile",
+    "name": "Exile",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeVex_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Vex",
+      "Ohm",
+      "Ist",
+      "Dol"
+    ],
+    "properties": {
+      "required_level": 57,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Vex  Ohm  Ist  Dol",
+        "4 socket Paladin Shields",
+        "15% Chance To Cast Level 5 Life Tap On Striking",
+        "Level 13-16 Defiance Aura When Equipped",
+        "+2 To Offensive Auras (Paladin Only)",
+        "+30% Faster Block Rate",
+        "Freezes Target",
+        "+220-260% Enhanced Defense",
+        "Replenish Life +7",
+        "+5% To Maximum Cold Resist",
+        "+5% To Maximum Fire Resist",
+        "25% Better Chance Of Getting Magic Items",
+        "Repairs 1 Durability in 4 Seconds"
+      ]
+    },
+    "local_image": "images/runewords/exile.png"
+  },
+  {
+    "id": "wind",
+    "name": "Wind",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeSur_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Sur",
+      "El"
+    ],
+    "properties": {
+      "required_level": 61,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Sur  El",
+        "2 socket Melee Weapons",
+        "10% Chance To Cast Level 9 Tornado On Striking",
+        "+20% Faster Run/Walk",
+        "+40% Increased Attack Speed",
+        "+15% Faster Hit Recovery",
+        "+120-160% Enhanced Damage",
+        "-50% Target Defense",
+        "+50 To Attack Rating",
+        "Hit Blinds Target",
+        "+1 To Light Radius",
+        "Level 13 Twister (127 Charges)"
+      ]
+    },
+    "local_image": "images/runewords/wind.png"
+  },
+  {
+    "id": "mist",
+    "name": "Mist",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeCham_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Cham",
+      "Shael",
+      "Gul",
+      "Thul",
+      "Ith"
+    ],
+    "properties": {
+      "required_level": 67,
+      "magical_properties": [
+        "Patch 2.4 Runeword",
+        "Cham  Shael  Gul  Thul  Ith",
+        "5 socket Missile Weapons",
+        "Level 8-12 Concentration Aura When Equipped",
+        "+3 To All Skills",
+        "+20% Increased Attack Speed",
+        "+100% Piercing Attack",
+        "+325-375% Enhanced Damage",
+        "+9 To Maximum Damage",
+        "20% Bonus to Attack Rating",
+        "Adds 3-14 Cold Damage",
+        "Freezes Target +3",
+        "+24 to Vitality",
+        "All Resistances +40",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/runewords/mist.png"
+  },
+  {
+    "id": "brand",
+    "name": "Brand",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeJo_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Jah",
+      "Lo",
+      "Mal",
+      "Gul"
+    ],
+    "properties": {
+      "required_level": 65,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Jah  Lo  Mal  Gul",
+        "4 socket Missile Weapons",
+        "35% Chance To Cast Level 14 Amplify Damage When Struck",
+        "100% Chance To Cast Level 18 Bone Spear On Striking",
+        "+260-340% Enhanced Damage",
+        "Ignores Target's Defense",
+        "20% Bonus to Attack Rating",
+        "+280-330% Damage To Demons",
+        "20% Deadly Strike",
+        "Prevent Monster Heal",
+        "Knockback",
+        "Fires Explosive Arrows or Bolts [level 15]"
+      ]
+    },
+    "local_image": "images/runewords/brand.png"
+  },
+  {
+    "id": "memory",
+    "name": "Memory",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeLum_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Lum",
+      "Io",
+      "Sol",
+      "Eth"
+    ],
+    "properties": {
+      "required_level": 37,
+      "magical_properties": [
+        "Original Runeword",
+        "Lum  Io  Sol  Eth",
+        "4 socket Staves",
+        "+3 to Sorceress Skill Levels",
+        "33% Faster Cast Rate",
+        "Increase Maximum Mana 20%",
+        "+3 Energy Shield (Sorceress Only)",
+        "+2 Static Field (Sorceress Only)",
+        "+10 To Energy",
+        "+10 To Vitality",
+        "+9 To Minimum Damage",
+        "-25% Target Defense",
+        "Magic Damage Reduced By 7",
+        "+50% Enhanced Defense"
+      ]
+    },
+    "local_image": "images/runewords/memory.png"
+  },
+  {
+    "id": "treachery",
+    "name": "Treachery",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Shael",
+      "Thul",
+      "Lem"
+    ],
+    "properties": {
+      "required_level": 43,
+      "magical_properties": [
+        "Patch 1.11 Runeword",
+        "Shael  Thul  Lem",
+        "3 socket Body Armor",
+        "5% Chance To Cast Level 15 Fade When Struck",
+        "25% Chance To Cast level 15 Venom On Striking",
+        "+2 To Assassin Skill Levels",
+        "+45% Increased Attack Speed",
+        "+20% Faster Hit Recovery",
+        "Cold Resist +30%",
+        "50% Extra Gold From Monsters"
+      ]
+    },
+    "local_image": "images/runewords/treachery.png"
+  },
+  {
+    "id": "obsession",
+    "name": "Obsession",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeZod_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Zod",
+      "Ist",
+      "Lem",
+      "Lum",
+      "Io",
+      "Nef"
+    ],
+    "properties": {
+      "required_level": 69,
+      "magical_properties": [
+        "Patch 2.4 Runeword",
+        "Zod  Ist  Lem  Lum  Io  Nef",
+        "6 socket Staves",
+        "Indestructible",
+        "24% Chance to cast level 10 Weaken when struck",
+        "+4 To All Skills",
+        "+65% Faster Cast Rate",
+        "+60% Faster Hit Recovery",
+        "Knockback",
+        "+10 To Vitality",
+        "+10 To Energy",
+        "Increase Maximum Life 15-25%",
+        "Regenerate Mana 15-30%",
+        "All Resistances +60-70",
+        "75% Extra Gold from Monsters",
+        "30% Better Chance of Getting Magic Items",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/runewords/obsession.png"
+  },
+  {
+    "id": "strength",
+    "name": "Strength",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Amn",
+      "Tir"
+    ],
+    "properties": {
+      "required_level": 25,
+      "magical_properties": [
+        "Original Runeword",
+        "Amn  Tir",
+        "2 socket Melee Weapons",
+        "35% Enhanced Damage",
+        "25% Chance Of Crushing Blow",
+        "7% Life Stolen Per Hit",
+        "+2 To Mana After Each Kill",
+        "+20 To Strength",
+        "+10 To Vitality"
+      ]
+    },
+    "local_image": "images/runewords/strength.png"
+  },
+  {
+    "id": "myth",
+    "name": "Myth",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeHel_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Hel",
+      "Amn",
+      "Nef"
+    ],
+    "properties": {
+      "required_level": 25,
+      "magical_properties": [
+        "Patch 1.11 Runeword",
+        "Hel  Amn  Nef",
+        "3 socket Body Armor",
+        "3% Chance To Cast Level 1 Howl When Struck",
+        "10% Chance To Cast Level 1 Taunt On Striking",
+        "+2 To Barbarian Skill Levels",
+        "+30 Defense Vs. Missile",
+        "Replenish Life +10",
+        "Attacker Takes Damage of 14",
+        "Requirements -15%"
+      ]
+    },
+    "local_image": "images/runewords/myth.png"
+  },
+  {
+    "id": "pride",
+    "name": "Pride",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeCham_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Cham",
+      "Sur",
+      "Io",
+      "Lo"
+    ],
+    "properties": {
+      "required_level": 67,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Cham  Sur  Io  Lo",
+        "4 socket Polearms Spears",
+        "25% Chance To Cast Level 17 Fire Wall When Struck",
+        "Level 16-20 Concentration Aura When Equipped",
+        "260-300% Bonus To Attack Rating",
+        "+1-99% Damage To Demons (Based on Character Level)",
+        "Adds 50-280 Lightning Damage",
+        "20% Deadly Strike",
+        "Hit Blinds Target",
+        "Freezes Target +3",
+        "+10 To Vitality",
+        "Replenish Life +8",
+        "1.875-185.625% Extra Gold From Monsters (Based on Character Level)",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/runewords/pride.png"
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeVex_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Vex",
+      "Vex",
+      "Lo",
+      "Jah"
+    ],
+    "properties": {
+      "required_level": 65,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Vex  Vex  Lo  Jah",
+        "4 socket Weapons",
+        "100% Chance To Cast level 40 Blaze When You Level Up",
+        "40% Chance To Cast Level 22 Firestorm On Striking",
+        "Level 10-15 Redemption Aura When Equipped",
+        "+350-400% Enhanced Damage",
+        "Ignores Target's Defense",
+        "14% Mana Stolen Per Hit",
+        "-28% To Enemy Fire Resistance",
+        "20% Deadly Strike",
+        "+350-400 Defense Vs. Missile",
+        "+15-21 Fire Absorb",
+        "4 socket Shields",
+        "100% Chance To Cast level 40 Blaze When You Level-up",
+        "40% Chance To Cast Level 22 Firestorm On Striking",
+        "Level 10-15 Redemption Aura When Equipped",
+        "+350-400 Defense Vs. Missile",
+        "+350-400% Enhanced Damage",
+        "-28% To Enemy Fire Resistance",
+        "+50 To Life",
+        "+5% To Maximum Lightning Resist",
+        "+10% To Maximum Fire Resist",
+        "+15-21 Fire Absorb"
+      ]
+    },
+    "local_image": "images/runewords/phoenix.png"
+  },
+  {
+    "id": "rhyme",
+    "name": "Rhyme",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Shael",
+      "Eth"
+    ],
+    "properties": {
+      "required_level": 29,
+      "magical_properties": [
+        "Original Runeword",
+        "Shael  Eth",
+        "2 socket Shields",
+        "20% Increased Chance of Blocking",
+        "40% Faster Block Rate",
+        "+25 to All Resistances",
+        "Regenerate Mana 15%",
+        "Cannot Be Frozen",
+        "50% Extra Gold From Monsters",
+        "25% Better Chance Of Getting Magic Items"
+      ]
+    },
+    "local_image": "images/runewords/rhyme.png"
+  },
+  {
+    "id": "unbending-will",
+    "name": "Unbending Will",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeFal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Fal",
+      "Io",
+      "Ith",
+      "Eld",
+      "El",
+      "Hel"
+    ],
+    "properties": {
+      "required_level": 41,
+      "magical_properties": [
+        "Patch 2.4 Runeword",
+        "Fal  Io  Ith  Eld  El  Hel",
+        "6 socket Swords",
+        "18% Chance to Cast Level 18 Taunt On Striking",
+        "+3 to Combat Skills (Barbarian Only)",
+        "+20-30% Increased Attack Speed",
+        "+300-350% Enhanced Damage",
+        "+9 to Maximum Damage",
+        "+50 to Attack Rating",
+        "+75% Damage To Undead",
+        "+50 Attack Rating Against Undead",
+        "8-10% Life Stolen Per Hit",
+        "Prevent Monster Heal",
+        "+10 To Strength",
+        "+10 To Vitality",
+        "Damage Reduced by 8",
+        "+1 To Light Radius",
+        "Requirements -20%",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/runewords/unbending-will.png"
+  },
+  {
+    "id": "famine",
+    "name": "Famine",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeFal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Fal",
+      "Ohm",
+      "Ort",
+      "Jah"
+    ],
+    "properties": {
+      "required_level": 65,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Fal  Ohm  Ort  Jah",
+        "4 socket Axes Hammers",
+        "30% Increased Attack Speed",
+        "+320-370% Enhanced Damage",
+        "Ignore Target's Defense",
+        "Adds 180-200 Magic Damage",
+        "Adds 50-200 Fire Damage",
+        "Adds 51-250 Lightning Damage",
+        "Adds 50-200 Cold Damage",
+        "12% Life Stolen Per Hit",
+        "Prevent Monster Heal",
+        "+10 To Strength"
+      ]
+    },
+    "local_image": "images/runewords/famine.png"
+  },
+  {
+    "id": "splendor",
+    "name": "Splendor",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeEth_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Eth",
+      "Lum"
+    ],
+    "properties": {
+      "required_level": 37,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Eth  Lum",
+        "2 socket Shields",
+        "+1 To All Skills",
+        "+10% Faster Cast Rate",
+        "+20% Faster Block Rate",
+        "+60-100% Enhanced Defense",
+        "+10 To Energy",
+        "Regenerate Mana 15%",
+        "50% Extra Gold From Monsters",
+        "20% Better Chance of Getting Magic Items",
+        "+3 To Light Radius"
+      ]
+    },
+    "local_image": "images/runewords/splendor.png"
+  },
+  {
+    "id": "nadir",
+    "name": "Nadir",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeNef_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Nef",
+      "Tir"
+    ],
+    "properties": {
+      "required_level": 13,
+      "magical_properties": [
+        "Original Runeword",
+        "Nef  Tir",
+        "2 socket Helms",
+        "+50% Enhanced Defense",
+        "+10 Defense",
+        "+30 Defense vs. Missile",
+        "Level 13 Cloak of Shadows (9 Charges)",
+        "+2 To Mana After Each Kill",
+        "+5 To Strength",
+        "-33% Extra Gold From Monsters",
+        "-3 To Light Radius"
+      ]
+    },
+    "local_image": "images/runewords/nadir.png"
+  },
+  {
+    "id": "lionheart",
+    "name": "Lionheart",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeHel_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Hel",
+      "Lum",
+      "Fal"
+    ],
+    "properties": {
+      "required_level": 41,
+      "magical_properties": [
+        "Original Runeword",
+        "Hel  Lum  Fal",
+        "3 socket Body Armor",
+        "+20% Enhanced Damage",
+        "Requirements -15%",
+        "+25 To Strength",
+        "+10 To Energy",
+        "+20 To Vitality",
+        "+15 To Dexterity",
+        "+50 To Life",
+        "All Resistances +30"
+      ]
+    },
+    "local_image": "images/runewords/lionheart.png"
+  },
+  {
+    "id": "passion",
+    "name": "Passion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeDol_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Dol",
+      "Ort",
+      "Eld",
+      "Lem"
+    ],
+    "properties": {
+      "required_level": 43,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Dol  Ort  Eld  Lem",
+        "4 socket Weapons",
+        "+25% Increased Attack Speed",
+        "+160-210% Enhanced Damage",
+        "50-80% Bonus To Attack Rating",
+        "+75% Damage To Undead",
+        "+50 To Attack Rating Against Undead",
+        "Adds 1-50 Lightning Damage",
+        "+1 To Berserk",
+        "+1 To Zeal",
+        "Hit Blinds Target +10",
+        "Hit Causes Monster To Flee 25%",
+        "75% Extra Gold From Monsters",
+        "Level 3 Heart of Wolverine (12 Charges)"
+      ]
+    },
+    "local_image": "images/runewords/passion.png"
+  },
+  {
+    "id": "steel",
+    "name": "Steel",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTir_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Tir",
+      "El"
+    ],
+    "properties": {
+      "required_level": 13,
+      "magical_properties": [
+        "Original Runeword",
+        "Tir  El",
+        "2 socket Swords Axes Maces",
+        "20% Enhanced Damage",
+        "+3 To Minimum Damage",
+        "+3 To Maximum Damage",
+        "+50 To Attack Rating",
+        "50% Chance Of Open Wounds",
+        "25% Increased Attack Speed",
+        "+2 To Mana After Each Kill",
+        "+1 To Light Radius"
+      ]
+    },
+    "local_image": "images/runewords/steel.png"
+  },
+  {
+    "id": "enlightenment",
+    "name": "Enlightenment",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runePul_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Pul",
+      "Ral",
+      "Sol"
+    ],
+    "properties": {
+      "required_level": 45,
+      "magical_properties": [
+        "Patch 1.11 Runeword",
+        "Pul  Ral  Sol",
+        "3 socket Body Armor",
+        "5% Chance To Cast Level 15 Blaze When Struck",
+        "5% Chance To Cast level 15 Fire Ball On Striking",
+        "+2 To Sorceress Skill Levels",
+        "+1 To Warmth",
+        "+30% Enhanced Defense",
+        "Fire Resist +30%",
+        "Damage Reduced By 7"
+      ]
+    },
+    "local_image": "images/runewords/enlightenment.png"
+  },
+  {
+    "id": "prudence",
+    "name": "Prudence",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeMal_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Mal",
+      "Tir"
+    ],
+    "properties": {
+      "required_level": 49,
+      "magical_properties": [
+        "Patch 1.10 Runeword",
+        "Mal  Tir",
+        "2 socket Body Armor",
+        "+25% Faster Hit Recovery",
+        "+140-170% Enhanced Defense",
+        "All Resistances +25-35",
+        "Damage Reduced by 3",
+        "Magic Damage Reduced by 17",
+        "+2 To Mana After Each Kill",
+        "+1 To Light Radius",
+        "Repairs Durability 1 In 4 Seconds"
+      ]
+    },
+    "local_image": "images/runewords/prudence.png"
+  },
+  {
+    "id": "zephyr",
+    "name": "Zephyr",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeOrt_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Ort",
+      "Eth"
+    ],
+    "properties": {
+      "required_level": 21,
+      "magical_properties": [
+        "Original Runeword",
+        "Ort  Eth",
+        "2 socket Missile Weapons",
+        "+33% Enhanced Damage",
+        "+66 To Attack Rating",
+        "Adds 1-50 Lightning Damage",
+        "-25% Target Defense",
+        "+25 Defense",
+        "25% Faster Run/Walk",
+        "25% Increased Attack Speed",
+        "7% Chance To Cast Level 1 Twister When Struck"
+      ]
+    },
+    "local_image": "images/runewords/zephyr.png"
+  },
+  {
+    "id": "kings-grace",
+    "name": "King's Grace",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_ticon.png",
+    "type": "Runeword",
+    "runes": [
+      "Amn",
+      "Ral",
+      "Thul"
+    ],
+    "properties": {
+      "required_level": 25,
+      "magical_properties": [
+        "Original Runeword",
+        "Amn  Ral  Thul",
+        "3 socket Swords Scepters",
+        "+100% Enhanced Damage",
+        "+100% Damage To Demons",
+        "+50% Damage To Undead",
+        "Adds 5-30 Fire Damage",
+        "Adds 3-14 Cold Damage - 3 Second Duration",
+        "+150 To Attack Rating",
+        "+100 To Attack Rating Against Demons",
+        "+100 To Attack Rating Against Undead",
+        "7% Life Stolen Per Hit"
+      ]
+    },
+    "local_image": "images/runewords/kings-grace.png"
+  }
+]

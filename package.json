@@ -1,0 +1,12 @@
+{
+    "name": "d2io-api",
+    "version": "1.0.0",
+    "description": "Diablo 2 Resurrected Item API",
+    "engines": {
+        "node": ">=18"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "cors": "^2.8.5"
+    }
+}

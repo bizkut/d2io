@@ -1,0 +1,4123 @@
+[
+  {
+    "id": "aldurs-rhythm",
+    "name": "Aldur's Rhythm",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/aldursrythm_graphic.png",
+    "type": "Set Item",
+    "base_item": "Jagged Star",
+    "properties": {
+      "damage": [
+        "1H damage: 60-93"
+      ],
+      "base_speed": 10,
+      "durability": 72,
+      "required_strength": 74,
+      "required_level": 42,
+      "quality_level": 29,
+      "treasure_class": 39,
+      "magical_properties": [
+        "Exceptional Set",
+        "+200% Damage To Demons",
+        "+50% Damage To Undead",
+        "Adds 40-62 Damage",
+        "Adds 50-75 Lightning Damage",
+        "30% Increased Attack Speed",
+        "10% Life Stolen Per Hit",
+        "5% Mana Stolen Per Hit",
+        "Socketed (2-3)",
+        "+15 To Strength (2 set items)",
+        "+15 To Strength (3 set items)",
+        "+15 To Strength (completed set items)",
+        "Part of set: Aldur's Watchtower"
+      ]
+    },
+    "local_image": "images/sets/aldurs-rhythm.png"
+  },
+  {
+    "id": "guillaumes-face",
+    "name": "Guillaume's Face",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/guillaumesface_graphic.png",
+    "type": "Set Item",
+    "base_item": "Winged Helm",
+    "properties": {
+      "defense": "217",
+      "durability": 40,
+      "required_strength": 115,
+      "required_level": 34,
+      "quality_level": 41,
+      "treasure_class": 51,
+      "magical_properties": [
+        "Exceptional Set",
+        "+120% Enhanced Defense",
+        "+30% Faster Hit Recovery",
+        "15% Deadly Strike",
+        "35% Chance of Crushing Blow",
+        "+15 To Strength",
+        "Part of set: Orphan's Call"
+      ]
+    },
+    "local_image": "images/sets/guillaumes-face.png"
+  },
+  {
+    "id": "sazabis-grand-tribute",
+    "name": "Sazabi's Grand Tribute",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sazabiscobaltredeemer_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Sazabi's Cobalt Redeemer•Cryptic Sword",
+        "Sazabi's Ghost Liberator•Balrog Skin",
+        "Sazabi's Mental Sheath•Basinet",
+        "Partial set completion:",
+        "+40% Faster Run/Walk (2 Items)",
+        "Poison Length Reduced by 75% (2 Items)",
+        "Full set completion:",
+        "+40% Faster Run/Walk",
+        "15% Life Stolen Per Hit",
+        "Increase Maximum Life 27%",
+        "All Resistances +30",
+        "+1 To All Skills",
+        "Physical Damage Received Reduced by 16%",
+        "Poison Length Reduced by 75%",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/sets/sazabis-grand-tribute.png"
+  },
+  {
+    "id": "dangoons-teaching",
+    "name": "Dangoon's Teaching",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/dangoonsteaching_graphic.png",
+    "type": "Set Item",
+    "base_item": "Reinforced Mace",
+    "properties": {
+      "damage": [
+        "1H damage: 41-197"
+      ],
+      "base_speed": null,
+      "durability": 60,
+      "required_strength": 145,
+      "required_dexterity": 46,
+      "required_level": 68,
+      "quality_level": 55,
+      "treasure_class": 63,
+      "magical_properties": [
+        "Elite Set",
+        "+ (1.5 Per Character Level) +1-148 To Maximum Damage (Based on Character Level)",
+        "+50% Damage To Undead",
+        "+40% Increased Attack Speed",
+        "10% Chance To Cast Level 3 Frost Nova On Striking",
+        "Adds 20-30 Fire Damage",
+        "Part of set: Heaven's Brethren"
+      ]
+    },
+    "local_image": "images/sets/dangoons-teaching.png"
+  },
+  {
+    "id": "tal-rashas-adjudication",
+    "name": "Tal Rasha's Adjudication",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_graphic.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "required_level": 67,
+      "quality_level": 26,
+      "magical_properties": [
+        "Set",
+        "Amulet",
+        "+2 To Sorceress Skill Levels",
+        "Lightning Resist +33%",
+        "Adds 3-32 Lightning Damage",
+        "+42 To Mana",
+        "+50 To Life",
+        "+10% Faster Cast Rate (4 set items)",
+        "Part of set: Tal Rasha's Wrappings"
+      ]
+    },
+    "local_image": "images/sets/tal-rashas-adjudication.png"
+  },
+  {
+    "id": "sazabis-cobalt-redeemer",
+    "name": "Sazabi's Cobalt Redeemer",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sazabiscobaltredeemer_graphic.png",
+    "type": "Set Item",
+    "base_item": "Cryptic Sword",
+    "properties": {
+      "damage": [
+        "1H damage: 12-192"
+      ],
+      "base_speed": -10,
+      "required_strength": 99,
+      "required_dexterity": 109,
+      "required_level": 73,
+      "quality_level": 34,
+      "treasure_class": 84,
+      "magical_properties": [
+        "Elite Set",
+        "+150% Enhanced Damage",
+        "+318% Damage To Demons",
+        "Adds 25-35 Cold Damage, 2 sec. Duration",
+        "+40% Increased Attack Speed",
+        "Indestructible",
+        "+15 To Dexterity",
+        "+5 To Strength",
+        "Part of set: Sazabi's Grand Tribute"
+      ]
+    },
+    "local_image": "images/sets/sazabis-cobalt-redeemer.png"
+  },
+  {
+    "id": "the-disciple",
+    "name": "The Disciple",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/darkadherent_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Dark Adherent•Dusk Shroud",
+        "Credendum•Mithril Coil",
+        "Laying of Hands•Bramble Mitts",
+        "Rite of Passage•Demonhide Boots",
+        "Telling of Beads•Amulet",
+        "Partial set completion:",
+        "+150 Defense (2 Items)",
+        "+22 Poison Damage Over 3 Seconds (3 Items)",
+        "+10 To Strength (4 Items)",
+        "Full set completion:",
+        "+150 Defense",
+        "+22 Poison Damage Over 3 Seconds",
+        "+10 To Strength",
+        "+2 To All Skills",
+        "All Resistances +50",
+        "+100 Mana"
+      ]
+    },
+    "local_image": "images/sets/the-disciple.png"
+  },
+  {
+    "id": "najs-ancient-vestige",
+    "name": "Naj's Ancient Vestige",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/najscirclet_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Naj's Circlet•Circlet",
+        "Naj's Light Plate•Hellforge Plate",
+        "Naj's Puzzler•Elder Staff",
+        "Partial set completion:",
+        "+175 Defense (2 Items)",
+        "1-148% Better Chance of Getting Magic Items (+1.5 Per Character Level) (2 Items)",
+        "Full set completion:",
+        "+175 Defense",
+        "+15 To Dexterity",
+        "All Resistances +50",
+        "+20 To Strength",
+        "+100 To Mana",
+        "+1 To All Skills",
+        "Replenish Life +20",
+        "+2 To Fire Skills",
+        "Increased Maximum Life 12%",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/sets/najs-ancient-vestige.png"
+  },
+  {
+    "id": "deaths-guard",
+    "name": "Death's Guard",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/deathsguard_graphic.png",
+    "type": "Set Item",
+    "base_item": "Sash",
+    "properties": {
+      "defense": "22",
+      "durability": 12,
+      "required_level": 6,
+      "quality_level": 8,
+      "treasure_class": 3,
+      "magical_properties": [
+        "Normal Set",
+        "Belt boxes: 8",
+        "Cannot be Frozen",
+        "+20 Defense",
+        "All Resistances +15 (2 set items)",
+        "Part of set: Death's Disguise"
+      ]
+    },
+    "local_image": "images/sets/deaths-guard.png"
+  },
+  {
+    "id": "tancreds-battlegear",
+    "name": "Tancred's Battlegear",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/tancredsskull_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Tancred's Skull•Bone Helm",
+        "Tancred's Weird•Amulet",
+        "Tancred's Hobnails•Boots",
+        "Tancred's Spine•Full Plate Mail",
+        "Tancred's Crowbill•Military Pick",
+        "Partial set completion:",
+        "+15 Lightning Damage (2 Items)",
+        "+5% Life Stolen Per Hit (3 Items)",
+        "Full set completion:",
+        "+15 Lightning Damage",
+        "+5% Life Stolen Per Hit",
+        "Slows Targets by 35%",
+        "5% Mana Stolen Per Hit",
+        "All Resistances +10",
+        "75% Extra Gold From Monsters"
+      ]
+    },
+    "local_image": "images/sets/tancreds-battlegear.png"
+  },
+  {
+    "id": "bul-kathos-children",
+    "name": "Bul-Kathos' Children",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/bulkathossacredcharge_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Bul-Kathos' Sacred Charge•Colossus Blade",
+        "Bul-Kathos' Tribal Guardian•Mythical Sword",
+        "Full set completion:",
+        "+2 To All Skill Levels",
+        "+200 To Attack Rating",
+        "+200% Damage To Demons",
+        "+200% Damage To Undead",
+        "+200 Fire Damage",
+        "+200 Defense",
+        "10% Life Stolen Per Hit",
+        "+20% Deadly Strike",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/sets/bul-kathos-children.png"
+  },
+  {
+    "id": "immortal-kings-detail",
+    "name": "Immortal King's Detail",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/girdle_graphic.png",
+    "type": "Set Item",
+    "base_item": "War Belt",
+    "properties": {
+      "defense": "89",
+      "durability": 24,
+      "required_strength": 110,
+      "required_level": 29,
+      "quality_level": 37,
+      "treasure_class": 54,
+      "magical_properties": [
+        "Exceptional Set",
+        "Belt boxes: 16",
+        "+36 Defense",
+        "Lightning Resist +31%",
+        "Fire Resist +28%",
+        "+25 To Strength",
+        "+105 Defense (2 set items)",
+        "+25% Faster Hit Recovery (3 set items)",
+        "+100% Enhanced Defense (4 set items)",
+        "Damage Reduced By 20% (5 set items)",
+        "+2 To Masteries (Barbarian Only) (completed set items)",
+        "Part of set: Immortal King"
+      ]
+    },
+    "local_image": "images/sets/immortal-kings-detail.png"
+  },
+  {
+    "id": "taebaeks-glory",
+    "name": "Taebaek's Glory",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/taebaeksglory_graphic.png",
+    "type": "Set Item",
+    "base_item": "Ward",
+    "properties": {
+      "defense": "203-220",
+      "required_strength": 185,
+      "required_level": 81,
+      "quality_level": 55,
+      "treasure_class": 84,
+      "magical_properties": [
+        "Elite Set",
+        "Class block: Pal: 79%",
+        "Ama/Asn/Bar: 74%",
+        "Dru/Nec/Sor: 69%",
+        "Paladin smite dmg: 11-35",
+        "+50 Defense",
+        "+25% Increased Chance Of Blocking",
+        "Lightning Resist +30%",
+        "Indestructible",
+        "30% Faster Block Rate",
+        "+100 To Mana",
+        "Attacker Takes Damage of 30",
+        "Part of set: Heaven's Brethren"
+      ]
+    },
+    "local_image": "images/sets/taebaeks-glory.png"
+  },
+  {
+    "id": "berserkers-arsenal",
+    "name": "Berserker's Arsenal",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/berserkerhatchet_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Berserker's Hatchet•Double Axe",
+        "Berserker's Hauberk•Splint Mail",
+        "Berserker's Headgear•Helm",
+        "Partial set completion:",
+        "+50 To Life (2 Items)",
+        "Full set completion:",
+        "+50 To Life",
+        "+75 Defense",
+        "Poison Length Reduced by 75%",
+        "Adds 5-9 Poison Damage over 3 Seconds"
+      ]
+    },
+    "local_image": "images/sets/berserkers-arsenal.png"
+  },
+  {
+    "id": "deaths-disguise",
+    "name": "Death's Disguise",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/deathstouch_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Death's Touch•War Sword",
+        "Death's Guard•Sash",
+        "Death's Hand•Leather Gloves",
+        "Partial set completion:",
+        "+8% Life Steal (2 Items)",
+        "Full set completion:",
+        "+8% Life Steal",
+        "40% Bonus to Attack Rating",
+        "All Resistances +25",
+        "+10 to Minimum Damage"
+      ]
+    },
+    "local_image": "images/sets/deaths-disguise.png"
+  },
+  {
+    "id": "mavinas-true-sight",
+    "name": "M'avina's True Sight",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/mavinastruesight_graphic.png",
+    "type": "Set Item",
+    "base_item": "Diadem",
+    "properties": {
+      "defense": "200-210",
+      "durability": 20,
+      "required_level": 64,
+      "quality_level": 21,
+      "treasure_class": 87,
+      "magical_properties": [
+        "Elite Set",
+        "+150 Defense",
+        "Replenish Life +10",
+        "+25 To Mana",
+        "+30% Increased Attack Speed",
+        "+1 To All Skills (2 set items)",
+        "50% Bonus To Attack Rating (3 set items)",
+        "All Resistances +25 (4 set items)",
+        "Part of set: M'avina's Battle Hymn"
+      ]
+    },
+    "local_image": "images/sets/mavinas-true-sight.png"
+  },
+  {
+    "id": "tal-rashas-guardianship",
+    "name": "Tal Rasha's Guardianship",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/talrashasguardianship_graphic.png",
+    "type": "Set Item",
+    "base_item": "Lacquered Plate",
+    "properties": {
+      "defense": "833-941",
+      "durability": 55,
+      "required_strength": 84,
+      "required_level": 71,
+      "quality_level": 26,
+      "treasure_class": 84,
+      "magical_properties": [
+        "Elite Set",
+        "+400 Defense",
+        "Requirements -60%",
+        "Magic Damage Reduced By 15",
+        "Cold Resist +40%",
+        "Lightning Resist +40%",
+        "Fire Resist +40%",
+        "88% Better Chance Of Getting Magic Items",
+        "+10% Faster Cast Rate (2 set items)",
+        "Part of set: Tal Rasha's Wrappings"
+      ]
+    },
+    "local_image": "images/sets/tal-rashas-guardianship.png"
+  },
+  {
+    "id": "isenharts-armory",
+    "name": "Isenhart's Armory",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/isenhartslightbrand_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Isenhart's Lightbrand•Broad Sword",
+        "Isenhart's Case•Breast Plate",
+        "Isenhart's Horns•Full Helm",
+        "Isenhart's Parry•Gothic Shield",
+        "Partial set completion:",
+        "+10 To Strength (2 Items)",
+        "+10 To Dexterity (3 Items)",
+        "Full set completion:",
+        "+10 To Strength",
+        "+10 To Dexterity",
+        "20% Faster Run/Walk",
+        "+30% Increased Chance of Blocking",
+        "35% Bonus to Attack Rating",
+        "5% Life Stolen Per Hit",
+        "All Resistances +10"
+      ]
+    },
+    "local_image": "images/sets/isenharts-armory.png"
+  },
+  {
+    "id": "cleglaws-pincers",
+    "name": "Cleglaw's Pincers",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/cleglawspincers_graphic.png",
+    "type": "Set Item",
+    "base_item": "Chain Gloves",
+    "properties": {
+      "defense": "8-9",
+      "durability": 16,
+      "required_strength": 25,
+      "required_level": 4,
+      "quality_level": 6,
+      "treasure_class": 12,
+      "magical_properties": [
+        "Normal Set",
+        "Slows Target by 25%",
+        "Knockback",
+        "+ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level) (2 set items)",
+        "Part of set: Cleglaw's Brace"
+      ]
+    },
+    "local_image": "images/sets/cleglaws-pincers.png"
+  },
+  {
+    "id": "angelic-raiment",
+    "name": "Angelic Raiment",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Angelic Wings•Amulet",
+        "Angelic Halo•Ring",
+        "Angelic Mantle•Ring Mail",
+        "Angelic Sickle•Sabre",
+        "Partial set completion:",
+        "+10 Dexterity (2 Items)",
+        "+50 Mana (3 Items)",
+        "Full set completion:",
+        "Half Freeze Duration",
+        "All Resistances +25",
+        "40% Better Chance of Getting Magic Items",
+        "Regenerate Mana +8%",
+        "+10 Dexterity",
+        "+50 Mana"
+      ]
+    },
+    "local_image": "images/sets/angelic-raiment.png"
+  },
+  {
+    "id": "cathans-traps",
+    "name": "Cathan's Traps",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/mask_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Cathan's Visage•Mask",
+        "Cathan's Rule•Battle Staff",
+        "Cathan's Seal•Ring",
+        "Cathan's Sigil•Amulet",
+        "Cathan's Mesh•Chain Mail",
+        "Partial set completion:",
+        "+15-20 Fire Damage (2 Items)",
+        "Regenerate Mana 16% (2 Items)",
+        "Lightning Resist +25% (3 Items)",
+        "Full set completion:",
+        "+15-20 Fire Damage",
+        "Lightning Resist +25%",
+        "10% Faster Cast Rate",
+        "Magic Damage Reduced by 3",
+        "All Resistances +25",
+        "+60 to Attack Rating",
+        "+20 to Mana",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/sets/cathans-traps.png"
+  },
+  {
+    "id": "mavinas-embrace",
+    "name": "M'avina's Embrace",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/mavinasembrace_graphic.png",
+    "type": "Set Item",
+    "base_item": "Kraken Shell",
+    "properties": {
+      "defense": "771-1269",
+      "durability": 48,
+      "required_strength": 122,
+      "required_level": 70,
+      "quality_level": 21,
+      "treasure_class": 81,
+      "magical_properties": [
+        "Elite Set",
+        "Requirements -30%",
+        "10% Chance To Cast Level 3 Glacial Spike When Struck",
+        "Magic Damage Reduced By 5-12",
+        "+ (4 Per Character Level) 4-396 Defense (Based On Character Level)",
+        "+2 To Passive And Magic Skills (Amazon Only)",
+        "+350 Defense",
+        "+30% Faster Hit Recovery (3 set items)",
+        "Part of set: M'avina's Battle Hymn"
+      ]
+    },
+    "local_image": "images/sets/mavinas-embrace.png"
+  },
+  {
+    "id": "milabregas-robe",
+    "name": "Milabrega's Robe",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/milabregasrobe_graphic.png",
+    "type": "Set Item",
+    "base_item": "Ancient Armor",
+    "properties": {
+      "defense": "234",
+      "durability": 60,
+      "required_strength": 100,
+      "required_level": 17,
+      "quality_level": 23,
+      "treasure_class": 42,
+      "magical_properties": [
+        "Normal Set",
+        "Damage Reduced by 2",
+        "Attacker Takes Damage of 3",
+        "+100% Enhanced Defense (2 set items)",
+        "Part of set: Milabrega's Regalia"
+      ]
+    },
+    "local_image": "images/sets/milabregas-robe.png"
+  },
+  {
+    "id": "haemosus-adamant",
+    "name": "Haemosu's Adamant",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/haemosusadament_graphic.png",
+    "type": "Set Item",
+    "base_item": "Cuirass",
+    "properties": {
+      "defense": "688-702",
+      "durability": 50,
+      "required_strength": 52,
+      "required_level": 44,
+      "quality_level": 55,
+      "treasure_class": 48,
+      "magical_properties": [
+        "Exceptional Set",
+        "+500 Defense",
+        "+40 Defense Vs. Melee",
+        "+35 Defense Vs. Missile",
+        "Requirements -20%",
+        "+75 To Life",
+        "Part of set: Heaven's Brethren"
+      ]
+    },
+    "local_image": "images/sets/haemosus-adamant.png"
+  },
+  {
+    "id": "ondals-almighty",
+    "name": "Ondal's Almighty",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/ondalsalmighty_graphic.png",
+    "type": "Set Item",
+    "base_item": "Spired Helm",
+    "properties": {
+      "defense": "164-209",
+      "durability": 40,
+      "required_strength": 116,
+      "required_level": 69,
+      "quality_level": 55,
+      "treasure_class": 81,
+      "magical_properties": [
+        "Elite Set",
+        "10% Chance To Cast Level 3 Weaken On Striking",
+        "24% Faster Hit Recovery",
+        "Requirements -40%",
+        "+50 Defense",
+        "+15 To Dexterity",
+        "+10 To Strength",
+        "Part of set: Heaven's Brethren"
+      ]
+    },
+    "local_image": "images/sets/ondals-almighty.png"
+  },
+  {
+    "id": "trang-ouls-scales",
+    "name": "Trang-Oul's Scales",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/trang-oulsscales_graphic.png",
+    "type": "Set Item",
+    "base_item": "Chaos Armor",
+    "properties": {
+      "defense": "857",
+      "durability": 70,
+      "required_strength": 84,
+      "required_level": 49,
+      "quality_level": 32,
+      "treasure_class": 63,
+      "magical_properties": [
+        "Exceptional Set",
+        "+150% Enhanced Defense",
+        "Requirements -40%",
+        "40% Faster Run/Walk",
+        "Poison Resist +40%",
+        "+100 Defense vs. Missile",
+        "+2 To Summoning Skills (Necromancer Only)",
+        "Lightning Resist +50% (3 set items)",
+        "Damage Reduced By 25% (completed set items)",
+        "Part of set: Trang-Oul's Avatar"
+      ]
+    },
+    "local_image": "images/sets/trang-ouls-scales.png"
+  },
+  {
+    "id": "immortal-kings-will",
+    "name": "Immortal King's Will",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/immortalwill_graphic.png",
+    "type": "Set Item",
+    "base_item": "Avenger Guard",
+    "properties": {
+      "defense": "160-175",
+      "durability": 55,
+      "required_strength": 65,
+      "required_level": 47,
+      "quality_level": 37,
+      "treasure_class": 24,
+      "magical_properties": [
+        "Normal Set",
+        "+4 To Light Radius",
+        "+125 Defense",
+        "37% Extra Gold From Monsters",
+        "25-40% Better Chance Of Getting Magic Items",
+        "+2 To Warcries Skills (Barbarian Only)",
+        "Socketed (2)",
+        "Part of set: Immortal King",
+        "Barbarian equip only"
+      ]
+    },
+    "local_image": "images/sets/immortal-kings-will.png"
+  },
+  {
+    "id": "laying-of-hands",
+    "name": "Laying of Hands",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/layingofhands_graphic.png",
+    "type": "Set Item",
+    "base_item": "Bramble Mitts",
+    "properties": {
+      "defense": "79-87",
+      "durability": 12,
+      "required_strength": 50,
+      "required_level": 63,
+      "quality_level": 39,
+      "treasure_class": 57,
+      "magical_properties": [
+        "Elite Set",
+        "+25 Defense",
+        "+20% Increased Attack Speed",
+        "+350% Damage To Demons",
+        "Fire Resist +50%",
+        "10% Chance To Cast Level 3 Holy Bolt On Striking",
+        "Part of set: The Disciple"
+      ]
+    },
+    "local_image": "images/sets/laying-of-hands.png"
+  },
+  {
+    "id": "sigons-sabot",
+    "name": "Sigon's Sabot",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sigonsgreaves_graphic.png",
+    "type": "Set Item",
+    "base_item": "Greaves",
+    "properties": {
+      "defense": "12-15",
+      "durability": 24,
+      "required_strength": 70,
+      "required_level": 6,
+      "quality_level": 9,
+      "treasure_class": 27,
+      "magical_properties": [
+        "Normal Set",
+        "Assassin kick dmg: 10-20",
+        "20% Faster Run/Walk",
+        "Cold Resist +40%",
+        "+50 to Attack Rating (2 set items)",
+        "+50% Better Chance To Find Magic Items (3 set items)",
+        "Part of set: Sigon's Complete Steel"
+      ]
+    },
+    "local_image": "images/sets/sigons-sabot.png"
+  },
+  {
+    "id": "vidalas-fetlock",
+    "name": "Vidala's Fetlock",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/vidalasfetlock_graphic.png",
+    "type": "Set Item",
+    "base_item": "Light Plated Boots",
+    "properties": {
+      "defense": "9-11",
+      "durability": 18,
+      "required_strength": 50,
+      "required_level": 14,
+      "quality_level": 19,
+      "treasure_class": 21,
+      "magical_properties": [
+        "Normal Set",
+        "Assassin kick dmg: 8-16",
+        "30% Faster Run/Walk",
+        "+150 to Maximum Stamina",
+        "All Resistances +8 (2 Items) (2 set items)",
+        "Part of set: Vidala's Rig"
+      ]
+    },
+    "local_image": "images/sets/vidalas-fetlock.png"
+  },
+  {
+    "id": "rite-of-passage",
+    "name": "Rite of Passage",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/riteofpassage_graphic.png",
+    "type": "Set Item",
+    "base_item": "Demonhide Boots",
+    "properties": {
+      "defense": "53-60",
+      "durability": 12,
+      "required_strength": 20,
+      "required_level": 29,
+      "quality_level": 39,
+      "treasure_class": 36,
+      "magical_properties": [
+        "Exceptional Set",
+        "Assassin kick dmg: 26-46",
+        "+25 Defense",
+        "30% Faster Run/Walk",
+        "+15-25 Maximum Stamina",
+        "Half Freeze Duration",
+        "Part of set: The Disciple"
+      ]
+    },
+    "local_image": "images/sets/rite-of-passage.png"
+  },
+  {
+    "id": "tancreds-hobnails",
+    "name": "Tancred's Hobnails",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/tancredshobnails_graphic.png",
+    "type": "Set Item",
+    "base_item": "Boots",
+    "properties": {
+      "defense": "2-3",
+      "durability": 12,
+      "required_level": 20,
+      "quality_level": 27,
+      "treasure_class": 3,
+      "magical_properties": [
+        "Normal Set",
+        "Assassin kick dmg: 3-8",
+        "Heal Stamina Plus 25%",
+        "+10 to Dexterity",
+        "30% Faster Run/Walk (2 set items)",
+        "+10 To Strength (3 set items)",
+        "Part of set: Tancred's Battlegear"
+      ]
+    },
+    "local_image": "images/sets/tancreds-hobnails.png"
+  },
+  {
+    "id": "aldurs-advance",
+    "name": "Aldur's Advance",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/aldursadvance_graphic.png",
+    "type": "Set Item",
+    "base_item": "Battle Boots",
+    "properties": {
+      "defense": "39-47",
+      "required_strength": 95,
+      "required_level": 45,
+      "quality_level": 29,
+      "treasure_class": 51,
+      "magical_properties": [
+        "Exceptional Set",
+        "Assassin kick dmg: 37-64",
+        "Indestructible",
+        "40% Faster Run/Walk",
+        "+180 Maximum Stamina",
+        "10% Damage Taken Goes To Mana",
+        "Heal Stamina Plus +32%",
+        "+50 To Life",
+        "Fire Resist +40-50%",
+        "+15 To Dexterity (2 set items)",
+        "+15 To Dexterity (3 set items)",
+        "+15 To Dexterity (completed set items)",
+        "Part of set: Aldur's Watchtower"
+      ]
+    },
+    "local_image": "images/sets/aldurs-advance.png"
+  },
+  {
+    "id": "natalyas-soul",
+    "name": "Natalya's Soul",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/natalyassoul_graphic.png",
+    "type": "Set Item",
+    "base_item": "Mesh Boots",
+    "properties": {
+      "defense": "112-169",
+      "durability": 66,
+      "required_strength": 65,
+      "required_level": 25,
+      "quality_level": 22,
+      "treasure_class": 45,
+      "magical_properties": [
+        "Exceptional Set",
+        "Assassin kick dmg: 23-52",
+        "+75-125 Defense",
+        "+40% Faster Run/Walk",
+        "Heal Stamina Plus (0.25 Per Character Level) 0-24% (Based On Character Level)",
+        "Cold Resist +15-25%",
+        "Lightning Resist +15-25%",
+        "Part of set: Natalya's Odium"
+      ]
+    },
+    "local_image": "images/sets/natalyas-soul.png"
+  },
+  {
+    "id": "sanders-riprap",
+    "name": "Sander's Riprap",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sandersriprap_graphic.png",
+    "type": "Set Item",
+    "base_item": "Heavy Boots",
+    "properties": {
+      "defense": "5-6",
+      "durability": 14,
+      "required_strength": 18,
+      "required_level": 20,
+      "quality_level": 20,
+      "treasure_class": 9,
+      "magical_properties": [
+        "Normal Set",
+        "Assassin kick dmg: 4-10",
+        "+40% Faster Run/Walk",
+        "+100 To Attack Rating",
+        "+10 To Dexterity",
+        "+5 To Strength",
+        "Part of set: Sander's Folly"
+      ]
+    },
+    "local_image": "images/sets/sanders-riprap.png"
+  },
+  {
+    "id": "cow-kings-hooves",
+    "name": "Cow King's Hooves",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/heavyboots_graphic.png",
+    "type": "Set Item",
+    "base_item": "Heavy Boots",
+    "properties": {
+      "defense": "30-41",
+      "durability": 14,
+      "required_strength": 18,
+      "required_level": 13,
+      "quality_level": 20,
+      "treasure_class": 9,
+      "magical_properties": [
+        "Normal Set",
+        "Assassin kick dmg: 4-10",
+        "+25-35 Defense",
+        "+30% Faster Run/Walk",
+        "Adds 25-35 Fire Damage",
+        "+20 To Dexterity",
+        "25% Better Chance of Getting Magic Items",
+        "Part of set: Cow King's Leathers"
+      ]
+    },
+    "local_image": "images/sets/cow-kings-hooves.png"
+  },
+  {
+    "id": "immortal-kings-pillar",
+    "name": "Immortal King's Pillar",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/plateboots_graphic.png",
+    "type": "Set Item",
+    "base_item": "War Boots",
+    "properties": {
+      "defense": "118-128",
+      "durability": 24,
+      "required_strength": 125,
+      "required_level": 31,
+      "quality_level": 37,
+      "treasure_class": 54,
+      "magical_properties": [
+        "Exceptional Set",
+        "Assassin kick dmg: 39-80",
+        "+75 Defense",
+        "40% Faster Run/Walk",
+        "+110 To Attack Rating",
+        "+44 To Life",
+        "25% Better Chance of Getting Magic Items (2 set items)",
+        "+2 To Combat Skills (Barbarian Only) (3 set items)",
+        "+160 Defense (4 set items)",
+        "Half Freeze Duration (5 set items)",
+        "Part of set: Immortal King"
+      ]
+    },
+    "local_image": "images/sets/immortal-kings-pillar.png"
+  },
+  {
+    "id": "hsarus-iron-heel",
+    "name": "Hsarus' Iron Heel",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hsarusironwheel_graphic.png",
+    "type": "Set Item",
+    "base_item": "Chain Boots",
+    "properties": {
+      "defense": "8-9",
+      "durability": 16,
+      "required_strength": 30,
+      "required_level": 3,
+      "quality_level": 4,
+      "treasure_class": 12,
+      "magical_properties": [
+        "Normal Set",
+        "Assassin kick dmg: 6-12",
+        "20% Faster Run/Walk",
+        "Fire Resist +25%",
+        "+ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level) (2 set items)",
+        "Part of set: Hsarus' Defense"
+      ]
+    },
+    "local_image": "images/sets/hsarus-iron-heel.png"
+  },
+  {
+    "id": "cathans-seal",
+    "name": "Cathan's Seal",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/ring4_graphic.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "required_level": 11,
+      "quality_level": 15,
+      "magical_properties": [
+        "Set",
+        "Ring",
+        "6% Life Stolen Per Hit",
+        "Damage Reduced by 2",
+        "+10 Strength (2 set items)",
+        "Part of set: Cathan's Traps"
+      ]
+    },
+    "local_image": "images/sets/cathans-seal.png"
+  },
+  {
+    "id": "hwanins-majesty",
+    "name": "Hwanin's Majesty",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/voulge_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Hwanin's Justice•Bill",
+        "Hwanin's Refuge•Tigulated Mail",
+        "Hwanin's Splendor•Grand Crown",
+        "Hwanin's Blessing•Belt",
+        "Partial set completion:",
+        "+100 Defense (2 Items)",
+        "+200 Defense (3 Items)",
+        "Full set completion:",
+        "+2 To All Skills",
+        "+30% Faster Run/Walk",
+        "20% Life Stolen Per Hit",
+        "+300 Defense",
+        "All Resistances +30"
+      ]
+    },
+    "local_image": "images/sets/hwanins-majesty.png"
+  },
+  {
+    "id": "griswolds-legacy",
+    "name": "Griswold's Legacy",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/griswoldsredemption_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Griswold's Redemption•Caduceus",
+        "Griswold's Valor•Corona",
+        "Griswold's Heart•Ornate Plate",
+        "Griswold's Honor•Vortex Shield",
+        "Partial set completion:",
+        "+20 To Strength (2 Items)",
+        "+30 To Dexterity (3 Items)",
+        "Full set completion:",
+        "+3 To Paladin Skill Levels",
+        "+30% Faster Hit Recovery",
+        "+200 To Attack Rating",
+        "+20 To Strength",
+        "+30 To Dexterity",
+        "+150 To Life",
+        "All Resistances +50",
+        "Display Aura"
+      ]
+    },
+    "local_image": "images/sets/griswolds-legacy.png"
+  },
+  {
+    "id": "mavinas-battle-hymn",
+    "name": "M'avina's Battle Hymn",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/mavinascaster_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "M'avina's Caster•Grand Matron Bow",
+        "M'avina's Embrace•Kraken Shell",
+        "M'avina's True Sight•Diadem",
+        "M'avina's Tenet•Sharkskin Belt",
+        "M'avina's Icy Clutch•Battle Gauntlets",
+        "Partial set completion:",
+        "+20 To Strength (2 Items)",
+        "+30 To Dexterity (3 Items)",
+        "Full set completion:",
+        "+3 To Amazon Skill Levels",
+        "+20 To Strength",
+        "+30 To Dexterity",
+        "All Resistances +50",
+        "+100 Defense",
+        "+100 To Attack Rating",
+        "100% Better Chance Of Getting Magic Items",
+        "Display Aura"
+      ]
+    },
+    "local_image": "images/sets/mavinas-battle-hymn.png"
+  },
+  {
+    "id": "bul-kathos-tribal-guardian",
+    "name": "Bul-Kathos' Tribal Guardian",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/bulkathostribalguardian_graphic.png",
+    "type": "Set Item",
+    "base_item": "Mythical Sword",
+    "properties": {
+      "damage": [
+        "1H damage: 120-150"
+      ],
+      "base_speed": null,
+      "durability": 44,
+      "required_strength": 147,
+      "required_dexterity": 124,
+      "required_level": 66,
+      "quality_level": 50,
+      "treasure_class": 87,
+      "magical_properties": [
+        "Elite Set",
+        "+200% Enhanced Damage",
+        "+50 Poison Damage Over 2 Seconds",
+        "Fire Resist +50%",
+        "+20 To Strength",
+        "+20% Increased Attack Speed",
+        "Part of set: Bul-Kathos' Children"
+      ]
+    },
+    "local_image": "images/sets/bul-kathos-tribal-guardian.png"
+  },
+  {
+    "id": "bul-kathos-sacred-charge",
+    "name": "Bul-Kathos' Sacred Charge",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/bulkathossacredcharge_graphic.png",
+    "type": "Set Item",
+    "base_item": "Colossus Blade",
+    "properties": {
+      "damage": [
+        "2H damage: 174-345",
+        "1H damage: 75-195"
+      ],
+      "base_speed": 5,
+      "durability": 50,
+      "required_strength": 189,
+      "required_dexterity": 110,
+      "required_level": 63,
+      "quality_level": 50,
+      "treasure_class": 87,
+      "magical_properties": [
+        "Elite Set",
+        "+200% Enhanced Damage",
+        "35% Chance of Crushing Blow",
+        "All Resistances +20",
+        "+20% Increased Attack Speed",
+        "Knockback (Only if found before 2.7)",
+        "Part of set: Bul-Kathos' Children"
+      ]
+    },
+    "local_image": "images/sets/bul-kathos-sacred-charge.png"
+  },
+  {
+    "id": "tal-rashas-wrappings",
+    "name": "Tal Rasha's Wrappings",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Tal Rasha's Adjudication•Amulet",
+        "Tal Rasha's Lidless Eye•Swirling Crystal",
+        "Tal Rasha's Guardianship•Lacquered Plate",
+        "Tal Rasha's Horadric Crest•Death Mask",
+        "Tal Rasha's Fine-Spun Cloth•Mesh Belt",
+        "Partial set completion:",
+        "Replenish Life +10 (2 Items)",
+        "65% Better Chance Of Getting Magic Items (3 Items)",
+        "25% Faster Hit Recovery (4 Items)",
+        "Full set completion:",
+        "+3 To Sorceress Skill Levels",
+        "Replenish Life +10",
+        "65% Better Chance Of Getting Magic Items",
+        "25% Faster Hit Recovery",
+        "+150 To Life",
+        "All Resistances +50",
+        "+50 Defense vs. Missile",
+        "+150 Defense",
+        "Display Aura"
+      ]
+    },
+    "local_image": "images/sets/tal-rashas-wrappings.png"
+  },
+  {
+    "id": "trang-ouls-claws",
+    "name": "Trang-Oul's Claws",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/trang-oulsclaws_graphic.png",
+    "type": "Set Item",
+    "base_item": "Heavy Bracers",
+    "properties": {
+      "defense": "67-74",
+      "durability": 16,
+      "required_strength": 58,
+      "required_level": 45,
+      "quality_level": 32,
+      "treasure_class": 45,
+      "magical_properties": [
+        "Exceptional Set",
+        "+20% Faster Cast Rate",
+        "Cold Resist +30%",
+        "+30 Defense",
+        "+25% Poison Skill Damage",
+        "+2 To Curses (Necromancer Only)",
+        "Part of set: Trang-Oul's Avatar"
+      ]
+    },
+    "local_image": "images/sets/trang-ouls-claws.png"
+  },
+  {
+    "id": "trang-ouls-avatar",
+    "name": "Trang-Oul's Avatar",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/trang-oulsguise_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Trang-Oul's Guise•Bone Visage",
+        "Trang-Oul's Scales•Chaos Armor",
+        "Trang-Oul's Girth•Troll Belt",
+        "Trang-Oul's Claws•Heavy Bracers",
+        "Trang-Oul's Wing•Cantor Trophy",
+        "Partial set completion:",
+        "+18 To Fire Ball (2 Items)",
+        "Regenerate Mana 15% (2 Items)",
+        "+13 To Fire Wall (3 Items)",
+        "Additional Regenerate Mana 15% (3 Items)",
+        "Additional Regenerate Mana 15% (4 Items)",
+        "+10 To Meteor (4 Items)",
+        "Full set completion:",
+        "+3 To Necromancer Skill Levels",
+        "20% Life Stolen Per Hit",
+        "+3 To Fire Mastery",
+        "+10 To Meteor",
+        "+13 To Fire Wall",
+        "+18 To Fire Ball",
+        "+200 Defense",
+        "+100 To Mana",
+        "Regenerate Mana 60%",
+        "All Resistances +50",
+        "Transforms into Vampire"
+      ]
+    },
+    "local_image": "images/sets/trang-ouls-avatar.png"
+  },
+  {
+    "id": "griswolds-valor",
+    "name": "Griswold's Valor",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/griswoldsvalor_graphic.png",
+    "type": "Set Item",
+    "base_item": "Corona",
+    "properties": {
+      "defense": "249-290",
+      "durability": 50,
+      "required_strength": 105,
+      "required_level": 69,
+      "quality_level": 44,
+      "treasure_class": 87,
+      "magical_properties": [
+        "Elite Set",
+        "+50-75% Enhanced Defense",
+        "All Resistances +5",
+        "20-30% Better Chance Of Getting Magic Items",
+        "Requirements -40%",
+        "+ (0.25 Per Character Level) 0-24 Absorbs Cold Damage (Based On Character Level)",
+        "Socketed (2)",
+        "+2 To Offensive Auras (Paladin Only) (2 set items)",
+        "Part of set: Griswold's Legacy"
+      ]
+    },
+    "local_image": "images/sets/griswolds-valor.png"
+  },
+  {
+    "id": "sanders-paragon",
+    "name": "Sander's Paragon",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sandersparagon_graphic.png",
+    "type": "Set Item",
+    "base_item": "Cap",
+    "properties": {
+      "defense": "4-104",
+      "durability": 12,
+      "required_level": 25,
+      "quality_level": 20,
+      "treasure_class": 3,
+      "magical_properties": [
+        "Normal Set",
+        "+ (1 Per Character Level) 1-99 Defense (Based on Character Level)",
+        "Attacker Takes Damage of 8",
+        "35% Better Chance of Getting Magic Items",
+        "Part of set: Sander's Folly"
+      ]
+    },
+    "local_image": "images/sets/sanders-paragon.png"
+  },
+  {
+    "id": "infernal-torch",
+    "name": "Infernal Torch",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/grimwand_graphic.png",
+    "type": "Set Item",
+    "base_item": "Grim Wand",
+    "properties": {
+      "damage": [
+        "1H damage: 13-14"
+      ],
+      "base_speed": null,
+      "durability": 15,
+      "required_level": 5,
+      "quality_level": 7,
+      "treasure_class": 27,
+      "magical_properties": [
+        "Normal Set",
+        "+1 To Necromancer Skill Levels",
+        "+8 to Min Damage",
+        "+50% Damage to Undead",
+        "+ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level) (2 set items)",
+        "Part of set: Infernal Tools"
+      ]
+    },
+    "local_image": "images/sets/infernal-torch.png"
+  },
+  {
+    "id": "angelic-halo",
+    "name": "Angelic Halo",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/ring2_graphic.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "required_level": 12,
+      "quality_level": 17,
+      "magical_properties": [
+        "Set",
+        "Ring",
+        "Replenish Life +6",
+        "+20 To Life",
+        "+ (12 Per Character Level) 144-1188 Attack Rating (Based On Character Level) (2 set items)",
+        "+50% Better Chance Of Getting Magic Items (3 set items)",
+        "Part of set: Angelic Raiment"
+      ]
+    },
+    "local_image": "images/sets/angelic-halo.png"
+  },
+  {
+    "id": "irathas-cuff",
+    "name": "Iratha's Cuff",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/irathascuff_graphic.png",
+    "type": "Set Item",
+    "base_item": "Light Gauntlets",
+    "properties": {
+      "defense": "9-11",
+      "durability": 18,
+      "required_strength": 45,
+      "required_level": 15,
+      "quality_level": 21,
+      "treasure_class": 21,
+      "magical_properties": [
+        "Normal Set",
+        "Half Freeze Duration",
+        "Cold Resist +30%",
+        "20% Increased Attack Speed (2 set items)",
+        "Part of set: Iratha's Finery"
+      ]
+    },
+    "local_image": "images/sets/irathas-cuff.png"
+  },
+  {
+    "id": "arctic-mitts",
+    "name": "Arctic Mitts",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/arcticmitts_graphic.png",
+    "type": "Set Item",
+    "base_item": "Light Gauntlets",
+    "properties": {
+      "defense": "9-11",
+      "durability": 18,
+      "required_strength": 45,
+      "required_level": 2,
+      "quality_level": 3,
+      "treasure_class": 21,
+      "magical_properties": [
+        "Normal Set",
+        "+20 To Life",
+        "10% Increased Attack Speed",
+        "+50 To Attack Rating (2 set items)",
+        "+10 To Dexterity (3 set items)",
+        "Part of set: Arctic Gear"
+      ]
+    },
+    "local_image": "images/sets/arctic-mitts.png"
+  },
+  {
+    "id": "hwanins-blessing",
+    "name": "Hwanin's Blessing",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hwaninsblessing_graphic.png",
+    "type": "Set Item",
+    "base_item": "Belt",
+    "properties": {
+      "defense": "6-153",
+      "durability": 16,
+      "required_strength": 25,
+      "required_level": 35,
+      "quality_level": 28,
+      "treasure_class": 12,
+      "magical_properties": [
+        "Normal Set",
+        "Belt boxes: 12",
+        "+ (1.5 Per Character Level) 1-148 Defense (Based on Character Level)",
+        "Adds 3-33 Lightning Damage",
+        "Prevent Monster Heal",
+        "12% Damage Taken Goes To Mana",
+        "Part of set: Hwanin's Majesty"
+      ]
+    },
+    "local_image": "images/sets/hwanins-blessing.png"
+  },
+  {
+    "id": "hsarus-iron-stay",
+    "name": "Hsarus' Iron Stay",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hsarusironstay_graphic.png",
+    "type": "Set Item",
+    "base_item": "Belt",
+    "properties": {
+      "defense": "5",
+      "durability": 16,
+      "required_strength": 25,
+      "required_level": 3,
+      "quality_level": 4,
+      "treasure_class": 12,
+      "magical_properties": [
+        "Normal Set",
+        "Belt boxes: 12",
+        "Cold Resist +20%",
+        "+20 to Life",
+        "+ (2.5 Per Character Level) 2-247 Defense (Based On Character Level) (2 set items)",
+        "Part of set: Hsarus' Defense"
+      ]
+    },
+    "local_image": "images/sets/hsarus-iron-stay.png"
+  },
+  {
+    "id": "milabregas-diadem",
+    "name": "Milabrega's Diadem",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/milabregasdiadem_graphic.png",
+    "type": "Set Item",
+    "base_item": "Crown",
+    "properties": {
+      "defense": "25-45",
+      "durability": 50,
+      "required_strength": 55,
+      "required_level": 17,
+      "quality_level": 23,
+      "treasure_class": 30,
+      "magical_properties": [
+        "Normal Set",
+        "+15 to Mana",
+        "+15 to Life",
+        "Cold Resist +40% (2 set items)",
+        "Part of set: Milabrega's Regalia"
+      ]
+    },
+    "local_image": "images/sets/milabregas-diadem.png"
+  },
+  {
+    "id": "irathas-coil",
+    "name": "Iratha's Coil",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/irathascoil_graphic.png",
+    "type": "Set Item",
+    "base_item": "Crown",
+    "properties": {
+      "defense": "25-45",
+      "durability": 50,
+      "required_strength": 55,
+      "required_level": 15,
+      "quality_level": 21,
+      "treasure_class": 30,
+      "magical_properties": [
+        "Normal Set",
+        "Lightning Resist +30%",
+        "Fire Resist +30%",
+        "+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 set items)",
+        "Part of set: Iratha's Finery"
+      ]
+    },
+    "local_image": "images/sets/irathas-coil.png"
+  },
+  {
+    "id": "irathas-cord",
+    "name": "Iratha's Cord",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/irathascord_graphic.png",
+    "type": "Set Item",
+    "base_item": "Heavy Belt",
+    "properties": {
+      "defense": "31",
+      "durability": 18,
+      "required_strength": 45,
+      "required_level": 15,
+      "quality_level": 21,
+      "treasure_class": 21,
+      "magical_properties": [
+        "Normal Set",
+        "Belt boxes: 12",
+        "+25 Defense",
+        "+5 To Minimum Damage",
+        "+10 To Dexterity (2 set items)",
+        "Part of set: Iratha's Finery"
+      ]
+    },
+    "local_image": "images/sets/irathas-cord.png"
+  },
+  {
+    "id": "infernal-sign",
+    "name": "Infernal Sign",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/infernalbuckle_graphic.png",
+    "type": "Set Item",
+    "base_item": "Heavy Belt",
+    "properties": {
+      "defense": "31",
+      "durability": 18,
+      "required_strength": 45,
+      "required_level": 5,
+      "quality_level": 7,
+      "treasure_class": 21,
+      "magical_properties": [
+        "Normal Set",
+        "Belt boxes: 12",
+        "+25 Defense",
+        "+20 to Life",
+        "Poison Resist +25% (2 set items)",
+        "Half Freeze Duration (3 set items)",
+        "Part of set: Infernal Tools"
+      ]
+    },
+    "local_image": "images/sets/infernal-sign.png"
+  },
+  {
+    "id": "telling-of-beads",
+    "name": "Telling of Beads",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_graphic.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "required_level": 30,
+      "quality_level": 39,
+      "magical_properties": [
+        "Set",
+        "Amulet",
+        "+1 To All Skills",
+        "Poison Resist +35-50%",
+        "Cold Resist +18%",
+        "Attacker Takes Damage of 8-10",
+        "Part of set: The Disciple"
+      ]
+    },
+    "local_image": "images/sets/telling-of-beads.png"
+  },
+  {
+    "id": "tancreds-weird",
+    "name": "Tancred's Weird",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu3_graphic.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "required_level": 20,
+      "quality_level": 27,
+      "magical_properties": [
+        "Set",
+        "Amulet",
+        "Damage Reduced by 2",
+        "Magic Damage Reduced by 1",
+        "+78% Better Chance Of Getting Magic Items (2 set items)",
+        "+60 To Attack Rating (3 set items)",
+        "Part of set: Tancred's Battlegear"
+      ]
+    },
+    "local_image": "images/sets/tancreds-weird.png"
+  },
+  {
+    "id": "irathas-collar",
+    "name": "Iratha's Collar",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu1_graphic.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "required_level": 15,
+      "quality_level": 21,
+      "magical_properties": [
+        "Set",
+        "Amulet",
+        "Poison Length Reduced by 75%",
+        "Poison Resist +30%",
+        "All Resistances +15 (2 set items)",
+        "Part of set: Iratha's Finery"
+      ]
+    },
+    "local_image": "images/sets/irathas-collar.png"
+  },
+  {
+    "id": "arcannas-sign",
+    "name": "Arcanna's Sign",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu3_graphic.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "required_level": 15,
+      "quality_level": 20,
+      "magical_properties": [
+        "Set",
+        "Amulet",
+        "Regenerate Mana 20%",
+        "+15 to Mana",
+        "+50% Better Chance To Find Magic Items (2 set items)",
+        "Fire Resist +20% (3 set items)",
+        "Part of set: Arcanna's Tricks"
+      ]
+    },
+    "local_image": "images/sets/arcannas-sign.png"
+  },
+  {
+    "id": "vidalas-snare",
+    "name": "Vidala's Snare",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_graphic.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "required_level": 14,
+      "quality_level": 19,
+      "magical_properties": [
+        "Set",
+        "Amulet",
+        "Cold Resist 20%",
+        "+15 To Life",
+        "50% Better Chance Of Getting Magic Items (2 Items) (2 set items)",
+        "Part of set: Vidala's Rig"
+      ]
+    },
+    "local_image": "images/sets/vidalas-snare.png"
+  },
+  {
+    "id": "angelic-wings",
+    "name": "Angelic Wings",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_graphic.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "required_level": 12,
+      "quality_level": 17,
+      "magical_properties": [
+        "Set",
+        "Amulet",
+        "20% Damage Taken Goes to Mana",
+        "+3 To Light Radius",
+        "+75 Life (2 set items)",
+        "+1 To All Skills (3 set items)",
+        "Part of set: Angelic Raiment"
+      ]
+    },
+    "local_image": "images/sets/angelic-wings.png"
+  },
+  {
+    "id": "cathans-sigil",
+    "name": "Cathan's Sigil",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu1_graphic.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "required_level": 11,
+      "quality_level": 15,
+      "magical_properties": [
+        "Set",
+        "Amulet",
+        "Attacker Takes Lightning Damage of 5",
+        "10% Faster Hit Recovery",
+        "+50 To Attack Rating (2 set items)",
+        "+25% Better Chance of Getting Magic Items (3 set items)",
+        "Part of set: Cathan's Traps"
+      ]
+    },
+    "local_image": "images/sets/cathans-sigil.png"
+  },
+  {
+    "id": "civerbs-icon",
+    "name": "Civerb's Icon",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu1_graphic.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "required_level": 9,
+      "quality_level": 13,
+      "magical_properties": [
+        "Set",
+        "Amulet",
+        "Replenish Life +4",
+        "Regenerate Mana 40%",
+        "Cold Resist +25% (2 set items)",
+        "+25 Defense (completed set items)",
+        "Part of set: Civerb's Vestments"
+      ]
+    },
+    "local_image": "images/sets/civerbs-icon.png"
+  },
+  {
+    "id": "infernal-cranium",
+    "name": "Infernal Cranium",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/infernalcranium_graphic.png",
+    "type": "Set Item",
+    "base_item": "Cap",
+    "properties": {
+      "defense": "3-5",
+      "durability": 12,
+      "required_level": 5,
+      "quality_level": 7,
+      "treasure_class": 3,
+      "magical_properties": [
+        "Normal Set",
+        "20% Damage Taken Goes to Mana",
+        "All Resistances +10",
+        "+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 set items)",
+        "Part of set: Infernal Tools"
+      ]
+    },
+    "local_image": "images/sets/infernal-cranium.png"
+  },
+  {
+    "id": "mavinas-tenet",
+    "name": "M'avina's Tenet",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/mavinastenet_graphic.png",
+    "type": "Set Item",
+    "base_item": "Sharkskin Belt",
+    "properties": {
+      "defense": "81-86",
+      "durability": 14,
+      "required_strength": 20,
+      "required_level": 45,
+      "quality_level": 21,
+      "treasure_class": 39,
+      "magical_properties": [
+        "Exceptional Set",
+        "Belt boxes: 16",
+        "+50 Defense",
+        "+20% Faster Run/Walk",
+        "+5 To Light Radius",
+        "5% Mana Stolen Per Hit",
+        "All Resistances +25 (4 set items)",
+        "Part of set: M'avina's Battle Hymn"
+      ]
+    },
+    "local_image": "images/sets/mavinas-tenet.png"
+  },
+  {
+    "id": "mavinas-caster",
+    "name": "M'avina's Caster",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/mavinascaster_graphic.png",
+    "type": "Set Item",
+    "base_item": "Grand Matron Bow",
+    "properties": {
+      "damage": [
+        "2H damage: 40-207"
+      ],
+      "base_speed": 10,
+      "required_strength": 108,
+      "required_dexterity": 152,
+      "required_level": 70,
+      "quality_level": 21,
+      "treasure_class": 78,
+      "magical_properties": [
+        "Elite Set",
+        "+188% Enhanced Damage",
+        "+40% Increased Attack Speed",
+        "+50 To Attack Rating",
+        "Fires Magic Arrows [Level 1]",
+        "Adds 114-377 Magic Damage (2 set items)",
+        "10% Chance To Cast Level 15 Nova On Striking (3 set items)",
+        "+2 To Bow and Crossbow Skills (Amazon Only) (4 set items)",
+        "Part of set: M'avina's Battle Hymn",
+        "Amazon equip only"
+      ]
+    },
+    "local_image": "images/sets/mavinas-caster.png"
+  },
+  {
+    "id": "trang-ouls-wing",
+    "name": "Trang-Oul's Wing",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/trang-oulswing_graphic.png",
+    "type": "Set Item",
+    "base_item": "Cantor Trophy",
+    "properties": {
+      "defense": "175-189",
+      "durability": 20,
+      "required_strength": 50,
+      "required_level": 54,
+      "quality_level": 32,
+      "treasure_class": 51,
+      "magical_properties": [
+        "Exceptional Set",
+        "Base block: 60",
+        "+125 Defense",
+        "+30% Increased Chance Of Blocking",
+        "Poison Resist +40%",
+        "Fire Resist +38-45%",
+        "+15 To Dexterity",
+        "+25 To Strength",
+        "+2 To Poison And Bone Skills (Necromancer Only)",
+        "-25% To Enemy Poison Resistance (3 set items)",
+        "Replenish Life +15 (4 set items)",
+        "Part of set: Trang-Oul's Avatar",
+        "Necromancer equip only"
+      ]
+    },
+    "local_image": "images/sets/trang-ouls-wing.png"
+  },
+  {
+    "id": "infernal-tools",
+    "name": "Infernal Tools",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/infernalbuckle_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Infernal Sign•Heavy Belt",
+        "Infernal Torch•Grim Wand",
+        "Infernal Cranium•Cap",
+        "Partial set completion:",
+        "+8 Poison Damage Over 3 Seconds (2 Items)",
+        "Full set completion:",
+        "+8 Poison Damage Over 3 Seconds",
+        "20% Chance of Open Wounds",
+        "+1 to Necromancer Skill Levels",
+        "20% Bonus to Attack Rating",
+        "6% Mana Stolen Per Hit",
+        "Maximum Mana 20%",
+        "Cannot Be Frozen",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/sets/infernal-tools.png"
+  },
+  {
+    "id": "trang-ouls-girth",
+    "name": "Trang-Oul's Girth",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/trang-oulsgirth_graphic.png",
+    "type": "Set Item",
+    "base_item": "Troll Belt",
+    "properties": {
+      "defense": "134-166",
+      "durability": 18,
+      "required_strength": 91,
+      "required_level": 62,
+      "quality_level": 32,
+      "treasure_class": 84,
+      "magical_properties": [
+        "Elite Set",
+        "+75-100 Defense",
+        "Requirements -40%",
+        "Cannot Be Frozen",
+        "Replenish Life +5",
+        "+25-50 To Mana",
+        "+30 Maximum Stamina",
+        "+66 To Life",
+        "Cold Resist +40% (3 set items)",
+        "Part of set: Trang-Oul's Avatar"
+      ]
+    },
+    "local_image": "images/sets/trang-ouls-girth.png"
+  },
+  {
+    "id": "irathas-finery",
+    "name": "Iratha's Finery",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/irathascoil_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Iratha's Coil•Crown",
+        "Iratha's Cuff•Light Gauntlets",
+        "Iratha's Cord•Heavy Belt",
+        "Iratha's Collar•Amulet",
+        "Partial set completion:",
+        "+50 To Defense (2 Items)",
+        "20% Faster Run/Walk (3 Items)",
+        "+24% Piercing Attack (3 Items)",
+        "Full set completion:",
+        "+50 To Defense",
+        "20% Faster Run/Walk",
+        "+15 To Dexterity",
+        "10% To Maximum Poison Resist",
+        "10% To Maximum Cold Resist",
+        "10% To Maximum Lightning Resist",
+        "10% To Maximum Fire Resist",
+        "All Resistances +20",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/sets/irathas-finery.png"
+  },
+  {
+    "id": "immortal-kings-stone-crusher",
+    "name": "Immortal King's Stone Crusher",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/maul_graphic.png",
+    "type": "Set Item",
+    "base_item": "Ogre Maul",
+    "properties": {
+      "damage": [
+        "2H damage: 231-318"
+      ],
+      "base_speed": 10,
+      "required_strength": 225,
+      "required_level": 76,
+      "quality_level": 37,
+      "treasure_class": 69,
+      "magical_properties": [
+        "Elite Set",
+        "+200% Enhanced Damage",
+        "+200% Damage To Demons",
+        "+250% Damage To Undead",
+        "40% Increased Attack Speed",
+        "Indestructible",
+        "35-40% Chance Of Crushing Blow",
+        "Socketed (2)",
+        "Adds 211-397 Fire Damage (2 set items)",
+        "Adds 7-477 Lightning Damage (3 set items)",
+        "Adds 127-364 Cold Damage, 6 sec. Duration (Normal) (4 set items)",
+        "+204 Poison Damage Over 6 Seconds (5 set items)",
+        "Adds 250-361 Magic Damage (completed set items)",
+        "Part of set: Immortal King"
+      ]
+    },
+    "local_image": "images/sets/immortal-kings-stone-crusher.png"
+  },
+  {
+    "id": "tal-rashas-horadric-crest",
+    "name": "Tal Rasha's Horadric Crest",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/mask_graphic.png",
+    "type": "Set Item",
+    "base_item": "Death Mask",
+    "properties": {
+      "defense": "99-131",
+      "durability": 20,
+      "required_strength": 55,
+      "required_level": 66,
+      "quality_level": 26,
+      "treasure_class": 48,
+      "magical_properties": [
+        "Exceptional Set",
+        "10% Life Stolen Per Hit",
+        "10% Mana Stolen Per Hit",
+        "All Resistances +15",
+        "+45 Defense",
+        "+30 To Mana",
+        "+60 To Life",
+        "Part of set: Tal Rasha's Wrappings"
+      ]
+    },
+    "local_image": "images/sets/tal-rashas-horadric-crest.png"
+  },
+  {
+    "id": "arctic-gear",
+    "name": "Arctic Gear",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/arcticmitts_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Arctic Mitts•Light Gauntlets",
+        "Arctic Binding•Light Belt",
+        "Arctic Furs•Quilted Armor",
+        "Arctic Horn•Short War Bow",
+        "Partial set completion:",
+        "+5 To Strength (2 Items)",
+        "+50 To Life (3 Items)",
+        "Full set completion:",
+        "+5 To Strength",
+        "+50 To Life",
+        "Cannot Be Frozen",
+        "+2-198 to Maximum Cold Damage (+2 Per Character Level)",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/sets/arctic-gear.png"
+  },
+  {
+    "id": "immortal-king",
+    "name": "Immortal King",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/maul_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Immortal King's Stone Crusher•Ogre Maul",
+        "Immortal King's Detail•War Belt",
+        "Immortal King's Will•Avenger Guard",
+        "Immortal King's Soul Cage•Sacred Armor",
+        "Immortal King's Forge•War Gauntlets",
+        "Immortal King's Pillar•War Boots",
+        "Partial set completion:",
+        "+50 To Attack Rating (2 Items)",
+        "Additional +75 To Attack Rating (3 Items)",
+        "Additional +125 To Attack Rating (4 Items)",
+        "Additional +200 To Attack Rating (5 Items)",
+        "Full set completion:",
+        "+3 To Barbarian Skill Levels",
+        "+450 To Attack Rating",
+        "+150 To Life",
+        "All Resistances +50",
+        "Magic Damage Reduced By 10",
+        "Display Aura"
+      ]
+    },
+    "local_image": "images/sets/immortal-king.png"
+  },
+  {
+    "id": "aldurs-deception",
+    "name": "Aldur's Deception",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/aldursdeception_graphic.png",
+    "type": "Set Item",
+    "base_item": "Shadow Plate",
+    "properties": {
+      "defense": "746-857",
+      "durability": 70,
+      "required_strength": 115,
+      "required_level": 76,
+      "quality_level": 29,
+      "treasure_class": 84,
+      "magical_properties": [
+        "Elite Set",
+        "+300 Defense",
+        "Requirements -50%",
+        "Lightning Resist +40-50%",
+        "+15 To Dexterity",
+        "+20 To Strength",
+        "+1 To Elemental Skills (Druid Only)",
+        "+1 To Shape Shifting Skills (Druid Only)",
+        "+15 To Vitality (2 set items)",
+        "+15 To Vitality (3 set items)",
+        "+15 To Vitality (completed set items)",
+        "Part of set: Aldur's Watchtower"
+      ]
+    },
+    "local_image": "images/sets/aldurs-deception.png"
+  },
+  {
+    "id": "aldurs-stony-gaze",
+    "name": "Aldur's Stony Gaze",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/aldursstoneygaze_graphic.png",
+    "type": "Set Item",
+    "base_item": "Hunter's Guise",
+    "properties": {
+      "defense": "157-171",
+      "durability": 20,
+      "required_strength": 56,
+      "required_level": 36,
+      "quality_level": 29,
+      "treasure_class": 48,
+      "magical_properties": [
+        "Exceptional Set",
+        "+90 Defense",
+        "25% Faster Hit Recovery",
+        "Regenerate Mana 17%",
+        "Cold Resist +40-50%",
+        "Socketed (2)",
+        "+5 To Light Radius",
+        "+15 To Energy (2 set items)",
+        "+15 To Energy (3 set items)",
+        "+15 To Energy (completed set items)",
+        "Part of set: Aldur's Watchtower",
+        "Druid equip only"
+      ]
+    },
+    "local_image": "images/sets/aldurs-stony-gaze.png"
+  },
+  {
+    "id": "aldurs-watchtower",
+    "name": "Aldur's Watchtower",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/aldursrythm_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Aldur's Rhythm•Jagged Star",
+        "Aldur's Stony Gaze•Hunter's Guise",
+        "Aldur's Deception•Shadow Plate",
+        "Aldur's Advance•Battle Boots",
+        "Partial set completion:",
+        "150% Bonus To Attack Rating (2 Items)",
+        "50% Better Chance Of Getting Magic Items (3 Items)",
+        "Full set completion:",
+        "+3 To Druid Skills",
+        "+350% Enhanced Damage",
+        "150% Bonus To Attack Rating",
+        "50% Better Chance Of Getting Magic Items",
+        "10% Mana Stolen Per Hit",
+        "All Resistances +50",
+        "+150 Defense",
+        "+150 To Mana",
+        "Display Aura"
+      ]
+    },
+    "local_image": "images/sets/aldurs-watchtower.png"
+  },
+  {
+    "id": "sigons-guard",
+    "name": "Sigon's Guard",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sigonsguard_graphic.png",
+    "type": "Set Item",
+    "base_item": "Tower Shield",
+    "properties": {
+      "defense": "22-25",
+      "durability": 60,
+      "required_strength": 75,
+      "required_dexterity": 60,
+      "required_level": 6,
+      "quality_level": 9,
+      "treasure_class": 24,
+      "magical_properties": [
+        "Normal Set",
+        "Paladin smite dmg: 1-5",
+        "+1 to All Skills",
+        "+20% Increased Chance To Block",
+        "Part of set: Sigon's Complete Steel"
+      ]
+    },
+    "local_image": "images/sets/sigons-guard.png"
+  },
+  {
+    "id": "tal-rashas-lidless-eye",
+    "name": "Tal Rasha's Lidless Eye",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/talrashaslidlesseye_graphic.png",
+    "type": "Set Item",
+    "base_item": "Swirling Crystal",
+    "properties": {
+      "damage": [
+        "1H damage: 18-42"
+      ],
+      "base_speed": 10,
+      "durability": 50,
+      "required_level": 65,
+      "quality_level": 26,
+      "treasure_class": 51,
+      "magical_properties": [
+        "Exceptional Set",
+        "20% Faster Cast Rate",
+        "+77 To Mana",
+        "+57 To Life",
+        "+10 To Energy",
+        "+1-2 To Lightning Mastery (Sorceress Only)",
+        "+1-2 To Fire Mastery (Sorceress Only)",
+        "+1-2 To Cold Mastery (Sorceress Only)",
+        "+1 To Sorceress Skill Levels (2 set items)",
+        "-15% To Enemy Fire Resistance (3 set items)",
+        "-15% To Enemy Lightning Resistance (4 set items)",
+        "+15% To Cold Skill Damage (completed set items)",
+        "Part of set: Tal Rasha's Wrappings",
+        "Sorceress equip only"
+      ]
+    },
+    "local_image": "images/sets/tal-rashas-lidless-eye.png"
+  },
+  {
+    "id": "natalyas-shadow",
+    "name": "Natalya's Shadow",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/natalyasshadow_graphic.png",
+    "type": "Set Item",
+    "base_item": "Loricated Mail",
+    "properties": {
+      "defense": "540-721",
+      "durability": 36,
+      "required_strength": 149,
+      "required_level": 73,
+      "quality_level": 22,
+      "treasure_class": 75,
+      "magical_properties": [
+        "Elite Set",
+        "+150-225 Defense",
+        "+ (1 Per Character Level) 1-99 To Life (Based On Character Level)",
+        "Poison Length Reduced By 75%",
+        "Poison Resist +25%",
+        "+2 To Shadow Disciplines Skills (Assassin Only)",
+        "Socketed (1-3)",
+        "Part of set: Natalya's Odium"
+      ]
+    },
+    "local_image": "images/sets/natalyas-shadow.png"
+  },
+  {
+    "id": "natalyas-mark",
+    "name": "Natalya's Mark",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/natalyasmark_graphic.png",
+    "type": "Set Item",
+    "base_item": "Scissors Suwayyah",
+    "properties": {
+      "damage": [
+        "1H damage: 120-153"
+      ],
+      "base_speed": null,
+      "durability": 68,
+      "required_strength": 118,
+      "required_dexterity": 118,
+      "required_level": 79,
+      "quality_level": 22,
+      "treasure_class": 87,
+      "magical_properties": [
+        "Elite Set",
+        "+200% Enhanced Damage",
+        "+200% Damage To Undead",
+        "+200% Damage To Demons",
+        "Adds 12-17 Fire Damage",
+        "Ignores Target's Defense",
+        "40% Increased Attack Speed",
+        "+50 Cold Damage, 4 sec. Duration",
+        "Part of set: Natalya's Odium",
+        "Assassin equip only"
+      ]
+    },
+    "local_image": "images/sets/natalyas-mark.png"
+  },
+  {
+    "id": "sigons-gage",
+    "name": "Sigon's Gage",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sigonsgauntlets_graphic.png",
+    "type": "Set Item",
+    "base_item": "Gauntlets",
+    "properties": {
+      "defense": "12-15",
+      "durability": 24,
+      "required_strength": 60,
+      "required_level": 6,
+      "quality_level": 9,
+      "treasure_class": 27,
+      "magical_properties": [
+        "Normal Set",
+        "+20 to Attack Rating",
+        "+10 to Strength",
+        "30% Increased Attack Speed (2 Items) (2 set items)",
+        "Part of set: Sigon's Complete Steel"
+      ]
+    },
+    "local_image": "images/sets/sigons-gage.png"
+  },
+  {
+    "id": "sigons-complete-steel",
+    "name": "Sigon's Complete Steel",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sigonsshelter_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Sigon's Shelter•Gothic Plate",
+        "Sigon's Visor•Great Helm",
+        "Sigon's Guard•Tower Shield",
+        "Sigon's Gage•Gauntlets",
+        "Sigon's Sabot•Greaves",
+        "Sigon's Wrap•Plated Belt",
+        "Partial set completion:",
+        "+10% Life Stolen Per Hit (2 Items)",
+        "+100 Defense (3 Items)",
+        "Full set completion:",
+        "+10% Life Stolen Per Hit",
+        "+100 Defense",
+        "+20 To Mana",
+        "Fire Resist +12%",
+        "+24 To Max Fire Damage",
+        "Attacker Takes Damage of 12",
+        "Damage Reduced By 7"
+      ]
+    },
+    "local_image": "images/sets/sigons-complete-steel.png"
+  },
+  {
+    "id": "mavinas-icy-clutch",
+    "name": "M'avina's Icy Clutch",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/mavinasicyclutch_graphic.png",
+    "type": "Set Item",
+    "base_item": "Battle Gauntlets",
+    "properties": {
+      "defense": "84-97",
+      "durability": 18,
+      "required_strength": 88,
+      "required_level": 32,
+      "quality_level": 21,
+      "treasure_class": 51,
+      "magical_properties": [
+        "Exceptional Set",
+        "+45-50 Defense",
+        "6-18 Cold Damage, 6 sec. Duration",
+        "Half Freeze Duration",
+        "56% Extra Gold From Monsters",
+        "+10 To Strength",
+        "+15 To Dexterity",
+        "Adds 131-252 Cold Damage, 4 sec. Duration (Normal) (4 set items)",
+        "+20% To Cold Skill Damage (completed set items)",
+        "Part of set: M'avina's Battle Hymn"
+      ]
+    },
+    "local_image": "images/sets/mavinas-icy-clutch.png"
+  },
+  {
+    "id": "civerbs-vestments",
+    "name": "Civerb's Vestments",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/grandscepter_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Civerb's Cudgel•Grand Scepter",
+        "Civerb's Ward•Large Shield",
+        "Civerb's Icon•Amulet",
+        "Partial set completion:",
+        "Fire Resist +25% (2 Items)",
+        "Full set completion:",
+        "+200% Damage to Undead",
+        "+15 To Strength",
+        "Fire Resist +15%",
+        "Lightning Resist +25%",
+        "25% Bonus to Attack Rating",
+        "4-396 Defense (+4 Per Character Level)",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/sets/civerbs-vestments.png"
+  },
+  {
+    "id": "angelic-sickle",
+    "name": "Angelic Sickle",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/angelicsickle_graphic.png",
+    "type": "Set Item",
+    "base_item": "Sabre",
+    "properties": {
+      "damage": [
+        "1H damage: 3-8"
+      ],
+      "base_speed": -10,
+      "durability": 32,
+      "required_strength": 25,
+      "required_dexterity": 25,
+      "required_level": 12,
+      "quality_level": 17,
+      "treasure_class": 9,
+      "magical_properties": [
+        "Normal Set",
+        "+250% Damage to Undead",
+        "+75 To Attack Rating",
+        "+75% Enhanced Damage (2 set items)",
+        "30% Increased Attack Speed (3 set items)",
+        "Part of set: Angelic Raiment"
+      ]
+    },
+    "local_image": "images/sets/angelic-sickle.png"
+  },
+  {
+    "id": "cow-kings-leathers",
+    "name": "Cow King's Leathers",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/cap_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Cow King's Horns•War Hat",
+        "Cow King's Hide•Studded Leather",
+        "Cow King's Hooves•Heavy Boots",
+        "Partial set completion:",
+        "Poison Resist +25% (2 items)",
+        "5-495 Defense (+5 Per Character Level) (2 Items)",
+        "Full set completion:",
+        "Poison Resist +25%",
+        "25% Chance To Cast Level 5 Static Field When Struck",
+        "+100 Maximum Stamina",
+        "+20 To Strength",
+        "+30% Increased Attack Speed",
+        "100% Better Chance Of Getting Magic Items",
+        "100% Extra Gold From Monsters",
+        "+100 to Life",
+        "+1 To All Skills",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/sets/cow-kings-leathers.png"
+  },
+  {
+    "id": "whitstans-guard",
+    "name": "Whitstan's Guard",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/whitstansguard_graphic.png",
+    "type": "Set Item",
+    "base_item": "Round Shield",
+    "properties": {
+      "defense": "154",
+      "durability": 64,
+      "required_strength": 53,
+      "required_level": 29,
+      "quality_level": 41,
+      "treasure_class": 39,
+      "magical_properties": [
+        "Exceptional Set",
+        "Class block: Pal: 97%",
+        "Ama/Asn/Bar: 92%",
+        "Dru/Nec/Sor: 87%",
+        "Paladin smite dmg: 7-14",
+        "+175% Enhanced Defense",
+        "Half Freeze Duration",
+        "40% Faster Block Rate",
+        "+55% Increased Chance Of Blocking",
+        "+5 To Light Radius",
+        "Part of set: Orphan's Call"
+      ]
+    },
+    "local_image": "images/sets/whitstans-guard.png"
+  },
+  {
+    "id": "cow-kings-hide",
+    "name": "Cow King's Hide",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/studdedleather_graphic.png",
+    "type": "Set Item",
+    "base_item": "Studded Leather",
+    "properties": {
+      "defense": "57",
+      "durability": 32,
+      "required_strength": 27,
+      "required_level": 18,
+      "quality_level": 20,
+      "treasure_class": 9,
+      "magical_properties": [
+        "Normal Set",
+        "+60% Enhanced Defense",
+        "18% Chance To Cast Level 5 Chain Lightning When Struck",
+        "All Resistances +18",
+        "+30 To Life",
+        "Part of set: Cow King's Leathers"
+      ]
+    },
+    "local_image": "images/sets/cow-kings-hide.png"
+  },
+  {
+    "id": "cow-kings-horns",
+    "name": "Cow King's Horns",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/cap_graphic.png",
+    "type": "Set Item",
+    "base_item": "War Hat",
+    "properties": {
+      "defense": "120-128",
+      "durability": 12,
+      "required_strength": 20,
+      "required_level": 25,
+      "quality_level": 20,
+      "treasure_class": 36,
+      "magical_properties": [
+        "Exceptional Set",
+        "+75 Defense",
+        "Half Freeze Duration",
+        "Attacker Takes Damage of 10",
+        "35% Damage Taken Goes To Mana",
+        "Part of set: Cow King's Leathers"
+      ]
+    },
+    "local_image": "images/sets/cow-kings-horns.png"
+  },
+  {
+    "id": "natalyas-odium",
+    "name": "Natalya's Odium",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/natalyasmark_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Natalya's Mark•Scissors Suwayyah",
+        "Natalya's Shadow•Loricated Mail",
+        "Natalya's Totem•Grim Helm",
+        "Natalya's Soul•Mesh Boots",
+        "Partial set completion:",
+        "Magic Damage Reduced By 15 (2 Items)",
+        "+200 Defense (3 Items)",
+        "Full set completion:",
+        "+3 To Assassin Skill Levels",
+        "+350 Defense",
+        "14% Life Stolen Per Hit",
+        "14% Mana Stolen Per Hit",
+        "All Resistances +50",
+        "Damage Reduced by 30%",
+        "Magic Damage Reduced By 15",
+        "Fade*"
+      ]
+    },
+    "local_image": "images/sets/natalyas-odium.png"
+  },
+  {
+    "id": "vidalas-rig",
+    "name": "Vidala's Rig",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Vidala's Snare•Amulet",
+        "Vidala's Ambush•Leather Armor",
+        "Vidala's Fetlock•Light Plated Boots",
+        "Vidala's Barb•Long Battle Bow",
+        "Partial set completion:",
+        "+75 To Attack Rating (2 Items)",
+        "7% Mana Stolen Per Hit (2 Items)",
+        "+15 To Dexterity (3 Items)",
+        "Full set completion:",
+        "+75 To Attack Rating",
+        "+1-148 to Maximum Cold Damage (+1.5 Per Character Level)",
+        "Piercing Attack [50]",
+        "Freezes Target",
+        "+15 To Dexterity",
+        "+10 To Strength",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/sets/vidalas-rig.png"
+  },
+  {
+    "id": "vidalas-ambush",
+    "name": "Vidala's Ambush",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/vidalasambush_graphic.png",
+    "type": "Set Item",
+    "base_item": "Leather Armor",
+    "properties": {
+      "defense": "64-67",
+      "durability": 24,
+      "required_strength": 15,
+      "required_level": 14,
+      "quality_level": 19,
+      "treasure_class": 3,
+      "magical_properties": [
+        "Normal Set",
+        "+50 Defense",
+        "+11 to Dexterity",
+        "+24% Fire Resist (2 Items) (2 set items)",
+        "+ (2.5 Per Character Level) +2-247 Defense (Based On Character Level) (3 Items) (3 set items)",
+        "Part of set: Vidala's Rig"
+      ]
+    },
+    "local_image": "images/sets/vidalas-ambush.png"
+  },
+  {
+    "id": "milabregas-regalia",
+    "name": "Milabrega's Regalia",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/warscepter_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Milabrega's Rod•War Scepter",
+        "Milabrega's Robe•Ancient Armor",
+        "Milabrega's Diadem•Crown",
+        "Milabrega's Orb•Kite Shield",
+        "Partial set completion:",
+        "+75 To Attack Rating (2 Items)",
+        "+2-198 To Lightning Damage (+2 Per Character Level) (2 Items)",
+        "+125 To Attack Rating (3 Items)",
+        "Cannot Be Frozen (3 Items)",
+        "Full set completion:",
+        "+200 To Attack Rating",
+        "+2 to Paladin Skill Levels",
+        "8% Life Stolen Per Hit",
+        "10% Mana Stolen Per Hit",
+        "Poison Resist +15%",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/sets/milabregas-regalia.png"
+  },
+  {
+    "id": "arcannas-tricks",
+    "name": "Arcanna's Tricks",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu3_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Arcanna's Sign•Amulet",
+        "Arcanna's Head•Skull Cap",
+        "Arcanna's Flesh•Light Plate",
+        "Arcanna's Deathwand•War Staff",
+        "Partial set completion:",
+        "+50 To Mana (2 Items)",
+        "+50 To Life (3 Items)",
+        "Regenerate Mana 12% (3 Items)",
+        "Full set completion:",
+        "+50 To Mana",
+        "+50 To Life",
+        "20% Faster Cast Rate",
+        "5% Mana Stolen Per Hit",
+        "+1 To All Skills",
+        "Data updated for 2.4"
+      ]
+    },
+    "local_image": "images/sets/arcannas-tricks.png"
+  },
+  {
+    "id": "heavens-brethren",
+    "name": "Heaven's Brethren",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/dangoonsteaching_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Dangoon's Teaching•Reinforced Mace",
+        "Haemosu's Adamant•Cuirass",
+        "Taebaek's Glory•Ward",
+        "Ondal's Almighty•Spired Helm",
+        "Partial set completion:",
+        "Heal Stamina Plus 50% (2 Items)",
+        "Replenish Life +20 (3 Items)",
+        "Full set completion:",
+        "+2 To All Skills",
+        "Replenish Life +20",
+        "Heal Stamina Plus 50%",
+        "All Resistances +50",
+        "Cannot Be Frozen",
+        "+5 To Light Radius"
+      ]
+    },
+    "local_image": "images/sets/heavens-brethren.png"
+  },
+  {
+    "id": "dark-adherent",
+    "name": "Dark Adherent",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/darkadherent_graphic.png",
+    "type": "Set Item",
+    "base_item": "Dusk Shroud",
+    "properties": {
+      "defense": "666-882",
+      "durability": 20,
+      "required_strength": 77,
+      "required_level": 49,
+      "quality_level": 39,
+      "treasure_class": 66,
+      "magical_properties": [
+        "Elite Set",
+        "+305-415 Defense",
+        "Fire Resist +24%",
+        "25% Chance To Cast Level 3 Nova When Struck",
+        "Adds 24-34 Poison Damage Over 2 Seconds",
+        "Part of set: The Disciple"
+      ]
+    },
+    "local_image": "images/sets/dark-adherent.png"
+  },
+  {
+    "id": "najs-puzzler",
+    "name": "Naj's Puzzler",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/lazarusspire_graphic.png",
+    "type": "Set Item",
+    "base_item": "Elder Staff",
+    "properties": {
+      "damage": [
+        "2H damage: 200-232"
+      ],
+      "base_speed": null,
+      "durability": 35,
+      "required_strength": 44,
+      "required_dexterity": 37,
+      "required_level": 78,
+      "quality_level": 43,
+      "treasure_class": 75,
+      "magical_properties": [
+        "Elite Set",
+        "+150% Enhanced Damage",
+        "+50% Damage To Undead",
+        "Adds 6-45 Lightning Damage",
+        "+30% Faster Cast Rate",
+        "+1 To All Skills",
+        "+70 To Mana",
+        "+35 To Energy",
+        "Level 11 Teleport (69 Charges)",
+        "Part of set: Naj's Ancient Vestige"
+      ]
+    },
+    "local_image": "images/sets/najs-puzzler.png"
+  },
+  {
+    "id": "cleglaws-claw",
+    "name": "Cleglaw's Claw",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/cleglawsclaw_graphic.png",
+    "type": "Set Item",
+    "base_item": "Small Shield",
+    "properties": {
+      "defense": "25-27",
+      "durability": 16,
+      "required_strength": 22,
+      "required_level": 4,
+      "quality_level": 6,
+      "treasure_class": 6,
+      "magical_properties": [
+        "Normal Set",
+        "Class block: Pal: 35%,",
+        "Ama/Asn/Bar: 30%",
+        "Dru/Nec/Sor: 25%",
+        "Paladin smite dmg: 2-3",
+        "Poison Length Reduced by 75%",
+        "+17 Defense",
+        "All Resistances +15 (2 set items)",
+        "Part of set: Cleglaw's Brace"
+      ]
+    },
+    "local_image": "images/sets/cleglaws-claw.png"
+  },
+  {
+    "id": "hsarus-iron-fist",
+    "name": "Hsarus' Iron Fist",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hsarusironfist_graphic.png",
+    "type": "Set Item",
+    "base_item": "Buckler",
+    "properties": {
+      "defense": "4-6",
+      "durability": 12,
+      "required_strength": 12,
+      "required_level": 3,
+      "quality_level": 4,
+      "treasure_class": 3,
+      "magical_properties": [
+        "Normal Set",
+        "Class block: Pal: 30%",
+        "Ama/Asn/Bar/: 25%",
+        "Dru/Nec/Sor: 20%",
+        "Paladin smite dmg: 1-3",
+        "Damage Reduced by 2",
+        "+10 to Strength",
+        "+ (2.5 Per Character Level) 2-247 Defense (Based On Character Level) (2 set items)",
+        "Part of set: Hsarus' Defense"
+      ]
+    },
+    "local_image": "images/sets/hsarus-iron-fist.png"
+  },
+  {
+    "id": "tancreds-spine",
+    "name": "Tancred's Spine",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/tancredsspine_graphic.png",
+    "type": "Set Item",
+    "base_item": "Full Plate Mail",
+    "properties": {
+      "defense": "150-161",
+      "durability": 70,
+      "required_strength": 80,
+      "required_level": 20,
+      "quality_level": 27,
+      "treasure_class": 39,
+      "magical_properties": [
+        "Normal Set",
+        "+40 to Life",
+        "+15 to Strength",
+        "+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 set items)",
+        "Part of set: Tancred's Battlegear"
+      ]
+    },
+    "local_image": "images/sets/tancreds-spine.png"
+  },
+  {
+    "id": "griswolds-heart",
+    "name": "Griswold's Heart",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/griswoldsheart_graphic.png",
+    "type": "Set Item",
+    "base_item": "Ornate Plate",
+    "properties": {
+      "defense": "917-950",
+      "durability": 60,
+      "required_strength": 102,
+      "required_level": 45,
+      "quality_level": 44,
+      "treasure_class": 66,
+      "magical_properties": [
+        "Exceptional Set",
+        "+500 Defense",
+        "Requirements -40%",
+        "+20 To Strength",
+        "+2 To Defensive Aura Skills (Paladin Only)",
+        "Socketed (3)",
+        "Part of set: Griswold's Legacy"
+      ]
+    },
+    "local_image": "images/sets/griswolds-heart.png"
+  },
+  {
+    "id": "najs-circlet",
+    "name": "Naj's Circlet",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/najscirclet_graphic.png",
+    "type": "Set Item",
+    "base_item": "Circlet",
+    "properties": {
+      "defense": "95-105",
+      "durability": 35,
+      "required_level": 28,
+      "quality_level": 43,
+      "treasure_class": 24,
+      "magical_properties": [
+        "Normal Set",
+        "+75 Defense",
+        "+25-35 Fire Damage",
+        "12% Chance To Cast Level 5 Chain Lightning When Struck",
+        "+15 To Strength",
+        "+5 To Light Radius",
+        "Part of set: Naj's Ancient Vestige"
+      ]
+    },
+    "local_image": "images/sets/najs-circlet.png"
+  },
+  {
+    "id": "trang-ouls-guise",
+    "name": "Trang-Oul's Guise",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/trang-oulsguise_graphic.png",
+    "type": "Set Item",
+    "base_item": "Bone Visage",
+    "properties": {
+      "defense": "180-257",
+      "durability": 40,
+      "required_strength": 106,
+      "required_level": 65,
+      "quality_level": 32,
+      "treasure_class": 84,
+      "magical_properties": [
+        "Elite Set",
+        "25% Faster Hit Recovery",
+        "Replenish Life +5",
+        "+80-100 Defense",
+        "+150 To Mana",
+        "Attacker Takes Damage of 20",
+        "Part of set: Trang-Oul's Avatar"
+      ]
+    },
+    "local_image": "images/sets/trang-ouls-guise.png"
+  },
+  {
+    "id": "isenharts-parry",
+    "name": "Isenhart's Parry",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/isenhartsparry_graphic.png",
+    "type": "Set Item",
+    "base_item": "Gothic Shield",
+    "properties": {
+      "defense": "70-75",
+      "durability": 40,
+      "required_strength": 60,
+      "required_level": 8,
+      "quality_level": 11,
+      "treasure_class": 30,
+      "magical_properties": [
+        "Normal Set",
+        "Class block: Pal: 46%",
+        "Ama/Asn/Bar: 41%",
+        "Dru/Nec/Sor: 36%",
+        "Paladin smite dmg: 2-6",
+        "Attacker Takes Lightning Damage of 4",
+        "+40 Defense",
+        "All Resistances +8 (2 set items)",
+        "Part of set: Isenhart's Armory"
+      ]
+    },
+    "local_image": "images/sets/isenharts-parry.png"
+  },
+  {
+    "id": "tancreds-skull",
+    "name": "Tancred's Skull",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/tancredsskull_graphic.png",
+    "type": "Set Item",
+    "base_item": "Bone Helm",
+    "properties": {
+      "defense": "33-36",
+      "durability": 40,
+      "required_strength": 25,
+      "required_level": 20,
+      "quality_level": 27,
+      "treasure_class": 24,
+      "magical_properties": [
+        "Normal Set",
+        "+10% Enhanced Damage",
+        "+40 to Attack Rating",
+        "All Resistances +10 (2 set items)",
+        "Part of set: Tancred's Battlegear"
+      ]
+    },
+    "local_image": "images/sets/tancreds-skull.png"
+  },
+  {
+    "id": "milabregas-orb",
+    "name": "Milabrega's Orb",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/milabregasorb_graphic.png",
+    "type": "Set Item",
+    "base_item": "Kite Shield",
+    "properties": {
+      "defense": "44",
+      "durability": 30,
+      "required_strength": 47,
+      "required_level": 17,
+      "quality_level": 23,
+      "treasure_class": 15,
+      "magical_properties": [
+        "Normal Set",
+        "Class block: Pal: 38%",
+        "Ama/Asn/Bar: 33%",
+        "Dru/Nec/Sor: 28%",
+        "Paladin smite dmg: 2-5",
+        "+25 Defense",
+        "20% Better Chance of Getting Magic Items",
+        "+50 Life (2 set items)",
+        "+50% Enhanced Defense (3 set items)",
+        "Part of set: Milabrega's Regalia"
+      ]
+    },
+    "local_image": "images/sets/milabregas-orb.png"
+  },
+  {
+    "id": "sazabis-mental-sheath",
+    "name": "Sazabi's Mental Sheath",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sazabismentalsheath_graphic.png",
+    "type": "Set Item",
+    "base_item": "Basinet",
+    "properties": {
+      "defense": "175-184",
+      "durability": 30,
+      "required_strength": 82,
+      "required_level": 43,
+      "quality_level": 34,
+      "treasure_class": 45,
+      "magical_properties": [
+        "Exceptional Set",
+        "+1 To All Skills",
+        "Lightning Resist +15-20%",
+        "Fire Resist +15-20%",
+        "+100 Defense",
+        "Part of set: Sazabi's Grand Tribute"
+      ]
+    },
+    "local_image": "images/sets/sazabis-mental-sheath.png"
+  },
+  {
+    "id": "hwanins-splendor",
+    "name": "Hwanin's Splendor",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hwaninssplendor_graphic.png",
+    "type": "Set Item",
+    "base_item": "Grand Crown",
+    "properties": {
+      "defense": "228",
+      "durability": 50,
+      "required_strength": 103,
+      "required_level": 45,
+      "quality_level": 28,
+      "treasure_class": 57,
+      "magical_properties": [
+        "Exceptional Set",
+        "+100% Enhanced Defense",
+        "Replenish Life +20",
+        "Magic Damage Reduced By 10",
+        "Cold Resist +37%",
+        "Part of set: Hwanin's Majesty"
+      ]
+    },
+    "local_image": "images/sets/hwanins-splendor.png"
+  },
+  {
+    "id": "civerbs-ward",
+    "name": "Civerb's Ward",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/civerbsward_graphic.png",
+    "type": "Set Item",
+    "base_item": "Large Shield",
+    "properties": {
+      "defense": "27-29",
+      "durability": 24,
+      "required_strength": 34,
+      "required_level": 9,
+      "quality_level": 13,
+      "treasure_class": 12,
+      "magical_properties": [
+        "Normal Set",
+        "Class block: Pal: 57%",
+        "Ama/Asn/Bar: 52%",
+        "Dru/Nec/Sor: 47%",
+        "Paladin smite dmg: 2-4",
+        "15 Defense",
+        "+15% Increased Block",
+        "+21-22 Mana ( Civerb's Icon) or Poison Resist +25-26% ( Civerb's Cudgel) (2 set items)",
+        "Part of set: Civerb's Vestments"
+      ]
+    },
+    "local_image": "images/sets/civerbs-ward.png"
+  },
+  {
+    "id": "tancreds-crowbill",
+    "name": "Tancred's Crowbill",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/tancredscrowbill_graphic.png",
+    "type": "Set Item",
+    "base_item": "Military Pick",
+    "properties": {
+      "damage": [
+        "1H damage: 12-19"
+      ],
+      "base_speed": -10,
+      "durability": 26,
+      "required_strength": 49,
+      "required_dexterity": 33,
+      "required_level": 20,
+      "quality_level": 27,
+      "treasure_class": 21,
+      "magical_properties": [
+        "Normal Set",
+        "+80% Enhanced Damage",
+        "+75 to Attack Rating",
+        "+20 To Mana (2 set items)",
+        "20% Increased Attack Speed (3 set items)",
+        "Part of set: Tancred's Battlegear"
+      ]
+    },
+    "local_image": "images/sets/tancreds-crowbill.png"
+  },
+  {
+    "id": "natalyas-totem",
+    "name": "Natalya's Totem",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/natalyastotem_graphic.png",
+    "type": "Set Item",
+    "base_item": "Grim Helm",
+    "properties": {
+      "defense": "195-300",
+      "durability": 40,
+      "required_strength": 58,
+      "required_level": 59,
+      "quality_level": 22,
+      "treasure_class": 51,
+      "magical_properties": [
+        "Exceptional Set",
+        "+135-175 Defense",
+        "All Resistances +10-20",
+        "+20-30 To Dexterity",
+        "+10-20 To Strength",
+        "Magic Damage Reduced By 3",
+        "Part of set: Natalya's Odium"
+      ]
+    },
+    "local_image": "images/sets/natalyas-totem.png"
+  },
+  {
+    "id": "arctic-furs",
+    "name": "Arctic Furs",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/arcticfurs_graphic.png",
+    "type": "Set Item",
+    "base_item": "Quilted Armor",
+    "properties": {
+      "defense": "45-51",
+      "durability": 20,
+      "required_strength": 12,
+      "required_level": 2,
+      "quality_level": 3,
+      "treasure_class": 3,
+      "magical_properties": [
+        "Normal Set",
+        "+275-325% Enhanced Defense",
+        "All Resistances +10",
+        "+ (3 Per Character Level) 3-297 Defense (Based On Character Level) (2 set items)",
+        "Cold Resist +15% (3 set items)",
+        "Part of set: Arctic Gear"
+      ]
+    },
+    "local_image": "images/sets/arctic-furs.png"
+  },
+  {
+    "id": "immortal-kings-forge",
+    "name": "Immortal King's Forge",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/gauntlets_graphic.png",
+    "type": "Set Item",
+    "base_item": "War Gauntlets",
+    "properties": {
+      "defense": "108-118",
+      "durability": 24,
+      "required_strength": 110,
+      "required_level": 30,
+      "quality_level": 37,
+      "treasure_class": 54,
+      "magical_properties": [
+        "Exceptional Set",
+        "+65 Defense",
+        "12% Chance To Cast Level 4 Charged Bolt When Struck",
+        "+20 To Dexterity",
+        "+20 To Strength",
+        "+25% Increased Attack Speed (2 set items)",
+        "+120 Defense (3 set items)",
+        "10% Life Stolen Per Hit (4 set items)",
+        "10% Mana Stolen Per Hit (5 set items)",
+        "Freezes Target +2 (completed set items)",
+        "Part of set: Immortal King"
+      ]
+    },
+    "local_image": "images/sets/immortal-kings-forge.png"
+  },
+  {
+    "id": "deaths-hand",
+    "name": "Death's Hand",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/deathshand_graphic.png",
+    "type": "Set Item",
+    "base_item": "Leather Gloves",
+    "properties": {
+      "defense": "2-3",
+      "durability": 12,
+      "required_level": 6,
+      "quality_level": 8,
+      "treasure_class": 3,
+      "magical_properties": [
+        "Normal Set",
+        "Poison Length Reduced by 75%",
+        "Poison Resist 50%",
+        "30% Increased Attack Speed (2 set items)",
+        "Part of set: Death's Disguise"
+      ]
+    },
+    "local_image": "images/sets/deaths-hand.png"
+  },
+  {
+    "id": "vidalas-barb",
+    "name": "Vidala's Barb",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/vidalasbarb_graphic.png",
+    "type": "Set Item",
+    "base_item": "Long Battle Bow",
+    "properties": {
+      "damage": [
+        "2H damage: 3-18"
+      ],
+      "base_speed": 10,
+      "required_strength": 40,
+      "required_dexterity": 50,
+      "required_level": 14,
+      "quality_level": 19,
+      "treasure_class": 24,
+      "magical_properties": [
+        "Normal Set",
+        "Adds 1-20 Lightning Damage",
+        "+ (8 Per Character Level) 8-792 To Attack Rating (Based On Character Level) (2 Items) (2 set items)",
+        "Part of set: Vidala's Rig"
+      ]
+    },
+    "local_image": "images/sets/vidalas-barb.png"
+  },
+  {
+    "id": "deaths-touch",
+    "name": "Death's Touch",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/deathstouch_graphic.png",
+    "type": "Set Item",
+    "base_item": "War Sword",
+    "properties": {
+      "damage": [
+        "1H damage: 10-25"
+      ],
+      "base_speed": null,
+      "durability": 44,
+      "required_strength": 71,
+      "required_dexterity": 45,
+      "required_level": 6,
+      "quality_level": 8,
+      "treasure_class": 27,
+      "magical_properties": [
+        "Normal Set",
+        "+25% Enhanced Damage",
+        "4% Life Stolen Per Hit",
+        "Adds 25-75 Cold Damage, 3 sec. Duration (Normal) (2 set items)",
+        "Part of set: Death's Disguise"
+      ]
+    },
+    "local_image": "images/sets/deaths-touch.png"
+  },
+  {
+    "id": "hwanins-refuge",
+    "name": "Hwanin's Refuge",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/scalemail_graphic.png",
+    "type": "Set Item",
+    "base_item": "Tigulated Mail",
+    "properties": {
+      "defense": "376-390",
+      "durability": 36,
+      "required_strength": 86,
+      "required_level": 30,
+      "quality_level": 28,
+      "treasure_class": 45,
+      "magical_properties": [
+        "Exceptional Set",
+        "+200 Defense",
+        "10% Chance To Cast Level 3 Static Field When Struck",
+        "Poison Resist +27%",
+        "+100 To Life",
+        "Part of set: Hwanin's Majesty"
+      ]
+    },
+    "local_image": "images/sets/hwanins-refuge.png"
+  },
+  {
+    "id": "arctic-horn",
+    "name": "Arctic Horn",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/arctichorn_graphic.png",
+    "type": "Set Item",
+    "base_item": "Short War Bow",
+    "properties": {
+      "damage": [
+        "2H damage: 9-21"
+      ],
+      "base_speed": null,
+      "required_strength": 35,
+      "required_dexterity": 55,
+      "required_level": 2,
+      "quality_level": 3,
+      "treasure_class": 27,
+      "magical_properties": [
+        "Normal Set",
+        "+50% Enhanced Damage",
+        "20% Bonus To Attack Rating",
+        "+ (8 Per Character Level) 8-792 Attack Rating (Based On Character Level) (2 set items)",
+        "+20-30 Cold Damage, 3 sec. Duration (Normal) (3 set items)",
+        "Part of set: Arctic Gear"
+      ]
+    },
+    "local_image": "images/sets/arctic-horn.png"
+  },
+  {
+    "id": "tal-rashas-fine-spun-cloth",
+    "name": "Tal Rasha's Fine-Spun Cloth",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/talrashasfine-spuncloth_graphic.png",
+    "type": "Set Item",
+    "base_item": "Mesh Belt",
+    "properties": {
+      "defense": "35-40",
+      "durability": 16,
+      "required_strength": 47,
+      "required_level": 53,
+      "quality_level": 26,
+      "treasure_class": 45,
+      "magical_properties": [
+        "Exceptional Set",
+        "Belt boxes: 16",
+        "Requirements -20%",
+        "37% Damage Taken Goes To Mana",
+        "+30 To Mana",
+        "+20 To Dexterity",
+        "10-15% Better Chance Of Getting Magic Items",
+        "+60 Defense (2 set items)",
+        "+10% Faster Cast Rate (3 set items)",
+        "Part of set: Tal Rasha's Wrappings"
+      ]
+    },
+    "local_image": "images/sets/tal-rashas-fine-spun-cloth.png"
+  },
+  {
+    "id": "isenharts-case",
+    "name": "Isenhart's Case",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/isenhartscase_graphic.png",
+    "type": "Set Item",
+    "base_item": "Breast Plate",
+    "properties": {
+      "defense": "105-108",
+      "durability": 50,
+      "required_strength": 30,
+      "required_level": 8,
+      "quality_level": 11,
+      "treasure_class": 18,
+      "magical_properties": [
+        "Normal Set",
+        "Magic Damage Reduced by 2",
+        "+40 Defense",
+        "+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 set items)",
+        "Part of set: Isenhart's Armory"
+      ]
+    },
+    "local_image": "images/sets/isenharts-case.png"
+  },
+  {
+    "id": "cathans-visage",
+    "name": "Cathan's Visage",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/mask_graphic.png",
+    "type": "Set Item",
+    "base_item": "Mask",
+    "properties": {
+      "defense": "9-27",
+      "durability": 23,
+      "required_strength": 23,
+      "required_level": 11,
+      "quality_level": 15,
+      "treasure_class": 21,
+      "magical_properties": [
+        "Normal Set",
+        "Cold Resist +25%",
+        "+20 to Mana",
+        "+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 set items)",
+        "Part of set: Cathan's Traps"
+      ]
+    },
+    "local_image": "images/sets/cathans-visage.png"
+  },
+  {
+    "id": "orphans-call",
+    "name": "Orphan's Call",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/whitstansguard_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Whitstan's Guard•Round Shield",
+        "Guillaume's Face•Winged Helm",
+        "Wilhelm's Pride•Battle Belt",
+        "Magnus' Skin•Sharkskin Gloves",
+        "Partial set completion:",
+        "+35 Life (2 Items)",
+        "Attacker Takes Damage of 5 (3 Items)",
+        "Full set completion:",
+        "+85 To Life",
+        "Attacker Takes Damage of 5",
+        "All Resistances +15",
+        "+100 Defense",
+        "+10 To Dexterity",
+        "+20 To Strength",
+        "80% Better Chance of Getting Magic Items"
+      ]
+    },
+    "local_image": "images/sets/orphans-call.png"
+  },
+  {
+    "id": "sanders-folly",
+    "name": "Sander's Folly",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sanderssuperstition_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Sander's Superstition•Bone Wand",
+        "Sander's Paragon•Cap",
+        "Sander's Taboo•Heavy Gloves",
+        "Sander's Riprap•Heavy Boots",
+        "Partial set completion:",
+        "+50 Defense (2 Items)",
+        "+75 To Attack Rating (3 Items)",
+        "Full set completion:",
+        "+50 Defense",
+        "+75 To Attack Rating",
+        "+1 To All Skills",
+        "4% Life Stolen Per Hit",
+        "+50 To Mana",
+        "50% Better Chance Of Getting Magic Items"
+      ]
+    },
+    "local_image": "images/sets/sanders-folly.png"
+  },
+  {
+    "id": "hsarus-defense",
+    "name": "Hsarus' Defense",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hsarusironstay_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Hsarus' Iron Stay•Belt",
+        "Hsarus' Iron Fist•Buckler",
+        "Hsarus' Iron Heel•Chain Boots",
+        "Partial set completion:",
+        "Attacker Takes Damage of 5 (2 Items)",
+        "Full set completion:",
+        "Attacker Takes Damage of 5",
+        "Cannot be Frozen",
+        "Lightning Resist +25%",
+        "+5 to Max Damage"
+      ]
+    },
+    "local_image": "images/sets/hsarus-defense.png"
+  },
+  {
+    "id": "cleglaws-brace",
+    "name": "Cleglaw's Brace",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/cleglawstooth_ticon.png",
+    "type": "Set Item",
+    "base_item": "",
+    "properties": {
+      "magical_properties": [
+        "Cleglaw's Tooth•Long Sword",
+        "Cleglaw's Claw•Small Shield",
+        "Cleglaw's Pincers•Chain Gloves",
+        "Partial set completion:",
+        "+50 Defense (2 Items)",
+        "Full set completion:",
+        "+100 Defense",
+        "35% Chance of Crushing Blow",
+        "6% Mana Stolen Per Hit",
+        "20% Increased Attack Speed"
+      ]
+    },
+    "local_image": "images/sets/cleglaws-brace.png"
+  },
+  {
+    "id": "credendum",
+    "name": "Credendum",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/credendum_graphic.png",
+    "type": "Set Item",
+    "base_item": "Mithril Coil",
+    "properties": {
+      "defense": "108-115",
+      "durability": 16,
+      "required_strength": 106,
+      "required_level": 65,
+      "quality_level": 39,
+      "treasure_class": 75,
+      "magical_properties": [
+        "Elite Set",
+        "Belt boxes: 16",
+        "+50 Defense",
+        "All Resistances +15",
+        "+10 To Dexterity",
+        "+10 To Strength",
+        "Part of set: The Disciple"
+      ]
+    },
+    "local_image": "images/sets/credendum.png"
+  },
+  {
+    "id": "sigons-wrap",
+    "name": "Sigon's Wrap",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sigonswrap_graphic.png",
+    "type": "Set Item",
+    "base_item": "Plated Belt",
+    "properties": {
+      "defense": "8-11",
+      "durability": 24,
+      "required_strength": 60,
+      "required_level": 6,
+      "quality_level": 9,
+      "treasure_class": 27,
+      "magical_properties": [
+        "Normal Set",
+        "Belt boxes: 16",
+        "Fire Resist +20%",
+        "+20 to Life",
+        "+ (2 Per Character Level) 2-198 To Defense (Based On Character Level) (2 Items) (2 set items)",
+        "Part of set: Sigon's Complete Steel"
+      ]
+    },
+    "local_image": "images/sets/sigons-wrap.png"
+  },
+  {
+    "id": "sigons-visor",
+    "name": "Sigon's Visor",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sigonsvisor_graphic.png",
+    "type": "Set Item",
+    "base_item": "Great Helm",
+    "properties": {
+      "defense": "55-60",
+      "durability": 40,
+      "required_strength": 63,
+      "required_level": 6,
+      "quality_level": 9,
+      "treasure_class": 24,
+      "magical_properties": [
+        "Normal Set",
+        "+25 Defense",
+        "+30 to Mana",
+        "+ (8 Per Character Level) 8-792 To Attack Rating (Based On Character Level) (2 set items)",
+        "Part of set: Sigon's Complete Steel"
+      ]
+    },
+    "local_image": "images/sets/sigons-visor.png"
+  },
+  {
+    "id": "sigons-shelter",
+    "name": "Sigon's Shelter",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sigonsshelter_graphic.png",
+    "type": "Set Item",
+    "base_item": "Gothic Plate",
+    "properties": {
+      "defense": "170",
+      "durability": 55,
+      "required_strength": 70,
+      "required_level": 6,
+      "quality_level": 9,
+      "treasure_class": 33,
+      "magical_properties": [
+        "Normal Set",
+        "+25% Enhanced Defense",
+        "Lightning Resist +30%",
+        "Attacker Takes Damage of 20 (2 Items) (2 set items)",
+        "Part of set: Sigon's Complete Steel"
+      ]
+    },
+    "local_image": "images/sets/sigons-shelter.png"
+  },
+  {
+    "id": "sazabis-ghost-liberator",
+    "name": "Sazabi's Ghost Liberator",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sazabisghostliberator_graphic.png",
+    "type": "Set Item",
+    "base_item": "Balrog Skin",
+    "properties": {
+      "defense": "810-917",
+      "durability": 30,
+      "required_strength": 165,
+      "required_level": 67,
+      "quality_level": 34,
+      "treasure_class": 78,
+      "magical_properties": [
+        "Elite Set",
+        "+400 Defense",
+        "+30% Faster Hit Recovery",
+        "+300 To Attack Rating Against Demons",
+        "+25 To Strength",
+        "+50-75 To Life",
+        "Part of set: Sazabi's Grand Tribute"
+      ]
+    },
+    "local_image": "images/sets/sazabis-ghost-liberator.png"
+  },
+  {
+    "id": "sanders-taboo",
+    "name": "Sander's Taboo",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sanderstaboo_graphic.png",
+    "type": "Set Item",
+    "base_item": "Heavy Gloves",
+    "properties": {
+      "defense": "25-31",
+      "durability": 14,
+      "required_level": 28,
+      "quality_level": 20,
+      "treasure_class": 9,
+      "magical_properties": [
+        "Normal Set",
+        "Adds 9-11 Poison Damage Over 3 Seconds",
+        "+20-25 Defense",
+        "+40 To Life",
+        "+20% Increased Attack Speed",
+        "Part of set: Sander's Folly"
+      ]
+    },
+    "local_image": "images/sets/sanders-taboo.png"
+  },
+  {
+    "id": "magnus-skin",
+    "name": "Magnus' Skin",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/magnusskin_graphic.png",
+    "type": "Set Item",
+    "base_item": "Sharkskin Gloves",
+    "properties": {
+      "defense": "60",
+      "durability": 14,
+      "required_strength": 20,
+      "required_level": 37,
+      "quality_level": 41,
+      "treasure_class": 39,
+      "magical_properties": [
+        "Exceptional Set",
+        "+50% Enhanced Defense",
+        "+20% Increased Attack Speed",
+        "+100 To Attack Rating",
+        "+3 To Light Radius",
+        "Fire Resist +15%",
+        "Part of set: Orphan's Call"
+      ]
+    },
+    "local_image": "images/sets/magnus-skin.png"
+  },
+  {
+    "id": "wilhelms-pride",
+    "name": "Wilhelm's Pride",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/wilhelmspride_graphic.png",
+    "type": "Set Item",
+    "base_item": "Battle Belt",
+    "properties": {
+      "defense": "75",
+      "durability": 18,
+      "required_strength": 88,
+      "required_level": 42,
+      "quality_level": 41,
+      "treasure_class": 51,
+      "magical_properties": [
+        "Exceptional Set",
+        "Belt boxes: 16",
+        "+75% Enhanced Defense",
+        "5% Life Stolen Per Hit",
+        "5% Mana Stolen Per Hit",
+        "Cold Resist +10%",
+        "Part of set: Orphan's Call"
+      ]
+    },
+    "local_image": "images/sets/wilhelms-pride.png"
+  },
+  {
+    "id": "najs-light-plate",
+    "name": "Naj's Light Plate",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/platemail_graphic.png",
+    "type": "Set Item",
+    "base_item": "Hellforge Plate",
+    "properties": {
+      "defense": "721-830",
+      "durability": 60,
+      "required_strength": 79,
+      "required_level": 71,
+      "quality_level": 43,
+      "treasure_class": 78,
+      "magical_properties": [
+        "Elite Set",
+        "+300 Defense",
+        "Requirements -60%",
+        "45% Damage Taken Goes To Mana",
+        "+1 To All Skills",
+        "All Resistances +25",
+        "+65 To Life",
+        "Part of set: Naj's Ancient Vestige"
+      ]
+    },
+    "local_image": "images/sets/najs-light-plate.png"
+  },
+  {
+    "id": "milabregas-rod",
+    "name": "Milabrega's Rod",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/warscepter_graphic.png",
+    "type": "Set Item",
+    "base_item": "War Scepter",
+    "properties": {
+      "damage": [
+        "1H damage: 15-25"
+      ],
+      "base_speed": -10,
+      "durability": 70,
+      "required_strength": 55,
+      "required_level": 17,
+      "quality_level": 23,
+      "treasure_class": 21,
+      "magical_properties": [
+        "Normal Set",
+        "+50% Enhanced Damage",
+        "+50% Damage to Undead",
+        "+1 to Paladin Skills",
+        "+2 to Light Radius",
+        "Part of set: Milabrega's Regalia"
+      ]
+    },
+    "local_image": "images/sets/milabregas-rod.png"
+  },
+  {
+    "id": "isenharts-horns",
+    "name": "Isenhart's Horns",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/isenhartshorns_graphic.png",
+    "type": "Set Item",
+    "base_item": "Full Helm",
+    "properties": {
+      "defense": "23-26",
+      "durability": 30,
+      "required_strength": 41,
+      "required_level": 8,
+      "quality_level": 11,
+      "treasure_class": 15,
+      "magical_properties": [
+        "Normal Set",
+        "Damage Reduced by 2",
+        "+6 to Dexterity",
+        "All Resistances +8 (2 set items)",
+        "Part of set: Isenhart's Armory"
+      ]
+    },
+    "local_image": "images/sets/isenharts-horns.png"
+  },
+  {
+    "id": "isenharts-lightbrand",
+    "name": "Isenhart's Lightbrand",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/isenhartslightbrand_graphic.png",
+    "type": "Set Item",
+    "base_item": "Broad Sword",
+    "properties": {
+      "damage": [
+        "1H damage: 17-18"
+      ],
+      "base_speed": null,
+      "durability": 32,
+      "required_strength": 48,
+      "required_level": 8,
+      "quality_level": 11,
+      "treasure_class": 15,
+      "magical_properties": [
+        "Normal Set",
+        "+10 to Min Damage",
+        "20% Increased Attack Speed",
+        "+ (5 Per Character Level) 5-495 Attack Rating (Based On Character Level) (2 set items)",
+        "Part of set: Isenhart's Armory"
+      ]
+    },
+    "local_image": "images/sets/isenharts-lightbrand.png"
+  },
+  {
+    "id": "immortal-kings-soul-cage",
+    "name": "Immortal King's Soul Cage",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/immortalsoulcage_graphic.png",
+    "type": "Set Item",
+    "base_item": "Sacred Armor",
+    "properties": {
+      "defense": "1001",
+      "durability": 60,
+      "required_strength": 232,
+      "required_level": 76,
+      "quality_level": 37,
+      "treasure_class": 87,
+      "magical_properties": [
+        "Elite Set",
+        "+400 Defense",
+        "5% Chance To Cast Level 5 Enchant When Struck",
+        "Poison Resist +50%",
+        "+2 To Combat Skills (Barbarian Only)",
+        "+25% Faster Hit Recovery (2 set items)",
+        "Cold Resist +40% (3 set items)",
+        "Fire Resist +40% (4 set items)",
+        "Lightning Resist +40% (5 set items)",
+        "+50% Enhanced Defense (completed set items)",
+        "Part of set: Immortal King"
+      ]
+    },
+    "local_image": "images/sets/immortal-kings-soul-cage.png"
+  },
+  {
+    "id": "hwanins-justice",
+    "name": "Hwanin's Justice",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/voulge_graphic.png",
+    "type": "Set Item",
+    "base_item": "Bill",
+    "properties": {
+      "damage": [
+        "2H damage: 42-159"
+      ],
+      "base_speed": null,
+      "required_strength": 95,
+      "required_level": 28,
+      "quality_level": 28,
+      "treasure_class": 39,
+      "magical_properties": [
+        "Exceptional Set",
+        "+200% Enhanced Damage",
+        "Adds 5-25 Lightning Damage",
+        "40% Increased Attack Speed",
+        "+330 To Attack Rating",
+        "Indestructible",
+        "10% Chance To Cast Level 3 Ice Blast On Striking",
+        "Part of set: Hwanin's Majesty"
+      ]
+    },
+    "local_image": "images/sets/hwanins-justice.png"
+  },
+  {
+    "id": "griswolds-honor",
+    "name": "Griswold's Honor",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/griswoldshonor_graphic.png",
+    "type": "Set Item",
+    "base_item": "Vortex Shield",
+    "properties": {
+      "defense": "290-333",
+      "durability": 90,
+      "required_strength": 148,
+      "required_level": 68,
+      "quality_level": 44,
+      "treasure_class": 87,
+      "magical_properties": [
+        "Elite Set",
+        "Base block: 69",
+        "Paladin smite dmg: 5-87",
+        "65% Faster Block Rate",
+        "20% Increased Chance of Blocking",
+        "+108 Defense",
+        "All Resistances +45",
+        "Socketed (3)",
+        "Part of set: Griswold's Legacy",
+        "Paladin equip only"
+      ]
+    },
+    "local_image": "images/sets/griswolds-honor.png"
+  },
+  {
+    "id": "griswolds-redemption",
+    "name": "Griswold's Redemption",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/griswoldsredemption_graphic.png",
+    "type": "Set Item",
+    "base_item": "Caduceus",
+    "properties": {
+      "damage": [
+        "1H damage: 111-146"
+      ],
+      "base_speed": -10,
+      "durability": 70,
+      "required_strength": 78,
+      "required_dexterity": 56,
+      "required_level": 66,
+      "quality_level": 44,
+      "treasure_class": 87,
+      "magical_properties": [
+        "Elite Set",
+        "+200-240% Enhanced Damage",
+        "+250% Damage To Undead",
+        "Requirements -20%",
+        "40% Increased Attack Speed",
+        "Socketed (3-4)",
+        "+2 To Combat Skills (Paladin Only) (2 set items)",
+        "Adds 10-20 Damage (3 set items)",
+        "Adds 10-20 Damage (completed set items)",
+        "Part of set: Griswold's Legacy"
+      ]
+    },
+    "local_image": "images/sets/griswolds-redemption.png"
+  },
+  {
+    "id": "cleglaws-tooth",
+    "name": "Cleglaw's Tooth",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/cleglawstooth_graphic.png",
+    "type": "Set Item",
+    "base_item": "Long Sword",
+    "properties": {
+      "damage": [
+        "1H damage: 3-19"
+      ],
+      "base_speed": -10,
+      "durability": 44,
+      "required_strength": 55,
+      "required_dexterity": 39,
+      "required_level": 4,
+      "quality_level": 6,
+      "treasure_class": 21,
+      "magical_properties": [
+        "Normal Set",
+        "50% Deadly Strike",
+        "30% Bonus to Attack rating",
+        "+ (1.25 Per Character Level) +1-123 To Maximum Damage (Based On Character Level) (2 set items)",
+        "Part of set: Cleglaw's Brace"
+      ]
+    },
+    "local_image": "images/sets/cleglaws-tooth.png"
+  },
+  {
+    "id": "civerbs-cudgel",
+    "name": "Civerb's Cudgel",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/grandscepter_graphic.png",
+    "type": "Set Item",
+    "base_item": "Grand Scepter",
+    "properties": {
+      "damage": [
+        "1H damage: 8-140"
+      ],
+      "base_speed": 10,
+      "durability": 60,
+      "required_strength": 37,
+      "required_level": 9,
+      "quality_level": 13,
+      "treasure_class": 15,
+      "magical_properties": [
+        "Normal Set",
+        "+ (1 Per Character Level) 1-99 To Maximum Damage (Based On Character Level)",
+        "+17-23 to Max Damage",
+        "+50% Damage To Undead",
+        "+75 to Attack Rating",
+        "Part of set: Civerb's Vestments"
+      ]
+    },
+    "local_image": "images/sets/civerbs-cudgel.png"
+  },
+  {
+    "id": "berserkers-headgear",
+    "name": "Berserker's Headgear",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/berserkerheadgear_graphic.png",
+    "type": "Set Item",
+    "base_item": "Helm",
+    "properties": {
+      "defense": "30-33",
+      "durability": 24,
+      "required_strength": 26,
+      "required_level": 3,
+      "quality_level": 5,
+      "treasure_class": 12,
+      "magical_properties": [
+        "Normal Set",
+        "+15 Defense",
+        "Fire Resist +25%",
+        "+ (8 Per Character Level) 48-792 Attack Rating (Based On Character Level) (2 set items)",
+        "Part of set: Berserker's Arsenal"
+      ]
+    },
+    "local_image": "images/sets/berserkers-headgear.png"
+  },
+  {
+    "id": "berserkers-hauberk",
+    "name": "Berserker's Hauberk",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/berserkerhauberk_graphic.png",
+    "type": "Set Item",
+    "base_item": "Splint Mail",
+    "properties": {
+      "defense": "90-95",
+      "durability": 30,
+      "required_strength": 51,
+      "required_level": 3,
+      "quality_level": 5,
+      "treasure_class": 21,
+      "magical_properties": [
+        "Normal Set",
+        "+1 to Barbarian Skill Levels",
+        "Magic Damage Reduced by 2",
+        "+ (3 Per Character Level) 3-297 Defense (Based On Character Level) (2 set items)",
+        "Part of set: Berserker's Arsenal"
+      ]
+    },
+    "local_image": "images/sets/berserkers-hauberk.png"
+  },
+  {
+    "id": "berserkers-hatchet",
+    "name": "Berserker's Hatchet",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/berserkerhatchet_graphic.png",
+    "type": "Set Item",
+    "base_item": "Double Axe",
+    "properties": {
+      "damage": [
+        "1H damage: 5-13"
+      ],
+      "base_speed": 10,
+      "durability": 24,
+      "required_strength": 43,
+      "required_level": 3,
+      "quality_level": 5,
+      "treasure_class": 15,
+      "magical_properties": [
+        "Normal Set",
+        "30% Bonus To Attack Rating",
+        "5% Mana Stolen Per Hit",
+        "+50% Enhanced Damage (2 set items)",
+        "Part of set: Berserker's Arsenal"
+      ]
+    },
+    "local_image": "images/sets/berserkers-hatchet.png"
+  },
+  {
+    "id": "arctic-binding",
+    "name": "Arctic Binding",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/arcticbinding_graphic.png",
+    "type": "Set Item",
+    "base_item": "Light Belt",
+    "properties": {
+      "defense": "33",
+      "durability": 14,
+      "required_level": 2,
+      "quality_level": 3,
+      "treasure_class": 9,
+      "magical_properties": [
+        "Normal Set",
+        "Cold Resist +40%",
+        "+30 Defense",
+        "+40% Better Chance Of Getting Magic Items (2 set items)",
+        "Cold Resist +10% (3 set items)",
+        "Part of set: Arctic Gear"
+      ]
+    },
+    "local_image": "images/sets/arctic-binding.png"
+  },
+  {
+    "id": "arcannas-deathwand",
+    "name": "Arcanna's Deathwand",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/arcannasdeathwand_graphic.png",
+    "type": "Set Item",
+    "base_item": "War Staff",
+    "properties": {
+      "damage": [
+        "2H damage: 12-28"
+      ],
+      "base_speed": 20,
+      "durability": 50,
+      "required_level": 15,
+      "quality_level": 20,
+      "treasure_class": 24,
+      "magical_properties": [
+        "Normal Set",
+        "+1 to Sorceress Skill Levels",
+        "25% Deadly Strike",
+        "+50% Damage To Undead",
+        "+50 Mana (2 set items)",
+        "Regenerate Mana +5% (3 set items)",
+        "Part of set: Arcanna's Tricks"
+      ]
+    },
+    "local_image": "images/sets/arcannas-deathwand.png"
+  },
+  {
+    "id": "arcannas-flesh",
+    "name": "Arcanna's Flesh",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/arcannasflesh_graphic.png",
+    "type": "Set Item",
+    "base_item": "Light Plate",
+    "properties": {
+      "defense": "90-107",
+      "durability": 60,
+      "required_strength": 41,
+      "required_level": 15,
+      "quality_level": 20,
+      "treasure_class": 36,
+      "magical_properties": [
+        "Normal Set",
+        "+2 To Light Radius",
+        "Damage Reduced By 3",
+        "+100 Defense (2 set items)",
+        "+10 Energy (3 set items)",
+        "Part of set: Arcanna's Tricks"
+      ]
+    },
+    "local_image": "images/sets/arcannas-flesh.png"
+  },
+  {
+    "id": "arcannas-head",
+    "name": "Arcanna's Head",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/arcannashead_graphic.png",
+    "type": "Set Item",
+    "base_item": "Skull Cap",
+    "properties": {
+      "defense": "8-11",
+      "durability": 18,
+      "required_strength": 15,
+      "required_level": 15,
+      "quality_level": 20,
+      "treasure_class": 6,
+      "magical_properties": [
+        "Normal Set",
+        "Replenish Life +4",
+        "Attacker Takes Damage of 2",
+        "+ (3 Per Character Level) 3-297 Defense (Based On Character Level) (2 set items)",
+        "Lightning Resist +15% (3 set items)",
+        "Part of set: Arcanna's Tricks"
+      ]
+    },
+    "local_image": "images/sets/arcannas-head.png"
+  },
+  {
+    "id": "angelic-mantle",
+    "name": "Angelic Mantle",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/angelicmantle_graphic.png",
+    "type": "Set Item",
+    "base_item": "Ring Mail",
+    "properties": {
+      "defense": "68",
+      "durability": 26,
+      "required_strength": 36,
+      "required_level": 12,
+      "quality_level": 17,
+      "treasure_class": 12,
+      "magical_properties": [
+        "Normal Set",
+        "+40% Enhanced Defense",
+        "Damage Reduced by 3",
+        "+150 Defense (2 set items)",
+        "Fire Resist +50% (3 set items)",
+        "Part of set: Angelic Raiment"
+      ]
+    },
+    "local_image": "images/sets/angelic-mantle.png"
+  },
+  {
+    "id": "sanders-superstition",
+    "name": "Sander's Superstition",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/sanderssuperstition_graphic.png",
+    "type": "Set Item",
+    "base_item": "Bone Wand",
+    "properties": {
+      "base_speed": -20,
+      "durability": 15,
+      "required_level": 25,
+      "quality_level": 20,
+      "treasure_class": 18,
+      "magical_properties": [
+        "Normal Set",
+        "1H damage: 5 To 12 (8.5 Avg)",
+        "+75% Enhanced Damage",
+        "+50% Damage To Undead",
+        "+20% Faster Cast Rate",
+        "+25 To Mana",
+        "8% Mana Stolen Per Hit",
+        "25-75 Cold Damage, 2 sec. Duration",
+        "Part of set: Sander's Folly"
+      ]
+    },
+    "local_image": "images/sets/sanders-superstition.png"
+  },
+  {
+    "id": "cathans-mesh",
+    "name": "Cathan's Mesh",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/cathansmesh_graphic.png",
+    "type": "Set Item",
+    "base_item": "Chain Mail",
+    "properties": {
+      "defense": "87-90",
+      "durability": 45,
+      "required_strength": 24,
+      "required_level": 11,
+      "quality_level": 15,
+      "treasure_class": 15,
+      "magical_properties": [
+        "Normal Set",
+        "+15 Defense",
+        "Requirements -50%",
+        "Attacker Takes Damage of 5 (2 set items)",
+        "Fire Resist +30% (3 set items)",
+        "Part of set: Cathan's Traps"
+      ]
+    },
+    "local_image": "images/sets/cathans-mesh.png"
+  },
+  {
+    "id": "cathans-rule",
+    "name": "Cathan's Rule",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/cathansrule_graphic.png",
+    "type": "Set Item",
+    "base_item": "Battle Staff",
+    "properties": {
+      "damage": [
+        "2H damage: 6-13"
+      ],
+      "base_speed": null,
+      "durability": 40,
+      "required_level": 11,
+      "quality_level": 15,
+      "treasure_class": 18,
+      "magical_properties": [
+        "Normal Set",
+        "+1 to Fire Skills",
+        "+10 Maximum Fire Damage",
+        "+50% Damage To Undead",
+        "+50 Mana (2 set items)",
+        "All Resistances +10 (3 set items)",
+        "Part of set: Cathan's Traps"
+      ]
+    },
+    "local_image": "images/sets/cathans-rule.png"
+  }
+]

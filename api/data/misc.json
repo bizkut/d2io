@@ -1,0 +1,4451 @@
+[
+  {
+    "id": "jah",
+    "name": "Jah",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeJo_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 65 Rune\nIndex: 31",
+    "properties": {
+      "magical_properties": [
+        "Level 65 Rune",
+        "Index: 31",
+        "Weapons",
+        "Ignore Target's Defense",
+        "Armor",
+        "Increase Maximum Life 5%",
+        "Shields",
+        "+50 Life",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Cham",
+        "Brand",
+        "Destruction",
+        "Dream",
+        "Enigma",
+        "Faith",
+        "Famine",
+        "Fury",
+        "Ice",
+        "Last Wish",
+        "Phoenix",
+        "Product of:",
+        "Recipe: Jah"
+      ]
+    },
+    "local_image": "images/misc/jah.png"
+  },
+  {
+    "id": "3x3-keyset",
+    "name": "3x3 Keyset",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/questkeys_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "All 3 Uber Keys required for the Pandemonium Event",
+        "Patch 1.11 or later"
+      ]
+    },
+    "local_image": "images/misc/3x3-keyset.png"
+  },
+  {
+    "id": "ort",
+    "name": "Ort",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeOrt_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 21 Rune\nIndex: 9",
+    "properties": {
+      "magical_properties": [
+        "Level 21 Rune",
+        "Index: 9",
+        "Weapons",
+        "+1-50 lightning damage",
+        "Armor",
+        "30% lightning resist",
+        "Shields",
+        "35% lightning resist",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Blood Weapon",
+        "Recipe: Caster Gloves",
+        "Recipe: Exceptional Version of Rare Weapon",
+        "Recipe: Fully Repaired and Recharged Weapon",
+        "Recipe: Fully repaired weapon",
+        "Recipe: Hit Power Gloves",
+        "Recipe: Safety Boots",
+        "Recipe: Thul",
+        "Ancients' Pledge",
+        "Death",
+        "Famine",
+        "Ground",
+        "Holy Thunder",
+        "Lore",
+        "Passion",
+        "Pattern",
+        "Rain",
+        "Spirit",
+        "Zephyr",
+        "Product of:",
+        "Recipe: Ort"
+      ]
+    },
+    "local_image": "images/misc/ort.png"
+  },
+  {
+    "id": "charged-essence-of-hatred",
+    "name": "Charged Essence of Hatred",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/essencehatred_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "Dr0pped by Mephisto on Hell",
+        "Patch 1.13 or later",
+        "Ingredient in:",
+        "Recipe: Token of Absolution"
+      ]
+    },
+    "local_image": "images/misc/charged-essence-of-hatred.png"
+  },
+  {
+    "id": "twisted-essence-of-suffering",
+    "name": "Twisted Essence of Suffering",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/essencesuffering_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "Dropped by Andariel and Duriel on Hell",
+        "Patch 1.13 or later",
+        "Ingredient in:",
+        "Recipe: Token of Absolution"
+      ]
+    },
+    "local_image": "images/misc/twisted-essence-of-suffering.png"
+  },
+  {
+    "id": "safety-amulet",
+    "name": "Safety Amulet",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetyamu1_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+1-10% Increased Chance Of Blocking",
+        "Magic Damage Reduced By 1-2",
+        "Damage Reduced By 1-4",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Safety Amulet"
+      ]
+    },
+    "local_image": "images/misc/safety-amulet.png"
+  },
+  {
+    "id": "eld",
+    "name": "Eld",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeEld_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 11 Rune\nIndex: 2",
+    "properties": {
+      "magical_properties": [
+        "Level 11 Rune",
+        "Index: 2",
+        "Weapons",
+        "+75% Damage To Undead",
+        "+50 Attack Rating Against Undead",
+        "Armor",
+        "15% Slower Stamina Drain",
+        "Shields",
+        "7% Increased Chance of Blocking",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Normal Quality Weapon of Same Type",
+        "Recipe: Tir",
+        "Breath of the Dying",
+        "Faith",
+        "Hustle",
+        "Passion",
+        "Principle",
+        "Silence",
+        "Unbending Will",
+        "Voice of Reason",
+        "Wisdom",
+        "Product of:",
+        "Recipe: Eld"
+      ]
+    },
+    "local_image": "images/misc/eld.png"
+  },
+  {
+    "id": "safety-belt",
+    "name": "Safety Belt",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetysash_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+10-30% Enhanced Defense",
+        "Poison Resist +5-10%",
+        "Magic Damage Reduced By 1-2",
+        "Damage Reduced By 1-4",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Safety Belt"
+      ]
+    },
+    "local_image": "images/misc/safety-belt.png"
+  },
+  {
+    "id": "chipped-gems",
+    "name": "Chipped Gems",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippedgems_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "Pseudo item representing any quantity or type of Chipped Gem"
+      ]
+    },
+    "local_image": "images/misc/chipped-gems.png"
+  },
+  {
+    "id": "gold",
+    "name": "Gold",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/gold_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "Pseudo item representing any quantity of Gold"
+      ]
+    },
+    "local_image": "images/misc/gold.png"
+  },
+  {
+    "id": "hit-power-ring",
+    "name": "Hit Power Ring",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowerring5_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+1-5 To Dexterity",
+        "5% Chance To Cast Level 4 Frost Nova When Struck",
+        "Attacker Takes Damage of 3-6",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Hit Power Ring"
+      ]
+    },
+    "local_image": "images/misc/hit-power-ring.png"
+  },
+  {
+    "id": "blood-amulet",
+    "name": "Blood Amulet",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodamu3_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "5-10% Faster Run/Walk",
+        "1-4% Life Stolen Per Hit",
+        "+10-20 To Life",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Blood Amulet"
+      ]
+    },
+    "local_image": "images/misc/blood-amulet.png"
+  },
+  {
+    "id": "blood-helm",
+    "name": "Blood Helm",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodhelm_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "5-10% Deadly Strike",
+        "1-3% Life Stolen Per Hit",
+        "+10-20 To Life",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Blood Helm"
+      ]
+    },
+    "local_image": "images/misc/blood-helm.png"
+  },
+  {
+    "id": "zod",
+    "name": "Zod",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeZod_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 69 Rune\nIndex: 33",
+    "properties": {
+      "magical_properties": [
+        "Level 69 Rune",
+        "Index: 33",
+        "Weapons",
+        "Indestructible",
+        "Armor",
+        "Indestructible",
+        "Shields",
+        "Indestructible",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Breath of the Dying",
+        "Obsession",
+        "Product of:",
+        "Recipe: Zod"
+      ]
+    },
+    "local_image": "images/misc/zod.png"
+  },
+  {
+    "id": "the-gidbinn",
+    "name": "The Gidbinn",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/thegidbin_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "damage": [
+        "1H damage: 3-7"
+      ],
+      "base_speed": null,
+      "durability": 30,
+      "required_strength": 15,
+      "required_dexterity": 25,
+      "magical_properties": [
+        "Source:",
+        "Found in  Flayer Jungle"
+      ]
+    },
+    "local_image": "images/misc/the-gidbinn.png"
+  },
+  {
+    "id": "caster-gloves",
+    "name": "Caster Gloves",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/casterleathergloves_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+1-3 Mana Per Kill",
+        "Regenerate Mana 4-10%",
+        "+10-20 To Mana",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Caster Gloves"
+      ]
+    },
+    "local_image": "images/misc/caster-gloves.png"
+  },
+  {
+    "id": "ral",
+    "name": "Ral",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeRal_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 19 Rune\nIndex: 8",
+    "properties": {
+      "magical_properties": [
+        "Level 19 Rune",
+        "Index: 8",
+        "Weapons",
+        "Adds 5-30 Fire Damage",
+        "Armor",
+        "Fire Resist 30%",
+        "Shields",
+        "Fire Resist 35%",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Add Sockets to Normal Helm",
+        "Recipe: Add Sockets to Normal Weapon",
+        "Recipe: Blood Helm",
+        "Recipe: Caster Amulet",
+        "Recipe: Exceptional Version of Rare Armor",
+        "Recipe: Exceptional Version of Set Weapon",
+        "Recipe: Exceptional Version of Unique Weapon",
+        "Recipe: Fully Repaired and Recharged Armor",
+        "Recipe: Fully Repaired Armor",
+        "Recipe: Hit Power Boots",
+        "Recipe: Ort",
+        "Recipe: Safety Gloves",
+        "Ancients' Pledge",
+        "Bramble",
+        "Call To Arms",
+        "Enlightenment",
+        "Grief",
+        "Holy Thunder",
+        "Insight",
+        "King's Grace",
+        "Leaf",
+        "Principle",
+        "Temper",
+        "Product of:",
+        "Recipe: Ral"
+      ]
+    },
+    "local_image": "images/misc/ral.png"
+  },
+  {
+    "id": "ber",
+    "name": "Ber",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeBer_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 63 Rune\nIndex: 30",
+    "properties": {
+      "magical_properties": [
+        "Level 63 Rune",
+        "Index: 30",
+        "Weapons",
+        "20% crushing blow",
+        "Armor",
+        "8% physical resist",
+        "Shields",
+        "8% physical resist",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Jah",
+        "Beast",
+        "Chains of Honor",
+        "Destruction",
+        "Enigma",
+        "Eternity",
+        "Infinity",
+        "Last Wish",
+        "Wrath",
+        "Product of:",
+        "Recipe: Ber"
+      ]
+    },
+    "local_image": "images/misc/ber.png"
+  },
+  {
+    "id": "book-of-skill",
+    "name": "Book of Skill",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/bookofskill_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "Grants 1 skill point (per difficulty).",
+        "Source:",
+        "Drops from  Radament"
+      ]
+    },
+    "local_image": "images/misc/book-of-skill.png"
+  },
+  {
+    "id": "burning-essence-of-terror",
+    "name": "Burning Essence of Terror",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/essenceterror_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "Dropped by Diablo on Hell",
+        "Patch 1.13 or later",
+        "Ingredient in:",
+        "Recipe: Token of Absolution"
+      ]
+    },
+    "local_image": "images/misc/burning-essence-of-terror.png"
+  },
+  {
+    "id": "festering-essence-of-destruction",
+    "name": "Festering Essence of Destruction",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/essencedestruction_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "Dropped by Baal on Hell",
+        "Patch 1.13 or later",
+        "Ingredient in:",
+        "Recipe: Token of Absolution"
+      ]
+    },
+    "local_image": "images/misc/festering-essence-of-destruction.png"
+  },
+  {
+    "id": "cham",
+    "name": "Cham",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeCham_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 67 Rune\nIndex: 32",
+    "properties": {
+      "magical_properties": [
+        "Level 67 Rune",
+        "Index: 32",
+        "Weapons",
+        "Freeze Target +3",
+        "Armor",
+        "Cannot Be Frozen",
+        "Shields",
+        "Cannot Be Frozen",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Zod",
+        "Doom",
+        "Hand of Justice",
+        "Metamorphosis",
+        "Mist",
+        "Plague",
+        "Pride",
+        "Product of:",
+        "Recipe: Cham"
+      ]
+    },
+    "local_image": "images/misc/cham.png"
+  },
+  {
+    "id": "um",
+    "name": "Um",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeUm_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 47 Rune\nIndex: 22",
+    "properties": {
+      "magical_properties": [
+        "Level 47 Rune",
+        "Index: 22",
+        "Weapons",
+        "25% Chance of Open Wounds",
+        "Armor",
+        "All Resistances +15",
+        "Shields",
+        "All Resistances +22",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Elite Version of Rare Weapon",
+        "Recipe: Mal",
+        "Beast",
+        "Bone",
+        "Chains of Honor",
+        "Chaos",
+        "Crescent Moon Runeword",
+        "Doom",
+        "Duress",
+        "Gloom",
+        "Kingslayer",
+        "Plague",
+        "Stone",
+        "Product of:",
+        "Recipe: Um"
+      ]
+    },
+    "local_image": "images/misc/um.png"
+  },
+  {
+    "id": "chipped-emerald",
+    "name": "Chipped Emerald",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippedemerald_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "magical_properties": [
+        "Weapons",
+        "+10 Poison Damage over 3 Seconds",
+        "Armor",
+        "+3 to Dexterity",
+        "Shields",
+        "12% Resist Poison",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Flawed Emerald",
+        "Recipe: Hel"
+      ]
+    },
+    "local_image": "images/misc/chipped-emerald.png"
+  },
+  {
+    "id": "mephistos-soulstone",
+    "name": "Mephisto's Soulstone",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/bluecharm_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "To be destroyed in Hell's Forge",
+        "Source:",
+        "Drops from  Mephisto"
+      ]
+    },
+    "local_image": "images/misc/mephistos-soulstone.png"
+  },
+  {
+    "id": "lam-esens-tome",
+    "name": "Lam Esen's Tome",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/lamesenstome_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "Returned to Alkor in exchange for 5 attribute points.",
+        "Source:",
+        "Found in  Ruined Temple"
+      ]
+    },
+    "local_image": "images/misc/lam-esens-tome.png"
+  },
+  {
+    "id": "blood-gloves",
+    "name": "Blood Gloves",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodheavygloves_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "Crushing Blow 5-10%",
+        "1-3% Life Stolen Per Hit",
+        "+10-20 To Life",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Blood Gloves"
+      ]
+    },
+    "local_image": "images/misc/blood-gloves.png"
+  },
+  {
+    "id": "ear",
+    "name": "Ear",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/ear_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "Dropped by PvP victims"
+      ]
+    },
+    "local_image": "images/misc/ear.png"
+  },
+  {
+    "id": "token-of-absolution",
+    "name": "Token of Absolution",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/tokenofabsolution_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "Allows you to reset your skill/stat points",
+        "Patch 1.13 or later",
+        "Product of:",
+        "Recipe: Token of Absolution"
+      ]
+    },
+    "local_image": "images/misc/token-of-absolution.png"
+  },
+  {
+    "id": "safety-shield",
+    "name": "Safety Shield",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetykiteshield_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+10-30% Enhanced Defense",
+        "Magic Resistance +5-10%",
+        "Magic Damage Reduced By 1-2",
+        "Damage Reduced By 1-4",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Safety Shield"
+      ]
+    },
+    "local_image": "images/misc/safety-shield.png"
+  },
+  {
+    "id": "lem",
+    "name": "Lem",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeLem_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 43 Rune\nIndex: 20",
+    "properties": {
+      "magical_properties": [
+        "Level 43 Rune",
+        "Index: 20",
+        "Weapons",
+        "75% Extra Gold From Monsters",
+        "Armor",
+        "50% Extra Gold From Monsters",
+        "Shields",
+        "50% Extra Gold From Monsters",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Elite Version of Set Armor",
+        "Recipe: Elite Version of Unique Armor",
+        "Recipe: Pul",
+        "Delirium",
+        "Faith",
+        "Lawbringer",
+        "Obsession",
+        "Passion",
+        "Rift",
+        "Treachery",
+        "Voice of Reason",
+        "Wealth",
+        "Product of:",
+        "Recipe: Lem"
+      ]
+    },
+    "local_image": "images/misc/lem.png"
+  },
+  {
+    "id": "blood-body",
+    "name": "Blood Body",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodplatemail_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+1-3 Life Per Demon Kill",
+        "1-3% Life Stolen Per Hit",
+        "+10-20 To Life",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Blood Body"
+      ]
+    },
+    "local_image": "images/misc/blood-body.png"
+  },
+  {
+    "id": "hit-power-shield",
+    "name": "Hit Power Shield",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowergothicshield_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "5-10% Increased Chance of Blocking",
+        "5% Chance To Cast Level 4 Frost Nova When Struck",
+        "Attacker Takes Damage of 3-10",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Hit Power Shield"
+      ]
+    },
+    "local_image": "images/misc/hit-power-shield.png"
+  },
+  {
+    "id": "hit-power-body",
+    "name": "Hit Power Body",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowerfieldplate_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "10-20% Faster Hit Recovery",
+        "5% Chance To Cast Level 4 Frost Nova When Struck",
+        "Attacker Takes Damage of 3-10",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Hit Power Body"
+      ]
+    },
+    "local_image": "images/misc/hit-power-body.png"
+  },
+  {
+    "id": "hit-power-weapon",
+    "name": "Hit Power Weapon",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowermorningstar_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+35-60% Enhanced Damage",
+        "5% Chance To Cast Level 4 Frost Nova When Struck",
+        "Attacker Takes Damage of 3-7",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Hit Power Weapon"
+      ]
+    },
+    "local_image": "images/misc/hit-power-weapon.png"
+  },
+  {
+    "id": "hit-power-amulet",
+    "name": "Hit Power Amulet",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpoweramu2_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "Hit Causes Monster To Flee 3-11%",
+        "5% Chance To Cast Level 4 Frost Nova When Struck",
+        "Attacker Takes Damage of 3-10",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Hit Power Amulet"
+      ]
+    },
+    "local_image": "images/misc/hit-power-amulet.png"
+  },
+  {
+    "id": "hit-power-gloves",
+    "name": "Hit Power Gloves",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowerchaingloves_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "Knockback",
+        "5% Chance To Cast Level 4 Frost Nova When Struck",
+        "Attacker Takes Damage of 3-7",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Hit Power Gloves"
+      ]
+    },
+    "local_image": "images/misc/hit-power-gloves.png"
+  },
+  {
+    "id": "hit-power-boots",
+    "name": "Hit Power Boots",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowerchainboots_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "25-50 Defense vs. Melee",
+        "5% Chance To Cast Level 4 Frost Nova When Struck",
+        "Attacker Takes Damage of 3-7",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Hit Power Boots"
+      ]
+    },
+    "local_image": "images/misc/hit-power-boots.png"
+  },
+  {
+    "id": "hit-power-belt",
+    "name": "Hit Power Belt",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowerheavybelt_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "5-10% Damage Goes to Mana",
+        "5% Chance To Cast Level 4 Frost Nova When Struck",
+        "Attacker Takes Damage of 3-7",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Hit Power Belt"
+      ]
+    },
+    "local_image": "images/misc/hit-power-belt.png"
+  },
+  {
+    "id": "hit-power-helm",
+    "name": "Hit Power Helm",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowerfullhelm_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "25-50 Defense vs. Missiles",
+        "5% Chance To Cast Level 4 Frost Nova When Struck",
+        "Attacker Takes Damage of 3-7",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Hit Power Helm"
+      ]
+    },
+    "local_image": "images/misc/hit-power-helm.png"
+  },
+  {
+    "id": "tir",
+    "name": "Tir",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTir_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 13 Rune\nIndex: 3",
+    "properties": {
+      "magical_properties": [
+        "Level 13 Rune",
+        "Index: 3",
+        "Weapons",
+        "+2 To Mana After Each Kill",
+        "Armor",
+        "+2 To Mana After Each Kill",
+        "Shields",
+        "+2 To Mana After Each Kill",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Caster Weapon",
+        "Recipe: Hit Power Weapon",
+        "Recipe: Nef",
+        "Beast",
+        "Crescent Moon Runeword",
+        "Edge",
+        "Grief",
+        "Harmony",
+        "Honor",
+        "Insight",
+        "Leaf",
+        "Nadir",
+        "Prudence",
+        "Silence",
+        "Steel",
+        "Strength",
+        "Wealth",
+        "Product of:",
+        "Recipe: Tir"
+      ]
+    },
+    "local_image": "images/misc/tir.png"
+  },
+  {
+    "id": "flawless-amethyst",
+    "name": "Flawless Amethyst",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawlessamethyst_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 15,
+      "magical_properties": [
+        "Weapons",
+        "+100 to Attack Rating",
+        "Armor",
+        "+8 to Strength",
+        "Shields",
+        "+24 Defense",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Ber",
+        "Recipe: Perfect Amethyst",
+        "Product of:",
+        "Recipe: Flawless Amethyst"
+      ]
+    },
+    "local_image": "images/misc/flawless-amethyst.png"
+  },
+  {
+    "id": "caster-weapon",
+    "name": "Caster Weapon",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/casterscepter_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "Increase Maximum Mana 1-5%",
+        "Regenerate Mana 4-10%",
+        "+10-20 To Mana",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Caster Weapon"
+      ]
+    },
+    "local_image": "images/misc/caster-weapon.png"
+  },
+  {
+    "id": "amethyst",
+    "name": "Amethyst",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amethyst_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 12,
+      "magical_properties": [
+        "Weapons",
+        "+80 to Attack Rating",
+        "Armor",
+        "+6 to Strength",
+        "Shields",
+        "+18 Defense",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Flawless Amethyst",
+        "Recipe: Ist",
+        "Product of:",
+        "Recipe: Amethyst"
+      ]
+    },
+    "local_image": "images/misc/amethyst.png"
+  },
+  {
+    "id": "perfect-gems",
+    "name": "Perfect Gems",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/pgems_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "Pseudo item representing any quantity or type of Perfect Gem",
+        "Ingredient in:",
+        "Recipe: Random Magic Item of Same Type"
+      ]
+    },
+    "local_image": "images/misc/perfect-gems.png"
+  },
+  {
+    "id": "io",
+    "name": "Io",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeIo_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 35 Rune\nIndex: 16",
+    "properties": {
+      "magical_properties": [
+        "Level 35 Rune",
+        "Index: 16",
+        "Weapons",
+        "+10 To Vitality",
+        "Armor",
+        "+10 To Vitality",
+        "Shields",
+        "+10 To Vitality",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Lum",
+        "Black",
+        "Bulwark",
+        "Cure",
+        "Delirium",
+        "Dream",
+        "Ground",
+        "Hearth",
+        "Memory",
+        "Metamorphosis",
+        "Obsession",
+        "Pride",
+        "Temper",
+        "Unbending Will",
+        "White",
+        "Product of:",
+        "Recipe: Io"
+      ]
+    },
+    "local_image": "images/misc/io.png"
+  },
+  {
+    "id": "oil-potion",
+    "name": "Oil Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/oil_graphic.png",
+    "type": "Misc Item",
+    "category": "Throwing Potion",
+    "properties": {
+      "damage": [
+        "Throw damage: 26-64"
+      ],
+      "required_level": 20,
+      "quality_level": 28,
+      "magical_properties": [
+        "Causes an explosion and lasting fire",
+        "Deals 13-34 Fire damage & 13-30 Physical damage",
+        "Explosion Radius of 4 yards"
+      ]
+    },
+    "local_image": "images/misc/oil-potion.png"
+  },
+  {
+    "id": "el",
+    "name": "El",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeEl_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 11 Rune\nIndex: 1",
+    "properties": {
+      "magical_properties": [
+        "Level 11 Rune",
+        "Index: 1",
+        "Weapons",
+        "+50 To Attack Rating",
+        "+1 Light Radius",
+        "Armor",
+        "+15 Defense",
+        "+1 To Light Radius",
+        "Shields",
+        "+15 Defense",
+        "+1 To Light Radius",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Eld",
+        "Recipe: Normal Quality Armor of Same Type",
+        "Breath of the Dying",
+        "Death",
+        "Fortitude",
+        "Honor",
+        "Malice",
+        "Steel",
+        "Unbending Will",
+        "Voice of Reason",
+        "Wind"
+      ]
+    },
+    "local_image": "images/misc/el.png"
+  },
+  {
+    "id": "scroll-of-town-portal",
+    "name": "Scroll of Town Portal",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/scroll-blue_graphic.png",
+    "type": "Misc Item",
+    "category": "Consumable",
+    "properties": {
+      "magical_properties": [
+        "Opens a Town Portal",
+        "Ingredient in:",
+        "Recipe: Remove All Items from Sockets"
+      ]
+    },
+    "local_image": "images/misc/scroll-of-town-portal.png"
+  },
+  {
+    "id": "eth",
+    "name": "Eth",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeEth_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 15 Rune\nIndex: 5",
+    "properties": {
+      "magical_properties": [
+        "Level 15 Rune",
+        "Index: 5",
+        "Weapons",
+        "-25% To Target Defense",
+        "Armor",
+        "Regenerate Mana 15%",
+        "Shields",
+        "Regenerate Mana 15%",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Blood Boots",
+        "Recipe: Caster Shield",
+        "Recipe: Hit Power Shield",
+        "Recipe: Ith",
+        "Recipe: Safety Body",
+        "Bramble",
+        "Breath of the Dying",
+        "Fury",
+        "Grief",
+        "Holy Thunder",
+        "Malice",
+        "Memory",
+        "Obedience",
+        "Rhyme",
+        "Splendor",
+        "Stealth",
+        "Zephyr",
+        "Product of:",
+        "Recipe: Eth"
+      ]
+    },
+    "local_image": "images/misc/eth.png"
+  },
+  {
+    "id": "blood-boots",
+    "name": "Blood Boots",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodboots_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "Replenish Life +5-10",
+        "1-3% Life Stolen Per Hit",
+        "+10-20 To Life",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Blood Boots"
+      ]
+    },
+    "local_image": "images/misc/blood-boots.png"
+  },
+  {
+    "id": "junk-jewels",
+    "name": "Junk Jewels",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/junkjewels_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "Pseudo item representing any quantity or type of Jewel"
+      ]
+    },
+    "local_image": "images/misc/junk-jewels.png"
+  },
+  {
+    "id": "perfect-topaz",
+    "name": "Perfect Topaz",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/perfecttopaz_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 18,
+      "magical_properties": [
+        "Weapons",
+        "1-40 Lightning Damage",
+        "Armor",
+        "+24% Chance to Find Magic Items",
+        "Shields",
+        "40% Resist Lightning",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Add Sockets to Normal Body Armor",
+        "Recipe: Coral Ring",
+        "Product of:",
+        "Recipe: Perfect Topaz"
+      ]
+    },
+    "local_image": "images/misc/perfect-topaz.png"
+  },
+  {
+    "id": "scroll-of-resistance",
+    "name": "Scroll of Resistance",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/scroll_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "Increases all resistances by 10 (once per difficulty)"
+      ]
+    },
+    "local_image": "images/misc/scroll-of-resistance.png"
+  },
+  {
+    "id": "horadric-cube",
+    "name": "Horadric Cube",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/horadric_cube_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "Crafting tool for Recipes and quest advancement.",
+        "Source:",
+        "From superchest in  Halls of the Dead Level 3"
+      ]
+    },
+    "local_image": "images/misc/horadric-cube.png"
+  },
+  {
+    "id": "ith",
+    "name": "Ith",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeIth_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 15 Rune\nIndex: 6",
+    "properties": {
+      "magical_properties": [
+        "Level 15 Rune",
+        "Index: 6",
+        "Weapons",
+        "+9 to Maximum Damage",
+        "Armor",
+        "15% Damage Taken Goes to Mana",
+        "Shields",
+        "15% Damage Taken Goes to Mana",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Blood Shield",
+        "Recipe: Caster Belt",
+        "Recipe: Hit Power Helm",
+        "Recipe: Safety Helm",
+        "Recipe: Tal",
+        "Enigma",
+        "Harmony",
+        "Honor",
+        "Malice",
+        "Mist",
+        "Radiance",
+        "Rain",
+        "Unbending Will",
+        "Wisdom",
+        "Product of:",
+        "Recipe: Ith"
+      ]
+    },
+    "local_image": "images/misc/ith.png"
+  },
+  {
+    "id": "safety-boots",
+    "name": "Safety Boots",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetyplateboots_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+10-30% Enhanced Defense",
+        "Fire Resist +5-10%",
+        "Magic Damage Reduced By 1-2",
+        "Damage Reduced By 1-4",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Safety Boots"
+      ]
+    },
+    "local_image": "images/misc/safety-boots.png"
+  },
+  {
+    "id": "caster-belt",
+    "name": "Caster Belt",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/casterlightbelt_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "5-10% Faster Cast Rate",
+        "Regenerate Mana 4-10%",
+        "+10-20 To Mana",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Caster Belt"
+      ]
+    },
+    "local_image": "images/misc/caster-belt.png"
+  },
+  {
+    "id": "blood-weapon",
+    "name": "Blood Weapon",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/blooddoubleaxe_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+35-60% Enhanced Damage",
+        "1-4% Life Stolen Per Hit",
+        "+10-20 To Life",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Blood Weapon"
+      ]
+    },
+    "local_image": "images/misc/blood-weapon.png"
+  },
+  {
+    "id": "safety-weapon",
+    "name": "Safety Weapon",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetyspear_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+5-10% Enhanced Defense",
+        "Magic Damage Reduced By 1-2",
+        "Damage Reduced By 1-4",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Safety Weapon"
+      ]
+    },
+    "local_image": "images/misc/safety-weapon.png"
+  },
+  {
+    "id": "amulet-of-the-viper",
+    "name": "Amulet of the Viper",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/amuletoftheviper_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "Poison Resist +25%",
+        "+10 to Mana",
+        "+10 to Life",
+        "Source:",
+        "From superchest in  Claw Viper Temple Level 2",
+        "Ingredient in:",
+        "Recipe: Horadric Staff"
+      ]
+    },
+    "local_image": "images/misc/amulet-of-the-viper.png"
+  },
+  {
+    "id": "blood-ring",
+    "name": "Blood Ring",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodring1_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+1-5 To Strength",
+        "1-3% Life Stolen Per Hit",
+        "+10-20 To Life",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Blood Ring"
+      ]
+    },
+    "local_image": "images/misc/blood-ring.png"
+  },
+  {
+    "id": "ist",
+    "name": "Ist",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeIst_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 51 Rune\nIndex: 24",
+    "properties": {
+      "magical_properties": [
+        "Level 51 Rune",
+        "Index: 24",
+        "Weapons",
+        "30% Better Chance of Getting Magic Items",
+        "Armor",
+        "25% Better Chance of Getting Magic Items",
+        "Shields",
+        "25% Better Chance of Getting Magic Items",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Gul",
+        "Call To Arms",
+        "Chains of Honor",
+        "Delirium",
+        "Eternity",
+        "Exile",
+        "Infinity",
+        "Obsession",
+        "Silence",
+        "Product of:",
+        "Recipe: Ist"
+      ]
+    },
+    "local_image": "images/misc/ist.png"
+  },
+  {
+    "id": "safety-ring",
+    "name": "Safety Ring",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetyring3_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+1-5 To Vitality",
+        "Magic Damage Reduced By 1-2",
+        "Damage Reduced By 1-4",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Safety Ring"
+      ]
+    },
+    "local_image": "images/misc/safety-ring.png"
+  },
+  {
+    "id": "tome-of-town-portal",
+    "name": "Tome of Town Portal",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/tome-blue_graphic.png",
+    "type": "Misc Item",
+    "category": "Consumable",
+    "properties": {
+      "magical_properties": [
+        "Conveniently stores 20 Scrolls of Town Portal.",
+        "Ingredient in:",
+        "Recipe: Portal to the Secret Cow Level"
+      ]
+    },
+    "local_image": "images/misc/tome-of-town-portal.png"
+  },
+  {
+    "id": "potion-of-life",
+    "name": "Potion of Life",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/questpotion_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "Permanently grants +20 to life"
+      ]
+    },
+    "local_image": "images/misc/potion-of-life.png"
+  },
+  {
+    "id": "arrows",
+    "name": "Arrows",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/arrows_graphic.png",
+    "type": "Misc Item",
+    "category": "Consumable",
+    "properties": {
+      "magical_properties": [
+        "Max quantity stack: 350",
+        "Ammunition for Bows",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Bolts",
+        "Recipe: Javelin",
+        "Product of:",
+        "Recipe: Arrows"
+      ]
+    },
+    "local_image": "images/misc/arrows.png"
+  },
+  {
+    "id": "bolts",
+    "name": "Bolts",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/bolts_graphic.png",
+    "type": "Misc Item",
+    "category": "Consumable",
+    "properties": {
+      "magical_properties": [
+        "Max quantity stack: 250",
+        "Ammunition for Crossbows",
+        "Ingredient in:",
+        "Recipe: Arrows",
+        "Product of:",
+        "Recipe: Bolts"
+      ]
+    },
+    "local_image": "images/misc/bolts.png"
+  },
+  {
+    "id": "antidote-potion",
+    "name": "Antidote Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/antidote_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "Cures poison effects instantly",
+        "Gain +50 Poison Resistance (30 sec)",
+        "Gain +10 to Max Poison Resistance (30 sec)",
+        "Ingredient in:",
+        "Recipe: Jade Ring",
+        "Product of:",
+        "Recipe: Antidote Potion"
+      ]
+    },
+    "local_image": "images/misc/antidote-potion.png"
+  },
+  {
+    "id": "thawing-potion",
+    "name": "Thawing Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/thawing_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "Removes freeze and cold effects instantly",
+        "Gain +50 Cold Resistance (30 sec)",
+        "Gain +10 Max Cold Resistance (30 sec)",
+        "Ingredient in:",
+        "Recipe: Cobalt Ring"
+      ]
+    },
+    "local_image": "images/misc/thawing-potion.png"
+  },
+  {
+    "id": "horadric-scroll",
+    "name": "Horadric Scroll",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/horadricscroll_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "Provides clues on crafting the Horadric Staff",
+        "Source:",
+        "From superchest in  Sewers Level 2"
+      ]
+    },
+    "local_image": "images/misc/horadric-scroll.png"
+  },
+  {
+    "id": "key-of-destruction",
+    "name": "Key of Destruction",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/questkey_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "One of the Pandemonium Event's minor keys",
+        "Source:",
+        "Drops from  Nihlathak",
+        "Patch 1.11 or later",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Portal to Forgotten Sands",
+        "Recipe: Portal to Furnace of Pain",
+        "Recipe: Portal to Matron's Den"
+      ]
+    },
+    "local_image": "images/misc/key-of-destruction.png"
+  },
+  {
+    "id": "perfect-skull",
+    "name": "Perfect Skull",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/perfectskull_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 18,
+      "magical_properties": [
+        "Weapons",
+        "Steals 4% life, 3% Mana",
+        "Armor",
+        "Replenish Life +5, Regenerate Mana 19%",
+        "Shields",
+        "Attacker Takes Damage of 20",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Add 1 Socket to a Rare Item",
+        "Recipe: High Quality Rare Item of Same Type",
+        "Recipe: Low Quality Rare Item of Same Type",
+        "Product of:",
+        "Recipe: Perfect Skull"
+      ]
+    },
+    "local_image": "images/misc/perfect-skull.png"
+  },
+  {
+    "id": "caster-amulet",
+    "name": "Caster Amulet",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/casteramuletoftheviper_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "5-10% Faster Cast Rate",
+        "Regenerate Mana 4-10%",
+        "+10-20 To Mana",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Caster Amulet"
+      ]
+    },
+    "local_image": "images/misc/caster-amulet.png"
+  },
+  {
+    "id": "key",
+    "name": "Key",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/key_graphic.png",
+    "type": "Misc Item",
+    "category": "Consumable",
+    "properties": {
+      "magical_properties": [
+        "Opens locked chests and stashes."
+      ]
+    },
+    "local_image": "images/misc/key.png"
+  },
+  {
+    "id": "diablos-horn",
+    "name": "Diablo's Horn",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/horn_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "One of the Pandemonium Event's major keys",
+        "Source:",
+        "Drops from  Lilith",
+        "Patch 1.11 or later",
+        "Ingredient in:",
+        "Recipe: Portal to Uber Tristram"
+      ]
+    },
+    "local_image": "images/misc/diablos-horn.png"
+  },
+  {
+    "id": "mephistos-brain",
+    "name": "Mephisto's Brain",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/brain_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "One of the Pandemonium Event's major keys",
+        "Source:",
+        "Drops from  Über Izual",
+        "Patch 1.11 or later",
+        "Ingredient in:",
+        "Recipe: Portal to Uber Tristram"
+      ]
+    },
+    "local_image": "images/misc/mephistos-brain.png"
+  },
+  {
+    "id": "baals-eye",
+    "name": "Baal's Eye",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/eye_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "One of the Pandemonium Event's major keys",
+        "Source:",
+        "Drops from  Über Duriel",
+        "Patch 1.11 or later",
+        "Ingredient in:",
+        "Recipe: Portal to Uber Tristram"
+      ]
+    },
+    "local_image": "images/misc/baals-eye.png"
+  },
+  {
+    "id": "greater-mana-potion",
+    "name": "Greater Mana Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/greatermana_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "B: Restores 150MP",
+        "A, Asn, P: Restores 225MP",
+        "D, N, S: Restores 300MP"
+      ]
+    },
+    "local_image": "images/misc/greater-mana-potion.png"
+  },
+  {
+    "id": "super-mana-potion",
+    "name": "Super Mana Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/supermana_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "B: Restores 250MP",
+        "A, Asn, P: Restores 375MP",
+        "D, N, S: Restores 500MP"
+      ]
+    },
+    "local_image": "images/misc/super-mana-potion.png"
+  },
+  {
+    "id": "malahs-potion",
+    "name": "Malah's Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/questpotion_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "Used to thaw the ice imprisoning Anya in the Frozen River.",
+        "Source:",
+        "Given by  Malah"
+      ]
+    },
+    "local_image": "images/misc/malahs-potion.png"
+  },
+  {
+    "id": "rancid-gas-potion",
+    "name": "Rancid Gas Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/strangling_graphic.png",
+    "type": "Misc Item",
+    "category": "Throwing Potion",
+    "properties": {
+      "damage": [
+        "Throw damage: 96 (over 2 secs)"
+      ],
+      "required_level": 24,
+      "quality_level": 32,
+      "magical_properties": [
+        "Deals a large area of damage that lasts a considerable amount of time."
+      ]
+    },
+    "local_image": "images/misc/rancid-gas-potion.png"
+  },
+  {
+    "id": "key-of-hate",
+    "name": "Key of Hate",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/questkey_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "One of the Pandemonium Event's minor keys",
+        "Source:",
+        "Drops from  The Summoner",
+        "Patch 1.11 or later",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Portal to Forgotten Sands",
+        "Recipe: Portal to Furnace of Pain",
+        "Recipe: Portal to Matron's Den"
+      ]
+    },
+    "local_image": "images/misc/key-of-hate.png"
+  },
+  {
+    "id": "key-of-terror",
+    "name": "Key of Terror",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/questkey_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "One of the Pandemonium Event's minor keys",
+        "Source:",
+        "Drops from  The Countess",
+        "Patch 1.11 or later",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Portal to Forgotten Sands",
+        "Recipe: Portal to Furnace of Pain",
+        "Recipe: Portal to Matron's Den"
+      ]
+    },
+    "local_image": "images/misc/key-of-terror.png"
+  },
+  {
+    "id": "blood-belt",
+    "name": "Blood Belt",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodbelt_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "Open Wounds 5-10%",
+        "1-3% Life Stolen Per Hit",
+        "+10-20 To Life",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Blood Belt"
+      ]
+    },
+    "local_image": "images/misc/blood-belt.png"
+  },
+  {
+    "id": "caster-boots",
+    "name": "Caster Boots",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/casterleatherboots_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "Increase Maximum Mana 2-5%",
+        "Regenerate Mana 4-10%",
+        "+10-20 To Mana",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Caster Boots"
+      ]
+    },
+    "local_image": "images/misc/caster-boots.png"
+  },
+  {
+    "id": "safety-gloves",
+    "name": "Safety Gloves",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetygauntlets_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+10-30% Enhanced Defense",
+        "Cold Resist +5-10%",
+        "Magic Damage Reduced By 1-2",
+        "Damage Reduced By 1-4",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Safety Gloves"
+      ]
+    },
+    "local_image": "images/misc/safety-gloves.png"
+  },
+  {
+    "id": "caster-ring",
+    "name": "Caster Ring",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/casterring4_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+1-5 To Energy",
+        "Regenerate Mana 4-10%",
+        "+10-20 To Mana",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Caster Ring"
+      ]
+    },
+    "local_image": "images/misc/caster-ring.png"
+  },
+  {
+    "id": "horadric-malus",
+    "name": "Horadric Malus",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/horadricmalus_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "damage": [
+        "1H damage: 6-16"
+      ],
+      "base_speed": null,
+      "durability": 66,
+      "required_strength": 16,
+      "required_dexterity": 16,
+      "magical_properties": [
+        "Source:",
+        "Found in  Barracks"
+      ]
+    },
+    "local_image": "images/misc/horadric-malus.png"
+  },
+  {
+    "id": "wirts-leg",
+    "name": "Wirt's Leg",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/wirtsleg_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "damage": [
+        "1H damage: 1-8"
+      ],
+      "base_speed": -10,
+      "durability": 66,
+      "magical_properties": [
+        "Max sockets: 3",
+        "Wirt's wooden leg, found in North West Tristram",
+        "Ingredient in:",
+        "Recipe: Portal to the Secret Cow Level"
+      ]
+    },
+    "local_image": "images/misc/wirts-leg.png"
+  },
+  {
+    "id": "hellforge-hammer",
+    "name": "Hellforge Hammer",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/hellforgehammer_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "damage": [
+        "1H damage: 6-15"
+      ],
+      "base_speed": null,
+      "durability": 55,
+      "magical_properties": [
+        "Adds 5-20 fire damage",
+        "+35 Defense",
+        "Fire Resist +40%",
+        "+50% Damage to Undead",
+        "Destroys Mephisto's Soulstone",
+        "Source:",
+        "Drops from  Hephasto the Armorer"
+      ]
+    },
+    "local_image": "images/misc/hellforge-hammer.png"
+  },
+  {
+    "id": "sur",
+    "name": "Sur",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeSur_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 61 Rune\nIndex: 29",
+    "properties": {
+      "magical_properties": [
+        "Level 61 Rune",
+        "Index: 29",
+        "Weapons",
+        "Hit Blinds Target",
+        "Armor",
+        "Maximum Mana 5%",
+        "Shields",
+        "+50 To Mana",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Ber",
+        "Bramble",
+        "Dragon",
+        "Eternity",
+        "Hand of Justice",
+        "Last Wish",
+        "Pride",
+        "Wind",
+        "Product of:",
+        "Recipe: Sur"
+      ]
+    },
+    "local_image": "images/misc/sur.png"
+  },
+  {
+    "id": "vex",
+    "name": "Vex",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeVex_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 55 Rune\nIndex: 26",
+    "properties": {
+      "magical_properties": [
+        "Level 55 Rune",
+        "Index: 26",
+        "Weapons",
+        "7% Mana Stolen Per Hit",
+        "Armor",
+        "5% To Maximum Fire Resist",
+        "Shields",
+        "5% To Maximum Fire Resist",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Ohm",
+        "Breath of the Dying",
+        "Death",
+        "Destruction",
+        "Exile",
+        "Flickering Flame",
+        "Heart of the Oak",
+        "Phoenix",
+        "Silence",
+        "Product of:",
+        "Recipe: Vex"
+      ]
+    },
+    "local_image": "images/misc/vex.png"
+  },
+  {
+    "id": "portal-to-forgotten-sands",
+    "name": "Portal to Forgotten Sands",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/portalforgottensands_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "A portal to the Forgotten Sands (Uber Duriel)",
+        "Patch 1.11 or later",
+        "Product of:",
+        "Recipe: Portal to Forgotten Sands"
+      ]
+    },
+    "local_image": "images/misc/portal-to-forgotten-sands.png"
+  },
+  {
+    "id": "portal-to-matrons-den",
+    "name": "Portal to Matron's Den",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/portalmatronsden_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "A portal to the Matron's Den (Lilith)",
+        "Patch 1.11 or later",
+        "Product of:",
+        "Recipe: Portal to Matron's Den"
+      ]
+    },
+    "local_image": "images/misc/portal-to-matrons-den.png"
+  },
+  {
+    "id": "portal-to-furnace-of-pain",
+    "name": "Portal to Furnace of Pain",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/portalfurnaceofpain_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "A portal to the Furnace of Pain (Uber Izual)",
+        "Patch 1.11 or later"
+      ]
+    },
+    "local_image": "images/misc/portal-to-furnace-of-pain.png"
+  },
+  {
+    "id": "portal-to-uber-tristram",
+    "name": "Portal to Uber Tristram",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/portalubertristram_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "A portal to Uber Tristram (Uber Mephisto, Uber Baal, Uber Diablo)",
+        "Patch 1.11 or later",
+        "Product of:",
+        "Recipe: Portal to Uber Tristram"
+      ]
+    },
+    "local_image": "images/misc/portal-to-uber-tristram.png"
+  },
+  {
+    "id": "portal-to-the-secret-cow-level",
+    "name": "Portal to the Secret Cow Level",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/cow_portal_graphic.png",
+    "type": "Misc Item",
+    "category": "Miscellaneous Item",
+    "properties": {
+      "magical_properties": [
+        "MoooOOOoooo",
+        "Product of:",
+        "Recipe: Portal to the Secret Cow Level"
+      ]
+    },
+    "local_image": "images/misc/portal-to-the-secret-cow-level.png"
+  },
+  {
+    "id": "horadric-staff",
+    "name": "Horadric Staff",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/Horadricstaff_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "damage": [
+        "2H damage: 12-20"
+      ],
+      "durability": 50,
+      "required_strength": 30,
+      "magical_properties": [
+        "+50% Increased Attack Speed",
+        "+10 to Life",
+        "+10 to Mana",
+        "Cold Resist +10%",
+        "Lightning Resist +10%",
+        "Fire Resist +10%",
+        "Poison Resist +35%",
+        "+50% Damage to Undead",
+        "Product of:",
+        "Recipe: Horadric Staff"
+      ]
+    },
+    "local_image": "images/misc/horadric-staff.png"
+  },
+  {
+    "id": "scroll-of-identify",
+    "name": "Scroll of Identify",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/scroll-red_graphic.png",
+    "type": "Misc Item",
+    "category": "Consumable",
+    "properties": {
+      "magical_properties": [
+        "Identifies an item."
+      ]
+    },
+    "local_image": "images/misc/scroll-of-identify.png"
+  },
+  {
+    "id": "scroll-of-inifuss",
+    "name": "Scroll of Inifuss",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/scroll_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "This inscribed bark holds the key to Tristram.",
+        "Source:",
+        "Found in  Dark Wood"
+      ]
+    },
+    "local_image": "images/misc/scroll-of-inifuss.png"
+  },
+  {
+    "id": "staff-of-kings",
+    "name": "Staff of Kings",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/lazarusspire_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "damage": [
+        "2H damage: 10-15"
+      ],
+      "durability": 45,
+      "required_strength": 25,
+      "magical_properties": [
+        "+50% Increased Attack Speed",
+        "All Resistances +10%",
+        "+50% Damage to Undead",
+        "Source:",
+        "From superchest in  Maggot Lair Level 3",
+        "Ingredient in:",
+        "Recipe: Horadric Staff"
+      ]
+    },
+    "local_image": "images/misc/staff-of-kings.png"
+  },
+  {
+    "id": "perfect-amethyst",
+    "name": "Perfect Amethyst",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/perfectamethyst_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 18,
+      "magical_properties": [
+        "Weapons",
+        "+150 to Attack Rating",
+        "Armor",
+        "+10 to Strength",
+        "Shields",
+        "+30 Defense Vs. Missile",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Add Sockets to Normal Weapon",
+        "Recipe: Caster Amulet",
+        "Recipe: Caster Belt",
+        "Recipe: Caster Body",
+        "Recipe: Caster Boots",
+        "Recipe: Caster Gloves",
+        "Recipe: Caster Helm",
+        "Recipe: Caster Ring",
+        "Recipe: Caster Shield",
+        "Recipe: Caster Weapon",
+        "Recipe: Elite Version of Rare Armor",
+        "Recipe: Exceptional Version of Rare Armor",
+        "Product of:",
+        "Recipe: Perfect Amethyst"
+      ]
+    },
+    "local_image": "images/misc/perfect-amethyst.png"
+  },
+  {
+    "id": "khalims-will",
+    "name": "Khalim's Will",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/khalimswill_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "damage": [
+        "1H damage: 1-15"
+      ],
+      "durability": 30,
+      "magical_properties": [
+        "+50% Increased Attack Speed",
+        "+40 to Attack Rating",
+        "Adds 1-20 lightning damage",
+        "+50% Damage to Undead",
+        "Product of:",
+        "Recipe: Khalim's Will"
+      ]
+    },
+    "local_image": "images/misc/khalims-will.png"
+  },
+  {
+    "id": "khalims-flail",
+    "name": "Khalim's Flail",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/khalimsflail_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "damage": [
+        "1H damage: 1-15"
+      ],
+      "durability": 30,
+      "required_strength": 41,
+      "required_dexterity": 35,
+      "magical_properties": [
+        "+50% Increased Attack Speed",
+        "+40 to Attack Rating",
+        "Adds 1-20 lightning damage",
+        "+50% Damage to Undead",
+        "Source:",
+        "Found in  Travincal",
+        "Ingredient in:",
+        "Recipe: Khalim's Will"
+      ]
+    },
+    "local_image": "images/misc/khalims-flail.png"
+  },
+  {
+    "id": "hel",
+    "name": "Hel",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeHel_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 1 Rune\nIndex: 15",
+    "properties": {
+      "magical_properties": [
+        "Level 1 Rune",
+        "Index: 15",
+        "Weapons",
+        "Requirements -20%",
+        "Armor",
+        "Requirements -15%",
+        "Shields",
+        "Requirements -15%",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Io",
+        "Recipe: Remove All Items from Sockets",
+        "Breath of the Dying",
+        "Death",
+        "Doom",
+        "Lionheart",
+        "Myth",
+        "Obedience",
+        "Rift",
+        "Silence",
+        "Unbending Will",
+        "Product of:",
+        "Recipe: Hel"
+      ]
+    },
+    "local_image": "images/misc/hel.png"
+  },
+  {
+    "id": "perfect-ruby",
+    "name": "Perfect Ruby",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/perfectruby_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 18,
+      "magical_properties": [
+        "Weapons",
+        "15-20 Fire Damage",
+        "Armor",
+        "+38 to Life",
+        "Shields",
+        "40% Resist Fire",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Add Sockets to Normal Shield",
+        "Recipe: Blood Amulet",
+        "Recipe: Blood Belt",
+        "Recipe: Blood Body",
+        "Recipe: Blood Boots",
+        "Recipe: Blood Gloves",
+        "Recipe: Blood Helm",
+        "Recipe: Blood Ring",
+        "Recipe: Blood Shield",
+        "Recipe: Blood Weapon",
+        "Recipe: Garnet Ring",
+        "Product of:",
+        "Recipe: Perfect Ruby"
+      ]
+    },
+    "local_image": "images/misc/perfect-ruby.png"
+  },
+  {
+    "id": "perfect-diamond",
+    "name": "Perfect Diamond",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/perfectdiamond_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 18,
+      "magical_properties": [
+        "Weapons",
+        "+68% Damage vs. Undead",
+        "Armor",
+        "+100 to attack Rating",
+        "Shields",
+        "All Resistances +19%",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Elite Version of Set Armor",
+        "Recipe: Elite Version of Unique Armor",
+        "Recipe: Exceptional Version of Set Armor",
+        "Recipe: Exceptional Version of Unique Armor",
+        "Product of:",
+        "Recipe: Perfect Diamond"
+      ]
+    },
+    "local_image": "images/misc/perfect-diamond.png"
+  },
+  {
+    "id": "perfect-emerald",
+    "name": "Perfect Emerald",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/perfectemerald_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 18,
+      "magical_properties": [
+        "Weapons",
+        "+100 Poison Damage over 7 Seconds",
+        "Armor",
+        "+10 to Dexterity",
+        "Shields",
+        "40% Resist Poison",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Elite Version of Set Weapon",
+        "Recipe: Elite Version of Unique Weapon",
+        "Recipe: Exceptional Version of Set Weapon",
+        "Recipe: Exceptional Version of Unique Weapon",
+        "Recipe: Jade Ring",
+        "Recipe: Safety Amulet",
+        "Recipe: Safety Belt",
+        "Recipe: Safety Body",
+        "Recipe: Safety Boots",
+        "Recipe: Safety Gloves",
+        "Recipe: Safety Helm",
+        "Recipe: Safety Ring",
+        "Recipe: Safety Shield",
+        "Recipe: Safety Weapon",
+        "Product of:",
+        "Recipe: Perfect Emerald"
+      ]
+    },
+    "local_image": "images/misc/perfect-emerald.png"
+  },
+  {
+    "id": "standard-of-heroes",
+    "name": "Standard of Heroes",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/standard_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "Proves completion of the Pandemonium Event.",
+        "Patch 1.11 or later"
+      ]
+    },
+    "local_image": "images/misc/standard-of-heroes.png"
+  },
+  {
+    "id": "khalims-heart",
+    "name": "Khalim's Heart",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/heart_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "Used to craft Khalim's Will",
+        "Source:",
+        "From superchest in  Kurast Sewers Level 2",
+        "Ingredient in:",
+        "Recipe: Khalim's Will"
+      ]
+    },
+    "local_image": "images/misc/khalims-heart.png"
+  },
+  {
+    "id": "khalims-brain",
+    "name": "Khalim's Brain",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/brain_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "Used to craft Khalim's Will",
+        "Source:",
+        "From superchest in  Flayer Dungeon Level 3",
+        "Ingredient in:",
+        "Recipe: Khalim's Will"
+      ]
+    },
+    "local_image": "images/misc/khalims-brain.png"
+  },
+  {
+    "id": "khalims-eye",
+    "name": "Khalim's Eye",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/eye_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "Used to craft Khalim's Will",
+        "Source:",
+        "From superchest in  Spider Cavern",
+        "Ingredient in:",
+        "Recipe: Khalim's Will"
+      ]
+    },
+    "local_image": "images/misc/khalims-eye.png"
+  },
+  {
+    "id": "golden-bird-of-ku-yleh",
+    "name": "Golden Bird of Ku Y'leh",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/birdofkulyeh_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "Given to Alkor in exchange for a Potion of Life.",
+        "Source:",
+        "Given by  Meshif"
+      ]
+    },
+    "local_image": "images/misc/golden-bird-of-ku-yleh.png"
+  },
+  {
+    "id": "a-jade-figurine",
+    "name": "A Jade Figurine",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/jadefigurine_graphic.png",
+    "type": "Misc Item",
+    "category": "Quest Item",
+    "properties": {
+      "magical_properties": [
+        "Traded with Meshif for the Golden Bird of Ku Y'leh.",
+        "Source:",
+        "Found in  Spider Forest"
+      ]
+    },
+    "local_image": "images/misc/a-jade-figurine.png"
+  },
+  {
+    "id": "safety-body",
+    "name": "Safety Body",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetybreastplate_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+10-30% Enhanced Defense",
+        "Half Freeze Duration",
+        "Magic Damage Reduced By 1-2",
+        "Damage Reduced By 1-4",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Safety Body"
+      ]
+    },
+    "local_image": "images/misc/safety-body.png"
+  },
+  {
+    "id": "safety-helm",
+    "name": "Safety Helm",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetycrown_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+10-30% Enhanced Defense",
+        "Lightning Resist +5-10%",
+        "Magic Damage Reduced By 1-2",
+        "Damage Reduced By 1-4",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Safety Helm"
+      ]
+    },
+    "local_image": "images/misc/safety-helm.png"
+  },
+  {
+    "id": "caster-body",
+    "name": "Caster Body",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/casterlightplate_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+1-3 Mana Per Kill",
+        "Regenerate Mana 4-10%",
+        "+10-20 To Mana",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Caster Body"
+      ]
+    },
+    "local_image": "images/misc/caster-body.png"
+  },
+  {
+    "id": "caster-shield",
+    "name": "Caster Shield",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/castersmallshield_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "+5-10% Increased Chance Of Blocking",
+        "Regenerate Mana 4-10%",
+        "+10-20 To Mana",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Caster Shield"
+      ]
+    },
+    "local_image": "images/misc/caster-shield.png"
+  },
+  {
+    "id": "caster-helm",
+    "name": "Caster Helm",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/castermask_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "1-4% Mana Stolen Per Hit",
+        "Regenerate Mana 4-10%",
+        "+10-20 To Mana",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Caster Helm"
+      ]
+    },
+    "local_image": "images/misc/caster-helm.png"
+  },
+  {
+    "id": "blood-shield",
+    "name": "Blood Shield",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodspikedshield_graphic.png",
+    "type": "Misc Item",
+    "category": "Crafted Item",
+    "properties": {
+      "magical_properties": [
+        "Attacker Takes Damage of 4-7",
+        "1-3% Life Stolen Per Hit",
+        "+10-20 To Life",
+        "+1-4 Other Random Modifers",
+        "Patch 1.10 or later",
+        "Product of:",
+        "Recipe: Blood Shield"
+      ]
+    },
+    "local_image": "images/misc/blood-shield.png"
+  },
+  {
+    "id": "tome-of-identify",
+    "name": "Tome of Identify",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/tome-red_graphic.png",
+    "type": "Misc Item",
+    "category": "Consumable",
+    "properties": {
+      "magical_properties": [
+        "Conveniently stores 20 Scrolls of Identify."
+      ]
+    },
+    "local_image": "images/misc/tome-of-identify.png"
+  },
+  {
+    "id": "stamina-potion",
+    "name": "Stamina Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/stamina_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "Instantly restores all stamina",
+        "Super stamina recovery for (30 sec)"
+      ]
+    },
+    "local_image": "images/misc/stamina-potion.png"
+  },
+  {
+    "id": "exploding-potion",
+    "name": "Exploding Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/exploding_graphic.png",
+    "type": "Misc Item",
+    "category": "Throwing Potion",
+    "properties": {
+      "damage": [
+        "Throw damage: 16-30"
+      ],
+      "required_level": 12,
+      "quality_level": 16,
+      "magical_properties": [
+        "Causes an explosion that does damage within a small radius",
+        "Deals 8-18 Fire damage & 8-12 Physical damage",
+        "Ingredient in:",
+        "Recipe: Garnet Ring"
+      ]
+    },
+    "local_image": "images/misc/exploding-potion.png"
+  },
+  {
+    "id": "fulminating-potion",
+    "name": "Fulminating Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/fulm_graphic.png",
+    "type": "Misc Item",
+    "category": "Throwing Potion",
+    "properties": {
+      "damage": [
+        "Throw damage: 5-15"
+      ],
+      "magical_properties": [
+        "Deals 3-8 Fire damage & 2-7 Physical damage"
+      ]
+    },
+    "local_image": "images/misc/fulminating-potion.png"
+  },
+  {
+    "id": "choking-gas-potion",
+    "name": "Choking Gas Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/rancidgas_graphic.png",
+    "type": "Misc Item",
+    "category": "Throwing Potion",
+    "properties": {
+      "damage": [
+        "Throw damage: 72 (over 2 sec)"
+      ],
+      "required_level": 16,
+      "quality_level": 20,
+      "magical_properties": [
+        "Causes poison damage to any enemy within a small radius."
+      ]
+    },
+    "local_image": "images/misc/choking-gas-potion.png"
+  },
+  {
+    "id": "strangling-gas-potion",
+    "name": "Strangling Gas Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/strangling2_graphic.png",
+    "type": "Misc Item",
+    "category": "Throwing Potion",
+    "properties": {
+      "damage": [
+        "Throw damage: 24 (over 2 sec)"
+      ],
+      "required_level": 6,
+      "quality_level": 8,
+      "magical_properties": [
+        "Causes poison damage",
+        "Ingredient in:",
+        "Recipe: Antidote Potion"
+      ]
+    },
+    "local_image": "images/misc/strangling-gas-potion.png"
+  },
+  {
+    "id": "super-healing-potion",
+    "name": "Super Healing Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/superhealing_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "N, S, D: Heals 320HP",
+        "A, Assn,P: Heals 480HP",
+        "B: Heals 640HP"
+      ]
+    },
+    "local_image": "images/misc/super-healing-potion.png"
+  },
+  {
+    "id": "greater-healing-potion",
+    "name": "Greater Healing Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/greaterhealing_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "N, S, D: Heals 180HP",
+        "A, Assn,P: Heals 270HP",
+        "B: Heals 360HP"
+      ]
+    },
+    "local_image": "images/misc/greater-healing-potion.png"
+  },
+  {
+    "id": "mana-potion",
+    "name": "Mana Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/mana_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "B: Restores 80MP",
+        "A, Asn, P: Restores 120MP",
+        "D, N, S: Restores 160MP"
+      ]
+    },
+    "local_image": "images/misc/mana-potion.png"
+  },
+  {
+    "id": "healing-potion",
+    "name": "Healing Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/healing_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "N, S, D: Heals 100HP",
+        "A, Assn,P: Heals 150HP",
+        "B: Heals 200HP"
+      ]
+    },
+    "local_image": "images/misc/healing-potion.png"
+  },
+  {
+    "id": "light-mana-potion",
+    "name": "Light Mana Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/lightmana_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "B: Restores 40MP",
+        "A, Asn, P: Restores 60MP",
+        "D, N, S: Restores 80MP"
+      ]
+    },
+    "local_image": "images/misc/light-mana-potion.png"
+  },
+  {
+    "id": "light-healing-potion",
+    "name": "Light Healing Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/lighthealing_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "N, S, D: Heals 60HP",
+        "A, Assn,P: Heals 90HP",
+        "B: Heals 120HP"
+      ]
+    },
+    "local_image": "images/misc/light-healing-potion.png"
+  },
+  {
+    "id": "minor-mana-potion",
+    "name": "Minor Mana Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/minormana_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "B: Restores 20MP",
+        "A, Asn, P: Restores 30MP",
+        "D, N, S: Restores 40MP"
+      ]
+    },
+    "local_image": "images/misc/minor-mana-potion.png"
+  },
+  {
+    "id": "minor-healing-potion",
+    "name": "Minor Healing Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/minorhealing_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "N, S, D: Heals 30HP",
+        "A, Asn, P: Heals 45HP",
+        "B: Heals 60HP"
+      ]
+    },
+    "local_image": "images/misc/minor-healing-potion.png"
+  },
+  {
+    "id": "rejuvenation-potion",
+    "name": "Rejuvenation Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/rejuv_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "Instantly regain 35% Life and Mana.",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Coral Ring",
+        "Recipe: Full Rejuvenation Potion",
+        "Product of:",
+        "Recipe: Rejuvenation Potion"
+      ]
+    },
+    "local_image": "images/misc/rejuvenation-potion.png"
+  },
+  {
+    "id": "full-rejuvenation-potion",
+    "name": "Full Rejuvenation Potion",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/full_rejuv_graphic.png",
+    "type": "Misc Item",
+    "category": "Potion",
+    "properties": {
+      "magical_properties": [
+        "Instantly regain 100% Life and Mana.",
+        "Product of:",
+        "Product of:",
+        "Recipe: Full Rejuvenation Potion",
+        "Recipe: Full Rejuvenation Potion (Alternative)"
+      ]
+    },
+    "local_image": "images/misc/full-rejuvenation-potion.png"
+  },
+  {
+    "id": "flawless-topaz",
+    "name": "Flawless Topaz",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawlesstopaz_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 15,
+      "magical_properties": [
+        "Weapons",
+        "1-30 Lightning Damage",
+        "Armor",
+        "+20% Chance to Find Magic Items",
+        "Shields",
+        "28% Resist Lightning",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Perfect Topaz",
+        "Recipe: Sur",
+        "Product of:",
+        "Recipe: Flawless Topaz"
+      ]
+    },
+    "local_image": "images/misc/flawless-topaz.png"
+  },
+  {
+    "id": "flawless-diamond",
+    "name": "Flawless Diamond",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawlessdiamond_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 15,
+      "magical_properties": [
+        "Weapons",
+        "+54% Damage vs. Undead",
+        "Armor",
+        "+80 to attack Rating",
+        "Shields",
+        "All Resistances +14%",
+        "Ingredient in:",
+        "Recipe: Perfect Diamond",
+        "Product of:",
+        "Recipe: Flawless Diamond"
+      ]
+    },
+    "local_image": "images/misc/flawless-diamond.png"
+  },
+  {
+    "id": "flawless-ruby",
+    "name": "Flawless Ruby",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawlessruby_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 15,
+      "magical_properties": [
+        "Weapons",
+        "10-16 Fire Damage",
+        "Armor",
+        "+31 to Life",
+        "Shields",
+        "28% Resist Fire",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Cham",
+        "Recipe: Perfect Ruby",
+        "Product of:",
+        "Recipe: Flawless Ruby"
+      ]
+    },
+    "local_image": "images/misc/flawless-ruby.png"
+  },
+  {
+    "id": "flawless-emerald",
+    "name": "Flawless Emerald",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawlessemerald_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 15,
+      "magical_properties": [
+        "Weapons",
+        "+60 Poison Damage over 6 Seconds",
+        "Armor",
+        "+8 to Dexterity",
+        "Shields",
+        "28% Resist Poison",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Perfect Emerald",
+        "Recipe: Zod",
+        "Product of:",
+        "Recipe: Flawless Emerald"
+      ]
+    },
+    "local_image": "images/misc/flawless-emerald.png"
+  },
+  {
+    "id": "flawless-skull",
+    "name": "Flawless Skull",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawlessskull_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 15,
+      "magical_properties": [
+        "Weapons",
+        "Steals 3% life, 3% Mana",
+        "Armor",
+        "Replenish Life +4, Regenerate Mana 12%",
+        "Shields",
+        "Attacker Takes Damage of 16",
+        "Ingredient in:",
+        "Recipe: Perfect Skull",
+        "Product of:",
+        "Recipe: Flawless Skull"
+      ]
+    },
+    "local_image": "images/misc/flawless-skull.png"
+  },
+  {
+    "id": "topaz",
+    "name": "Topaz",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/topaz_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 12,
+      "magical_properties": [
+        "Weapons",
+        "1-22 Lightning Damage",
+        "Armor",
+        "+16% Chance to Find Magic Items",
+        "Shields",
+        "22% Resist Lightning",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Flawless Topaz",
+        "Recipe: Mal",
+        "Product of:",
+        "Recipe: Topaz"
+      ]
+    },
+    "local_image": "images/misc/topaz.png"
+  },
+  {
+    "id": "diamond",
+    "name": "Diamond",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/diamond_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 12,
+      "magical_properties": [
+        "Weapons",
+        "+44% Damage vs. Undead",
+        "Armor",
+        "+60 to attack Rating",
+        "Shields",
+        "All Resistances +11%",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Flawless Diamond",
+        "Recipe: Lo",
+        "Product of:",
+        "Recipe: Diamond"
+      ]
+    },
+    "local_image": "images/misc/diamond.png"
+  },
+  {
+    "id": "ruby",
+    "name": "Ruby",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/ruby_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 12,
+      "magical_properties": [
+        "Weapons",
+        "8-12 Fire Damage",
+        "Armor",
+        "+24 to Life",
+        "Shields",
+        "22% Resist Fire",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Flawless Ruby",
+        "Recipe: Vex",
+        "Product of:",
+        "Recipe: Ruby"
+      ]
+    },
+    "local_image": "images/misc/ruby.png"
+  },
+  {
+    "id": "emerald",
+    "name": "Emerald",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/emerald_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 12,
+      "magical_properties": [
+        "Weapons",
+        "+40 Poison Damage over 5 Seconds",
+        "Armor",
+        "+6 to Dexterity",
+        "Shields",
+        "22% Resist Poison",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Flawless Emerald",
+        "Recipe: Ohm",
+        "Product of:",
+        "Recipe: Emerald"
+      ]
+    },
+    "local_image": "images/misc/emerald.png"
+  },
+  {
+    "id": "sapphire",
+    "name": "Sapphire",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/saphire_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 12,
+      "magical_properties": [
+        "Weapons",
+        "4-7 Cold Damage - 2.0 sec Duration",
+        "Armor",
+        "+24 Max Mana",
+        "Shields",
+        "22% Resist Cold",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Flawless Sapphire",
+        "Recipe: Gul",
+        "Product of:",
+        "Recipe: Sapphire"
+      ]
+    },
+    "local_image": "images/misc/sapphire.png"
+  },
+  {
+    "id": "skull",
+    "name": "Skull",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/skull_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 12,
+      "magical_properties": [
+        "Weapons",
+        "Steals 3% life, 2% Mana",
+        "Armor",
+        "Replenish Life +3, Regenerate Mana 12%",
+        "Shields",
+        "Attacker Takes Damage of 12",
+        "Ingredient in:",
+        "Recipe: Flawless Skull",
+        "Product of:",
+        "Recipe: Skull"
+      ]
+    },
+    "local_image": "images/misc/skull.png"
+  },
+  {
+    "id": "flawed-diamond",
+    "name": "Flawed Diamond",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/flaweddiamond_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 5,
+      "magical_properties": [
+        "Weapons",
+        "+34% Damage vs. Undead",
+        "Armor",
+        "+40 to attack Rating",
+        "Shields",
+        "All Resistances +8%",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Diamond",
+        "Recipe: Um",
+        "Product of:",
+        "Recipe: Flawed Diamond"
+      ]
+    },
+    "local_image": "images/misc/flawed-diamond.png"
+  },
+  {
+    "id": "flawed-ruby",
+    "name": "Flawed Ruby",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawedruby_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 5,
+      "magical_properties": [
+        "Weapons",
+        "5-8 Fire Damage",
+        "Armor",
+        "+17 to Life",
+        "Shields",
+        "16% Resist Fire",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Lem",
+        "Recipe: Ruby",
+        "Product of:",
+        "Recipe: Flawed Ruby"
+      ]
+    },
+    "local_image": "images/misc/flawed-ruby.png"
+  },
+  {
+    "id": "flawed-emerald",
+    "name": "Flawed Emerald",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawedemerald_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 5,
+      "magical_properties": [
+        "Weapons",
+        "+20 Poison Damage over 4 Seconds",
+        "Armor",
+        "+4 to Dexterity",
+        "Shields",
+        "16% Resist Poison",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Emerald",
+        "Recipe: Pul",
+        "Product of:",
+        "Recipe: Flawed Emerald"
+      ]
+    },
+    "local_image": "images/misc/flawed-emerald.png"
+  },
+  {
+    "id": "flawed-sapphire",
+    "name": "Flawed Sapphire",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawedsaphire_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 5,
+      "magical_properties": [
+        "Weapons",
+        "3-5 Cold Damage - 1.4 sec Duration",
+        "Armor",
+        "+17 Max Mana",
+        "Shields",
+        "16% Resist Cold",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Fal",
+        "Recipe: Sapphire",
+        "Product of:",
+        "Recipe: Flawed Sapphire"
+      ]
+    },
+    "local_image": "images/misc/flawed-sapphire.png"
+  },
+  {
+    "id": "flawed-amethyst",
+    "name": "Flawed Amethyst",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawedamethyst_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 5,
+      "magical_properties": [
+        "Weapons",
+        "+60 to Attack Rating",
+        "Armor",
+        "+4 to Strength",
+        "Shields",
+        "+12 Defense",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Amethyst",
+        "Recipe: Ko",
+        "Product of:",
+        "Recipe: Flawed Amethyst"
+      ]
+    },
+    "local_image": "images/misc/flawed-amethyst.png"
+  },
+  {
+    "id": "flawed-skull",
+    "name": "Flawed Skull",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawedskull_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "required_level": 5,
+      "magical_properties": [
+        "Weapons",
+        "Steals 2% life, 2% Mana",
+        "Armor",
+        "Replenish Life +3, Regenerate Mana 8%",
+        "Shields",
+        "Attacker Takes Damage of 8",
+        "Ingredient in:",
+        "Recipe: Skull",
+        "Product of:",
+        "Recipe: Flawed Skull"
+      ]
+    },
+    "local_image": "images/misc/flawed-skull.png"
+  },
+  {
+    "id": "chipped-diamond",
+    "name": "Chipped Diamond",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippeddiamond_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "magical_properties": [
+        "Weapons",
+        "+28% Damage vs. Undead",
+        "Armor",
+        "+20 to attack Rating",
+        "Shields",
+        "All Resistances +6%",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Flawed Diamond",
+        "Recipe: Io"
+      ]
+    },
+    "local_image": "images/misc/chipped-diamond.png"
+  },
+  {
+    "id": "chipped-ruby",
+    "name": "Chipped Ruby",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippedruby_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "magical_properties": [
+        "Weapons",
+        "3-4 Fire Damage",
+        "Armor",
+        "+10 to Life",
+        "Shields",
+        "12% Resist Fire",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Dol",
+        "Recipe: Flawed Ruby"
+      ]
+    },
+    "local_image": "images/misc/chipped-ruby.png"
+  },
+  {
+    "id": "chipped-sapphire",
+    "name": "Chipped Sapphire",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippedsaphire_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "magical_properties": [
+        "Weapons",
+        "1-3 Cold Damage - 1.0 sec Duration",
+        "Armor",
+        "+10 Max Mana",
+        "Shields",
+        "12% Resist Cold",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Flawed Sapphire",
+        "Recipe: Shael"
+      ]
+    },
+    "local_image": "images/misc/chipped-sapphire.png"
+  },
+  {
+    "id": "chipped-amethyst",
+    "name": "Chipped Amethyst",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippedamethyst_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "magical_properties": [
+        "Weapons",
+        "+40 to Attack Rating",
+        "Armor",
+        "+3 to Strength",
+        "Shields",
+        "+8 Defense",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Flawed Amethyst",
+        "Recipe: Sol"
+      ]
+    },
+    "local_image": "images/misc/chipped-amethyst.png"
+  },
+  {
+    "id": "chipped-skull",
+    "name": "Chipped Skull",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippedskull_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "magical_properties": [
+        "Weapons",
+        "Steals 2% life, 1% Mana",
+        "Armor",
+        "Replenish Life +2, Regenerate Mana 8%",
+        "Shields",
+        "Attacker Takes Damage of 4",
+        "Ingredient in:",
+        "Recipe: Flawed Skull"
+      ]
+    },
+    "local_image": "images/misc/chipped-skull.png"
+  },
+  {
+    "id": "lo",
+    "name": "Lo",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeLo_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 59 Rune\nIndex: 28",
+    "properties": {
+      "magical_properties": [
+        "Level 59 Rune",
+        "Index: 28",
+        "Weapons",
+        "20% Deadly Strike",
+        "Armor",
+        "5% To Maximum Lightning Resist",
+        "Shields",
+        "5% To Maximum Lightning Resist",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Sur",
+        "Brand",
+        "Destruction",
+        "Doom",
+        "Dragon",
+        "Fortitude",
+        "Grief",
+        "Hand of Justice",
+        "Ice",
+        "Phoenix",
+        "Pride",
+        "Product of:",
+        "Recipe: Lo"
+      ]
+    },
+    "local_image": "images/misc/lo.png"
+  },
+  {
+    "id": "ohm",
+    "name": "Ohm",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeOhm_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 57 Rune\nIndex: 27",
+    "properties": {
+      "magical_properties": [
+        "Level 57 Rune",
+        "Index: 27",
+        "Weapons",
+        "+50% Enhanced Damage",
+        "Armor",
+        "5% To Maximum Cold Resist",
+        "Shields",
+        "5% To Maximum Cold Resist",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Lo",
+        "Bramble",
+        "Call To Arms",
+        "Chaos",
+        "Doom",
+        "Exile",
+        "Faith",
+        "Famine",
+        "Product of:",
+        "Recipe: Ohm"
+      ]
+    },
+    "local_image": "images/misc/ohm.png"
+  },
+  {
+    "id": "gul",
+    "name": "Gul",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeGul_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 53 Rune\nIndex: 25",
+    "properties": {
+      "magical_properties": [
+        "Level 53 Rune",
+        "Index: 25",
+        "Weapons",
+        "20% Bonus To Attack Rating",
+        "Armor",
+        "5% To Maximum Poison Resist",
+        "Shields",
+        "5% To Maximum Poison Resist",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Vex",
+        "Brand",
+        "Death",
+        "Fury",
+        "Kingslayer",
+        "Mist",
+        "Mosaic",
+        "Principle",
+        "Rift",
+        "Product of:",
+        "Recipe: Gul"
+      ]
+    },
+    "local_image": "images/misc/gul.png"
+  },
+  {
+    "id": "mal",
+    "name": "Mal",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeMal_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 49 Rune\nIndex: 23",
+    "properties": {
+      "magical_properties": [
+        "Level 49 Rune",
+        "Index: 23",
+        "Weapons",
+        "Prevent Monster Heal",
+        "Armor",
+        "Magic Damage Reduced By 7",
+        "Shields",
+        "Magic Damage Reduced By 7",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Ist",
+        "Beast",
+        "Brand",
+        "Call To Arms",
+        "Grief",
+        "Infinity",
+        "Kingslayer",
+        "Last Wish",
+        "Mosaic",
+        "Oath",
+        "Prudence",
+        "Rain",
+        "Sanctuary",
+        "Venom",
+        "Wrath",
+        "Product of:",
+        "Recipe: Mal"
+      ]
+    },
+    "local_image": "images/misc/mal.png"
+  },
+  {
+    "id": "pul",
+    "name": "Pul",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runePul_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 45 Rune\nIndex: 21",
+    "properties": {
+      "magical_properties": [
+        "Level 45 Rune",
+        "Index: 21",
+        "Weapons",
+        "+75% Damage To Demons",
+        "+100 Attack Rating Against Demons",
+        "Armor",
+        "+30% Enhanced Defense",
+        "Shields",
+        "+30% Enhanced Defense",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Elite Version of Rare Armor",
+        "Recipe: Elite Version of Set Weapon",
+        "Recipe: Elite Version of Unique Weapon",
+        "Recipe: Um",
+        "Dream",
+        "Enlightenment",
+        "Flickering Flame",
+        "Gloom",
+        "Heart of the Oak",
+        "Oath",
+        "Stone",
+        "Wisdom",
+        "Wrath",
+        "Product of:",
+        "Recipe: Pul"
+      ]
+    },
+    "local_image": "images/misc/pul.png"
+  },
+  {
+    "id": "fal",
+    "name": "Fal",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeFal_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 41 Rune\nIndex: 19",
+    "properties": {
+      "magical_properties": [
+        "Level 41 Rune",
+        "Index: 19",
+        "Weapons",
+        "+10 To Strength",
+        "Armor",
+        "+10 To Strength",
+        "Shields",
+        "+10 To Strength",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Elite Version of Rare Weapon",
+        "Recipe: Lem",
+        "Chaos",
+        "Famine",
+        "Gloom",
+        "Kingslayer",
+        "Lionheart",
+        "Metamorphosis",
+        "Obedience",
+        "Unbending Will",
+        "Product of:",
+        "Recipe: Fal"
+      ]
+    },
+    "local_image": "images/misc/fal.png"
+  },
+  {
+    "id": "ko",
+    "name": "Ko",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeKo_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 39 Rune\nIndex: 18",
+    "properties": {
+      "magical_properties": [
+        "Level 39 Rune",
+        "Index: 18",
+        "Weapons",
+        "+10 To Dexterity",
+        "Armor",
+        "+10 To Dexterity",
+        "Shields",
+        "+10 To Dexterity",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Elite Version of Rare Armor",
+        "Recipe: Elite Version of Set Armor",
+        "Recipe: Elite Version of Unique Armor",
+        "Recipe: Fal",
+        "Destruction",
+        "Harmony",
+        "Heart of the Oak",
+        "Hustle",
+        "Lawbringer",
+        "Melody",
+        "Obedience",
+        "Rift",
+        "Sanctuary",
+        "Voice of Reason",
+        "Wealth",
+        "Product of:",
+        "Recipe: Ko"
+      ]
+    },
+    "local_image": "images/misc/ko.png"
+  },
+  {
+    "id": "shael",
+    "name": "Shael",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 29 Rune\nIndex: 13",
+    "properties": {
+      "magical_properties": [
+        "Level 29 Rune",
+        "Index: 13",
+        "Weapons",
+        "20% Increased Attack Speed",
+        "Armor",
+        "20% Faster Hit Recovery",
+        "Shields",
+        "20% Faster Block Rate",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Dol",
+        "Recipe: Exceptional Version of Set Armor",
+        "Recipe: Exceptional Version of Unique Armor",
+        "Bulwark",
+        "Crescent Moon Runeword",
+        "Cure",
+        "Duress",
+        "Ground",
+        "Hearth",
+        "Hustle",
+        "Ice",
+        "Melody",
+        "Mist",
+        "Oath",
+        "Peace",
+        "Plague",
+        "Rhyme",
+        "Stone",
+        "Temper",
+        "Treachery",
+        "Product of:",
+        "Recipe: Shael"
+      ]
+    },
+    "local_image": "images/misc/shael.png"
+  },
+  {
+    "id": "sol",
+    "name": "Sol",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeSol_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 27 Rune\nIndex: 12",
+    "properties": {
+      "magical_properties": [
+        "Level 27 Rune",
+        "Index: 12",
+        "Weapons",
+        "+9 To Minimum Damage",
+        "Armor",
+        "Damage Reduced By 7",
+        "Shields",
+        "Damage Reduced By 7",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Blood Ring",
+        "Recipe: Exceptional Version of Set Weapon",
+        "Recipe: Exceptional Version of Unique Weapon",
+        "Recipe: Safety Weapon",
+        "Recipe: Shael",
+        "Bone",
+        "Bulwark",
+        "Dragon",
+        "Enlightenment",
+        "Eternity",
+        "Fortitude",
+        "Harmony",
+        "Honor",
+        "Insight",
+        "Lore",
+        "Memory",
+        "Radiance",
+        "Product of:",
+        "Recipe: Sol"
+      ]
+    },
+    "local_image": "images/misc/sol.png"
+  },
+  {
+    "id": "nef",
+    "name": "Nef",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeNef_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 13 Rune\nIndex: 4",
+    "properties": {
+      "magical_properties": [
+        "Level 13 Rune",
+        "Index: 4",
+        "Weapons",
+        "Knockback",
+        "Armor",
+        "+30 Defense Vs. Missile",
+        "Shields",
+        "+30 Defense Vs. Missile",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Blood Gloves",
+        "Recipe: Caster Helm",
+        "Recipe: Eth",
+        "Recipe: Hit Power Body",
+        "Recipe: Safety Shield",
+        "Black",
+        "Flickering Flame",
+        "Melody",
+        "Myth",
+        "Nadir",
+        "Obsession",
+        "Radiance",
+        "Smoke",
+        "Product of:",
+        "Recipe: Nef"
+      ]
+    },
+    "local_image": "images/misc/nef.png"
+  },
+  {
+    "id": "tal",
+    "name": "Tal",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTal_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 17 Rune\nIndex: 7",
+    "properties": {
+      "magical_properties": [
+        "Level 17 Rune",
+        "Index: 7",
+        "Weapons",
+        "+75 poison damage over 5s",
+        "Armor",
+        "30% poison resist",
+        "Shields",
+        "35% poison resist",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Add Sockets to Normal Body Armor",
+        "Recipe: Add Sockets to Normal Shield",
+        "Recipe: Blood Belt",
+        "Recipe: Caster Body",
+        "Recipe: Exceptional Version of Set Armor",
+        "Recipe: Exceptional Version of Unique Armor",
+        "Recipe: Hit Power Belt",
+        "Recipe: Ral",
+        "Recipe: Safety Belt",
+        "Ancients' Pledge",
+        "Cure",
+        "Edge",
+        "Holy Thunder",
+        "Insight",
+        "Pattern",
+        "Spirit",
+        "Stealth",
+        "Venom",
+        "Product of:",
+        "Recipe: Tal"
+      ]
+    },
+    "local_image": "images/misc/tal.png"
+  },
+  {
+    "id": "lum",
+    "name": "Lum",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeLum_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 37 Rune\nIndex: 17",
+    "properties": {
+      "magical_properties": [
+        "Level 37 Rune",
+        "Index: 17",
+        "Weapons",
+        "+10 To Energy",
+        "Armor",
+        "+10 To Energy",
+        "Shields",
+        "+10 To Energy",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Elite Version of Set Weapon",
+        "Recipe: Elite Version of Unique Weapon",
+        "Recipe: Ko",
+        "Beast",
+        "Lionheart",
+        "Memory",
+        "Oath",
+        "Obsession",
+        "Smoke",
+        "Splendor",
+        "Stone",
+        "Wrath",
+        "Product of:",
+        "Recipe: Lum"
+      ]
+    },
+    "local_image": "images/misc/lum.png"
+  },
+  {
+    "id": "flawless-sapphire",
+    "name": "Flawless Sapphire",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawlesssaphire_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "magical_properties": [
+        "Weapons",
+        "6-10 Cold Damage - 2.4 sec Duration",
+        "Armor",
+        "+31 Max Mana",
+        "Shields",
+        "28% Resist Cold",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Jah",
+        "Recipe: Perfect Sapphire",
+        "Product of:",
+        "Recipe: Flawless Sapphire"
+      ]
+    },
+    "local_image": "images/misc/flawless-sapphire.png"
+  },
+  {
+    "id": "perfect-sapphire",
+    "name": "Perfect Sapphire",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/perfectsaphire_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "magical_properties": [
+        "Weapons",
+        "10-14 Cold Damage - 3.0 sec Duration",
+        "Armor",
+        "+38 Max Mana",
+        "Shields",
+        "40% Resist Cold",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Add Sockets to Normal Helm",
+        "Recipe: Cobalt Ring",
+        "Recipe: Elite Version of Rare Weapon",
+        "Recipe: Exceptional Version of Rare Weapon",
+        "Recipe: Hit Power Amulet",
+        "Recipe: Hit Power Belt",
+        "Recipe: Hit Power Body",
+        "Recipe: Hit Power Boots",
+        "Recipe: Hit Power Gloves",
+        "Recipe: Hit Power Helm",
+        "Recipe: Hit Power Ring",
+        "Recipe: Hit Power Shield",
+        "Recipe: Hit Power Weapon",
+        "Product of:",
+        "Recipe: Perfect Sapphire"
+      ]
+    },
+    "local_image": "images/misc/perfect-sapphire.png"
+  },
+  {
+    "id": "flawed-topaz",
+    "name": "Flawed Topaz",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawedtopaz_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "magical_properties": [
+        "Weapons",
+        "1-14 Lightning Damage",
+        "Armor",
+        "+13% Chance to Find Magic Items",
+        "Shields",
+        "16% Resist Lightning",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Lum",
+        "Recipe: Topaz",
+        "Product of:",
+        "Recipe: Flawed Topaz"
+      ]
+    },
+    "local_image": "images/misc/flawed-topaz.png"
+  },
+  {
+    "id": "dol",
+    "name": "Dol",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeDol_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 31 Rune\nIndex: 14",
+    "properties": {
+      "magical_properties": [
+        "Level 31 Rune",
+        "Index: 14",
+        "Weapons",
+        "Hit Causes Monster To Flee 25%",
+        "Armor",
+        "Replenish Life +7",
+        "Shields",
+        "Replenish Life +7",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Hel",
+        "Chains of Honor",
+        "Exile",
+        "Fortitude",
+        "Passion",
+        "Silence",
+        "Venom",
+        "White",
+        "Product of:",
+        "Recipe: Dol"
+      ]
+    },
+    "local_image": "images/misc/dol.png"
+  },
+  {
+    "id": "chipped-topaz",
+    "name": "Chipped Topaz",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippedtopaz_graphic.png",
+    "type": "Misc Item",
+    "category": "Gem",
+    "properties": {
+      "magical_properties": [
+        "Weapons",
+        "1-8 Lightning Damage",
+        "Armor",
+        "+9% Chance to Find Magic Items",
+        "Shields",
+        "12% Resist Lightning",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Amn",
+        "Recipe: Flawed Topaz"
+      ]
+    },
+    "local_image": "images/misc/chipped-topaz.png"
+  },
+  {
+    "id": "amn",
+    "name": "Amn",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 25 Rune\nIndex: 11",
+    "properties": {
+      "magical_properties": [
+        "Level 25 Rune",
+        "Index: 11",
+        "Weapons",
+        "7% Life Stolen Per Hit",
+        "Armor",
+        "Attacker Takes Damage of 14",
+        "Shields",
+        "Attacker Takes Damage of 14",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Add Sockets to Normal Shield",
+        "Recipe: Add Sockets to Normal Weapon",
+        "Recipe: Blood Amulet",
+        "Recipe: Caster Ring",
+        "Recipe: Exceptional Version of Rare Weapon",
+        "Recipe: Hit Power Ring",
+        "Recipe: Safety Ring",
+        "Recipe: Sol",
+        "Call To Arms",
+        "Edge",
+        "Eternity",
+        "Hand of Justice",
+        "Honor",
+        "Ice",
+        "King's Grace",
+        "Lawbringer",
+        "Mosaic",
+        "Myth",
+        "Peace",
+        "Spirit",
+        "Strength",
+        "Product of:",
+        "Recipe: Amn"
+      ]
+    },
+    "local_image": "images/misc/amn.png"
+  },
+  {
+    "id": "thul",
+    "name": "Thul",
+    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeThul_graphic.png",
+    "type": "Misc Item",
+    "category": "Level 23 Rune\nIndex: 10",
+    "properties": {
+      "magical_properties": [
+        "Level 23 Rune",
+        "Index: 10",
+        "Weapons",
+        "+3-14 cold damage, 3s chill",
+        "Armor",
+        "30% cold resist",
+        "Shields",
+        "35% cold resist",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Ingredient in:",
+        "Recipe: Add Sockets to Normal Body Armor",
+        "Recipe: Add Sockets to Normal Helm",
+        "Recipe: Amn",
+        "Recipe: Blood Body",
+        "Recipe: Caster Boots",
+        "Recipe: Exceptional Version of Rare Armor",
+        "Recipe: Hit Power Amulet",
+        "Recipe: Safety Amulet",
+        "Black",
+        "Duress",
+        "Heart of the Oak",
+        "Hearth",
+        "King's Grace",
+        "Mist",
+        "Obedience",
+        "Pattern",
+        "Peace",
+        "Spirit",
+        "Treachery",
+        "Product of:",
+        "Recipe: Thul"
+      ]
+    },
+    "local_image": "images/misc/thul.png"
+  }
+]
