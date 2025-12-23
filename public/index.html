@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D2IO API - Diablo 2 Resurrected Item Database</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0d0d0d;
+            --bg-card: #1a1a1a;
+            --bg-code: #252525;
+            --gold: #c9aa71;
+            --gold-bright: #e8d4a8;
+            --text: #e0e0e0;
+            --text-dim: #888;
+            --unique: #c4a000;
+            --set: #00c400;
+            --runeword: #c4a000;
+            --border: #333;
+        }
+        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg-dark);
+            color: var(--text);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem 1.5rem;
+        }
+        
+        header {
+            text-align: center;
+            padding: 3rem 0;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 2rem;
+        }
+        
+        h1 {
+            font-family: 'Cinzel', serif;
+            font-size: 2.5rem;
+            color: var(--gold);
+            text-shadow: 0 0 20px rgba(201, 170, 113, 0.3);
+            margin-bottom: 0.5rem;
+        }
+        
+        .subtitle {
+            color: var(--text-dim);
+            font-size: 1.1rem;
+        }
+        
+        h2 {
+            font-family: 'Cinzel', serif;
+            color: var(--gold-bright);
+            font-size: 1.4rem;
+            margin: 2rem 0 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .endpoint-grid {
+            display: grid;
+            gap: 1rem;
+        }
+        
+        .endpoint {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1rem 1.25rem;
+            transition: border-color 0.2s, transform 0.2s;
+        }
+        
+        .endpoint:hover {
+            border-color: var(--gold);
+            transform: translateY(-2px);
+        }
+        
+        .endpoint-header {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .method {
+            background: #1e3a1e;
+            color: #4ade80;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+        
+        .endpoint-path {
+            font-family: 'Fira Code', monospace;
+            color: var(--gold-bright);
+            font-size: 0.95rem;
+        }
+        
+        .endpoint-path a {
+            color: inherit;
+            text-decoration: none;
+        }
+        
+        .endpoint-path a:hover {
+            text-decoration: underline;
+        }
+        
+        .endpoint-desc {
+            color: var(--text-dim);
+            font-size: 0.9rem;
+        }
+        
+        .badge {
+            display: inline-block;
+            padding: 0.15rem 0.4rem;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            font-weight: 600;
+            margin-left: 0.5rem;
+        }
+        
+        .badge-unique { background: rgba(196, 160, 0, 0.2); color: var(--unique); }
+        .badge-set { background: rgba(0, 196, 0, 0.2); color: var(--set); }
+        
+        .example {
+            background: var(--bg-code);
+            border-radius: 6px;
+            padding: 1rem;
+            margin-top: 1rem;
+            overflow-x: auto;
+        }
+        
+        .example-label {
+            color: var(--text-dim);
+            font-size: 0.8rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        pre {
+            font-family: 'Fira Code', monospace;
+            font-size: 0.85rem;
+            color: var(--text);
+        }
+        
+        .json-key { color: #9cdcfe; }
+        .json-string { color: #ce9178; }
+        .json-number { color: #b5cea8; }
+        
+        footer {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border);
+            text-align: center;
+            color: var(--text-dim);
+            font-size: 0.9rem;
+        }
+        
+        footer a {
+            color: var(--gold);
+            text-decoration: none;
+        }
+        
+        footer a:hover {
+            text-decoration: underline;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 1.5rem;
+            flex-wrap: wrap;
+        }
+        
+        .stat {
+            text-align: center;
+        }
+        
+        .stat-value {
+            font-family: 'Cinzel', serif;
+            font-size: 1.8rem;
+            color: var(--gold);
+        }
+        
+        .stat-label {
+            color: var(--text-dim);
+            font-size: 0.85rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>⚔️ D2IO API</h1>
+            <p class="subtitle">Diablo 2 Resurrected Item Database</p>
+            <div class="stats">
+                <div class="stat">
+                    <div class="stat-value">385</div>
+                    <div class="stat-label">Uniques</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">159</div>
+                    <div class="stat-label">Set Items</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">93</div>
+                    <div class="stat-label">Runewords</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">493</div>
+                    <div class="stat-label">Base Items</div>
+                </div>
+            </div>
+        </header>
+        
+        <h2>📡 API Endpoints</h2>
+        <div class="endpoint-grid">
+            <div class="endpoint">
+                <div class="endpoint-header">
+                    <span class="method">GET</span>
+                    <span class="endpoint-path"><a href="/api/items">/api/items</a></span>
+                </div>
+                <p class="endpoint-desc">All items from all categories. Supports <code>?name=</code> filter.</p>
+            </div>
+            
+            <div class="endpoint">
+                <div class="endpoint-header">
+                    <span class="method">GET</span>
+                    <span class="endpoint-path"><a href="/api/items/uniques">/api/items/uniques</a></span>
+                    <span class="badge badge-unique">UNIQUE</span>
+                </div>
+                <p class="endpoint-desc">All unique items with stats, images, and requirements.</p>
+            </div>
+            
+            <div class="endpoint">
+                <div class="endpoint-header">
+                    <span class="method">GET</span>
+                    <span class="endpoint-path"><a href="/api/items/sets">/api/items/sets</a></span>
+                    <span class="badge badge-set">SET</span>
+                </div>
+                <p class="endpoint-desc">All set items with individual and set bonuses.</p>
+            </div>
+            
+            <div class="endpoint">
+                <div class="endpoint-header">
+                    <span class="method">GET</span>
+                    <span class="endpoint-path"><a href="/api/items/runewords">/api/items/runewords</a></span>
+                </div>
+                <p class="endpoint-desc">All runewords with rune requirements and stats.</p>
+            </div>
+            
+            <div class="endpoint">
+                <div class="endpoint-header">
+                    <span class="method">GET</span>
+                    <span class="endpoint-path"><a href="/api/items/recipes">/api/items/recipes</a></span>
+                </div>
+                <p class="endpoint-desc">Horadric Cube recipes with inputs and outputs.</p>
+            </div>
+            
+            <div class="endpoint">
+                <div class="endpoint-header">
+                    <span class="method">GET</span>
+                    <span class="endpoint-path"><a href="/api/items/base">/api/items/base</a></span>
+                </div>
+                <p class="endpoint-desc">Base items (Normal, Exceptional, Elite).</p>
+            </div>
+            
+            <div class="endpoint">
+                <div class="endpoint-header">
+                    <span class="method">GET</span>
+                    <span class="endpoint-path"><a href="/api/items/misc">/api/items/misc</a></span>
+                </div>
+                <p class="endpoint-desc">Miscellaneous items: Runes, Gems, Keys, Essences.</p>
+            </div>
+            
+            <div class="endpoint">
+                <div class="endpoint-header">
+                    <span class="method">GET</span>
+                    <span class="endpoint-path">/api/items/:id</span>
+                </div>
+                <p class="endpoint-desc">Get a single item by ID. Example: <a href="/api/items/the-grandfather">/api/items/the-grandfather</a></p>
+            </div>
+        </div>
+        
+        <h2>🖼️ Images</h2>
+        <div class="endpoint">
+            <div class="endpoint-header">
+                <span class="method">GET</span>
+                <span class="endpoint-path">/images/{category}/{id}.png</span>
+            </div>
+            <p class="endpoint-desc">
+                Item images. Example: <a href="/images/uniques/the-grandfather.png">/images/uniques/the-grandfather.png</a>
+            </p>
+        </div>
+        
+        <h2>📦 Example Response</h2>
+        <div class="example">
+            <div class="example-label">GET /api/items/the-grandfather</div>
+            <pre>{
+  <span class="json-key">"id"</span>: <span class="json-string">"the-grandfather"</span>,
+  <span class="json-key">"name"</span>: <span class="json-string">"The Grandfather"</span>,
+  <span class="json-key">"image"</span>: <span class="json-string">"https://..."</span>,
+  <span class="json-key">"type"</span>: <span class="json-string">"Elite Unique"</span>,
+  <span class="json-key">"base_item"</span>: <span class="json-string">"Colossus Blade"</span>,
+  <span class="json-key">"properties"</span>: {
+    <span class="json-key">"required_level"</span>: <span class="json-number">81</span>,
+    <span class="json-key">"magical_properties"</span>: [...]
+  }
+}</pre>
+        </div>
+        
+        <footer>
+            <p>Data scraped from <a href="https://diablo2.io" target="_blank">diablo2.io</a></p>
+            <p>Source: <a href="https://github.com/bizkut/d2io" target="_blank">github.com/bizkut/d2io</a></p>
+        </footer>
+    </div>
+</body>
+</html>
