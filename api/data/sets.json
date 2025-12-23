@@ -2,7 +2,7 @@
   {
     "id": "aldurs-rhythm",
     "name": "Aldur's Rhythm",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/aldursrythm_graphic.png",
+    "image": "/images/sets/aldurs-rhythm.png",
     "type": "Set Item",
     "base_item": "Jagged Star",
     "properties": {
@@ -30,13 +30,12 @@
         "+15 To Strength (completed set items)",
         "Part of set: Aldur's Watchtower"
       ]
-    },
-    "local_image": "images/sets/aldurs-rhythm.png"
+    }
   },
   {
     "id": "guillaumes-face",
     "name": "Guillaume's Face",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/guillaumesface_graphic.png",
+    "image": "/images/sets/guillaumes-face.png",
     "type": "Set Item",
     "base_item": "Winged Helm",
     "properties": {
@@ -55,13 +54,12 @@
         "+15 To Strength",
         "Part of set: Orphan's Call"
       ]
-    },
-    "local_image": "images/sets/guillaumes-face.png"
+    }
   },
   {
     "id": "sazabis-grand-tribute",
     "name": "Sazabi's Grand Tribute",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sazabiscobaltredeemer_ticon.png",
+    "image": "/images/sets/sazabis-grand-tribute.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -82,13 +80,12 @@
         "Poison Length Reduced by 75%",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/sets/sazabis-grand-tribute.png"
+    }
   },
   {
     "id": "dangoons-teaching",
     "name": "Dangoon's Teaching",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/dangoonsteaching_graphic.png",
+    "image": "/images/sets/dangoons-teaching.png",
     "type": "Set Item",
     "base_item": "Reinforced Mace",
     "properties": {
@@ -111,13 +108,12 @@
         "Adds 20-30 Fire Damage",
         "Part of set: Heaven's Brethren"
       ]
-    },
-    "local_image": "images/sets/dangoons-teaching.png"
+    }
   },
   {
     "id": "tal-rashas-adjudication",
     "name": "Tal Rasha's Adjudication",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_graphic.png",
+    "image": "/images/sets/tal-rashas-adjudication.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -134,13 +130,12 @@
         "+10% Faster Cast Rate (4 set items)",
         "Part of set: Tal Rasha's Wrappings"
       ]
-    },
-    "local_image": "images/sets/tal-rashas-adjudication.png"
+    }
   },
   {
     "id": "sazabis-cobalt-redeemer",
     "name": "Sazabi's Cobalt Redeemer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sazabiscobaltredeemer_graphic.png",
+    "image": "/images/sets/sazabis-cobalt-redeemer.png",
     "type": "Set Item",
     "base_item": "Cryptic Sword",
     "properties": {
@@ -164,13 +159,12 @@
         "+5 To Strength",
         "Part of set: Sazabi's Grand Tribute"
       ]
-    },
-    "local_image": "images/sets/sazabis-cobalt-redeemer.png"
+    }
   },
   {
     "id": "the-disciple",
     "name": "The Disciple",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/darkadherent_ticon.png",
+    "image": "/images/sets/the-disciple.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -192,13 +186,12 @@
         "All Resistances +50",
         "+100 Mana"
       ]
-    },
-    "local_image": "images/sets/the-disciple.png"
+    }
   },
   {
     "id": "najs-ancient-vestige",
     "name": "Naj's Ancient Vestige",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/najscirclet_ticon.png",
+    "image": "/images/sets/najs-ancient-vestige.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -221,13 +214,12 @@
         "Increased Maximum Life 12%",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/sets/najs-ancient-vestige.png"
+    }
   },
   {
     "id": "deaths-guard",
     "name": "Death's Guard",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/deathsguard_graphic.png",
+    "image": "/images/sets/deaths-guard.png",
     "type": "Set Item",
     "base_item": "Sash",
     "properties": {
@@ -244,13 +236,12 @@
         "All Resistances +15 (2 set items)",
         "Part of set: Death's Disguise"
       ]
-    },
-    "local_image": "images/sets/deaths-guard.png"
+    }
   },
   {
     "id": "tancreds-battlegear",
     "name": "Tancred's Battlegear",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/tancredsskull_ticon.png",
+    "image": "/images/sets/tancreds-battlegear.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -271,13 +262,12 @@
         "All Resistances +10",
         "75% Extra Gold From Monsters"
       ]
-    },
-    "local_image": "images/sets/tancreds-battlegear.png"
+    }
   },
   {
     "id": "bul-kathos-children",
     "name": "Bul-Kathos' Children",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bulkathossacredcharge_ticon.png",
+    "image": "/images/sets/bul-kathos-children.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -295,13 +285,12 @@
         "+20% Deadly Strike",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/sets/bul-kathos-children.png"
+    }
   },
   {
     "id": "immortal-kings-detail",
     "name": "Immortal King's Detail",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/girdle_graphic.png",
+    "image": "/images/sets/immortal-kings-detail.png",
     "type": "Set Item",
     "base_item": "War Belt",
     "properties": {
@@ -325,13 +314,12 @@
         "+2 To Masteries (Barbarian Only) (completed set items)",
         "Part of set: Immortal King"
       ]
-    },
-    "local_image": "images/sets/immortal-kings-detail.png"
+    }
   },
   {
     "id": "taebaeks-glory",
     "name": "Taebaek's Glory",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/taebaeksglory_graphic.png",
+    "image": "/images/sets/taebaeks-glory.png",
     "type": "Set Item",
     "base_item": "Ward",
     "properties": {
@@ -355,13 +343,12 @@
         "Attacker Takes Damage of 30",
         "Part of set: Heaven's Brethren"
       ]
-    },
-    "local_image": "images/sets/taebaeks-glory.png"
+    }
   },
   {
     "id": "berserkers-arsenal",
     "name": "Berserker's Arsenal",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/berserkerhatchet_ticon.png",
+    "image": "/images/sets/berserkers-arsenal.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -377,13 +364,12 @@
         "Poison Length Reduced by 75%",
         "Adds 5-9 Poison Damage over 3 Seconds"
       ]
-    },
-    "local_image": "images/sets/berserkers-arsenal.png"
+    }
   },
   {
     "id": "deaths-disguise",
     "name": "Death's Disguise",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/deathstouch_ticon.png",
+    "image": "/images/sets/deaths-disguise.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -399,13 +385,12 @@
         "All Resistances +25",
         "+10 to Minimum Damage"
       ]
-    },
-    "local_image": "images/sets/deaths-disguise.png"
+    }
   },
   {
     "id": "mavinas-true-sight",
     "name": "M'avina's True Sight",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mavinastruesight_graphic.png",
+    "image": "/images/sets/mavinas-true-sight.png",
     "type": "Set Item",
     "base_item": "Diadem",
     "properties": {
@@ -425,13 +410,12 @@
         "All Resistances +25 (4 set items)",
         "Part of set: M'avina's Battle Hymn"
       ]
-    },
-    "local_image": "images/sets/mavinas-true-sight.png"
+    }
   },
   {
     "id": "tal-rashas-guardianship",
     "name": "Tal Rasha's Guardianship",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/talrashasguardianship_graphic.png",
+    "image": "/images/sets/tal-rashas-guardianship.png",
     "type": "Set Item",
     "base_item": "Lacquered Plate",
     "properties": {
@@ -453,13 +437,12 @@
         "+10% Faster Cast Rate (2 set items)",
         "Part of set: Tal Rasha's Wrappings"
       ]
-    },
-    "local_image": "images/sets/tal-rashas-guardianship.png"
+    }
   },
   {
     "id": "isenharts-armory",
     "name": "Isenhart's Armory",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/isenhartslightbrand_ticon.png",
+    "image": "/images/sets/isenharts-armory.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -480,13 +463,12 @@
         "5% Life Stolen Per Hit",
         "All Resistances +10"
       ]
-    },
-    "local_image": "images/sets/isenharts-armory.png"
+    }
   },
   {
     "id": "cleglaws-pincers",
     "name": "Cleglaw's Pincers",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/cleglawspincers_graphic.png",
+    "image": "/images/sets/cleglaws-pincers.png",
     "type": "Set Item",
     "base_item": "Chain Gloves",
     "properties": {
@@ -503,13 +485,12 @@
         "+ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level) (2 set items)",
         "Part of set: Cleglaw's Brace"
       ]
-    },
-    "local_image": "images/sets/cleglaws-pincers.png"
+    }
   },
   {
     "id": "angelic-raiment",
     "name": "Angelic Raiment",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_ticon.png",
+    "image": "/images/sets/angelic-raiment.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -529,13 +510,12 @@
         "+10 Dexterity",
         "+50 Mana"
       ]
-    },
-    "local_image": "images/sets/angelic-raiment.png"
+    }
   },
   {
     "id": "cathans-traps",
     "name": "Cathan's Traps",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mask_ticon.png",
+    "image": "/images/sets/cathans-traps.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -559,13 +539,12 @@
         "+20 to Mana",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/sets/cathans-traps.png"
+    }
   },
   {
     "id": "mavinas-embrace",
     "name": "M'avina's Embrace",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mavinasembrace_graphic.png",
+    "image": "/images/sets/mavinas-embrace.png",
     "type": "Set Item",
     "base_item": "Kraken Shell",
     "properties": {
@@ -586,13 +565,12 @@
         "+30% Faster Hit Recovery (3 set items)",
         "Part of set: M'avina's Battle Hymn"
       ]
-    },
-    "local_image": "images/sets/mavinas-embrace.png"
+    }
   },
   {
     "id": "milabregas-robe",
     "name": "Milabrega's Robe",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/milabregasrobe_graphic.png",
+    "image": "/images/sets/milabregas-robe.png",
     "type": "Set Item",
     "base_item": "Ancient Armor",
     "properties": {
@@ -609,13 +587,12 @@
         "+100% Enhanced Defense (2 set items)",
         "Part of set: Milabrega's Regalia"
       ]
-    },
-    "local_image": "images/sets/milabregas-robe.png"
+    }
   },
   {
     "id": "haemosus-adamant",
     "name": "Haemosu's Adamant",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/haemosusadament_graphic.png",
+    "image": "/images/sets/haemosus-adamant.png",
     "type": "Set Item",
     "base_item": "Cuirass",
     "properties": {
@@ -634,13 +611,12 @@
         "+75 To Life",
         "Part of set: Heaven's Brethren"
       ]
-    },
-    "local_image": "images/sets/haemosus-adamant.png"
+    }
   },
   {
     "id": "ondals-almighty",
     "name": "Ondal's Almighty",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ondalsalmighty_graphic.png",
+    "image": "/images/sets/ondals-almighty.png",
     "type": "Set Item",
     "base_item": "Spired Helm",
     "properties": {
@@ -660,13 +636,12 @@
         "+10 To Strength",
         "Part of set: Heaven's Brethren"
       ]
-    },
-    "local_image": "images/sets/ondals-almighty.png"
+    }
   },
   {
     "id": "trang-ouls-scales",
     "name": "Trang-Oul's Scales",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/trang-oulsscales_graphic.png",
+    "image": "/images/sets/trang-ouls-scales.png",
     "type": "Set Item",
     "base_item": "Chaos Armor",
     "properties": {
@@ -688,13 +663,12 @@
         "Damage Reduced By 25% (completed set items)",
         "Part of set: Trang-Oul's Avatar"
       ]
-    },
-    "local_image": "images/sets/trang-ouls-scales.png"
+    }
   },
   {
     "id": "immortal-kings-will",
     "name": "Immortal King's Will",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/immortalwill_graphic.png",
+    "image": "/images/sets/immortal-kings-will.png",
     "type": "Set Item",
     "base_item": "Avenger Guard",
     "properties": {
@@ -715,13 +689,12 @@
         "Part of set: Immortal King",
         "Barbarian equip only"
       ]
-    },
-    "local_image": "images/sets/immortal-kings-will.png"
+    }
   },
   {
     "id": "laying-of-hands",
     "name": "Laying of Hands",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/layingofhands_graphic.png",
+    "image": "/images/sets/laying-of-hands.png",
     "type": "Set Item",
     "base_item": "Bramble Mitts",
     "properties": {
@@ -740,13 +713,12 @@
         "10% Chance To Cast Level 3 Holy Bolt On Striking",
         "Part of set: The Disciple"
       ]
-    },
-    "local_image": "images/sets/laying-of-hands.png"
+    }
   },
   {
     "id": "sigons-sabot",
     "name": "Sigon's Sabot",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sigonsgreaves_graphic.png",
+    "image": "/images/sets/sigons-sabot.png",
     "type": "Set Item",
     "base_item": "Greaves",
     "properties": {
@@ -765,13 +737,12 @@
         "+50% Better Chance To Find Magic Items (3 set items)",
         "Part of set: Sigon's Complete Steel"
       ]
-    },
-    "local_image": "images/sets/sigons-sabot.png"
+    }
   },
   {
     "id": "vidalas-fetlock",
     "name": "Vidala's Fetlock",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/vidalasfetlock_graphic.png",
+    "image": "/images/sets/vidalas-fetlock.png",
     "type": "Set Item",
     "base_item": "Light Plated Boots",
     "properties": {
@@ -789,13 +760,12 @@
         "All Resistances +8 (2 Items) (2 set items)",
         "Part of set: Vidala's Rig"
       ]
-    },
-    "local_image": "images/sets/vidalas-fetlock.png"
+    }
   },
   {
     "id": "rite-of-passage",
     "name": "Rite of Passage",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/riteofpassage_graphic.png",
+    "image": "/images/sets/rite-of-passage.png",
     "type": "Set Item",
     "base_item": "Demonhide Boots",
     "properties": {
@@ -814,13 +784,12 @@
         "Half Freeze Duration",
         "Part of set: The Disciple"
       ]
-    },
-    "local_image": "images/sets/rite-of-passage.png"
+    }
   },
   {
     "id": "tancreds-hobnails",
     "name": "Tancred's Hobnails",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/tancredshobnails_graphic.png",
+    "image": "/images/sets/tancreds-hobnails.png",
     "type": "Set Item",
     "base_item": "Boots",
     "properties": {
@@ -838,13 +807,12 @@
         "+10 To Strength (3 set items)",
         "Part of set: Tancred's Battlegear"
       ]
-    },
-    "local_image": "images/sets/tancreds-hobnails.png"
+    }
   },
   {
     "id": "aldurs-advance",
     "name": "Aldur's Advance",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/aldursadvance_graphic.png",
+    "image": "/images/sets/aldurs-advance.png",
     "type": "Set Item",
     "base_item": "Battle Boots",
     "properties": {
@@ -868,13 +836,12 @@
         "+15 To Dexterity (completed set items)",
         "Part of set: Aldur's Watchtower"
       ]
-    },
-    "local_image": "images/sets/aldurs-advance.png"
+    }
   },
   {
     "id": "natalyas-soul",
     "name": "Natalya's Soul",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/natalyassoul_graphic.png",
+    "image": "/images/sets/natalyas-soul.png",
     "type": "Set Item",
     "base_item": "Mesh Boots",
     "properties": {
@@ -894,13 +861,12 @@
         "Lightning Resist +15-25%",
         "Part of set: Natalya's Odium"
       ]
-    },
-    "local_image": "images/sets/natalyas-soul.png"
+    }
   },
   {
     "id": "sanders-riprap",
     "name": "Sander's Riprap",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sandersriprap_graphic.png",
+    "image": "/images/sets/sanders-riprap.png",
     "type": "Set Item",
     "base_item": "Heavy Boots",
     "properties": {
@@ -919,13 +885,12 @@
         "+5 To Strength",
         "Part of set: Sander's Folly"
       ]
-    },
-    "local_image": "images/sets/sanders-riprap.png"
+    }
   },
   {
     "id": "cow-kings-hooves",
     "name": "Cow King's Hooves",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/heavyboots_graphic.png",
+    "image": "/images/sets/cow-kings-hooves.png",
     "type": "Set Item",
     "base_item": "Heavy Boots",
     "properties": {
@@ -945,13 +910,12 @@
         "25% Better Chance of Getting Magic Items",
         "Part of set: Cow King's Leathers"
       ]
-    },
-    "local_image": "images/sets/cow-kings-hooves.png"
+    }
   },
   {
     "id": "immortal-kings-pillar",
     "name": "Immortal King's Pillar",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/plateboots_graphic.png",
+    "image": "/images/sets/immortal-kings-pillar.png",
     "type": "Set Item",
     "base_item": "War Boots",
     "properties": {
@@ -974,13 +938,12 @@
         "Half Freeze Duration (5 set items)",
         "Part of set: Immortal King"
       ]
-    },
-    "local_image": "images/sets/immortal-kings-pillar.png"
+    }
   },
   {
     "id": "hsarus-iron-heel",
     "name": "Hsarus' Iron Heel",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hsarusironwheel_graphic.png",
+    "image": "/images/sets/hsarus-iron-heel.png",
     "type": "Set Item",
     "base_item": "Chain Boots",
     "properties": {
@@ -998,13 +961,12 @@
         "+ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level) (2 set items)",
         "Part of set: Hsarus' Defense"
       ]
-    },
-    "local_image": "images/sets/hsarus-iron-heel.png"
+    }
   },
   {
     "id": "cathans-seal",
     "name": "Cathan's Seal",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ring4_graphic.png",
+    "image": "/images/sets/cathans-seal.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1018,13 +980,12 @@
         "+10 Strength (2 set items)",
         "Part of set: Cathan's Traps"
       ]
-    },
-    "local_image": "images/sets/cathans-seal.png"
+    }
   },
   {
     "id": "hwanins-majesty",
     "name": "Hwanin's Majesty",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/voulge_ticon.png",
+    "image": "/images/sets/hwanins-majesty.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1043,13 +1004,12 @@
         "+300 Defense",
         "All Resistances +30"
       ]
-    },
-    "local_image": "images/sets/hwanins-majesty.png"
+    }
   },
   {
     "id": "griswolds-legacy",
     "name": "Griswold's Legacy",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/griswoldsredemption_ticon.png",
+    "image": "/images/sets/griswolds-legacy.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1071,13 +1031,12 @@
         "All Resistances +50",
         "Display Aura"
       ]
-    },
-    "local_image": "images/sets/griswolds-legacy.png"
+    }
   },
   {
     "id": "mavinas-battle-hymn",
     "name": "M'avina's Battle Hymn",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mavinascaster_ticon.png",
+    "image": "/images/sets/mavinas-battle-hymn.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1100,13 +1059,12 @@
         "100% Better Chance Of Getting Magic Items",
         "Display Aura"
       ]
-    },
-    "local_image": "images/sets/mavinas-battle-hymn.png"
+    }
   },
   {
     "id": "bul-kathos-tribal-guardian",
     "name": "Bul-Kathos' Tribal Guardian",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bulkathostribalguardian_graphic.png",
+    "image": "/images/sets/bul-kathos-tribal-guardian.png",
     "type": "Set Item",
     "base_item": "Mythical Sword",
     "properties": {
@@ -1129,13 +1087,12 @@
         "+20% Increased Attack Speed",
         "Part of set: Bul-Kathos' Children"
       ]
-    },
-    "local_image": "images/sets/bul-kathos-tribal-guardian.png"
+    }
   },
   {
     "id": "bul-kathos-sacred-charge",
     "name": "Bul-Kathos' Sacred Charge",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bulkathossacredcharge_graphic.png",
+    "image": "/images/sets/bul-kathos-sacred-charge.png",
     "type": "Set Item",
     "base_item": "Colossus Blade",
     "properties": {
@@ -1159,13 +1116,12 @@
         "Knockback (Only if found before 2.7)",
         "Part of set: Bul-Kathos' Children"
       ]
-    },
-    "local_image": "images/sets/bul-kathos-sacred-charge.png"
+    }
   },
   {
     "id": "tal-rashas-wrappings",
     "name": "Tal Rasha's Wrappings",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_ticon.png",
+    "image": "/images/sets/tal-rashas-wrappings.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1190,13 +1146,12 @@
         "+150 Defense",
         "Display Aura"
       ]
-    },
-    "local_image": "images/sets/tal-rashas-wrappings.png"
+    }
   },
   {
     "id": "trang-ouls-claws",
     "name": "Trang-Oul's Claws",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/trang-oulsclaws_graphic.png",
+    "image": "/images/sets/trang-ouls-claws.png",
     "type": "Set Item",
     "base_item": "Heavy Bracers",
     "properties": {
@@ -1215,13 +1170,12 @@
         "+2 To Curses (Necromancer Only)",
         "Part of set: Trang-Oul's Avatar"
       ]
-    },
-    "local_image": "images/sets/trang-ouls-claws.png"
+    }
   },
   {
     "id": "trang-ouls-avatar",
     "name": "Trang-Oul's Avatar",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/trang-oulsguise_ticon.png",
+    "image": "/images/sets/trang-ouls-avatar.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1251,13 +1205,12 @@
         "All Resistances +50",
         "Transforms into Vampire"
       ]
-    },
-    "local_image": "images/sets/trang-ouls-avatar.png"
+    }
   },
   {
     "id": "griswolds-valor",
     "name": "Griswold's Valor",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/griswoldsvalor_graphic.png",
+    "image": "/images/sets/griswolds-valor.png",
     "type": "Set Item",
     "base_item": "Corona",
     "properties": {
@@ -1278,13 +1231,12 @@
         "+2 To Offensive Auras (Paladin Only) (2 set items)",
         "Part of set: Griswold's Legacy"
       ]
-    },
-    "local_image": "images/sets/griswolds-valor.png"
+    }
   },
   {
     "id": "sanders-paragon",
     "name": "Sander's Paragon",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sandersparagon_graphic.png",
+    "image": "/images/sets/sanders-paragon.png",
     "type": "Set Item",
     "base_item": "Cap",
     "properties": {
@@ -1300,13 +1252,12 @@
         "35% Better Chance of Getting Magic Items",
         "Part of set: Sander's Folly"
       ]
-    },
-    "local_image": "images/sets/sanders-paragon.png"
+    }
   },
   {
     "id": "infernal-torch",
     "name": "Infernal Torch",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/grimwand_graphic.png",
+    "image": "/images/sets/infernal-torch.png",
     "type": "Set Item",
     "base_item": "Grim Wand",
     "properties": {
@@ -1326,13 +1277,12 @@
         "+ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level) (2 set items)",
         "Part of set: Infernal Tools"
       ]
-    },
-    "local_image": "images/sets/infernal-torch.png"
+    }
   },
   {
     "id": "angelic-halo",
     "name": "Angelic Halo",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ring2_graphic.png",
+    "image": "/images/sets/angelic-halo.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1347,13 +1297,12 @@
         "+50% Better Chance Of Getting Magic Items (3 set items)",
         "Part of set: Angelic Raiment"
       ]
-    },
-    "local_image": "images/sets/angelic-halo.png"
+    }
   },
   {
     "id": "irathas-cuff",
     "name": "Iratha's Cuff",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/irathascuff_graphic.png",
+    "image": "/images/sets/irathas-cuff.png",
     "type": "Set Item",
     "base_item": "Light Gauntlets",
     "properties": {
@@ -1370,13 +1319,12 @@
         "20% Increased Attack Speed (2 set items)",
         "Part of set: Iratha's Finery"
       ]
-    },
-    "local_image": "images/sets/irathas-cuff.png"
+    }
   },
   {
     "id": "arctic-mitts",
     "name": "Arctic Mitts",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/arcticmitts_graphic.png",
+    "image": "/images/sets/arctic-mitts.png",
     "type": "Set Item",
     "base_item": "Light Gauntlets",
     "properties": {
@@ -1394,13 +1342,12 @@
         "+10 To Dexterity (3 set items)",
         "Part of set: Arctic Gear"
       ]
-    },
-    "local_image": "images/sets/arctic-mitts.png"
+    }
   },
   {
     "id": "hwanins-blessing",
     "name": "Hwanin's Blessing",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hwaninsblessing_graphic.png",
+    "image": "/images/sets/hwanins-blessing.png",
     "type": "Set Item",
     "base_item": "Belt",
     "properties": {
@@ -1419,13 +1366,12 @@
         "12% Damage Taken Goes To Mana",
         "Part of set: Hwanin's Majesty"
       ]
-    },
-    "local_image": "images/sets/hwanins-blessing.png"
+    }
   },
   {
     "id": "hsarus-iron-stay",
     "name": "Hsarus' Iron Stay",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hsarusironstay_graphic.png",
+    "image": "/images/sets/hsarus-iron-stay.png",
     "type": "Set Item",
     "base_item": "Belt",
     "properties": {
@@ -1443,13 +1389,12 @@
         "+ (2.5 Per Character Level) 2-247 Defense (Based On Character Level) (2 set items)",
         "Part of set: Hsarus' Defense"
       ]
-    },
-    "local_image": "images/sets/hsarus-iron-stay.png"
+    }
   },
   {
     "id": "milabregas-diadem",
     "name": "Milabrega's Diadem",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/milabregasdiadem_graphic.png",
+    "image": "/images/sets/milabregas-diadem.png",
     "type": "Set Item",
     "base_item": "Crown",
     "properties": {
@@ -1466,13 +1411,12 @@
         "Cold Resist +40% (2 set items)",
         "Part of set: Milabrega's Regalia"
       ]
-    },
-    "local_image": "images/sets/milabregas-diadem.png"
+    }
   },
   {
     "id": "irathas-coil",
     "name": "Iratha's Coil",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/irathascoil_graphic.png",
+    "image": "/images/sets/irathas-coil.png",
     "type": "Set Item",
     "base_item": "Crown",
     "properties": {
@@ -1489,13 +1433,12 @@
         "+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 set items)",
         "Part of set: Iratha's Finery"
       ]
-    },
-    "local_image": "images/sets/irathas-coil.png"
+    }
   },
   {
     "id": "irathas-cord",
     "name": "Iratha's Cord",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/irathascord_graphic.png",
+    "image": "/images/sets/irathas-cord.png",
     "type": "Set Item",
     "base_item": "Heavy Belt",
     "properties": {
@@ -1513,13 +1456,12 @@
         "+10 To Dexterity (2 set items)",
         "Part of set: Iratha's Finery"
       ]
-    },
-    "local_image": "images/sets/irathas-cord.png"
+    }
   },
   {
     "id": "infernal-sign",
     "name": "Infernal Sign",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/infernalbuckle_graphic.png",
+    "image": "/images/sets/infernal-sign.png",
     "type": "Set Item",
     "base_item": "Heavy Belt",
     "properties": {
@@ -1538,13 +1480,12 @@
         "Half Freeze Duration (3 set items)",
         "Part of set: Infernal Tools"
       ]
-    },
-    "local_image": "images/sets/infernal-sign.png"
+    }
   },
   {
     "id": "telling-of-beads",
     "name": "Telling of Beads",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_graphic.png",
+    "image": "/images/sets/telling-of-beads.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1559,13 +1500,12 @@
         "Attacker Takes Damage of 8-10",
         "Part of set: The Disciple"
       ]
-    },
-    "local_image": "images/sets/telling-of-beads.png"
+    }
   },
   {
     "id": "tancreds-weird",
     "name": "Tancred's Weird",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu3_graphic.png",
+    "image": "/images/sets/tancreds-weird.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1580,13 +1520,12 @@
         "+60 To Attack Rating (3 set items)",
         "Part of set: Tancred's Battlegear"
       ]
-    },
-    "local_image": "images/sets/tancreds-weird.png"
+    }
   },
   {
     "id": "irathas-collar",
     "name": "Iratha's Collar",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu1_graphic.png",
+    "image": "/images/sets/irathas-collar.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1600,13 +1539,12 @@
         "All Resistances +15 (2 set items)",
         "Part of set: Iratha's Finery"
       ]
-    },
-    "local_image": "images/sets/irathas-collar.png"
+    }
   },
   {
     "id": "arcannas-sign",
     "name": "Arcanna's Sign",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu3_graphic.png",
+    "image": "/images/sets/arcannas-sign.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1621,13 +1559,12 @@
         "Fire Resist +20% (3 set items)",
         "Part of set: Arcanna's Tricks"
       ]
-    },
-    "local_image": "images/sets/arcannas-sign.png"
+    }
   },
   {
     "id": "vidalas-snare",
     "name": "Vidala's Snare",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_graphic.png",
+    "image": "/images/sets/vidalas-snare.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1641,13 +1578,12 @@
         "50% Better Chance Of Getting Magic Items (2 Items) (2 set items)",
         "Part of set: Vidala's Rig"
       ]
-    },
-    "local_image": "images/sets/vidalas-snare.png"
+    }
   },
   {
     "id": "angelic-wings",
     "name": "Angelic Wings",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_graphic.png",
+    "image": "/images/sets/angelic-wings.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1662,13 +1598,12 @@
         "+1 To All Skills (3 set items)",
         "Part of set: Angelic Raiment"
       ]
-    },
-    "local_image": "images/sets/angelic-wings.png"
+    }
   },
   {
     "id": "cathans-sigil",
     "name": "Cathan's Sigil",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu1_graphic.png",
+    "image": "/images/sets/cathans-sigil.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1683,13 +1618,12 @@
         "+25% Better Chance of Getting Magic Items (3 set items)",
         "Part of set: Cathan's Traps"
       ]
-    },
-    "local_image": "images/sets/cathans-sigil.png"
+    }
   },
   {
     "id": "civerbs-icon",
     "name": "Civerb's Icon",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu1_graphic.png",
+    "image": "/images/sets/civerbs-icon.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1704,13 +1638,12 @@
         "+25 Defense (completed set items)",
         "Part of set: Civerb's Vestments"
       ]
-    },
-    "local_image": "images/sets/civerbs-icon.png"
+    }
   },
   {
     "id": "infernal-cranium",
     "name": "Infernal Cranium",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/infernalcranium_graphic.png",
+    "image": "/images/sets/infernal-cranium.png",
     "type": "Set Item",
     "base_item": "Cap",
     "properties": {
@@ -1726,13 +1659,12 @@
         "+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 set items)",
         "Part of set: Infernal Tools"
       ]
-    },
-    "local_image": "images/sets/infernal-cranium.png"
+    }
   },
   {
     "id": "mavinas-tenet",
     "name": "M'avina's Tenet",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mavinastenet_graphic.png",
+    "image": "/images/sets/mavinas-tenet.png",
     "type": "Set Item",
     "base_item": "Sharkskin Belt",
     "properties": {
@@ -1752,13 +1684,12 @@
         "All Resistances +25 (4 set items)",
         "Part of set: M'avina's Battle Hymn"
       ]
-    },
-    "local_image": "images/sets/mavinas-tenet.png"
+    }
   },
   {
     "id": "mavinas-caster",
     "name": "M'avina's Caster",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mavinascaster_graphic.png",
+    "image": "/images/sets/mavinas-caster.png",
     "type": "Set Item",
     "base_item": "Grand Matron Bow",
     "properties": {
@@ -1783,13 +1714,12 @@
         "Part of set: M'avina's Battle Hymn",
         "Amazon equip only"
       ]
-    },
-    "local_image": "images/sets/mavinas-caster.png"
+    }
   },
   {
     "id": "trang-ouls-wing",
     "name": "Trang-Oul's Wing",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/trang-oulswing_graphic.png",
+    "image": "/images/sets/trang-ouls-wing.png",
     "type": "Set Item",
     "base_item": "Cantor Trophy",
     "properties": {
@@ -1814,13 +1744,12 @@
         "Part of set: Trang-Oul's Avatar",
         "Necromancer equip only"
       ]
-    },
-    "local_image": "images/sets/trang-ouls-wing.png"
+    }
   },
   {
     "id": "infernal-tools",
     "name": "Infernal Tools",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/infernalbuckle_ticon.png",
+    "image": "/images/sets/infernal-tools.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1840,13 +1769,12 @@
         "Cannot Be Frozen",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/sets/infernal-tools.png"
+    }
   },
   {
     "id": "trang-ouls-girth",
     "name": "Trang-Oul's Girth",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/trang-oulsgirth_graphic.png",
+    "image": "/images/sets/trang-ouls-girth.png",
     "type": "Set Item",
     "base_item": "Troll Belt",
     "properties": {
@@ -1868,13 +1796,12 @@
         "Cold Resist +40% (3 set items)",
         "Part of set: Trang-Oul's Avatar"
       ]
-    },
-    "local_image": "images/sets/trang-ouls-girth.png"
+    }
   },
   {
     "id": "irathas-finery",
     "name": "Iratha's Finery",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/irathascoil_ticon.png",
+    "image": "/images/sets/irathas-finery.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1898,13 +1825,12 @@
         "All Resistances +20",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/sets/irathas-finery.png"
+    }
   },
   {
     "id": "immortal-kings-stone-crusher",
     "name": "Immortal King's Stone Crusher",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/maul_graphic.png",
+    "image": "/images/sets/immortal-kings-stone-crusher.png",
     "type": "Set Item",
     "base_item": "Ogre Maul",
     "properties": {
@@ -1932,13 +1858,12 @@
         "Adds 250-361 Magic Damage (completed set items)",
         "Part of set: Immortal King"
       ]
-    },
-    "local_image": "images/sets/immortal-kings-stone-crusher.png"
+    }
   },
   {
     "id": "tal-rashas-horadric-crest",
     "name": "Tal Rasha's Horadric Crest",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mask_graphic.png",
+    "image": "/images/sets/tal-rashas-horadric-crest.png",
     "type": "Set Item",
     "base_item": "Death Mask",
     "properties": {
@@ -1958,13 +1883,12 @@
         "+60 To Life",
         "Part of set: Tal Rasha's Wrappings"
       ]
-    },
-    "local_image": "images/sets/tal-rashas-horadric-crest.png"
+    }
   },
   {
     "id": "arctic-gear",
     "name": "Arctic Gear",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/arcticmitts_ticon.png",
+    "image": "/images/sets/arctic-gear.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -1983,13 +1907,12 @@
         "+2-198 to Maximum Cold Damage (+2 Per Character Level)",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/sets/arctic-gear.png"
+    }
   },
   {
     "id": "immortal-king",
     "name": "Immortal King",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/maul_ticon.png",
+    "image": "/images/sets/immortal-king.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -2013,13 +1936,12 @@
         "Magic Damage Reduced By 10",
         "Display Aura"
       ]
-    },
-    "local_image": "images/sets/immortal-king.png"
+    }
   },
   {
     "id": "aldurs-deception",
     "name": "Aldur's Deception",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/aldursdeception_graphic.png",
+    "image": "/images/sets/aldurs-deception.png",
     "type": "Set Item",
     "base_item": "Shadow Plate",
     "properties": {
@@ -2043,13 +1965,12 @@
         "+15 To Vitality (completed set items)",
         "Part of set: Aldur's Watchtower"
       ]
-    },
-    "local_image": "images/sets/aldurs-deception.png"
+    }
   },
   {
     "id": "aldurs-stony-gaze",
     "name": "Aldur's Stony Gaze",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/aldursstoneygaze_graphic.png",
+    "image": "/images/sets/aldurs-stony-gaze.png",
     "type": "Set Item",
     "base_item": "Hunter's Guise",
     "properties": {
@@ -2073,13 +1994,12 @@
         "Part of set: Aldur's Watchtower",
         "Druid equip only"
       ]
-    },
-    "local_image": "images/sets/aldurs-stony-gaze.png"
+    }
   },
   {
     "id": "aldurs-watchtower",
     "name": "Aldur's Watchtower",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/aldursrythm_ticon.png",
+    "image": "/images/sets/aldurs-watchtower.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -2102,13 +2022,12 @@
         "+150 To Mana",
         "Display Aura"
       ]
-    },
-    "local_image": "images/sets/aldurs-watchtower.png"
+    }
   },
   {
     "id": "sigons-guard",
     "name": "Sigon's Guard",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sigonsguard_graphic.png",
+    "image": "/images/sets/sigons-guard.png",
     "type": "Set Item",
     "base_item": "Tower Shield",
     "properties": {
@@ -2126,13 +2045,12 @@
         "+20% Increased Chance To Block",
         "Part of set: Sigon's Complete Steel"
       ]
-    },
-    "local_image": "images/sets/sigons-guard.png"
+    }
   },
   {
     "id": "tal-rashas-lidless-eye",
     "name": "Tal Rasha's Lidless Eye",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/talrashaslidlesseye_graphic.png",
+    "image": "/images/sets/tal-rashas-lidless-eye.png",
     "type": "Set Item",
     "base_item": "Swirling Crystal",
     "properties": {
@@ -2160,13 +2078,12 @@
         "Part of set: Tal Rasha's Wrappings",
         "Sorceress equip only"
       ]
-    },
-    "local_image": "images/sets/tal-rashas-lidless-eye.png"
+    }
   },
   {
     "id": "natalyas-shadow",
     "name": "Natalya's Shadow",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/natalyasshadow_graphic.png",
+    "image": "/images/sets/natalyas-shadow.png",
     "type": "Set Item",
     "base_item": "Loricated Mail",
     "properties": {
@@ -2186,13 +2103,12 @@
         "Socketed (1-3)",
         "Part of set: Natalya's Odium"
       ]
-    },
-    "local_image": "images/sets/natalyas-shadow.png"
+    }
   },
   {
     "id": "natalyas-mark",
     "name": "Natalya's Mark",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/natalyasmark_graphic.png",
+    "image": "/images/sets/natalyas-mark.png",
     "type": "Set Item",
     "base_item": "Scissors Suwayyah",
     "properties": {
@@ -2218,13 +2134,12 @@
         "Part of set: Natalya's Odium",
         "Assassin equip only"
       ]
-    },
-    "local_image": "images/sets/natalyas-mark.png"
+    }
   },
   {
     "id": "sigons-gage",
     "name": "Sigon's Gage",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sigonsgauntlets_graphic.png",
+    "image": "/images/sets/sigons-gage.png",
     "type": "Set Item",
     "base_item": "Gauntlets",
     "properties": {
@@ -2241,13 +2156,12 @@
         "30% Increased Attack Speed (2 Items) (2 set items)",
         "Part of set: Sigon's Complete Steel"
       ]
-    },
-    "local_image": "images/sets/sigons-gage.png"
+    }
   },
   {
     "id": "sigons-complete-steel",
     "name": "Sigon's Complete Steel",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sigonsshelter_ticon.png",
+    "image": "/images/sets/sigons-complete-steel.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -2270,13 +2184,12 @@
         "Attacker Takes Damage of 12",
         "Damage Reduced By 7"
       ]
-    },
-    "local_image": "images/sets/sigons-complete-steel.png"
+    }
   },
   {
     "id": "mavinas-icy-clutch",
     "name": "M'avina's Icy Clutch",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mavinasicyclutch_graphic.png",
+    "image": "/images/sets/mavinas-icy-clutch.png",
     "type": "Set Item",
     "base_item": "Battle Gauntlets",
     "properties": {
@@ -2298,13 +2211,12 @@
         "+20% To Cold Skill Damage (completed set items)",
         "Part of set: M'avina's Battle Hymn"
       ]
-    },
-    "local_image": "images/sets/mavinas-icy-clutch.png"
+    }
   },
   {
     "id": "civerbs-vestments",
     "name": "Civerb's Vestments",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/grandscepter_ticon.png",
+    "image": "/images/sets/civerbs-vestments.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -2323,13 +2235,12 @@
         "4-396 Defense (+4 Per Character Level)",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/sets/civerbs-vestments.png"
+    }
   },
   {
     "id": "angelic-sickle",
     "name": "Angelic Sickle",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/angelicsickle_graphic.png",
+    "image": "/images/sets/angelic-sickle.png",
     "type": "Set Item",
     "base_item": "Sabre",
     "properties": {
@@ -2351,13 +2262,12 @@
         "30% Increased Attack Speed (3 set items)",
         "Part of set: Angelic Raiment"
       ]
-    },
-    "local_image": "images/sets/angelic-sickle.png"
+    }
   },
   {
     "id": "cow-kings-leathers",
     "name": "Cow King's Leathers",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/cap_ticon.png",
+    "image": "/images/sets/cow-kings-leathers.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -2380,13 +2290,12 @@
         "+1 To All Skills",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/sets/cow-kings-leathers.png"
+    }
   },
   {
     "id": "whitstans-guard",
     "name": "Whitstan's Guard",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/whitstansguard_graphic.png",
+    "image": "/images/sets/whitstans-guard.png",
     "type": "Set Item",
     "base_item": "Round Shield",
     "properties": {
@@ -2409,13 +2318,12 @@
         "+5 To Light Radius",
         "Part of set: Orphan's Call"
       ]
-    },
-    "local_image": "images/sets/whitstans-guard.png"
+    }
   },
   {
     "id": "cow-kings-hide",
     "name": "Cow King's Hide",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/studdedleather_graphic.png",
+    "image": "/images/sets/cow-kings-hide.png",
     "type": "Set Item",
     "base_item": "Studded Leather",
     "properties": {
@@ -2433,13 +2341,12 @@
         "+30 To Life",
         "Part of set: Cow King's Leathers"
       ]
-    },
-    "local_image": "images/sets/cow-kings-hide.png"
+    }
   },
   {
     "id": "cow-kings-horns",
     "name": "Cow King's Horns",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/cap_graphic.png",
+    "image": "/images/sets/cow-kings-horns.png",
     "type": "Set Item",
     "base_item": "War Hat",
     "properties": {
@@ -2457,13 +2364,12 @@
         "35% Damage Taken Goes To Mana",
         "Part of set: Cow King's Leathers"
       ]
-    },
-    "local_image": "images/sets/cow-kings-horns.png"
+    }
   },
   {
     "id": "natalyas-odium",
     "name": "Natalya's Odium",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/natalyasmark_ticon.png",
+    "image": "/images/sets/natalyas-odium.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -2485,13 +2391,12 @@
         "Magic Damage Reduced By 15",
         "Fade*"
       ]
-    },
-    "local_image": "images/sets/natalyas-odium.png"
+    }
   },
   {
     "id": "vidalas-rig",
     "name": "Vidala's Rig",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_ticon.png",
+    "image": "/images/sets/vidalas-rig.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -2513,13 +2418,12 @@
         "+10 To Strength",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/sets/vidalas-rig.png"
+    }
   },
   {
     "id": "vidalas-ambush",
     "name": "Vidala's Ambush",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/vidalasambush_graphic.png",
+    "image": "/images/sets/vidalas-ambush.png",
     "type": "Set Item",
     "base_item": "Leather Armor",
     "properties": {
@@ -2537,13 +2441,12 @@
         "+ (2.5 Per Character Level) +2-247 Defense (Based On Character Level) (3 Items) (3 set items)",
         "Part of set: Vidala's Rig"
       ]
-    },
-    "local_image": "images/sets/vidalas-ambush.png"
+    }
   },
   {
     "id": "milabregas-regalia",
     "name": "Milabrega's Regalia",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/warscepter_ticon.png",
+    "image": "/images/sets/milabregas-regalia.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -2565,13 +2468,12 @@
         "Poison Resist +15%",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/sets/milabregas-regalia.png"
+    }
   },
   {
     "id": "arcannas-tricks",
     "name": "Arcanna's Tricks",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu3_ticon.png",
+    "image": "/images/sets/arcannas-tricks.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -2592,13 +2494,12 @@
         "+1 To All Skills",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/sets/arcannas-tricks.png"
+    }
   },
   {
     "id": "heavens-brethren",
     "name": "Heaven's Brethren",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/dangoonsteaching_ticon.png",
+    "image": "/images/sets/heavens-brethren.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -2618,13 +2519,12 @@
         "Cannot Be Frozen",
         "+5 To Light Radius"
       ]
-    },
-    "local_image": "images/sets/heavens-brethren.png"
+    }
   },
   {
     "id": "dark-adherent",
     "name": "Dark Adherent",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/darkadherent_graphic.png",
+    "image": "/images/sets/dark-adherent.png",
     "type": "Set Item",
     "base_item": "Dusk Shroud",
     "properties": {
@@ -2642,13 +2542,12 @@
         "Adds 24-34 Poison Damage Over 2 Seconds",
         "Part of set: The Disciple"
       ]
-    },
-    "local_image": "images/sets/dark-adherent.png"
+    }
   },
   {
     "id": "najs-puzzler",
     "name": "Naj's Puzzler",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lazarusspire_graphic.png",
+    "image": "/images/sets/najs-puzzler.png",
     "type": "Set Item",
     "base_item": "Elder Staff",
     "properties": {
@@ -2674,13 +2573,12 @@
         "Level 11 Teleport (69 Charges)",
         "Part of set: Naj's Ancient Vestige"
       ]
-    },
-    "local_image": "images/sets/najs-puzzler.png"
+    }
   },
   {
     "id": "cleglaws-claw",
     "name": "Cleglaw's Claw",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/cleglawsclaw_graphic.png",
+    "image": "/images/sets/cleglaws-claw.png",
     "type": "Set Item",
     "base_item": "Small Shield",
     "properties": {
@@ -2701,13 +2599,12 @@
         "All Resistances +15 (2 set items)",
         "Part of set: Cleglaw's Brace"
       ]
-    },
-    "local_image": "images/sets/cleglaws-claw.png"
+    }
   },
   {
     "id": "hsarus-iron-fist",
     "name": "Hsarus' Iron Fist",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hsarusironfist_graphic.png",
+    "image": "/images/sets/hsarus-iron-fist.png",
     "type": "Set Item",
     "base_item": "Buckler",
     "properties": {
@@ -2728,13 +2625,12 @@
         "+ (2.5 Per Character Level) 2-247 Defense (Based On Character Level) (2 set items)",
         "Part of set: Hsarus' Defense"
       ]
-    },
-    "local_image": "images/sets/hsarus-iron-fist.png"
+    }
   },
   {
     "id": "tancreds-spine",
     "name": "Tancred's Spine",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/tancredsspine_graphic.png",
+    "image": "/images/sets/tancreds-spine.png",
     "type": "Set Item",
     "base_item": "Full Plate Mail",
     "properties": {
@@ -2751,13 +2647,12 @@
         "+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 set items)",
         "Part of set: Tancred's Battlegear"
       ]
-    },
-    "local_image": "images/sets/tancreds-spine.png"
+    }
   },
   {
     "id": "griswolds-heart",
     "name": "Griswold's Heart",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/griswoldsheart_graphic.png",
+    "image": "/images/sets/griswolds-heart.png",
     "type": "Set Item",
     "base_item": "Ornate Plate",
     "properties": {
@@ -2776,13 +2671,12 @@
         "Socketed (3)",
         "Part of set: Griswold's Legacy"
       ]
-    },
-    "local_image": "images/sets/griswolds-heart.png"
+    }
   },
   {
     "id": "najs-circlet",
     "name": "Naj's Circlet",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/najscirclet_graphic.png",
+    "image": "/images/sets/najs-circlet.png",
     "type": "Set Item",
     "base_item": "Circlet",
     "properties": {
@@ -2800,13 +2694,12 @@
         "+5 To Light Radius",
         "Part of set: Naj's Ancient Vestige"
       ]
-    },
-    "local_image": "images/sets/najs-circlet.png"
+    }
   },
   {
     "id": "trang-ouls-guise",
     "name": "Trang-Oul's Guise",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/trang-oulsguise_graphic.png",
+    "image": "/images/sets/trang-ouls-guise.png",
     "type": "Set Item",
     "base_item": "Bone Visage",
     "properties": {
@@ -2825,13 +2718,12 @@
         "Attacker Takes Damage of 20",
         "Part of set: Trang-Oul's Avatar"
       ]
-    },
-    "local_image": "images/sets/trang-ouls-guise.png"
+    }
   },
   {
     "id": "isenharts-parry",
     "name": "Isenhart's Parry",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/isenhartsparry_graphic.png",
+    "image": "/images/sets/isenharts-parry.png",
     "type": "Set Item",
     "base_item": "Gothic Shield",
     "properties": {
@@ -2852,13 +2744,12 @@
         "All Resistances +8 (2 set items)",
         "Part of set: Isenhart's Armory"
       ]
-    },
-    "local_image": "images/sets/isenharts-parry.png"
+    }
   },
   {
     "id": "tancreds-skull",
     "name": "Tancred's Skull",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/tancredsskull_graphic.png",
+    "image": "/images/sets/tancreds-skull.png",
     "type": "Set Item",
     "base_item": "Bone Helm",
     "properties": {
@@ -2875,13 +2766,12 @@
         "All Resistances +10 (2 set items)",
         "Part of set: Tancred's Battlegear"
       ]
-    },
-    "local_image": "images/sets/tancreds-skull.png"
+    }
   },
   {
     "id": "milabregas-orb",
     "name": "Milabrega's Orb",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/milabregasorb_graphic.png",
+    "image": "/images/sets/milabregas-orb.png",
     "type": "Set Item",
     "base_item": "Kite Shield",
     "properties": {
@@ -2903,13 +2793,12 @@
         "+50% Enhanced Defense (3 set items)",
         "Part of set: Milabrega's Regalia"
       ]
-    },
-    "local_image": "images/sets/milabregas-orb.png"
+    }
   },
   {
     "id": "sazabis-mental-sheath",
     "name": "Sazabi's Mental Sheath",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sazabismentalsheath_graphic.png",
+    "image": "/images/sets/sazabis-mental-sheath.png",
     "type": "Set Item",
     "base_item": "Basinet",
     "properties": {
@@ -2927,13 +2816,12 @@
         "+100 Defense",
         "Part of set: Sazabi's Grand Tribute"
       ]
-    },
-    "local_image": "images/sets/sazabis-mental-sheath.png"
+    }
   },
   {
     "id": "hwanins-splendor",
     "name": "Hwanin's Splendor",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hwaninssplendor_graphic.png",
+    "image": "/images/sets/hwanins-splendor.png",
     "type": "Set Item",
     "base_item": "Grand Crown",
     "properties": {
@@ -2951,13 +2839,12 @@
         "Cold Resist +37%",
         "Part of set: Hwanin's Majesty"
       ]
-    },
-    "local_image": "images/sets/hwanins-splendor.png"
+    }
   },
   {
     "id": "civerbs-ward",
     "name": "Civerb's Ward",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/civerbsward_graphic.png",
+    "image": "/images/sets/civerbs-ward.png",
     "type": "Set Item",
     "base_item": "Large Shield",
     "properties": {
@@ -2978,13 +2865,12 @@
         "+21-22 Mana ( Civerb's Icon) or Poison Resist +25-26% ( Civerb's Cudgel) (2 set items)",
         "Part of set: Civerb's Vestments"
       ]
-    },
-    "local_image": "images/sets/civerbs-ward.png"
+    }
   },
   {
     "id": "tancreds-crowbill",
     "name": "Tancred's Crowbill",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/tancredscrowbill_graphic.png",
+    "image": "/images/sets/tancreds-crowbill.png",
     "type": "Set Item",
     "base_item": "Military Pick",
     "properties": {
@@ -3006,13 +2892,12 @@
         "20% Increased Attack Speed (3 set items)",
         "Part of set: Tancred's Battlegear"
       ]
-    },
-    "local_image": "images/sets/tancreds-crowbill.png"
+    }
   },
   {
     "id": "natalyas-totem",
     "name": "Natalya's Totem",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/natalyastotem_graphic.png",
+    "image": "/images/sets/natalyas-totem.png",
     "type": "Set Item",
     "base_item": "Grim Helm",
     "properties": {
@@ -3031,13 +2916,12 @@
         "Magic Damage Reduced By 3",
         "Part of set: Natalya's Odium"
       ]
-    },
-    "local_image": "images/sets/natalyas-totem.png"
+    }
   },
   {
     "id": "arctic-furs",
     "name": "Arctic Furs",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/arcticfurs_graphic.png",
+    "image": "/images/sets/arctic-furs.png",
     "type": "Set Item",
     "base_item": "Quilted Armor",
     "properties": {
@@ -3055,13 +2939,12 @@
         "Cold Resist +15% (3 set items)",
         "Part of set: Arctic Gear"
       ]
-    },
-    "local_image": "images/sets/arctic-furs.png"
+    }
   },
   {
     "id": "immortal-kings-forge",
     "name": "Immortal King's Forge",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gauntlets_graphic.png",
+    "image": "/images/sets/immortal-kings-forge.png",
     "type": "Set Item",
     "base_item": "War Gauntlets",
     "properties": {
@@ -3084,13 +2967,12 @@
         "Freezes Target +2 (completed set items)",
         "Part of set: Immortal King"
       ]
-    },
-    "local_image": "images/sets/immortal-kings-forge.png"
+    }
   },
   {
     "id": "deaths-hand",
     "name": "Death's Hand",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/deathshand_graphic.png",
+    "image": "/images/sets/deaths-hand.png",
     "type": "Set Item",
     "base_item": "Leather Gloves",
     "properties": {
@@ -3106,13 +2988,12 @@
         "30% Increased Attack Speed (2 set items)",
         "Part of set: Death's Disguise"
       ]
-    },
-    "local_image": "images/sets/deaths-hand.png"
+    }
   },
   {
     "id": "vidalas-barb",
     "name": "Vidala's Barb",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/vidalasbarb_graphic.png",
+    "image": "/images/sets/vidalas-barb.png",
     "type": "Set Item",
     "base_item": "Long Battle Bow",
     "properties": {
@@ -3131,13 +3012,12 @@
         "+ (8 Per Character Level) 8-792 To Attack Rating (Based On Character Level) (2 Items) (2 set items)",
         "Part of set: Vidala's Rig"
       ]
-    },
-    "local_image": "images/sets/vidalas-barb.png"
+    }
   },
   {
     "id": "deaths-touch",
     "name": "Death's Touch",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/deathstouch_graphic.png",
+    "image": "/images/sets/deaths-touch.png",
     "type": "Set Item",
     "base_item": "War Sword",
     "properties": {
@@ -3158,13 +3038,12 @@
         "Adds 25-75 Cold Damage, 3 sec. Duration (Normal) (2 set items)",
         "Part of set: Death's Disguise"
       ]
-    },
-    "local_image": "images/sets/deaths-touch.png"
+    }
   },
   {
     "id": "hwanins-refuge",
     "name": "Hwanin's Refuge",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/scalemail_graphic.png",
+    "image": "/images/sets/hwanins-refuge.png",
     "type": "Set Item",
     "base_item": "Tigulated Mail",
     "properties": {
@@ -3182,13 +3061,12 @@
         "+100 To Life",
         "Part of set: Hwanin's Majesty"
       ]
-    },
-    "local_image": "images/sets/hwanins-refuge.png"
+    }
   },
   {
     "id": "arctic-horn",
     "name": "Arctic Horn",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/arctichorn_graphic.png",
+    "image": "/images/sets/arctic-horn.png",
     "type": "Set Item",
     "base_item": "Short War Bow",
     "properties": {
@@ -3209,13 +3087,12 @@
         "+20-30 Cold Damage, 3 sec. Duration (Normal) (3 set items)",
         "Part of set: Arctic Gear"
       ]
-    },
-    "local_image": "images/sets/arctic-horn.png"
+    }
   },
   {
     "id": "tal-rashas-fine-spun-cloth",
     "name": "Tal Rasha's Fine-Spun Cloth",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/talrashasfine-spuncloth_graphic.png",
+    "image": "/images/sets/tal-rashas-fine-spun-cloth.png",
     "type": "Set Item",
     "base_item": "Mesh Belt",
     "properties": {
@@ -3237,13 +3114,12 @@
         "+10% Faster Cast Rate (3 set items)",
         "Part of set: Tal Rasha's Wrappings"
       ]
-    },
-    "local_image": "images/sets/tal-rashas-fine-spun-cloth.png"
+    }
   },
   {
     "id": "isenharts-case",
     "name": "Isenhart's Case",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/isenhartscase_graphic.png",
+    "image": "/images/sets/isenharts-case.png",
     "type": "Set Item",
     "base_item": "Breast Plate",
     "properties": {
@@ -3260,13 +3136,12 @@
         "+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 set items)",
         "Part of set: Isenhart's Armory"
       ]
-    },
-    "local_image": "images/sets/isenharts-case.png"
+    }
   },
   {
     "id": "cathans-visage",
     "name": "Cathan's Visage",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mask_graphic.png",
+    "image": "/images/sets/cathans-visage.png",
     "type": "Set Item",
     "base_item": "Mask",
     "properties": {
@@ -3283,13 +3158,12 @@
         "+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 set items)",
         "Part of set: Cathan's Traps"
       ]
-    },
-    "local_image": "images/sets/cathans-visage.png"
+    }
   },
   {
     "id": "orphans-call",
     "name": "Orphan's Call",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/whitstansguard_ticon.png",
+    "image": "/images/sets/orphans-call.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -3310,13 +3184,12 @@
         "+20 To Strength",
         "80% Better Chance of Getting Magic Items"
       ]
-    },
-    "local_image": "images/sets/orphans-call.png"
+    }
   },
   {
     "id": "sanders-folly",
     "name": "Sander's Folly",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sanderssuperstition_ticon.png",
+    "image": "/images/sets/sanders-folly.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -3336,13 +3209,12 @@
         "+50 To Mana",
         "50% Better Chance Of Getting Magic Items"
       ]
-    },
-    "local_image": "images/sets/sanders-folly.png"
+    }
   },
   {
     "id": "hsarus-defense",
     "name": "Hsarus' Defense",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hsarusironstay_ticon.png",
+    "image": "/images/sets/hsarus-defense.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -3358,13 +3230,12 @@
         "Lightning Resist +25%",
         "+5 to Max Damage"
       ]
-    },
-    "local_image": "images/sets/hsarus-defense.png"
+    }
   },
   {
     "id": "cleglaws-brace",
     "name": "Cleglaw's Brace",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/cleglawstooth_ticon.png",
+    "image": "/images/sets/cleglaws-brace.png",
     "type": "Set Item",
     "base_item": "",
     "properties": {
@@ -3380,13 +3251,12 @@
         "6% Mana Stolen Per Hit",
         "20% Increased Attack Speed"
       ]
-    },
-    "local_image": "images/sets/cleglaws-brace.png"
+    }
   },
   {
     "id": "credendum",
     "name": "Credendum",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/credendum_graphic.png",
+    "image": "/images/sets/credendum.png",
     "type": "Set Item",
     "base_item": "Mithril Coil",
     "properties": {
@@ -3405,13 +3275,12 @@
         "+10 To Strength",
         "Part of set: The Disciple"
       ]
-    },
-    "local_image": "images/sets/credendum.png"
+    }
   },
   {
     "id": "sigons-wrap",
     "name": "Sigon's Wrap",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sigonswrap_graphic.png",
+    "image": "/images/sets/sigons-wrap.png",
     "type": "Set Item",
     "base_item": "Plated Belt",
     "properties": {
@@ -3429,13 +3298,12 @@
         "+ (2 Per Character Level) 2-198 To Defense (Based On Character Level) (2 Items) (2 set items)",
         "Part of set: Sigon's Complete Steel"
       ]
-    },
-    "local_image": "images/sets/sigons-wrap.png"
+    }
   },
   {
     "id": "sigons-visor",
     "name": "Sigon's Visor",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sigonsvisor_graphic.png",
+    "image": "/images/sets/sigons-visor.png",
     "type": "Set Item",
     "base_item": "Great Helm",
     "properties": {
@@ -3452,13 +3320,12 @@
         "+ (8 Per Character Level) 8-792 To Attack Rating (Based On Character Level) (2 set items)",
         "Part of set: Sigon's Complete Steel"
       ]
-    },
-    "local_image": "images/sets/sigons-visor.png"
+    }
   },
   {
     "id": "sigons-shelter",
     "name": "Sigon's Shelter",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sigonsshelter_graphic.png",
+    "image": "/images/sets/sigons-shelter.png",
     "type": "Set Item",
     "base_item": "Gothic Plate",
     "properties": {
@@ -3475,13 +3342,12 @@
         "Attacker Takes Damage of 20 (2 Items) (2 set items)",
         "Part of set: Sigon's Complete Steel"
       ]
-    },
-    "local_image": "images/sets/sigons-shelter.png"
+    }
   },
   {
     "id": "sazabis-ghost-liberator",
     "name": "Sazabi's Ghost Liberator",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sazabisghostliberator_graphic.png",
+    "image": "/images/sets/sazabis-ghost-liberator.png",
     "type": "Set Item",
     "base_item": "Balrog Skin",
     "properties": {
@@ -3500,13 +3366,12 @@
         "+50-75 To Life",
         "Part of set: Sazabi's Grand Tribute"
       ]
-    },
-    "local_image": "images/sets/sazabis-ghost-liberator.png"
+    }
   },
   {
     "id": "sanders-taboo",
     "name": "Sander's Taboo",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sanderstaboo_graphic.png",
+    "image": "/images/sets/sanders-taboo.png",
     "type": "Set Item",
     "base_item": "Heavy Gloves",
     "properties": {
@@ -3523,13 +3388,12 @@
         "+20% Increased Attack Speed",
         "Part of set: Sander's Folly"
       ]
-    },
-    "local_image": "images/sets/sanders-taboo.png"
+    }
   },
   {
     "id": "magnus-skin",
     "name": "Magnus' Skin",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/magnusskin_graphic.png",
+    "image": "/images/sets/magnus-skin.png",
     "type": "Set Item",
     "base_item": "Sharkskin Gloves",
     "properties": {
@@ -3548,13 +3412,12 @@
         "Fire Resist +15%",
         "Part of set: Orphan's Call"
       ]
-    },
-    "local_image": "images/sets/magnus-skin.png"
+    }
   },
   {
     "id": "wilhelms-pride",
     "name": "Wilhelm's Pride",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/wilhelmspride_graphic.png",
+    "image": "/images/sets/wilhelms-pride.png",
     "type": "Set Item",
     "base_item": "Battle Belt",
     "properties": {
@@ -3573,13 +3436,12 @@
         "Cold Resist +10%",
         "Part of set: Orphan's Call"
       ]
-    },
-    "local_image": "images/sets/wilhelms-pride.png"
+    }
   },
   {
     "id": "najs-light-plate",
     "name": "Naj's Light Plate",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/platemail_graphic.png",
+    "image": "/images/sets/najs-light-plate.png",
     "type": "Set Item",
     "base_item": "Hellforge Plate",
     "properties": {
@@ -3599,13 +3461,12 @@
         "+65 To Life",
         "Part of set: Naj's Ancient Vestige"
       ]
-    },
-    "local_image": "images/sets/najs-light-plate.png"
+    }
   },
   {
     "id": "milabregas-rod",
     "name": "Milabrega's Rod",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/warscepter_graphic.png",
+    "image": "/images/sets/milabregas-rod.png",
     "type": "Set Item",
     "base_item": "War Scepter",
     "properties": {
@@ -3626,13 +3487,12 @@
         "+2 to Light Radius",
         "Part of set: Milabrega's Regalia"
       ]
-    },
-    "local_image": "images/sets/milabregas-rod.png"
+    }
   },
   {
     "id": "isenharts-horns",
     "name": "Isenhart's Horns",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/isenhartshorns_graphic.png",
+    "image": "/images/sets/isenharts-horns.png",
     "type": "Set Item",
     "base_item": "Full Helm",
     "properties": {
@@ -3649,13 +3509,12 @@
         "All Resistances +8 (2 set items)",
         "Part of set: Isenhart's Armory"
       ]
-    },
-    "local_image": "images/sets/isenharts-horns.png"
+    }
   },
   {
     "id": "isenharts-lightbrand",
     "name": "Isenhart's Lightbrand",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/isenhartslightbrand_graphic.png",
+    "image": "/images/sets/isenharts-lightbrand.png",
     "type": "Set Item",
     "base_item": "Broad Sword",
     "properties": {
@@ -3675,13 +3534,12 @@
         "+ (5 Per Character Level) 5-495 Attack Rating (Based On Character Level) (2 set items)",
         "Part of set: Isenhart's Armory"
       ]
-    },
-    "local_image": "images/sets/isenharts-lightbrand.png"
+    }
   },
   {
     "id": "immortal-kings-soul-cage",
     "name": "Immortal King's Soul Cage",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/immortalsoulcage_graphic.png",
+    "image": "/images/sets/immortal-kings-soul-cage.png",
     "type": "Set Item",
     "base_item": "Sacred Armor",
     "properties": {
@@ -3704,13 +3562,12 @@
         "+50% Enhanced Defense (completed set items)",
         "Part of set: Immortal King"
       ]
-    },
-    "local_image": "images/sets/immortal-kings-soul-cage.png"
+    }
   },
   {
     "id": "hwanins-justice",
     "name": "Hwanin's Justice",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/voulge_graphic.png",
+    "image": "/images/sets/hwanins-justice.png",
     "type": "Set Item",
     "base_item": "Bill",
     "properties": {
@@ -3732,13 +3589,12 @@
         "10% Chance To Cast Level 3 Ice Blast On Striking",
         "Part of set: Hwanin's Majesty"
       ]
-    },
-    "local_image": "images/sets/hwanins-justice.png"
+    }
   },
   {
     "id": "griswolds-honor",
     "name": "Griswold's Honor",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/griswoldshonor_graphic.png",
+    "image": "/images/sets/griswolds-honor.png",
     "type": "Set Item",
     "base_item": "Vortex Shield",
     "properties": {
@@ -3760,13 +3616,12 @@
         "Part of set: Griswold's Legacy",
         "Paladin equip only"
       ]
-    },
-    "local_image": "images/sets/griswolds-honor.png"
+    }
   },
   {
     "id": "griswolds-redemption",
     "name": "Griswold's Redemption",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/griswoldsredemption_graphic.png",
+    "image": "/images/sets/griswolds-redemption.png",
     "type": "Set Item",
     "base_item": "Caduceus",
     "properties": {
@@ -3792,13 +3647,12 @@
         "Adds 10-20 Damage (completed set items)",
         "Part of set: Griswold's Legacy"
       ]
-    },
-    "local_image": "images/sets/griswolds-redemption.png"
+    }
   },
   {
     "id": "cleglaws-tooth",
     "name": "Cleglaw's Tooth",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/cleglawstooth_graphic.png",
+    "image": "/images/sets/cleglaws-tooth.png",
     "type": "Set Item",
     "base_item": "Long Sword",
     "properties": {
@@ -3819,13 +3673,12 @@
         "+ (1.25 Per Character Level) +1-123 To Maximum Damage (Based On Character Level) (2 set items)",
         "Part of set: Cleglaw's Brace"
       ]
-    },
-    "local_image": "images/sets/cleglaws-tooth.png"
+    }
   },
   {
     "id": "civerbs-cudgel",
     "name": "Civerb's Cudgel",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/grandscepter_graphic.png",
+    "image": "/images/sets/civerbs-cudgel.png",
     "type": "Set Item",
     "base_item": "Grand Scepter",
     "properties": {
@@ -3846,13 +3699,12 @@
         "+75 to Attack Rating",
         "Part of set: Civerb's Vestments"
       ]
-    },
-    "local_image": "images/sets/civerbs-cudgel.png"
+    }
   },
   {
     "id": "berserkers-headgear",
     "name": "Berserker's Headgear",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/berserkerheadgear_graphic.png",
+    "image": "/images/sets/berserkers-headgear.png",
     "type": "Set Item",
     "base_item": "Helm",
     "properties": {
@@ -3869,13 +3721,12 @@
         "+ (8 Per Character Level) 48-792 Attack Rating (Based On Character Level) (2 set items)",
         "Part of set: Berserker's Arsenal"
       ]
-    },
-    "local_image": "images/sets/berserkers-headgear.png"
+    }
   },
   {
     "id": "berserkers-hauberk",
     "name": "Berserker's Hauberk",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/berserkerhauberk_graphic.png",
+    "image": "/images/sets/berserkers-hauberk.png",
     "type": "Set Item",
     "base_item": "Splint Mail",
     "properties": {
@@ -3892,13 +3743,12 @@
         "+ (3 Per Character Level) 3-297 Defense (Based On Character Level) (2 set items)",
         "Part of set: Berserker's Arsenal"
       ]
-    },
-    "local_image": "images/sets/berserkers-hauberk.png"
+    }
   },
   {
     "id": "berserkers-hatchet",
     "name": "Berserker's Hatchet",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/berserkerhatchet_graphic.png",
+    "image": "/images/sets/berserkers-hatchet.png",
     "type": "Set Item",
     "base_item": "Double Axe",
     "properties": {
@@ -3918,13 +3768,12 @@
         "+50% Enhanced Damage (2 set items)",
         "Part of set: Berserker's Arsenal"
       ]
-    },
-    "local_image": "images/sets/berserkers-hatchet.png"
+    }
   },
   {
     "id": "arctic-binding",
     "name": "Arctic Binding",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/arcticbinding_graphic.png",
+    "image": "/images/sets/arctic-binding.png",
     "type": "Set Item",
     "base_item": "Light Belt",
     "properties": {
@@ -3941,13 +3790,12 @@
         "Cold Resist +10% (3 set items)",
         "Part of set: Arctic Gear"
       ]
-    },
-    "local_image": "images/sets/arctic-binding.png"
+    }
   },
   {
     "id": "arcannas-deathwand",
     "name": "Arcanna's Deathwand",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/arcannasdeathwand_graphic.png",
+    "image": "/images/sets/arcannas-deathwand.png",
     "type": "Set Item",
     "base_item": "War Staff",
     "properties": {
@@ -3968,13 +3816,12 @@
         "Regenerate Mana +5% (3 set items)",
         "Part of set: Arcanna's Tricks"
       ]
-    },
-    "local_image": "images/sets/arcannas-deathwand.png"
+    }
   },
   {
     "id": "arcannas-flesh",
     "name": "Arcanna's Flesh",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/arcannasflesh_graphic.png",
+    "image": "/images/sets/arcannas-flesh.png",
     "type": "Set Item",
     "base_item": "Light Plate",
     "properties": {
@@ -3992,13 +3839,12 @@
         "+10 Energy (3 set items)",
         "Part of set: Arcanna's Tricks"
       ]
-    },
-    "local_image": "images/sets/arcannas-flesh.png"
+    }
   },
   {
     "id": "arcannas-head",
     "name": "Arcanna's Head",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/arcannashead_graphic.png",
+    "image": "/images/sets/arcannas-head.png",
     "type": "Set Item",
     "base_item": "Skull Cap",
     "properties": {
@@ -4016,13 +3862,12 @@
         "Lightning Resist +15% (3 set items)",
         "Part of set: Arcanna's Tricks"
       ]
-    },
-    "local_image": "images/sets/arcannas-head.png"
+    }
   },
   {
     "id": "angelic-mantle",
     "name": "Angelic Mantle",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/angelicmantle_graphic.png",
+    "image": "/images/sets/angelic-mantle.png",
     "type": "Set Item",
     "base_item": "Ring Mail",
     "properties": {
@@ -4040,13 +3885,12 @@
         "Fire Resist +50% (3 set items)",
         "Part of set: Angelic Raiment"
       ]
-    },
-    "local_image": "images/sets/angelic-mantle.png"
+    }
   },
   {
     "id": "sanders-superstition",
     "name": "Sander's Superstition",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sanderssuperstition_graphic.png",
+    "image": "/images/sets/sanders-superstition.png",
     "type": "Set Item",
     "base_item": "Bone Wand",
     "properties": {
@@ -4066,13 +3910,12 @@
         "25-75 Cold Damage, 2 sec. Duration",
         "Part of set: Sander's Folly"
       ]
-    },
-    "local_image": "images/sets/sanders-superstition.png"
+    }
   },
   {
     "id": "cathans-mesh",
     "name": "Cathan's Mesh",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/cathansmesh_graphic.png",
+    "image": "/images/sets/cathans-mesh.png",
     "type": "Set Item",
     "base_item": "Chain Mail",
     "properties": {
@@ -4090,13 +3933,12 @@
         "Fire Resist +30% (3 set items)",
         "Part of set: Cathan's Traps"
       ]
-    },
-    "local_image": "images/sets/cathans-mesh.png"
+    }
   },
   {
     "id": "cathans-rule",
     "name": "Cathan's Rule",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/cathansrule_graphic.png",
+    "image": "/images/sets/cathans-rule.png",
     "type": "Set Item",
     "base_item": "Battle Staff",
     "properties": {
@@ -4117,7 +3959,6 @@
         "All Resistances +10 (3 set items)",
         "Part of set: Cathan's Traps"
       ]
-    },
-    "local_image": "images/sets/cathans-rule.png"
+    }
   }
 ]

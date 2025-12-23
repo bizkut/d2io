@@ -2,7 +2,7 @@
   {
     "id": "bone",
     "name": "Bone",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeSol_ticon.png",
+    "image": "/images/runewords/bone.png",
     "type": "Runeword",
     "runes": [
       "Sol",
@@ -22,13 +22,12 @@
         "All Resistances +30",
         "Damage Reduced By 7"
       ]
-    },
-    "local_image": "images/runewords/bone.png"
+    }
   },
   {
     "id": "principle",
     "name": "Principle",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeRal_ticon.png",
+    "image": "/images/runewords/principle.png",
     "type": "Runeword",
     "runes": [
       "Ral",
@@ -49,13 +48,12 @@
         "+5% To Maximum Poison Resist",
         "Fire Resist +30%"
       ]
-    },
-    "local_image": "images/runewords/principle.png"
+    }
   },
   {
     "id": "cure",
     "name": "Cure",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "image": "/images/runewords/cure.png",
     "type": "Runeword",
     "runes": [
       "Shael",
@@ -78,13 +76,12 @@
         "New item in 2.6",
         "Ladder only"
       ]
-    },
-    "local_image": "images/runewords/cure.png"
+    }
   },
   {
     "id": "mosaic",
     "name": "Mosaic",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeMal_ticon.png",
+    "image": "/images/runewords/mosaic.png",
     "type": "Runeword",
     "runes": [
       "Mal",
@@ -111,13 +108,12 @@
         "New item in 2.6",
         "Ladder only"
       ]
-    },
-    "local_image": "images/runewords/mosaic.png"
+    }
   },
   {
     "id": "plague",
     "name": "Plague",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeCham_ticon.png",
+    "image": "/images/runewords/plague.png",
     "type": "Runeword",
     "runes": [
       "Cham",
@@ -142,13 +138,12 @@
         "Freezes Target +3",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/runewords/plague.png"
+    }
   },
   {
     "id": "stone",
     "name": "Stone",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "image": "/images/runewords/stone.png",
     "type": "Runeword",
     "runes": [
       "Shael",
@@ -172,13 +167,12 @@
         "Level 16 Molten Boulder (80 Charges)",
         "Level 16 Clay Golem (16 Charges)"
       ]
-    },
-    "local_image": "images/runewords/stone.png"
+    }
   },
   {
     "id": "beast",
     "name": "Beast",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeBer_ticon.png",
+    "image": "/images/runewords/beast.png",
     "type": "Runeword",
     "runes": [
       "Ber",
@@ -206,13 +200,12 @@
         "+2 To Mana After Each Kill",
         "Level 13 Summon Grizzly (5 Charges)"
       ]
-    },
-    "local_image": "images/runewords/beast.png"
+    }
   },
   {
     "id": "ground",
     "name": "Ground",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "image": "/images/runewords/ground.png",
     "type": "Runeword",
     "runes": [
       "Shael",
@@ -234,13 +227,12 @@
         "New item in 2.6",
         "Ladder only"
       ]
-    },
-    "local_image": "images/runewords/ground.png"
+    }
   },
   {
     "id": "hearth",
     "name": "Hearth",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "image": "/images/runewords/hearth.png",
     "type": "Runeword",
     "runes": [
       "Shael",
@@ -263,13 +255,12 @@
         "New item in 2.6",
         "Ladder only"
       ]
-    },
-    "local_image": "images/runewords/hearth.png"
+    }
   },
   {
     "id": "doom",
     "name": "Doom",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeHel_ticon.png",
+    "image": "/images/runewords/doom.png",
     "type": "Runeword",
     "runes": [
       "Hel",
@@ -296,13 +287,12 @@
         "Freezes Target +3",
         "Requirements -20%"
       ]
-    },
-    "local_image": "images/runewords/doom.png"
+    }
   },
   {
     "id": "leaf",
     "name": "Leaf",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTir_ticon.png",
+    "image": "/images/runewords/leaf.png",
     "type": "Runeword",
     "runes": [
       "Tir",
@@ -323,13 +313,12 @@
         "+ (2 Per Character Level) +2-198 To Defense (Based On Character Level)",
         "Cold Resist +33%"
       ]
-    },
-    "local_image": "images/runewords/leaf.png"
+    }
   },
   {
     "id": "temper",
     "name": "Temper",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "image": "/images/runewords/temper.png",
     "type": "Runeword",
     "runes": [
       "Shael",
@@ -351,13 +340,12 @@
         "New item in 2.6",
         "Ladder only"
       ]
-    },
-    "local_image": "images/runewords/temper.png"
+    }
   },
   {
     "id": "metamorphosis",
     "name": "Metamorphosis",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeIo_ticon.png",
+    "image": "/images/runewords/metamorphosis.png",
     "type": "Runeword",
     "runes": [
       "Io",
@@ -388,13 +376,12 @@
         "New item in 2.6",
         "Ladder only"
       ]
-    },
-    "local_image": "images/runewords/metamorphosis.png"
+    }
   },
   {
     "id": "bulwark",
     "name": "Bulwark",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "image": "/images/runewords/bulwark.png",
     "type": "Runeword",
     "runes": [
       "Shael",
@@ -418,13 +405,12 @@
         "New item in 2.6",
         "Ladder only"
       ]
-    },
-    "local_image": "images/runewords/bulwark.png"
+    }
   },
   {
     "id": "hustle",
     "name": "Hustle",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "image": "/images/runewords/hustle.png",
     "type": "Runeword",
     "runes": [
       "Shael",
@@ -455,13 +441,12 @@
         "New item in 2.6",
         "Ladder only"
       ]
-    },
-    "local_image": "images/runewords/hustle.png"
+    }
   },
   {
     "id": "white",
     "name": "White",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeDol_ticon.png",
+    "image": "/images/runewords/white.png",
     "type": "Runeword",
     "runes": [
       "Dol",
@@ -483,13 +468,12 @@
         "20% Faster Cast Rate",
         "+13 To Mana"
       ]
-    },
-    "local_image": "images/runewords/white.png"
+    }
   },
   {
     "id": "holy-thunder",
     "name": "Holy Thunder",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeEth_ticon.png",
+    "image": "/images/runewords/holy-thunder.png",
     "type": "Runeword",
     "runes": [
       "Eth",
@@ -514,13 +498,12 @@
         "+3 To Holy Shock (Paladin Only)",
         "Level 7 Chain Lightning (60 Charges)"
       ]
-    },
-    "local_image": "images/runewords/holy-thunder.png"
+    }
   },
   {
     "id": "infinity",
     "name": "Infinity",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeBer_ticon.png",
+    "image": "/images/runewords/infinity.png",
     "type": "Runeword",
     "runes": [
       "Ber",
@@ -546,13 +529,12 @@
         "Level 21 Cyclone Armor (30 Charges)",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/runewords/infinity.png"
+    }
   },
   {
     "id": "harmony",
     "name": "Harmony",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTir_ticon.png",
+    "image": "/images/runewords/harmony.png",
     "type": "Runeword",
     "runes": [
       "Tir",
@@ -580,13 +562,12 @@
         "+2 To Light Radius",
         "Level 20 Revive (25 Charges)"
       ]
-    },
-    "local_image": "images/runewords/harmony.png"
+    }
   },
   {
     "id": "sanctuary",
     "name": "Sanctuary",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeKo_ticon.png",
+    "image": "/images/runewords/sanctuary.png",
     "type": "Runeword",
     "runes": [
       "Ko",
@@ -609,13 +590,12 @@
         "Magic Damage Reduced By 7",
         "Level 12 Slow Missiles (60 Charges)"
       ]
-    },
-    "local_image": "images/runewords/sanctuary.png"
+    }
   },
   {
     "id": "black",
     "name": "Black",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeThul_ticon.png",
+    "image": "/images/runewords/black.png",
     "type": "Runeword",
     "runes": [
       "Thul",
@@ -638,13 +618,12 @@
         "Level 4 Corpse Explosion (12 charges)",
         "Knockback"
       ]
-    },
-    "local_image": "images/runewords/black.png"
+    }
   },
   {
     "id": "flickering-flame",
     "name": "Flickering Flame",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeNef_ticon.png",
+    "image": "/images/runewords/flickering-flame.png",
     "type": "Runeword",
     "runes": [
       "Nef",
@@ -668,13 +647,12 @@
         "Poison Length Reduced by 50%",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/runewords/flickering-flame.png"
+    }
   },
   {
     "id": "spirit",
     "name": "Spirit",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTal_ticon.png",
+    "image": "/images/runewords/spirit.png",
     "type": "Runeword",
     "runes": [
       "Tal",
@@ -712,13 +690,12 @@
         "+3-8 Magic Absorb",
         "Attacker Takes Damage of 14"
       ]
-    },
-    "local_image": "images/runewords/spirit.png"
+    }
   },
   {
     "id": "edge",
     "name": "Edge",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTir_ticon.png",
+    "image": "/images/runewords/edge.png",
     "type": "Runeword",
     "runes": [
       "Tir",
@@ -742,13 +719,12 @@
         "+2 To Mana After Each Kill",
         "Reduces All Vendor Prices 15%"
       ]
-    },
-    "local_image": "images/runewords/edge.png"
+    }
   },
   {
     "id": "ancients-pledge",
     "name": "Ancients' Pledge",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeRal_ticon.png",
+    "image": "/images/runewords/ancients-pledge.png",
     "type": "Runeword",
     "runes": [
       "Ral",
@@ -768,13 +744,12 @@
         "Poison Resist +48%",
         "10% Damage Goes To Mana"
       ]
-    },
-    "local_image": "images/runewords/ancients-pledge.png"
+    }
   },
   {
     "id": "smoke",
     "name": "Smoke",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeNef_ticon.png",
+    "image": "/images/runewords/smoke.png",
     "type": "Runeword",
     "runes": [
       "Nef",
@@ -794,13 +769,12 @@
         "+10 To Energy",
         "-1 To Light Radius"
       ]
-    },
-    "local_image": "images/runewords/smoke.png"
+    }
   },
   {
     "id": "voice-of-reason",
     "name": "Voice of Reason",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeLem_ticon.png",
+    "image": "/images/runewords/voice-of-reason.png",
     "type": "Runeword",
     "runes": [
       "Lem",
@@ -827,13 +801,12 @@
         "75% Extra Gold From Monsters",
         "+1 To Light Radius"
       ]
-    },
-    "local_image": "images/runewords/voice-of-reason.png"
+    }
   },
   {
     "id": "hand-of-justice",
     "name": "Hand of Justice",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeSur_ticon.png",
+    "image": "/images/runewords/hand-of-justice.png",
     "type": "Runeword",
     "runes": [
       "Sur",
@@ -859,13 +832,12 @@
         "Hit Blinds Target",
         "Freezes Target +3"
       ]
-    },
-    "local_image": "images/runewords/hand-of-justice.png"
+    }
   },
   {
     "id": "bramble",
     "name": "Bramble",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeRal_ticon.png",
+    "image": "/images/runewords/bramble.png",
     "type": "Runeword",
     "runes": [
       "Ral",
@@ -891,13 +863,12 @@
         "+13 Life After Each Kill",
         "Level 13 Spirit of Barbs (33 Charges)"
       ]
-    },
-    "local_image": "images/runewords/bramble.png"
+    }
   },
   {
     "id": "pattern",
     "name": "Pattern",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTal_ticon.png",
+    "image": "/images/runewords/pattern.png",
     "type": "Runeword",
     "runes": [
       "Tal",
@@ -922,13 +893,12 @@
         "All Resistances +15",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/runewords/pattern.png"
+    }
   },
   {
     "id": "wrath",
     "name": "Wrath",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runePul_ticon.png",
+    "image": "/images/runewords/wrath.png",
     "type": "Runeword",
     "runes": [
       "Pul",
@@ -954,13 +924,12 @@
         "+10 To Energy",
         "Cannot Be Frozen"
       ]
-    },
-    "local_image": "images/runewords/wrath.png"
+    }
   },
   {
     "id": "kingslayer",
     "name": "Kingslayer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeMal_ticon.png",
+    "image": "/images/runewords/kingslayer.png",
     "type": "Runeword",
     "runes": [
       "Mal",
@@ -985,13 +954,12 @@
         "+10 To Strength",
         "40% Extra Gold From Monsters"
       ]
-    },
-    "local_image": "images/runewords/kingslayer.png"
+    }
   },
   {
     "id": "duress",
     "name": "Duress",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "image": "/images/runewords/duress.png",
     "type": "Runeword",
     "runes": [
       "Shael",
@@ -1016,13 +984,12 @@
         "Fire Resist +15%",
         "Poison Resist +15%"
       ]
-    },
-    "local_image": "images/runewords/duress.png"
+    }
   },
   {
     "id": "oath",
     "name": "Oath",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "image": "/images/runewords/oath.png",
     "type": "Runeword",
     "runes": [
       "Shael",
@@ -1048,13 +1015,12 @@
         "Level 16 Heart of Wolverine (20 Charges)",
         "Level 17 Iron Golem (14 Charges)"
       ]
-    },
-    "local_image": "images/runewords/oath.png"
+    }
   },
   {
     "id": "stealth",
     "name": "Stealth",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTal_ticon.png",
+    "image": "/images/runewords/stealth.png",
     "type": "Runeword",
     "runes": [
       "Tal",
@@ -1075,13 +1041,12 @@
         "25% Faster Cast Rate",
         "25% Faster Hit Recovery"
       ]
-    },
-    "local_image": "images/runewords/stealth.png"
+    }
   },
   {
     "id": "venom",
     "name": "Venom",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTal_ticon.png",
+    "image": "/images/runewords/venom.png",
     "type": "Runeword",
     "runes": [
       "Tal",
@@ -1102,13 +1067,12 @@
         "Level 13 Poison Nova (11 Charges)",
         "+273 Poison Damage Over 6 seconds"
       ]
-    },
-    "local_image": "images/runewords/venom.png"
+    }
   },
   {
     "id": "last-wish",
     "name": "Last Wish",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeJo_ticon.png",
+    "image": "/images/runewords/last-wish.png",
     "type": "Runeword",
     "runes": [
       "Jah",
@@ -1135,13 +1099,12 @@
         "Hit Blinds Target",
         "+(0.5 per character level) 0.5-49.5% Chance of Getting Magic Items (Based on Character Level)"
       ]
-    },
-    "local_image": "images/runewords/last-wish.png"
+    }
   },
   {
     "id": "heart-of-the-oak",
     "name": "Heart of the Oak",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeKo_ticon.png",
+    "image": "/images/runewords/heart-of-the-oak.png",
     "type": "Runeword",
     "runes": [
       "Ko",
@@ -1167,13 +1130,12 @@
         "Level 4 Oak Sage (25 Charges)",
         "Level 14 Raven (60 Charges)"
       ]
-    },
-    "local_image": "images/runewords/heart-of-the-oak.png"
+    }
   },
   {
     "id": "dream",
     "name": "Dream",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeIo_ticon.png",
+    "image": "/images/runewords/dream.png",
     "type": "Runeword",
     "runes": [
       "Io",
@@ -1198,13 +1160,12 @@
         "All Resistances +5-20",
         "12-25% Better Chance of Getting Magic Items"
       ]
-    },
-    "local_image": "images/runewords/dream.png"
+    }
   },
   {
     "id": "lore",
     "name": "Lore",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeOrt_ticon.png",
+    "image": "/images/runewords/lore.png",
     "type": "Runeword",
     "runes": [
       "Ort",
@@ -1223,13 +1184,12 @@
         "Damage Reduced By 7",
         "+2 To Light Radius"
       ]
-    },
-    "local_image": "images/runewords/lore.png"
+    }
   },
   {
     "id": "eternity",
     "name": "Eternity",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_ticon.png",
+    "image": "/images/runewords/eternity.png",
     "type": "Runeword",
     "runes": [
       "Amn",
@@ -1257,13 +1217,12 @@
         "30% Better Chance Of Getting Magic Items",
         "Level 8 Revive (88 Charges)"
       ]
-    },
-    "local_image": "images/runewords/eternity.png"
+    }
   },
   {
     "id": "honor",
     "name": "Honor",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_ticon.png",
+    "image": "/images/runewords/honor.png",
     "type": "Runeword",
     "runes": [
       "Amn",
@@ -1290,13 +1249,12 @@
         "+1 to Light Radius",
         "+2 to Mana per Kill"
       ]
-    },
-    "local_image": "images/runewords/honor.png"
+    }
   },
   {
     "id": "insight",
     "name": "Insight",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeRal_ticon.png",
+    "image": "/images/runewords/insight.png",
     "type": "Runeword",
     "runes": [
       "Ral",
@@ -1323,13 +1281,12 @@
         "23% Better Chance of Getting Magic Items",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/runewords/insight.png"
+    }
   },
   {
     "id": "wealth",
     "name": "Wealth",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeLem_ticon.png",
+    "image": "/images/runewords/wealth.png",
     "type": "Runeword",
     "runes": [
       "Lem",
@@ -1347,13 +1304,12 @@
         "+2 To Mana After Each Kill",
         "+10 To Dexterity"
       ]
-    },
-    "local_image": "images/runewords/wealth.png"
+    }
   },
   {
     "id": "malice",
     "name": "Malice",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeIth_ticon.png",
+    "image": "/images/runewords/malice.png",
     "type": "Runeword",
     "runes": [
       "Ith",
@@ -1375,13 +1331,12 @@
         "+50 To Attack Rating",
         "Drain Life -5"
       ]
-    },
-    "local_image": "images/runewords/malice.png"
+    }
   },
   {
     "id": "fury",
     "name": "Fury",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeJo_ticon.png",
+    "image": "/images/runewords/fury.png",
     "type": "Runeword",
     "runes": [
       "Jah",
@@ -1405,13 +1360,12 @@
         "Ignores Target Defense",
         "+5 to Frenzy (Barbarian only)"
       ]
-    },
-    "local_image": "images/runewords/fury.png"
+    }
   },
   {
     "id": "crescent-moon-runeword",
     "name": "Crescent Moon Runeword",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "image": "/images/runewords/crescent-moon-runeword.png",
     "type": "Runeword",
     "runes": [
       "Shael",
@@ -1435,13 +1389,12 @@
         "+2 To Mana After Each Kill",
         "Level 18 Summon Spirit Wolf (30 Charges)"
       ]
-    },
-    "local_image": "images/runewords/crescent-moon-runeword.png"
+    }
   },
   {
     "id": "peace",
     "name": "Peace",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "image": "/images/runewords/peace.png",
     "type": "Runeword",
     "runes": [
       "Shael",
@@ -1462,13 +1415,12 @@
         "Cold Resist +30%",
         "Attacker Takes Damage of 14"
       ]
-    },
-    "local_image": "images/runewords/peace.png"
+    }
   },
   {
     "id": "call-to-arms",
     "name": "Call To Arms",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_ticon.png",
+    "image": "/images/runewords/call-to-arms.png",
     "type": "Runeword",
     "runes": [
       "Amn",
@@ -1495,13 +1447,12 @@
         "Replenish Life +12",
         "30% Better Chance of Getting Magic Items"
       ]
-    },
-    "local_image": "images/runewords/call-to-arms.png"
+    }
   },
   {
     "id": "faith",
     "name": "Faith",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeOhm_ticon.png",
+    "image": "/images/runewords/faith.png",
     "type": "Runeword",
     "runes": [
       "Ohm",
@@ -1527,13 +1478,12 @@
         "10% Reanimate As: Returned",
         "75% Extra Gold From Monsters"
       ]
-    },
-    "local_image": "images/runewords/faith.png"
+    }
   },
   {
     "id": "death",
     "name": "Death",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeHel_ticon.png",
+    "image": "/images/runewords/death.png",
     "type": "Runeword",
     "runes": [
       "Hel",
@@ -1562,13 +1512,12 @@
         "Level 22 Blood Golem (15 Charges)",
         "Requirements -20%"
       ]
-    },
-    "local_image": "images/runewords/death.png"
+    }
   },
   {
     "id": "chaos",
     "name": "Chaos",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeFal_ticon.png",
+    "image": "/images/runewords/chaos.png",
     "type": "Runeword",
     "runes": [
       "Fal",
@@ -1591,13 +1540,12 @@
         "+10 To Strength",
         "+15 Life After Each Demon Kill"
       ]
-    },
-    "local_image": "images/runewords/chaos.png"
+    }
   },
   {
     "id": "breath-of-the-dying",
     "name": "Breath of the Dying",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeVex_ticon.png",
+    "image": "/images/runewords/breath-of-the-dying.png",
     "type": "Runeword",
     "runes": [
       "Vex",
@@ -1628,13 +1576,12 @@
         "+1 To Light Radius",
         "Requirements -20%"
       ]
-    },
-    "local_image": "images/runewords/breath-of-the-dying.png"
+    }
   },
   {
     "id": "grief",
     "name": "Grief",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeEth_ticon.png",
+    "image": "/images/runewords/grief.png",
     "type": "Runeword",
     "runes": [
       "Eth",
@@ -1662,13 +1609,12 @@
         "+2 To Mana After Each Kill",
         "+10-15 Life After Each Kill"
       ]
-    },
-    "local_image": "images/runewords/grief.png"
+    }
   },
   {
     "id": "fortitude",
     "name": "Fortitude",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeEl_ticon.png",
+    "image": "/images/runewords/fortitude.png",
     "type": "Runeword",
     "runes": [
       "El",
@@ -1708,13 +1654,12 @@
         "12% Damage Taken Goes To Mana",
         "+1 To Light Radius"
       ]
-    },
-    "local_image": "images/runewords/fortitude.png"
+    }
   },
   {
     "id": "ice",
     "name": "Ice",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_ticon.png",
+    "image": "/images/runewords/ice.png",
     "type": "Runeword",
     "runes": [
       "Amn",
@@ -1740,13 +1685,12 @@
         "20% Deadly Strike",
         "3.125-309.375% Extra Gold From Monsters (Based on Character Level)"
       ]
-    },
-    "local_image": "images/runewords/ice.png"
+    }
   },
   {
     "id": "delirium",
     "name": "Delirium",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeLem_ticon.png",
+    "image": "/images/runewords/delirium.png",
     "type": "Runeword",
     "runes": [
       "Lem",
@@ -1770,13 +1714,12 @@
         "25% Better Chance of Getting Magic Items",
         "Level 17 Attract (60 Charges)"
       ]
-    },
-    "local_image": "images/runewords/delirium.png"
+    }
   },
   {
     "id": "gloom",
     "name": "Gloom",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeFal_ticon.png",
+    "image": "/images/runewords/gloom.png",
     "type": "Runeword",
     "runes": [
       "Fal",
@@ -1798,13 +1741,12 @@
         "5% Damage Taken Goes To Mana",
         "-3 To Light Radius"
       ]
-    },
-    "local_image": "images/runewords/gloom.png"
+    }
   },
   {
     "id": "radiance",
     "name": "Radiance",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeNef_ticon.png",
+    "image": "/images/runewords/radiance.png",
     "type": "Runeword",
     "runes": [
       "Nef",
@@ -1827,13 +1769,12 @@
         "Damage Reduced By 7",
         "+5 To Light Radius"
       ]
-    },
-    "local_image": "images/runewords/radiance.png"
+    }
   },
   {
     "id": "silence",
     "name": "Silence",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeDol_ticon.png",
+    "image": "/images/runewords/silence.png",
     "type": "Runeword",
     "runes": [
       "Dol",
@@ -1863,13 +1804,12 @@
         "+2 To Mana After Each Kill",
         "30% Better Chance Of Getting Magic Items"
       ]
-    },
-    "local_image": "images/runewords/silence.png"
+    }
   },
   {
     "id": "dragon",
     "name": "Dragon",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeSur_ticon.png",
+    "image": "/images/runewords/dragon.png",
     "type": "Runeword",
     "runes": [
       "Sur",
@@ -1894,13 +1834,12 @@
         "+5% To Maximum Lightning Resist",
         "Damage Reduced by 7"
       ]
-    },
-    "local_image": "images/runewords/dragon.png"
+    }
   },
   {
     "id": "rift",
     "name": "Rift",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeHel_ticon.png",
+    "image": "/images/runewords/rift.png",
     "type": "Runeword",
     "runes": [
       "Hel",
@@ -1926,13 +1865,12 @@
         "Level 15 Iron Maiden (40 Charges)",
         "Requirements -20%"
       ]
-    },
-    "local_image": "images/runewords/rift.png"
+    }
   },
   {
     "id": "enigma",
     "name": "Enigma",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeJo_ticon.png",
+    "image": "/images/runewords/enigma.png",
     "type": "Runeword",
     "runes": [
       "Jah",
@@ -1956,13 +1894,12 @@
         "15% Damage Taken Goes To Mana",
         "+ (1 Per Character Level) +1-99% Better Chance of Getting Magic Items (Based On Character Level)"
       ]
-    },
-    "local_image": "images/runewords/enigma.png"
+    }
   },
   {
     "id": "melody",
     "name": "Melody",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "image": "/images/runewords/melody.png",
     "type": "Runeword",
     "runes": [
       "Shael",
@@ -1985,13 +1922,12 @@
         "+10 To Dexterity",
         "Knockback"
       ]
-    },
-    "local_image": "images/runewords/melody.png"
+    }
   },
   {
     "id": "lawbringer",
     "name": "Lawbringer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_ticon.png",
+    "image": "/images/runewords/lawbringer.png",
     "type": "Runeword",
     "runes": [
       "Amn",
@@ -2015,13 +1951,12 @@
         "+10 To Dexterity",
         "75% Extra Gold From Monsters"
       ]
-    },
-    "local_image": "images/runewords/lawbringer.png"
+    }
   },
   {
     "id": "rain",
     "name": "Rain",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeOrt_ticon.png",
+    "image": "/images/runewords/rain.png",
     "type": "Runeword",
     "runes": [
       "Ort",
@@ -2042,13 +1977,12 @@
         "Magic Damage Reduced By 7",
         "15% Damage Taken Goes to Mana"
       ]
-    },
-    "local_image": "images/runewords/rain.png"
+    }
   },
   {
     "id": "destruction",
     "name": "Destruction",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeVex_ticon.png",
+    "image": "/images/runewords/destruction.png",
     "type": "Runeword",
     "runes": [
       "Vex",
@@ -2076,13 +2010,12 @@
         "Prevent Monster Heal",
         "+10 To Dexterity"
       ]
-    },
-    "local_image": "images/runewords/destruction.png"
+    }
   },
   {
     "id": "obedience",
     "name": "Obedience",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeHel_ticon.png",
+    "image": "/images/runewords/obedience.png",
     "type": "Runeword",
     "runes": [
       "Hel",
@@ -2111,13 +2044,12 @@
         "Requirements -20%",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/runewords/obedience.png"
+    }
   },
   {
     "id": "chains-of-honor",
     "name": "Chains of Honor",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeDol_ticon.png",
+    "image": "/images/runewords/chains-of-honor.png",
     "type": "Runeword",
     "runes": [
       "Dol",
@@ -2142,13 +2074,12 @@
         "Damage Reduced By 8%",
         "25% Better Chance of Getting Magic Items"
       ]
-    },
-    "local_image": "images/runewords/chains-of-honor.png"
+    }
   },
   {
     "id": "wisdom",
     "name": "Wisdom",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runePul_ticon.png",
+    "image": "/images/runewords/wisdom.png",
     "type": "Runeword",
     "runes": [
       "Pul",
@@ -2172,13 +2103,12 @@
         "15% Damage Taken Goes to Mana",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/runewords/wisdom.png"
+    }
   },
   {
     "id": "exile",
     "name": "Exile",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeVex_ticon.png",
+    "image": "/images/runewords/exile.png",
     "type": "Runeword",
     "runes": [
       "Vex",
@@ -2204,13 +2134,12 @@
         "25% Better Chance Of Getting Magic Items",
         "Repairs 1 Durability in 4 Seconds"
       ]
-    },
-    "local_image": "images/runewords/exile.png"
+    }
   },
   {
     "id": "wind",
     "name": "Wind",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeSur_ticon.png",
+    "image": "/images/runewords/wind.png",
     "type": "Runeword",
     "runes": [
       "Sur",
@@ -2233,13 +2162,12 @@
         "+1 To Light Radius",
         "Level 13 Twister (127 Charges)"
       ]
-    },
-    "local_image": "images/runewords/wind.png"
+    }
   },
   {
     "id": "mist",
     "name": "Mist",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeCham_ticon.png",
+    "image": "/images/runewords/mist.png",
     "type": "Runeword",
     "runes": [
       "Cham",
@@ -2267,13 +2195,12 @@
         "All Resistances +40",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/runewords/mist.png"
+    }
   },
   {
     "id": "brand",
     "name": "Brand",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeJo_ticon.png",
+    "image": "/images/runewords/brand.png",
     "type": "Runeword",
     "runes": [
       "Jah",
@@ -2298,13 +2225,12 @@
         "Knockback",
         "Fires Explosive Arrows or Bolts [level 15]"
       ]
-    },
-    "local_image": "images/runewords/brand.png"
+    }
   },
   {
     "id": "memory",
     "name": "Memory",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeLum_ticon.png",
+    "image": "/images/runewords/memory.png",
     "type": "Runeword",
     "runes": [
       "Lum",
@@ -2330,13 +2256,12 @@
         "Magic Damage Reduced By 7",
         "+50% Enhanced Defense"
       ]
-    },
-    "local_image": "images/runewords/memory.png"
+    }
   },
   {
     "id": "treachery",
     "name": "Treachery",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "image": "/images/runewords/treachery.png",
     "type": "Runeword",
     "runes": [
       "Shael",
@@ -2357,13 +2282,12 @@
         "Cold Resist +30%",
         "50% Extra Gold From Monsters"
       ]
-    },
-    "local_image": "images/runewords/treachery.png"
+    }
   },
   {
     "id": "obsession",
     "name": "Obsession",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeZod_ticon.png",
+    "image": "/images/runewords/obsession.png",
     "type": "Runeword",
     "runes": [
       "Zod",
@@ -2394,13 +2318,12 @@
         "30% Better Chance of Getting Magic Items",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/runewords/obsession.png"
+    }
   },
   {
     "id": "strength",
     "name": "Strength",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_ticon.png",
+    "image": "/images/runewords/strength.png",
     "type": "Runeword",
     "runes": [
       "Amn",
@@ -2419,13 +2342,12 @@
         "+20 To Strength",
         "+10 To Vitality"
       ]
-    },
-    "local_image": "images/runewords/strength.png"
+    }
   },
   {
     "id": "myth",
     "name": "Myth",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeHel_ticon.png",
+    "image": "/images/runewords/myth.png",
     "type": "Runeword",
     "runes": [
       "Hel",
@@ -2446,13 +2368,12 @@
         "Attacker Takes Damage of 14",
         "Requirements -15%"
       ]
-    },
-    "local_image": "images/runewords/myth.png"
+    }
   },
   {
     "id": "pride",
     "name": "Pride",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeCham_ticon.png",
+    "image": "/images/runewords/pride.png",
     "type": "Runeword",
     "runes": [
       "Cham",
@@ -2479,13 +2400,12 @@
         "1.875-185.625% Extra Gold From Monsters (Based on Character Level)",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/runewords/pride.png"
+    }
   },
   {
     "id": "phoenix",
     "name": "Phoenix",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeVex_ticon.png",
+    "image": "/images/runewords/phoenix.png",
     "type": "Runeword",
     "runes": [
       "Vex",
@@ -2521,13 +2441,12 @@
         "+10% To Maximum Fire Resist",
         "+15-21 Fire Absorb"
       ]
-    },
-    "local_image": "images/runewords/phoenix.png"
+    }
   },
   {
     "id": "rhyme",
     "name": "Rhyme",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_ticon.png",
+    "image": "/images/runewords/rhyme.png",
     "type": "Runeword",
     "runes": [
       "Shael",
@@ -2547,13 +2466,12 @@
         "50% Extra Gold From Monsters",
         "25% Better Chance Of Getting Magic Items"
       ]
-    },
-    "local_image": "images/runewords/rhyme.png"
+    }
   },
   {
     "id": "unbending-will",
     "name": "Unbending Will",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeFal_ticon.png",
+    "image": "/images/runewords/unbending-will.png",
     "type": "Runeword",
     "runes": [
       "Fal",
@@ -2586,13 +2504,12 @@
         "Requirements -20%",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/runewords/unbending-will.png"
+    }
   },
   {
     "id": "famine",
     "name": "Famine",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeFal_ticon.png",
+    "image": "/images/runewords/famine.png",
     "type": "Runeword",
     "runes": [
       "Fal",
@@ -2617,13 +2534,12 @@
         "Prevent Monster Heal",
         "+10 To Strength"
       ]
-    },
-    "local_image": "images/runewords/famine.png"
+    }
   },
   {
     "id": "splendor",
     "name": "Splendor",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeEth_ticon.png",
+    "image": "/images/runewords/splendor.png",
     "type": "Runeword",
     "runes": [
       "Eth",
@@ -2645,13 +2561,12 @@
         "20% Better Chance of Getting Magic Items",
         "+3 To Light Radius"
       ]
-    },
-    "local_image": "images/runewords/splendor.png"
+    }
   },
   {
     "id": "nadir",
     "name": "Nadir",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeNef_ticon.png",
+    "image": "/images/runewords/nadir.png",
     "type": "Runeword",
     "runes": [
       "Nef",
@@ -2672,13 +2587,12 @@
         "-33% Extra Gold From Monsters",
         "-3 To Light Radius"
       ]
-    },
-    "local_image": "images/runewords/nadir.png"
+    }
   },
   {
     "id": "lionheart",
     "name": "Lionheart",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeHel_ticon.png",
+    "image": "/images/runewords/lionheart.png",
     "type": "Runeword",
     "runes": [
       "Hel",
@@ -2700,13 +2614,12 @@
         "+50 To Life",
         "All Resistances +30"
       ]
-    },
-    "local_image": "images/runewords/lionheart.png"
+    }
   },
   {
     "id": "passion",
     "name": "Passion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeDol_ticon.png",
+    "image": "/images/runewords/passion.png",
     "type": "Runeword",
     "runes": [
       "Dol",
@@ -2733,13 +2646,12 @@
         "75% Extra Gold From Monsters",
         "Level 3 Heart of Wolverine (12 Charges)"
       ]
-    },
-    "local_image": "images/runewords/passion.png"
+    }
   },
   {
     "id": "steel",
     "name": "Steel",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTir_ticon.png",
+    "image": "/images/runewords/steel.png",
     "type": "Runeword",
     "runes": [
       "Tir",
@@ -2760,13 +2672,12 @@
         "+2 To Mana After Each Kill",
         "+1 To Light Radius"
       ]
-    },
-    "local_image": "images/runewords/steel.png"
+    }
   },
   {
     "id": "enlightenment",
     "name": "Enlightenment",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runePul_ticon.png",
+    "image": "/images/runewords/enlightenment.png",
     "type": "Runeword",
     "runes": [
       "Pul",
@@ -2787,13 +2698,12 @@
         "Fire Resist +30%",
         "Damage Reduced By 7"
       ]
-    },
-    "local_image": "images/runewords/enlightenment.png"
+    }
   },
   {
     "id": "prudence",
     "name": "Prudence",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeMal_ticon.png",
+    "image": "/images/runewords/prudence.png",
     "type": "Runeword",
     "runes": [
       "Mal",
@@ -2814,13 +2724,12 @@
         "+1 To Light Radius",
         "Repairs Durability 1 In 4 Seconds"
       ]
-    },
-    "local_image": "images/runewords/prudence.png"
+    }
   },
   {
     "id": "zephyr",
     "name": "Zephyr",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeOrt_ticon.png",
+    "image": "/images/runewords/zephyr.png",
     "type": "Runeword",
     "runes": [
       "Ort",
@@ -2841,13 +2750,12 @@
         "25% Increased Attack Speed",
         "7% Chance To Cast Level 1 Twister When Struck"
       ]
-    },
-    "local_image": "images/runewords/zephyr.png"
+    }
   },
   {
     "id": "kings-grace",
     "name": "King's Grace",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_ticon.png",
+    "image": "/images/runewords/kings-grace.png",
     "type": "Runeword",
     "runes": [
       "Amn",
@@ -2870,7 +2778,6 @@
         "+100 To Attack Rating Against Undead",
         "7% Life Stolen Per Hit"
       ]
-    },
-    "local_image": "images/runewords/kings-grace.png"
+    }
   }
 ]

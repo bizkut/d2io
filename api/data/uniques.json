@@ -2,7 +2,7 @@
   {
     "id": "the-grandfather",
     "name": "The Grandfather",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thepatriarch_graphic.png",
+    "image": "/images/uniques/the-grandfather.png",
     "type": "Elite Unique",
     "base_item": "Colossus Blade",
     "properties": {
@@ -24,13 +24,12 @@
         "+20 To All Attributes",
         "Indestructible"
       ]
-    },
-    "local_image": "images/uniques/the-grandfather.png"
+    }
   },
   {
     "id": "corpsemourn",
     "name": "Corpsemourn",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/corpsemourn_graphic.png",
+    "image": "/images/uniques/corpsemourn.png",
     "type": "Exceptional Unique",
     "base_item": "Ornate Plate",
     "properties": {
@@ -49,13 +48,12 @@
         "+10 To Vitality",
         "+8 To Strength"
       ]
-    },
-    "local_image": "images/uniques/corpsemourn.png"
+    }
   },
   {
     "id": "the-mahim-oak-curio",
     "name": "The Mahim-Oak Curio",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu3_graphic.png",
+    "image": "/images/uniques/the-mahim-oak-curio.png",
     "type": "Unique\nAmulet",
     "base_item": "",
     "properties": {
@@ -70,13 +68,12 @@
         "All Resistances +10",
         "+10 To All Attributes"
       ]
-    },
-    "local_image": "images/uniques/the-mahim-oak-curio.png"
+    }
   },
   {
     "id": "stormrider",
     "name": "Stormrider",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/stormrider_graphic.png",
+    "image": "/images/uniques/stormrider.png",
     "type": "Exceptional Unique",
     "base_item": "Tabar",
     "properties": {
@@ -99,13 +96,12 @@
         "Attacker Takes Lightning Damage Of 15",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/stormrider.png"
+    }
   },
   {
     "id": "bloodmoon",
     "name": "Bloodmoon",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/krintizskewer_graphic.png",
+    "image": "/images/uniques/bloodmoon.png",
     "type": "Elite Unique",
     "base_item": "Elegant Blade",
     "properties": {
@@ -127,13 +123,12 @@
         "Level 15 Blood Golem (9 charges)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/bloodmoon.png"
+    }
   },
   {
     "id": "hand-of-blessed-light",
     "name": "Hand of Blessed Light",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/warscepter_graphic.png",
+    "image": "/images/uniques/hand-of-blessed-light.png",
     "type": "Exceptional Unique",
     "base_item": "Divine Scepter",
     "properties": {
@@ -159,13 +154,12 @@
         "+4 Holy Bolt (Paladin Only)",
         "+4 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/hand-of-blessed-light.png"
+    }
   },
   {
     "id": "demon-limb",
     "name": "Demon Limb",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/stoutnail_graphic.png",
+    "image": "/images/uniques/demon-limb.png",
     "type": "Elite Unique",
     "base_item": "Tyrant Club",
     "properties": {
@@ -189,13 +183,12 @@
         "Repairs 1 Durability in 20 Seconds",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/demon-limb.png"
+    }
   },
   {
     "id": "messerschmidts-reaver",
     "name": "Messerschmidt's Reaver",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/brainhew_graphic.png",
+    "image": "/images/uniques/messerschmidts-reaver.png",
     "type": "Elite Unique",
     "base_item": "Champion Axe",
     "properties": {
@@ -216,13 +209,12 @@
         "100% Bonus To Attack Rating",
         "+15 To All Attributes"
       ]
-    },
-    "local_image": "images/uniques/messerschmidts-reaver.png"
+    }
   },
   {
     "id": "atmas-wail",
     "name": "Atma's Wail",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gothicplate_graphic.png",
+    "image": "/images/uniques/atmas-wail.png",
     "type": "Exceptional Unique",
     "base_item": "Embossed Plate",
     "properties": {
@@ -241,13 +233,12 @@
         "+15 To Dexterity",
         "+20% Better Chance Of Getting Magic Items"
       ]
-    },
-    "local_image": "images/uniques/atmas-wail.png"
+    }
   },
   {
     "id": "the-grim-reaper",
     "name": "The Grim Reaper",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/warscythe_graphic.png",
+    "image": "/images/uniques/the-grim-reaper.png",
     "type": "Normal Unique",
     "base_item": "War Scythe",
     "properties": {
@@ -268,13 +259,12 @@
         "5% Mana stolen per hit",
         "Prevent Monster Heal"
       ]
-    },
-    "local_image": "images/uniques/the-grim-reaper.png"
+    }
   },
   {
     "id": "wizardspike",
     "name": "Wizardspike",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/dagger_graphic.png",
+    "image": "/images/uniques/wizardspike.png",
     "type": "Elite Unique",
     "base_item": "Bone Knife",
     "properties": {
@@ -295,13 +285,12 @@
         "All Resistances +75",
         "Indestructible"
       ]
-    },
-    "local_image": "images/uniques/wizardspike.png"
+    }
   },
   {
     "id": "bladebone",
     "name": "Bladebone",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/doubleaxe_graphic.png",
+    "image": "/images/uniques/bladebone.png",
     "type": "Normal Unique",
     "base_item": "Double Axe",
     "properties": {
@@ -322,13 +311,12 @@
         "+40 to Attack Rating Against Undead",
         "+20 Defense"
       ]
-    },
-    "local_image": "images/uniques/bladebone.png"
+    }
   },
   {
     "id": "skin-of-the-flayed-one",
     "name": "Skin of the Flayed One",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flayedoneskin_graphic.png",
+    "image": "/images/uniques/skin-of-the-flayed-one.png",
     "type": "Exceptional Unique",
     "base_item": "Demonhide Armor",
     "properties": {
@@ -345,13 +333,12 @@
         "Replenish Life +15-25",
         "Attacker Takes Damage of 15"
       ]
-    },
-    "local_image": "images/uniques/skin-of-the-flayed-one.png"
+    }
   },
   {
     "id": "black-cleft",
     "name": "Black Cleft",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/blackcleft_graphic.png",
+    "image": "/images/uniques/black-cleft.png",
     "type": "Elite Unique\nGrand Charm",
     "base_item": "",
     "properties": {
@@ -363,13 +350,12 @@
         "Magic resist -(45-65)%",
         "Patch 2.5 or later"
       ]
-    },
-    "local_image": "images/uniques/black-cleft.png"
+    }
   },
   {
     "id": "tarnhelm",
     "name": "Tarnhelm",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/tarnhelm_graphic.png",
+    "image": "/images/uniques/tarnhelm.png",
     "type": "Normal Unique",
     "base_item": "Skull Cap",
     "properties": {
@@ -384,13 +370,12 @@
         "25-50% Better Chance of Getting Magic Items",
         "75% Extra Gold From Monsters"
       ]
-    },
-    "local_image": "images/uniques/tarnhelm.png"
+    }
   },
   {
     "id": "the-rising-sun",
     "name": "The Rising Sun",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu3_graphic.png",
+    "image": "/images/uniques/the-rising-sun.png",
     "type": "Unique\nAmulet",
     "base_item": "",
     "properties": {
@@ -407,13 +392,12 @@
         "+4 To Light Radius",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/the-rising-sun.png"
+    }
   },
   {
     "id": "harlequin-crest",
     "name": "Harlequin Crest",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/harlequincrest_graphic.png",
+    "image": "/images/uniques/harlequin-crest.png",
     "type": "Elite Unique",
     "base_item": "Shako",
     "properties": {
@@ -431,13 +415,12 @@
         "50% Better Chance of Getting Magic Items",
         "+2 To All Attributes"
       ]
-    },
-    "local_image": "images/uniques/harlequin-crest.png"
+    }
   },
   {
     "id": "rixots-keen",
     "name": "Rixot's Keen",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/rixotskeen_graphic.png",
+    "image": "/images/uniques/rixots-keen.png",
     "type": "Normal Unique",
     "base_item": "Short Sword",
     "properties": {
@@ -457,13 +440,12 @@
         "+25 Defense",
         "+2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/rixots-keen.png"
+    }
   },
   {
     "id": "the-face-of-horror",
     "name": "The Face of Horror",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mask_graphic.png",
+    "image": "/images/uniques/the-face-of-horror.png",
     "type": "Normal Unique",
     "base_item": "Mask",
     "properties": {
@@ -480,13 +462,12 @@
         "All Resistances +10",
         "+20 To Strength"
       ]
-    },
-    "local_image": "images/uniques/the-face-of-horror.png"
+    }
   },
   {
     "id": "veil-of-steel",
     "name": "Veil of Steel",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/veilofsteel_graphic.png",
+    "image": "/images/uniques/veil-of-steel.png",
     "type": "Elite Unique",
     "base_item": "Spired Helm",
     "properties": {
@@ -504,13 +485,12 @@
         "+15 To Vitality",
         "-4 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/veil-of-steel.png"
+    }
   },
   {
     "id": "carrion-wind",
     "name": "Carrion Wind",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ring3_graphic.png",
+    "image": "/images/uniques/carrion-wind.png",
     "type": "Unique\nRing",
     "base_item": "",
     "properties": {
@@ -528,13 +508,12 @@
         "Level 21 Poison Creeper (15 Charges)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/carrion-wind.png"
+    }
   },
   {
     "id": "ribcracker",
     "name": "Ribcracker",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ribcracker_graphic.png",
+    "image": "/images/uniques/ribcracker.png",
     "type": "Exceptional Unique",
     "base_item": "Quarterstaff",
     "properties": {
@@ -558,13 +537,12 @@
         "+100 Defense",
         "+15 To Dexterity"
       ]
-    },
-    "local_image": "images/uniques/ribcracker.png"
+    }
   },
   {
     "id": "steel-carapace",
     "name": "Steel Carapace",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/steelcarapace_graphic.png",
+    "image": "/images/uniques/steel-carapace.png",
     "type": "Elite Unique",
     "base_item": "Shadow Plate",
     "properties": {
@@ -584,13 +562,12 @@
         "8% Chance To Cast Level 6 Iron Maiden When Struck",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/steel-carapace.png"
+    }
   },
   {
     "id": "stormshield",
     "name": "Stormshield",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/steelclash_graphic.png",
+    "image": "/images/uniques/stormshield.png",
     "type": "Elite Unique",
     "base_item": "Monarch",
     "properties": {
@@ -614,13 +591,12 @@
         "Attacker Takes Lightning Damage of 10",
         "Indestructible"
       ]
-    },
-    "local_image": "images/uniques/stormshield.png"
+    }
   },
   {
     "id": "witchwild-string",
     "name": "Witchwild String",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/whichwildstring_graphic.png",
+    "image": "/images/uniques/witchwild-string.png",
     "type": "Exceptional Unique",
     "base_item": "Short Siege Bow",
     "properties": {
@@ -642,13 +618,12 @@
         "Socketed (2)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/witchwild-string.png"
+    }
   },
   {
     "id": "wolfhowl",
     "name": "Wolfhowl",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/fangedhelm_graphic.png",
+    "image": "/images/uniques/wolfhowl.png",
     "type": "Elite Unique",
     "base_item": "Fury Visor",
     "properties": {
@@ -671,13 +646,12 @@
         "Patch 1.10 or later",
         "Barbarian equip only"
       ]
-    },
-    "local_image": "images/uniques/wolfhowl.png"
+    }
   },
   {
     "id": "the-reapers-toll",
     "name": "The Reaper's Toll",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/scythe_graphic.png",
+    "image": "/images/uniques/the-reapers-toll.png",
     "type": "Elite Unique",
     "base_item": "Thresher",
     "properties": {
@@ -701,13 +675,12 @@
         "Requirements -25%",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/the-reapers-toll.png"
+    }
   },
   {
     "id": "visceratuant",
     "name": "Visceratuant",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/peltalunata_graphic.png",
+    "image": "/images/uniques/visceratuant.png",
     "type": "Exceptional Unique",
     "base_item": "Defender",
     "properties": {
@@ -728,13 +701,12 @@
         "+1 To Sorceress Skill Levels",
         "Attacker Takes Lightning Damage of 10"
       ]
-    },
-    "local_image": "images/uniques/visceratuant.png"
+    }
   },
   {
     "id": "umes-lament",
     "name": "Ume's Lament",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/grimwand_graphic.png",
+    "image": "/images/uniques/umes-lament.png",
     "type": "Normal Unique",
     "base_item": "Grim Wand",
     "properties": {
@@ -755,13 +727,12 @@
         "+2 To Decrepify (Necromancer Only)",
         "+3 To Terror (Necromancer Only)"
       ]
-    },
-    "local_image": "images/uniques/umes-lament.png"
+    }
   },
   {
     "id": "hellrack",
     "name": "Hellrack",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hellrack_graphic.png",
+    "image": "/images/uniques/hellrack.png",
     "type": "Elite Unique",
     "base_item": "Colossus Crossbow",
     "properties": {
@@ -785,13 +756,12 @@
         "Socketed (2)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/hellrack.png"
+    }
   },
   {
     "id": "rune-master",
     "name": "Rune Master",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/doubleaxe_graphic.png",
+    "image": "/images/uniques/rune-master.png",
     "type": "Elite Unique",
     "base_item": "Ettin Axe",
     "properties": {
@@ -812,13 +782,12 @@
         "Socketed (3-5)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/rune-master.png"
+    }
   },
   {
     "id": "blackhorns-face",
     "name": "Blackhorn's Face",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mask_graphic.png",
+    "image": "/images/uniques/blackhorns-face.png",
     "type": "Exceptional Unique",
     "base_item": "Death Mask",
     "properties": {
@@ -836,13 +805,12 @@
         "+20 Lightning Absorb",
         "Lightning Resist +15%"
       ]
-    },
-    "local_image": "images/uniques/blackhorns-face.png"
+    }
   },
   {
     "id": "tomb-reaver",
     "name": "Tomb Reaver",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/poleaxe_graphic.png",
+    "image": "/images/uniques/tomb-reaver.png",
     "type": "Elite Unique",
     "base_item": "Cryptic Axe",
     "properties": {
@@ -869,13 +837,12 @@
         "Socketed (1-3)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/tomb-reaver.png"
+    }
   },
   {
     "id": "blood-ravens-charge",
     "name": "Blood Raven's Charge",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodravenscharge_graphic.png",
+    "image": "/images/uniques/blood-ravens-charge.png",
     "type": "Elite Unique",
     "base_item": "Matriarchal Bow",
     "properties": {
@@ -897,13 +864,12 @@
         "Patch 1.10 or later",
         "Amazon equip only"
       ]
-    },
-    "local_image": "images/uniques/blood-ravens-charge.png"
+    }
   },
   {
     "id": "death-cleaver",
     "name": "Death Cleaver",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/waraxe_graphic.png",
+    "image": "/images/uniques/death-cleaver.png",
     "type": "Elite Unique",
     "base_item": "Berserker Axe",
     "properties": {
@@ -925,13 +891,12 @@
         "+6-9 Life After Each Kill",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/death-cleaver.png"
+    }
   },
   {
     "id": "boneflame",
     "name": "Boneflame",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gargoylehead_graphic.png",
+    "image": "/images/uniques/boneflame.png",
     "type": "Elite Unique",
     "base_item": "Succubus Skull",
     "properties": {
@@ -951,13 +916,12 @@
         "Patch 1.10 or later",
         "Necromancer equip only"
       ]
-    },
-    "local_image": "images/uniques/boneflame.png"
+    }
   },
   {
     "id": "twitchthroe",
     "name": "Twitchthroe",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/twitchthroe_graphic.png",
+    "image": "/images/uniques/twitchthroe.png",
     "type": "Normal Unique",
     "base_item": "Studded Leather",
     "properties": {
@@ -975,13 +939,12 @@
         "+10 To Dexterity",
         "+10 To Strength"
       ]
-    },
-    "local_image": "images/uniques/twitchthroe.png"
+    }
   },
   {
     "id": "buriza-do-kyanon",
     "name": "Buriza-Do Kyanon",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hellcast_graphic.png",
+    "image": "/images/uniques/buriza-do-kyanon.png",
     "type": "Exceptional Unique",
     "base_item": "Ballista",
     "properties": {
@@ -1004,13 +967,12 @@
         "+35 to Dexterity",
         "80% Increased Attack Speed"
       ]
-    },
-    "local_image": "images/uniques/buriza-do-kyanon.png"
+    }
   },
   {
     "id": "rusthandle",
     "name": "Rusthandle",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/grandscepter_graphic.png",
+    "image": "/images/uniques/rusthandle.png",
     "type": "Normal Unique",
     "base_item": "Grand Scepter",
     "properties": {
@@ -1033,13 +995,12 @@
         "+3 To Thorns (Paladin Only)",
         "+1-3 To Vengeance (Paladin Only)"
       ]
-    },
-    "local_image": "images/uniques/rusthandle.png"
+    }
   },
   {
     "id": "andariels-visage",
     "name": "Andariel's Visage",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mask_graphic.png",
+    "image": "/images/uniques/andariels-visage.png",
     "type": "Elite Unique",
     "base_item": "Demonhead",
     "properties": {
@@ -1062,13 +1023,12 @@
         "Level 3 Venom (20 charges)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/andariels-visage.png"
+    }
   },
   {
     "id": "azurewrath",
     "name": "Azurewrath",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/azurewrath_graphic.png",
+    "image": "/images/uniques/azurewrath.png",
     "type": "Elite Unique",
     "base_item": "Phase Blade",
     "properties": {
@@ -1092,13 +1052,12 @@
         "+3 To Light Radius",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/azurewrath.png"
+    }
   },
   {
     "id": "alma-negra",
     "name": "Alma Negra",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/rondache_graphic.png",
+    "image": "/images/uniques/alma-negra.png",
     "type": "Elite Unique",
     "base_item": "Sacred Rondache",
     "properties": {
@@ -1121,13 +1080,12 @@
         "Patch 1.10 or later",
         "Paladin equip only"
       ]
-    },
-    "local_image": "images/uniques/alma-negra.png"
+    }
   },
   {
     "id": "the-vile-husk",
     "name": "The Vile Husk",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/kinemilsawl_graphic.png",
+    "image": "/images/uniques/the-vile-husk.png",
     "type": "Exceptional Unique",
     "base_item": "Tusk Sword",
     "properties": {
@@ -1150,13 +1108,12 @@
         "6% Chance To Cast Level 1 Amplify Damage On Striking",
         "Poison Resist +50%"
       ]
-    },
-    "local_image": "images/uniques/the-vile-husk.png"
+    }
   },
   {
     "id": "skullders-ire",
     "name": "Skullder's Ire",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/splintmail_graphic.png",
+    "image": "/images/uniques/skullders-ire.png",
     "type": "Exceptional Unique",
     "base_item": "Russet Armor",
     "properties": {
@@ -1173,13 +1130,12 @@
         "Magic Damage Reduced By 10",
         "Repairs 1 Durability In 5 Seconds"
       ]
-    },
-    "local_image": "images/uniques/skullders-ire.png"
+    }
   },
   {
     "id": "raven-frost",
     "name": "Raven Frost",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ring3_graphic.png",
+    "image": "/images/uniques/raven-frost.png",
     "type": "Unique\nRing",
     "base_item": "",
     "properties": {
@@ -1195,13 +1151,12 @@
         "+40 To Mana",
         "Cold Absorb 20%"
       ]
-    },
-    "local_image": "images/uniques/raven-frost.png"
+    }
   },
   {
     "id": "kiras-guardian",
     "name": "Kira's Guardian",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/tiara_graphic.png",
+    "image": "/images/uniques/kiras-guardian.png",
     "type": "Exceptional Unique",
     "base_item": "Tiara",
     "properties": {
@@ -1217,13 +1172,12 @@
         "All Resistances +50-70",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/kiras-guardian.png"
+    }
   },
   {
     "id": "hellfire-torch",
     "name": "Hellfire Torch",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hellfiretorch_graphic.png",
+    "image": "/images/uniques/hellfire-torch.png",
     "type": "Normal Unique\nLarge Charm",
     "base_item": "",
     "properties": {
@@ -1239,13 +1193,12 @@
         "Level 30 Hydra (10 charges)",
         "Patch 1.13 or later"
       ]
-    },
-    "local_image": "images/uniques/hellfire-torch.png"
+    }
   },
   {
     "id": "pus-spitter",
     "name": "Pus Spitter",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/pusspitter_graphic.png",
+    "image": "/images/uniques/pus-spitter.png",
     "type": "Exceptional Unique",
     "base_item": "Siege Crossbow",
     "properties": {
@@ -1268,13 +1221,12 @@
         "10% Increased Attack Speed",
         "+2 To Necromancer Skill Levels"
       ]
-    },
-    "local_image": "images/uniques/pus-spitter.png"
+    }
   },
   {
     "id": "goldstrike-arch",
     "name": "Goldstrike Arch",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/goldstrikearch_graphic.png",
+    "image": "/images/uniques/goldstrike-arch.png",
     "type": "Exceptional Unique",
     "base_item": "Gothic Bow",
     "properties": {
@@ -1296,13 +1248,12 @@
         "Replenish Life +12",
         "+100-150% Bonus To Attack Rating"
       ]
-    },
-    "local_image": "images/uniques/goldstrike-arch.png"
+    }
   },
   {
     "id": "ghostflame",
     "name": "Ghostflame",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ghostflame_graphic.png",
+    "image": "/images/uniques/ghostflame.png",
     "type": "Elite Unique",
     "base_item": "Legend Spike",
     "properties": {
@@ -1325,13 +1276,12 @@
         "Ethereal (Cannot Be Repaired)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/ghostflame.png"
+    }
   },
   {
     "id": "nagelring",
     "name": "Nagelring",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ring1_graphic.png",
+    "image": "/images/uniques/nagelring.png",
     "type": "Unique\nRing",
     "base_item": "",
     "properties": {
@@ -1345,13 +1295,12 @@
         "Attacker Takes Damage of 3",
         "15-30% Better Chance of Getting Magic Items"
       ]
-    },
-    "local_image": "images/uniques/nagelring.png"
+    }
   },
   {
     "id": "skewer-of-krintiz",
     "name": "Skewer of Krintiz",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/angelicsickle_graphic.png",
+    "image": "/images/uniques/skewer-of-krintiz.png",
     "type": "Normal Unique",
     "base_item": "Sabre",
     "properties": {
@@ -1373,13 +1322,12 @@
         "+10 To Dexterity",
         "+10 To Strength"
       ]
-    },
-    "local_image": "images/uniques/skewer-of-krintiz.png"
+    }
   },
   {
     "id": "umbral-disk",
     "name": "Umbral Disk",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/umbraldisk_graphic.png",
+    "image": "/images/uniques/umbral-disk.png",
     "type": "Normal Unique",
     "base_item": "Small Shield",
     "properties": {
@@ -1403,13 +1351,12 @@
         "-2 To Light Radius",
         "+10-15 Durability"
       ]
-    },
-    "local_image": "images/uniques/umbral-disk.png"
+    }
   },
   {
     "id": "lance-guard",
     "name": "Lance Guard",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lanceguard_graphic.png",
+    "image": "/images/uniques/lance-guard.png",
     "type": "Exceptional Unique",
     "base_item": "Barbed Shield",
     "properties": {
@@ -1431,13 +1378,12 @@
         "+50 To Life",
         "Attacker Takes Damage of 47"
       ]
-    },
-    "local_image": "images/uniques/lance-guard.png"
+    }
   },
   {
     "id": "homunculus",
     "name": "Homunculus",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/demonhead_graphic.png",
+    "image": "/images/uniques/homunculus.png",
     "type": "Exceptional Unique",
     "base_item": "Hierophant Trophy",
     "properties": {
@@ -1460,13 +1406,12 @@
         "+2 To Curses Skills (Necromancer Only)",
         "Necromancer equip only"
       ]
-    },
-    "local_image": "images/uniques/homunculus.png"
+    }
   },
   {
     "id": "ormus-robes",
     "name": "Ormus' Robes",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ormusrobes_graphic.png",
+    "image": "/images/uniques/ormus-robes.png",
     "type": "Elite Unique",
     "base_item": "Dusk Shroud",
     "properties": {
@@ -1486,13 +1431,12 @@
         "Regenerate Mana 10-15%",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/ormus-robes.png"
+    }
   },
   {
     "id": "demon-machine",
     "name": "Demon Machine",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/demonmachine_graphic.png",
+    "image": "/images/uniques/demon-machine.png",
     "type": "Exceptional Unique",
     "base_item": "Chu-Ko-Nu",
     "properties": {
@@ -1515,13 +1459,12 @@
         "+36 To Mana",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/demon-machine.png"
+    }
   },
   {
     "id": "hellcast",
     "name": "Hellcast",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hellcast_graphic.png",
+    "image": "/images/uniques/hellcast.png",
     "type": "Normal Unique",
     "base_item": "Heavy Crossbow",
     "properties": {
@@ -1544,13 +1487,12 @@
         "Fire Resist +15%",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/hellcast.png"
+    }
   },
   {
     "id": "the-oculus",
     "name": "The Oculus",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/dragonstone_graphic.png",
+    "image": "/images/uniques/the-oculus.png",
     "type": "Exceptional Unique",
     "base_item": "Swirling Crystal",
     "properties": {
@@ -1574,13 +1516,12 @@
         "50% Better Chance Of Getting Magic Items",
         "Sorceress equip only"
       ]
-    },
-    "local_image": "images/uniques/the-oculus.png"
+    }
   },
   {
     "id": "blackleach-blade",
     "name": "Blackleach Blade",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/voulge_graphic.png",
+    "image": "/images/uniques/blackleach-blade.png",
     "type": "Exceptional Unique",
     "base_item": "Bill",
     "properties": {
@@ -1601,13 +1542,12 @@
         "-2 To Light Radius",
         "8% Life Stolen Per Hit"
       ]
-    },
-    "local_image": "images/uniques/blackleach-blade.png"
+    }
   },
   {
     "id": "blade-of-ali-baba",
     "name": "Blade Of Ali Baba",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bladeofalibaba_graphic.png",
+    "image": "/images/uniques/blade-of-ali-baba.png",
     "type": "Exceptional Unique",
     "base_item": "Tulwar",
     "properties": {
@@ -1629,13 +1569,12 @@
         "+5-15 To Dexterity",
         "Socketed (2)"
       ]
-    },
-    "local_image": "images/uniques/blade-of-ali-baba.png"
+    }
   },
   {
     "id": "griffons-eye",
     "name": "Griffon's Eye",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/diadem_graphic.png",
+    "image": "/images/uniques/griffons-eye.png",
     "type": "Elite Unique",
     "base_item": "Diadem",
     "properties": {
@@ -1652,13 +1591,12 @@
         "+10-15% To Lightning Skill Damage",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/griffons-eye.png"
+    }
   },
   {
     "id": "kuko-shakaku",
     "name": "Kuko Shakaku",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/kukoshakaku_graphic.png",
+    "image": "/images/uniques/kuko-shakaku.png",
     "type": "Exceptional Unique",
     "base_item": "Cedar Bow",
     "properties": {
@@ -1680,13 +1618,12 @@
         "+3 To Bow And Crossbow Skills (Amazon Only)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/kuko-shakaku.png"
+    }
   },
   {
     "id": "skystrike",
     "name": "Skystrike",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/shortbow_graphic.png",
+    "image": "/images/uniques/skystrike.png",
     "type": "Exceptional Unique",
     "base_item": "Edge Bow",
     "properties": {
@@ -1708,13 +1645,12 @@
         "+1 To Amazon Skill Levels",
         "+10 to Energy"
       ]
-    },
-    "local_image": "images/uniques/skystrike.png"
+    }
   },
   {
     "id": "the-impaler",
     "name": "The Impaler",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/impaler_graphic.png",
+    "image": "/images/uniques/the-impaler.png",
     "type": "Exceptional Unique",
     "base_item": "War Spear",
     "properties": {
@@ -1738,13 +1674,12 @@
         "+5 To Impale (Amazon Only)",
         "+3 To Power Strike (Amazon Only)"
       ]
-    },
-    "local_image": "images/uniques/the-impaler.png"
+    }
   },
   {
     "id": "kelpie-snare",
     "name": "Kelpie Snare",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/razortine_graphic.png",
+    "image": "/images/uniques/kelpie-snare.png",
     "type": "Exceptional Unique",
     "base_item": "Fuscina",
     "properties": {
@@ -1766,13 +1701,12 @@
         "Fire Resist +50%",
         "+10 To Strength"
       ]
-    },
-    "local_image": "images/uniques/kelpie-snare.png"
+    }
   },
   {
     "id": "carin-shard",
     "name": "Carin Shard",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/maelstromwrath_graphic.png",
+    "image": "/images/uniques/carin-shard.png",
     "type": "Exceptional Unique",
     "base_item": "Petrified Wand",
     "properties": {
@@ -1795,13 +1729,12 @@
         "30% Faster Hit Recovery",
         "Replenish Life +5"
       ]
-    },
-    "local_image": "images/uniques/carin-shard.png"
+    }
   },
   {
     "id": "langer-briser",
     "name": "Langer Briser",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/langerbriser_graphic.png",
+    "image": "/images/uniques/langer-briser.png",
     "type": "Exceptional Unique",
     "base_item": "Arbalest",
     "properties": {
@@ -1823,13 +1756,12 @@
         "Knockback",
         "30-60% Better Chance Of Getting Magic Items"
       ]
-    },
-    "local_image": "images/uniques/langer-briser.png"
+    }
   },
   {
     "id": "pelta-lunata",
     "name": "Pelta Lunata",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/peltalunata_graphic.png",
+    "image": "/images/uniques/pelta-lunata.png",
     "type": "Normal Unique",
     "base_item": "Buckler",
     "properties": {
@@ -1852,13 +1784,12 @@
         "+10 To Vitality",
         "+2 To Strength"
       ]
-    },
-    "local_image": "images/uniques/pelta-lunata.png"
+    }
   },
   {
     "id": "todesfaelle-flamme",
     "name": "Todesfaelle Flamme",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/todesfaelleflamme_graphic.png",
+    "image": "/images/uniques/todesfaelle-flamme.png",
     "type": "Exceptional Unique",
     "base_item": "Zweihander",
     "properties": {
@@ -1882,13 +1813,12 @@
         "+10 Fire Absorb",
         "Fire Resist +40%"
       ]
-    },
-    "local_image": "images/uniques/todesfaelle-flamme.png"
+    }
   },
   {
     "id": "the-jade-tan-do",
     "name": "The Jade Tan Do",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thejadetando_graphic.png",
+    "image": "/images/uniques/the-jade-tan-do.png",
     "type": "Normal Unique",
     "base_item": "Kris",
     "properties": {
@@ -1908,13 +1838,12 @@
         "+20% To Maximum Poison Resist",
         "Cannot Be Frozen"
       ]
-    },
-    "local_image": "images/uniques/the-jade-tan-do.png"
+    }
   },
   {
     "id": "hexfire",
     "name": "Hexfire",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/krintizskewer_graphic.png",
+    "image": "/images/uniques/hexfire.png",
     "type": "Exceptional Unique",
     "base_item": "Shamshir",
     "properties": {
@@ -1937,13 +1866,12 @@
         "Fire Resist +25%",
         "10% To Maximum Fire Resist"
       ]
-    },
-    "local_image": "images/uniques/hexfire.png"
+    }
   },
   {
     "id": "the-stone-of-jordan",
     "name": "The Stone of Jordan",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ring3_graphic.png",
+    "image": "/images/uniques/the-stone-of-jordan.png",
     "type": "Unique\nRing",
     "base_item": "",
     "properties": {
@@ -1957,13 +1885,12 @@
         "Adds 1-12 Lightning Damage",
         "+20 To Mana"
       ]
-    },
-    "local_image": "images/uniques/the-stone-of-jordan.png"
+    }
   },
   {
     "id": "hone-sundan",
     "name": "Hone Sundan",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lanceofyaggai_graphic.png",
+    "image": "/images/uniques/hone-sundan.png",
     "type": "Exceptional Unique",
     "base_item": "Yari",
     "properties": {
@@ -1983,13 +1910,12 @@
         "Repairs 1 Durability In 10 Seconds",
         "Socketed (3)"
       ]
-    },
-    "local_image": "images/uniques/hone-sundan.png"
+    }
   },
   {
     "id": "husoldal-evo",
     "name": "Husoldal Evo",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/halberd_graphic.png",
+    "image": "/images/uniques/husoldal-evo.png",
     "type": "Exceptional Unique",
     "base_item": "Bec-De-Corbin",
     "properties": {
@@ -2011,13 +1937,12 @@
         "Prevent Monster Heal",
         "Replenish Life +20"
       ]
-    },
-    "local_image": "images/uniques/husoldal-evo.png"
+    }
   },
   {
     "id": "seraphs-hymn",
     "name": "Seraph's Hymn",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_graphic.png",
+    "image": "/images/uniques/seraphs-hymn.png",
     "type": "Normal Unique\nAmulet",
     "base_item": "",
     "properties": {
@@ -2034,13 +1959,12 @@
         "+2 To Light Radius",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/seraphs-hymn.png"
+    }
   },
   {
     "id": "the-centurion",
     "name": "The Centurion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thecenturion_graphic.png",
+    "image": "/images/uniques/the-centurion.png",
     "type": "Normal Unique",
     "base_item": "Hard Leather Armor",
     "properties": {
@@ -2060,13 +1984,12 @@
         "25% Slow Stamina Drain",
         "Damage Reduced By 2"
       ]
-    },
-    "local_image": "images/uniques/the-centurion.png"
+    }
   },
   {
     "id": "tyraels-might",
     "name": "Tyrael's Might",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/milabregasrobe_graphic.png",
+    "image": "/images/uniques/tyraels-might.png",
     "type": "Elite Unique",
     "base_item": "Sacred Armor",
     "properties": {
@@ -2086,13 +2009,12 @@
         "Indestructible",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/tyraels-might.png"
+    }
   },
   {
     "id": "darkforce-spawn",
     "name": "Darkforce Spawn",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/demonhead_graphic.png",
+    "image": "/images/uniques/darkforce-spawn.png",
     "type": "Elite Unique",
     "base_item": "Bloodlord Skull",
     "properties": {
@@ -2113,13 +2035,12 @@
         "Patch 1.10 or later",
         "Necromancer equip only"
       ]
-    },
-    "local_image": "images/uniques/darkforce-spawn.png"
+    }
   },
   {
     "id": "herald-of-zakarum",
     "name": "Herald Of Zakarum",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/aerinshield_graphic.png",
+    "image": "/images/uniques/herald-of-zakarum.png",
     "type": "Exceptional Unique",
     "base_item": "Gilded Shield",
     "properties": {
@@ -2143,13 +2064,12 @@
         "+2 To Combat Skills (Paladin Only)",
         "Paladin equip only"
       ]
-    },
-    "local_image": "images/uniques/herald-of-zakarum.png"
+    }
   },
   {
     "id": "pierre-tombale-couant",
     "name": "Pierre Tombale Couant",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/poleaxe_graphic.png",
+    "image": "/images/uniques/pierre-tombale-couant.png",
     "type": "Exceptional Unique",
     "base_item": "Partizan",
     "properties": {
@@ -2172,13 +2092,12 @@
         "6% Mana Stolen Per Hit",
         "30% Faster Hit Recovery"
       ]
-    },
-    "local_image": "images/uniques/pierre-tombale-couant.png"
+    }
   },
   {
     "id": "duriels-shell",
     "name": "Duriel's Shell",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/durielsshell_graphic.png",
+    "image": "/images/uniques/duriels-shell.png",
     "type": "Exceptional Unique",
     "base_item": "Cuirass",
     "properties": {
@@ -2199,13 +2118,12 @@
         "Cannot Be Frozen",
         "+15 To Strength"
       ]
-    },
-    "local_image": "images/uniques/duriels-shell.png"
+    }
   },
   {
     "id": "venom-ward",
     "name": "Venom Ward",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/venomsward_graphic.png",
+    "image": "/images/uniques/venom-ward.png",
     "type": "Normal Unique",
     "base_item": "Breast Plate",
     "properties": {
@@ -2222,13 +2140,12 @@
         "Poison Resist +90%",
         "Poison Length Reduced By 50%"
       ]
-    },
-    "local_image": "images/uniques/venom-ward.png"
+    }
   },
   {
     "id": "viperfork",
     "name": "Viperfork",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/viperfork_graphic.png",
+    "image": "/images/uniques/viperfork.png",
     "type": "Elite Unique",
     "base_item": "Mancatcher",
     "properties": {
@@ -2251,13 +2168,12 @@
         "15% Chance To Cast Level 9 Poison Explosion On Striking",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/viperfork.png"
+    }
   },
   {
     "id": "darksight-helm",
     "name": "Darksight Helm",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/darksighthelm_graphic.png",
+    "image": "/images/uniques/darksight-helm.png",
     "type": "Exceptional Unique",
     "base_item": "Basinet",
     "properties": {
@@ -2276,13 +2192,12 @@
         "5% Mana Stolen Per Hit",
         "-4 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/darksight-helm.png"
+    }
   },
   {
     "id": "rainbow-facet-poison-death",
     "name": "Rainbow Facet: Poison Death",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/jewel04_graphic.png",
+    "image": "/images/uniques/rainbow-facet-poison-death.png",
     "type": "Normal Unique\nJewel",
     "base_item": "",
     "properties": {
@@ -2296,13 +2211,12 @@
         "-(3-5)% To Enemy Poison Resistance",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/rainbow-facet-poison-death.png"
+    }
   },
   {
     "id": "bloodtree-stump",
     "name": "Bloodtree Stump",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/maul_graphic.png",
+    "image": "/images/uniques/bloodtree-stump.png",
     "type": "Exceptional Unique",
     "base_item": "War Club",
     "properties": {
@@ -2324,13 +2238,12 @@
         "+2 To Masteries (Barbarian Only)",
         "+3 To Mace Masteries (Barbarian Only)"
       ]
-    },
-    "local_image": "images/uniques/bloodtree-stump.png"
+    }
   },
   {
     "id": "bone-break",
     "name": "Bone Break",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bonebreakcharm_graphic.png",
+    "image": "/images/uniques/bone-break.png",
     "type": "Elite Unique\nGrand Charm",
     "base_item": "",
     "properties": {
@@ -2342,13 +2255,12 @@
         "Physical Damage Received Increased by -(10-20)%",
         "Patch 2.5 or later"
       ]
-    },
-    "local_image": "images/uniques/bone-break.png"
+    }
   },
   {
     "id": "skull-collector",
     "name": "Skull Collector",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/skullcollector_graphic.png",
+    "image": "/images/uniques/skull-collector.png",
     "type": "Exceptional Unique",
     "base_item": "Rune Staff",
     "properties": {
@@ -2368,13 +2280,12 @@
         "+ (1 Per Character Level) 1-99% Better Chance Of Getting Magic Items (Based On Character Level)",
         "+2 To All Skills"
       ]
-    },
-    "local_image": "images/uniques/skull-collector.png"
+    }
   },
   {
     "id": "blood-crescent",
     "name": "Blood Crescent",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodcrescent_graphic.png",
+    "image": "/images/uniques/blood-crescent.png",
     "type": "Normal Unique",
     "base_item": "Scimitar",
     "properties": {
@@ -2396,13 +2307,12 @@
         "+15 To Life",
         "+4 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/blood-crescent.png"
+    }
   },
   {
     "id": "jalals-mane",
     "name": "Jalal's Mane",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/spiritmask_graphic.png",
+    "image": "/images/uniques/jalals-mane.png",
     "type": "Exceptional Unique",
     "base_item": "Totemic Mask",
     "properties": {
@@ -2424,13 +2334,12 @@
         "+2 To Shape Shifting Skills (Druid Only)",
         "Druid equip only"
       ]
-    },
-    "local_image": "images/uniques/jalals-mane.png"
+    }
   },
   {
     "id": "boneshade",
     "name": "Boneshade",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gravenspine_graphic.png",
+    "image": "/images/uniques/boneshade.png",
     "type": "Elite Unique",
     "base_item": "Lich Wand",
     "properties": {
@@ -2454,13 +2363,12 @@
         "+25% Faster Cast Rate",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/boneshade.png"
+    }
   },
   {
     "id": "windforce",
     "name": "Windforce",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/windforce_graphic.png",
+    "image": "/images/uniques/windforce.png",
     "type": "Elite Unique",
     "base_item": "Hydra Bow",
     "properties": {
@@ -2483,13 +2391,12 @@
         "+5 To Dexterity",
         "Knockback"
       ]
-    },
-    "local_image": "images/uniques/windforce.png"
+    }
   },
   {
     "id": "demonhorns-edge",
     "name": "Demonhorn's Edge",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hornedhelm_graphic.png",
+    "image": "/images/uniques/demonhorns-edge.png",
     "type": "Elite Unique",
     "base_item": "Destroyer Helm",
     "properties": {
@@ -2510,13 +2417,12 @@
         "Patch 1.10 or later",
         "Barbarian equip only"
       ]
-    },
-    "local_image": "images/uniques/demonhorns-edge.png"
+    }
   },
   {
     "id": "the-cranium-basher",
     "name": "The Cranium Basher",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/steeldriver_graphic.png",
+    "image": "/images/uniques/the-cranium-basher.png",
     "type": "Elite Unique",
     "base_item": "Thunder Maul",
     "properties": {
@@ -2540,13 +2446,12 @@
         "+20 To Maximum Damage (not shown)",
         "Indestructible"
       ]
-    },
-    "local_image": "images/uniques/the-cranium-basher.png"
+    }
   },
   {
     "id": "snowclash",
     "name": "Snowclash",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/heavybelt_graphic.png",
+    "image": "/images/uniques/snowclash.png",
     "type": "Exceptional Unique",
     "base_item": "Battle Belt",
     "properties": {
@@ -2568,13 +2473,12 @@
         "+3 To Glacial Spike (Sorceress Only)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/snowclash.png"
+    }
   },
   {
     "id": "headstriker",
     "name": "Headstriker",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/headstriker_graphic.png",
+    "image": "/images/uniques/headstriker.png",
     "type": "Exceptional Unique",
     "base_item": "Battle Sword",
     "properties": {
@@ -2595,13 +2499,12 @@
         "Prevent Monster Heal",
         "+15 To Strength"
       ]
-    },
-    "local_image": "images/uniques/headstriker.png"
+    }
   },
   {
     "id": "arachnid-mesh",
     "name": "Arachnid Mesh",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/arachnidmesh_graphic.png",
+    "image": "/images/uniques/arachnid-mesh.png",
     "type": "Elite Unique",
     "base_item": "Spiderweb Sash",
     "properties": {
@@ -2621,13 +2524,12 @@
         "Level 3 Venom (11 Charges)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/arachnid-mesh.png"
+    }
   },
   {
     "id": "spike-thorn",
     "name": "Spike Thorn",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/swordbackhold_graphic.png",
+    "image": "/images/uniques/spike-thorn.png",
     "type": "Elite Unique",
     "base_item": "Blade Barrier",
     "properties": {
@@ -2649,13 +2551,12 @@
         "Socketed (1)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/spike-thorn.png"
+    }
   },
   {
     "id": "lycanders-aim",
     "name": "Lycander's Aim",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/reflexbow_graphic.png",
+    "image": "/images/uniques/lycanders-aim.png",
     "type": "Exceptional Unique",
     "base_item": "Ceremonial Bow",
     "properties": {
@@ -2680,13 +2581,12 @@
         "+2 To Bow And Crossbow Skills (Amazon Only)",
         "Amazon equip only"
       ]
-    },
-    "local_image": "images/uniques/lycanders-aim.png"
+    }
   },
   {
     "id": "bloodletter",
     "name": "Bloodletter",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/rixotskeen_graphic.png",
+    "image": "/images/uniques/bloodletter.png",
     "type": "Exceptional Unique",
     "base_item": "Gladius",
     "properties": {
@@ -2709,13 +2609,12 @@
         "+1-3 To Whirlwind (Barbarian Only)",
         "+2-4 To Blade Mastery (Barbarian Only)"
       ]
-    },
-    "local_image": "images/uniques/bloodletter.png"
+    }
   },
   {
     "id": "titans-revenge",
     "name": "Titan's Revenge",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/maidenjavelin_graphic.png",
+    "image": "/images/uniques/titans-revenge.png",
     "type": "Exceptional Unique",
     "base_item": "Ceremonial Javelin",
     "properties": {
@@ -2744,13 +2643,12 @@
         "Amazon equip only",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/uniques/titans-revenge.png"
+    }
   },
   {
     "id": "lidless-wall",
     "name": "Lidless Wall",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lidlesswall_graphic.png",
+    "image": "/images/uniques/lidless-wall.png",
     "type": "Exceptional Unique",
     "base_item": "Grim Shield",
     "properties": {
@@ -2773,13 +2671,12 @@
         "+10 To Energy",
         "+1 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/lidless-wall.png"
+    }
   },
   {
     "id": "bul-kathos-wedding-band",
     "name": "Bul-Kathos' Wedding Band",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ring1_graphic.png",
+    "image": "/images/uniques/bul-kathos-wedding-band.png",
     "type": "Unique\nRing",
     "base_item": "",
     "properties": {
@@ -2793,13 +2690,12 @@
         "3-5% Life Stolen Per Hit",
         "+50 Maximum Stamina"
       ]
-    },
-    "local_image": "images/uniques/bul-kathos-wedding-band.png"
+    }
   },
   {
     "id": "atmas-scarab",
     "name": "Atma's Scarab",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_graphic.png",
+    "image": "/images/uniques/atmas-scarab.png",
     "type": "Unique\nAmulet",
     "base_item": "",
     "properties": {
@@ -2815,13 +2711,12 @@
         "+3 To Light Radius",
         "Attacker Takes Damage of 5"
       ]
-    },
-    "local_image": "images/uniques/atmas-scarab.png"
+    }
   },
   {
     "id": "ghoulhide",
     "name": "Ghoulhide",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/chaingloves_graphic.png",
+    "image": "/images/uniques/ghoulhide.png",
     "type": "Exceptional Unique",
     "base_item": "Heavy Bracers",
     "properties": {
@@ -2838,13 +2733,12 @@
         "4-5% Mana Stolen Per Hit",
         "+20 To Life"
       ]
-    },
-    "local_image": "images/uniques/ghoulhide.png"
+    }
   },
   {
     "id": "woestave",
     "name": "Woestave",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/halberd_graphic.png",
+    "image": "/images/uniques/woestave.png",
     "type": "Normal Unique",
     "base_item": "Halberd",
     "properties": {
@@ -2868,13 +2762,12 @@
         "Prevent Monster Heal",
         "-3 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/woestave.png"
+    }
   },
   {
     "id": "doombringer",
     "name": "Doombringer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/blacktongue_graphic.png",
+    "image": "/images/uniques/doombringer.png",
     "type": "Elite Unique",
     "base_item": "Champion Sword",
     "properties": {
@@ -2897,13 +2790,12 @@
         "5-7% Life Stolen Per Hit",
         "Indestructible"
       ]
-    },
-    "local_image": "images/uniques/doombringer.png"
+    }
   },
   {
     "id": "biggins-bonnet",
     "name": "Biggin's Bonnet",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/warbonet_graphic.png",
+    "image": "/images/uniques/biggins-bonnet.png",
     "type": "Normal Unique",
     "base_item": "Cap",
     "properties": {
@@ -2919,13 +2811,12 @@
         "+15 To Mana",
         "+15 To Life"
       ]
-    },
-    "local_image": "images/uniques/biggins-bonnet.png"
+    }
   },
   {
     "id": "deaths-fathom",
     "name": "Death's Fathom",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/dragonstone_graphic.png",
+    "image": "/images/uniques/deaths-fathom.png",
     "type": "Elite Unique",
     "base_item": "Dimensional Shard",
     "properties": {
@@ -2946,13 +2837,12 @@
         "Patch 1.10 or later",
         "Sorceress equip only"
       ]
-    },
-    "local_image": "images/uniques/deaths-fathom.png"
+    }
   },
   {
     "id": "wisp-projector",
     "name": "Wisp Projector",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ring1_graphic.png",
+    "image": "/images/uniques/wisp-projector.png",
     "type": "Unique\nRing",
     "base_item": "",
     "properties": {
@@ -2969,13 +2859,12 @@
         "Level 2 Oak Sage (15 charges)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/wisp-projector.png"
+    }
   },
   {
     "id": "bing-sz-wang",
     "name": "Bing Sz Wang",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/soulflay_graphic.png",
+    "image": "/images/uniques/bing-sz-wang.png",
     "type": "Exceptional Unique",
     "base_item": "Dacian Falx",
     "properties": {
@@ -2998,13 +2887,12 @@
         "Requirements -30%",
         "+20 To Strength"
       ]
-    },
-    "local_image": "images/uniques/bing-sz-wang.png"
+    }
   },
   {
     "id": "stormspire",
     "name": "Stormspire",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/warscythe_graphic.png",
+    "image": "/images/uniques/stormspire.png",
     "type": "Elite Unique",
     "base_item": "Giant Thresher",
     "properties": {
@@ -3029,13 +2917,12 @@
         "Indestructible",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/stormspire.png"
+    }
   },
   {
     "id": "raven-claw",
     "name": "Raven Claw",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/rimeraven_graphic.png",
+    "image": "/images/uniques/raven-claw.png",
     "type": "Normal Unique",
     "base_item": "Long Bow",
     "properties": {
@@ -3056,13 +2943,12 @@
         "+3 To Strength",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/raven-claw.png"
+    }
   },
   {
     "id": "flamebellow",
     "name": "Flamebellow",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flamebellow_graphic.png",
+    "image": "/images/uniques/flamebellow.png",
     "type": "Elite Unique",
     "base_item": "Balrog Blade",
     "properties": {
@@ -3087,13 +2973,12 @@
         "Fire Absorb 20-30%",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/flamebellow.png"
+    }
   },
   {
     "id": "ravenlore",
     "name": "Ravenlore",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hawkhelm_graphic.png",
+    "image": "/images/uniques/ravenlore.png",
     "type": "Elite Unique",
     "base_item": "Sky Spirit",
     "properties": {
@@ -3113,13 +2998,12 @@
         "Patch 1.10 or later",
         "Druid equip only"
       ]
-    },
-    "local_image": "images/uniques/ravenlore.png"
+    }
   },
   {
     "id": "deaths-web",
     "name": "Death's Web",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/deathsweb_graphic.png",
+    "image": "/images/uniques/deaths-web.png",
     "type": "Elite Unique",
     "base_item": "Unearthed Wand",
     "properties": {
@@ -3141,13 +3025,12 @@
         "+1-2 To Poison And Bone Skills (Necromancer Only)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/deaths-web.png"
+    }
   },
   {
     "id": "the-gavel-of-pain",
     "name": "The Gavel Of Pain",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gavelofpain_graphic.png",
+    "image": "/images/uniques/the-gavel-of-pain.png",
     "type": "Exceptional Unique",
     "base_item": "Martel de Fer",
     "properties": {
@@ -3169,13 +3052,12 @@
         "Attacker Takes Damage of 26",
         "Indestructible"
       ]
-    },
-    "local_image": "images/uniques/the-gavel-of-pain.png"
+    }
   },
   {
     "id": "boneslayer-blade",
     "name": "Boneslayer Blade",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/brainhew_graphic.png",
+    "image": "/images/uniques/boneslayer-blade.png",
     "type": "Exceptional Unique",
     "base_item": "Gothic Axe",
     "properties": {
@@ -3200,13 +3082,12 @@
         "+8 To Strength",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/boneslayer-blade.png"
+    }
   },
   {
     "id": "the-minotaur",
     "name": "The Minotaur",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/minotuar_graphic.png",
+    "image": "/images/uniques/the-minotaur.png",
     "type": "Exceptional Unique",
     "base_item": "Ancient Axe",
     "properties": {
@@ -3228,13 +3109,12 @@
         "Half Freeze Duration",
         "+15-20 To Strength"
       ]
-    },
-    "local_image": "images/uniques/the-minotaur.png"
+    }
   },
   {
     "id": "rockstopper",
     "name": "Rockstopper",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/rockstopper_graphic.png",
+    "image": "/images/uniques/rockstopper.png",
     "type": "Exceptional Unique",
     "base_item": "Sallet",
     "properties": {
@@ -3253,13 +3133,12 @@
         "Lightning Resist +20-40%",
         "+15 To Vitality"
       ]
-    },
-    "local_image": "images/uniques/rockstopper.png"
+    }
   },
   {
     "id": "rattlecage",
     "name": "Rattlecage",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/rattlecage_graphic.png",
+    "image": "/images/uniques/rattlecage.png",
     "type": "Normal Unique",
     "base_item": "Gothic Plate",
     "properties": {
@@ -3275,13 +3154,12 @@
         "Hit Causes Monster To Flee 40%",
         "+45 To Attack Rating"
       ]
-    },
-    "local_image": "images/uniques/rattlecage.png"
+    }
   },
   {
     "id": "the-cats-eye",
     "name": "The Cat's Eye",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_graphic.png",
+    "image": "/images/uniques/the-cats-eye.png",
     "type": "Unique\nAmulet",
     "base_item": "",
     "properties": {
@@ -3296,13 +3174,12 @@
         "+100 Defense",
         "+25 To Dexterity"
       ]
-    },
-    "local_image": "images/uniques/the-cats-eye.png"
+    }
   },
   {
     "id": "the-redeemer",
     "name": "The Redeemer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/scepter_graphic.png",
+    "image": "/images/uniques/the-redeemer.png",
     "type": "Elite Unique",
     "base_item": "Mighty Scepter",
     "properties": {
@@ -3329,13 +3206,12 @@
         "Requirements -60%",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/the-redeemer.png"
+    }
   },
   {
     "id": "heavens-light",
     "name": "Heaven's Light",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/scepter_graphic.png",
+    "image": "/images/uniques/heavens-light.png",
     "type": "Elite Unique",
     "base_item": "Mighty Scepter",
     "properties": {
@@ -3361,13 +3237,12 @@
         "Socketed (1-2)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/heavens-light.png"
+    }
   },
   {
     "id": "metalgrid",
     "name": "Metalgrid",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_graphic.png",
+    "image": "/images/uniques/metalgrid.png",
     "type": "Unique\nAmulet",
     "base_item": "",
     "properties": {
@@ -3383,13 +3258,12 @@
         "+300-350 Defense",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/metalgrid.png"
+    }
   },
   {
     "id": "maras-kaleidoscope",
     "name": "Mara's Kaleidoscope",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu1_graphic.png",
+    "image": "/images/uniques/maras-kaleidoscope.png",
     "type": "Unique\nAmulet",
     "base_item": "",
     "properties": {
@@ -3402,13 +3276,12 @@
         "All Resistances +20-30",
         "+5 To All Attributes"
       ]
-    },
-    "local_image": "images/uniques/maras-kaleidoscope.png"
+    }
   },
   {
     "id": "highlords-wrath",
     "name": "Highlord's Wrath",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu3_graphic.png",
+    "image": "/images/uniques/highlords-wrath.png",
     "type": "Unique\nAmulet",
     "base_item": "",
     "properties": {
@@ -3424,13 +3297,12 @@
         "Adds 1-30 Lightning Damage",
         "Attacker Takes Lightning Damage Of 15"
       ]
-    },
-    "local_image": "images/uniques/highlords-wrath.png"
+    }
   },
   {
     "id": "crescent-moon",
     "name": "Crescent Moon",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu3_graphic.png",
+    "image": "/images/uniques/crescent-moon.png",
     "type": "Unique\nAmulet",
     "base_item": "",
     "properties": {
@@ -3446,13 +3318,12 @@
         "Magic Damage Reduced By 10",
         "-2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/crescent-moon.png"
+    }
   },
   {
     "id": "saracens-chance",
     "name": "Saracen's Chance",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu1_graphic.png",
+    "image": "/images/uniques/saracens-chance.png",
     "type": "Unique\nAmulet",
     "base_item": "",
     "properties": {
@@ -3465,13 +3336,12 @@
         "All Resistances +15-25",
         "+12 To All Attributes"
       ]
-    },
-    "local_image": "images/uniques/saracens-chance.png"
+    }
   },
   {
     "id": "the-eye-of-etlich",
     "name": "The Eye of Etlich",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_graphic.png",
+    "image": "/images/uniques/the-eye-of-etlich.png",
     "type": "Unique\nAmulet",
     "base_item": "",
     "properties": {
@@ -3487,13 +3357,12 @@
         "Cold Duration: 2-10 Seconds",
         "+10-40 Defense vs. Missile"
       ]
-    },
-    "local_image": "images/uniques/the-eye-of-etlich.png"
+    }
   },
   {
     "id": "nokozan-relic",
     "name": "Nokozan Relic",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amu2_graphic.png",
+    "image": "/images/uniques/nokozan-relic.png",
     "type": "Unique\nAmulet",
     "base_item": "",
     "properties": {
@@ -3508,13 +3377,12 @@
         "Adds 3-6 Fire Damage",
         "+3 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/nokozan-relic.png"
+    }
   },
   {
     "id": "natures-peace",
     "name": "Nature's Peace",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ring2_graphic.png",
+    "image": "/images/uniques/natures-peace.png",
     "type": "Unique\nRing",
     "base_item": "",
     "properties": {
@@ -3530,13 +3398,12 @@
         "Level 5 Oak Sage (27 charges)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/natures-peace.png"
+    }
   },
   {
     "id": "dwarf-star",
     "name": "Dwarf Star",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ring2_graphic.png",
+    "image": "/images/uniques/dwarf-star.png",
     "type": "Unique\nRing",
     "base_item": "",
     "properties": {
@@ -3552,13 +3419,12 @@
         "Magic Damage Reduced By 12-15",
         "100% Extra Gold From Monsters"
       ]
-    },
-    "local_image": "images/uniques/dwarf-star.png"
+    }
   },
   {
     "id": "manald-heal",
     "name": "Manald Heal",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ring3_graphic.png",
+    "image": "/images/uniques/manald-heal.png",
     "type": "Unique\nRing",
     "base_item": "",
     "properties": {
@@ -3572,13 +3438,12 @@
         "Regenerate Mana 20%",
         "+20 To Life"
       ]
-    },
-    "local_image": "images/uniques/manald-heal.png"
+    }
   },
   {
     "id": "nightwings-veil",
     "name": "Nightwing's Veil",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/nightwingsveil_graphic.png",
+    "image": "/images/uniques/nightwings-veil.png",
     "type": "Elite Unique",
     "base_item": "Spired Helm",
     "properties": {
@@ -3598,13 +3463,12 @@
         "Requirements -50%",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/nightwings-veil.png"
+    }
   },
   {
     "id": "templars-might",
     "name": "Templar's Might",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/templarsmight_graphic.png",
+    "image": "/images/uniques/templars-might.png",
     "type": "Elite Unique",
     "base_item": "Sacred Armor",
     "properties": {
@@ -3624,13 +3488,12 @@
         "+1-2 To Offensive Auras (Paladin Only)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/templars-might.png"
+    }
   },
   {
     "id": "earth-shifter",
     "name": "Earth Shifter",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/greatmaul_graphic.png",
+    "image": "/images/uniques/earth-shifter.png",
     "type": "Elite Unique",
     "base_item": "Thunder Maul",
     "properties": {
@@ -3654,13 +3517,12 @@
         "Level 14 Volcano (30 charges)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/earth-shifter.png"
+    }
   },
   {
     "id": "stormlash",
     "name": "Stormlash",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/stormlash_graphic.png",
+    "image": "/images/uniques/stormlash.png",
     "type": "Elite Unique",
     "base_item": "Scourge",
     "properties": {
@@ -3686,13 +3548,12 @@
         "Attacker Takes Lightning Damage of 30",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/stormlash.png"
+    }
   },
   {
     "id": "horizons-tornado",
     "name": "Horizon's Tornado",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/horizonstornado_graphic.png",
+    "image": "/images/uniques/horizons-tornado.png",
     "type": "Elite Unique",
     "base_item": "Scourge",
     "properties": {
@@ -3715,13 +3576,12 @@
         "Requirements -20%",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/horizons-tornado.png"
+    }
   },
   {
     "id": "lightsabre",
     "name": "Lightsabre",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lightsabre_graphic.png",
+    "image": "/images/uniques/lightsabre.png",
     "type": "Elite Unique",
     "base_item": "Phase Blade",
     "properties": {
@@ -3747,13 +3607,12 @@
         "+7 To Light Radius",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/lightsabre.png"
+    }
   },
   {
     "id": "schaefers-hammer",
     "name": "Schaefer's Hammer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ironstone_graphic.png",
+    "image": "/images/uniques/schaefers-hammer.png",
     "type": "Elite Unique",
     "base_item": "Legendary Mallet",
     "properties": {
@@ -3778,13 +3637,12 @@
         "+1 To Light Radius",
         "Indestructible"
       ]
-    },
-    "local_image": "images/uniques/schaefers-hammer.png"
+    }
   },
   {
     "id": "stone-crusher",
     "name": "Stone Crusher",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/stonecrusher_graphic.png",
+    "image": "/images/uniques/stone-crusher.png",
     "type": "Elite Unique",
     "base_item": "Legendary Mallet",
     "properties": {
@@ -3807,13 +3665,12 @@
         "+20-30 To Strength",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/stone-crusher.png"
+    }
   },
   {
     "id": "coldkill",
     "name": "Coldkill",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/coldkill_graphic.png",
+    "image": "/images/uniques/coldkill.png",
     "type": "Exceptional Unique",
     "base_item": "Hatchet",
     "properties": {
@@ -3836,13 +3693,12 @@
         "15% To Maximum Cold Resist",
         "Cold Resist +15%"
       ]
-    },
-    "local_image": "images/uniques/coldkill.png"
+    }
   },
   {
     "id": "giant-skull",
     "name": "Giant Skull",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/giantskull_graphic.png",
+    "image": "/images/uniques/giant-skull.png",
     "type": "Elite Unique",
     "base_item": "Bone Visage",
     "properties": {
@@ -3860,13 +3716,12 @@
         "Socketed (1-2)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/giant-skull.png"
+    }
   },
   {
     "id": "maelstrom",
     "name": "Maelstrom",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/maelstromwrath_graphic.png",
+    "image": "/images/uniques/maelstrom.png",
     "type": "Normal Unique",
     "base_item": "Yew Wand",
     "properties": {
@@ -3889,13 +3744,12 @@
         "+1-3 to Terror (Necromancer Only)",
         "+1-3 to Corpse Explosion (Necromancer Only)"
       ]
-    },
-    "local_image": "images/uniques/maelstrom.png"
+    }
   },
   {
     "id": "steel-pillar",
     "name": "Steel Pillar",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/pike_graphic.png",
+    "image": "/images/uniques/steel-pillar.png",
     "type": "Elite Unique",
     "base_item": "War Pike",
     "properties": {
@@ -3917,13 +3771,12 @@
         "Indestructible",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/steel-pillar.png"
+    }
   },
   {
     "id": "swordguard",
     "name": "Swordguard",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/swordguard_graphic.png",
+    "image": "/images/uniques/swordguard.png",
     "type": "Exceptional Unique",
     "base_item": "Executioner Sword",
     "properties": {
@@ -3949,13 +3802,12 @@
         "+100 Defense vs. Missile",
         "+200 Defense vs. Melee"
       ]
-    },
-    "local_image": "images/uniques/swordguard.png"
+    }
   },
   {
     "id": "gheeds-fortune",
     "name": "Gheed's Fortune",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/largecharm01_graphic.png",
+    "image": "/images/uniques/gheeds-fortune.png",
     "type": "Normal Unique\nGrand Charm",
     "base_item": "",
     "properties": {
@@ -3968,13 +3820,12 @@
         "20-40% Better Chance of Getting Magic Items",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/gheeds-fortune.png"
+    }
   },
   {
     "id": "suicide-branch",
     "name": "Suicide Branch",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/wand_graphic.png",
+    "image": "/images/uniques/suicide-branch.png",
     "type": "Exceptional Unique",
     "base_item": "Burnt Wand",
     "properties": {
@@ -3996,13 +3847,12 @@
         "+40 To Life",
         "Attacker Takes Damage of 25"
       ]
-    },
-    "local_image": "images/uniques/suicide-branch.png"
+    }
   },
   {
     "id": "soulfeast-tine",
     "name": "Soulfeast Tine",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/soulfeastine_graphic.png",
+    "image": "/images/uniques/soulfeast-tine.png",
     "type": "Exceptional Unique",
     "base_item": "War Fork",
     "properties": {
@@ -4024,13 +3874,12 @@
         "7% Mana Stolen Per Hit",
         "20% Slower Stamina Drain"
       ]
-    },
-    "local_image": "images/uniques/soulfeast-tine.png"
+    }
   },
   {
     "id": "blackhand-key",
     "name": "Blackhand Key",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/blackhandkey_graphic.png",
+    "image": "/images/uniques/blackhand-key.png",
     "type": "Exceptional Unique",
     "base_item": "Grave Wand",
     "properties": {
@@ -4054,13 +3903,12 @@
         "Level 13 Grim Ward (30 Charges)",
         "-2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/blackhand-key.png"
+    }
   },
   {
     "id": "arm-of-king-leoric",
     "name": "Arm of King Leoric",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gravenspine_graphic.png",
+    "image": "/images/uniques/arm-of-king-leoric.png",
     "type": "Exceptional Unique",
     "base_item": "Tomb Wand",
     "properties": {
@@ -4086,13 +3934,12 @@
         "+2 To Summoning Skills (Necromancer Only)",
         "+2 To Poison And Bone Skills (Necromancer Only)"
       ]
-    },
-    "local_image": "images/uniques/arm-of-king-leoric.png"
+    }
   },
   {
     "id": "gargoyles-bite",
     "name": "Gargoyle's Bite",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gargoylesbite_graphic.png",
+    "image": "/images/uniques/gargoyles-bite.png",
     "type": "Elite Unique",
     "base_item": "Winged Harpoon",
     "properties": {
@@ -4116,13 +3963,12 @@
         "Patch 1.10 or later",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/uniques/gargoyles-bite.png"
+    }
   },
   {
     "id": "boneflesh",
     "name": "Boneflesh",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/boneflesh_graphic.png",
+    "image": "/images/uniques/boneflesh.png",
     "type": "Normal Unique",
     "base_item": "Plate Mail",
     "properties": {
@@ -4138,13 +3984,12 @@
         "25% Chance Of Open Wounds",
         "+35 To Attack Rating"
       ]
-    },
-    "local_image": "images/uniques/boneflesh.png"
+    }
   },
   {
     "id": "verdungos-hearty-cord",
     "name": "Verdungo's Hearty Cord",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/verdungosheartycord_graphic.png",
+    "image": "/images/uniques/verdungos-hearty-cord.png",
     "type": "Elite Unique",
     "base_item": "Mithril Coil",
     "properties": {
@@ -4164,13 +4009,12 @@
         "Damage Reduced By 10-15%",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/verdungos-hearty-cord.png"
+    }
   },
   {
     "id": "the-meat-scraper",
     "name": "The Meat Scraper",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/meatscraper_graphic.png",
+    "image": "/images/uniques/the-meat-scraper.png",
     "type": "Exceptional Unique",
     "base_item": "Lochaber Axe",
     "properties": {
@@ -4191,13 +4035,12 @@
         "25% Better Chance Of Getting Magic Items",
         "+3 To Masteries (Barbarian Only)"
       ]
-    },
-    "local_image": "images/uniques/the-meat-scraper.png"
+    }
   },
   {
     "id": "crown-of-ages",
     "name": "Crown of Ages",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/crownofages_graphic.png",
+    "image": "/images/uniques/crown-of-ages.png",
     "type": "Elite Unique",
     "base_item": "Corona",
     "properties": {
@@ -4217,13 +4060,12 @@
         "Indestructible",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/crown-of-ages.png"
+    }
   },
   {
     "id": "spectral-shard",
     "name": "Spectral Shard",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/iricesshard_graphic.png",
+    "image": "/images/uniques/spectral-shard.png",
     "type": "Normal Unique",
     "base_item": "Blade",
     "properties": {
@@ -4243,13 +4085,12 @@
         "All Resistances +10",
         "+50 To Mana"
       ]
-    },
-    "local_image": "images/uniques/spectral-shard.png"
+    }
   },
   {
     "id": "the-scalper",
     "name": "The Scalper",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/throwingaxe_graphic.png",
+    "image": "/images/uniques/the-scalper.png",
     "type": "Exceptional Unique",
     "base_item": "Francisca",
     "properties": {
@@ -4275,13 +4116,12 @@
         "Patch 1.10 or later",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/uniques/the-scalper.png"
+    }
   },
   {
     "id": "wraith-flight",
     "name": "Wraith Flight",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/wraithflight_graphic.png",
+    "image": "/images/uniques/wraith-flight.png",
     "type": "Elite Unique",
     "base_item": "Ghost Glaive",
     "properties": {
@@ -4305,13 +4145,12 @@
         "Patch 1.10 or later",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/uniques/wraith-flight.png"
+    }
   },
   {
     "id": "que-hegans-wisdom",
     "name": "Que-Hegan's Wisdom",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lightplate_graphic.png",
+    "image": "/images/uniques/que-hegans-wisdom.png",
     "type": "Exceptional Unique",
     "base_item": "Mage Plate",
     "properties": {
@@ -4330,13 +4169,12 @@
         "Magic Damage Reduced By 6-10",
         "+15 To Energy"
       ]
-    },
-    "local_image": "images/uniques/que-hegans-wisdom.png"
+    }
   },
   {
     "id": "gimmershred",
     "name": "Gimmershred",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gimmershred_graphic.png",
+    "image": "/images/uniques/gimmershred.png",
     "type": "Elite Unique",
     "base_item": "Flying Axe",
     "properties": {
@@ -4361,13 +4199,12 @@
         "Patch 1.10 or later",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/uniques/gimmershred.png"
+    }
   },
   {
     "id": "skin-of-the-vipermagi",
     "name": "Skin of the Vipermagi",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/skinoftheciper_graphic.png",
+    "image": "/images/uniques/skin-of-the-vipermagi.png",
     "type": "Exceptional Unique",
     "base_item": "Serpentskin Armor",
     "properties": {
@@ -4384,13 +4221,12 @@
         "Magic Damage Reduced By 9-13",
         "All Resistances +20-35"
       ]
-    },
-    "local_image": "images/uniques/skin-of-the-vipermagi.png"
+    }
   },
   {
     "id": "lacerator",
     "name": "Lacerator",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/balancedaxe_graphic.png",
+    "image": "/images/uniques/lacerator.png",
     "type": "Elite Unique",
     "base_item": "Winged Axe",
     "properties": {
@@ -4416,13 +4252,12 @@
         "Patch 1.10 or later",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/uniques/lacerator.png"
+    }
   },
   {
     "id": "bonesnap",
     "name": "Bonesnap",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bonesnap_graphic.png",
+    "image": "/images/uniques/bonesnap.png",
     "type": "Normal Unique",
     "base_item": "Maul",
     "properties": {
@@ -4442,13 +4277,12 @@
         "Cold Resist +30%",
         "Fire Resist +30%"
       ]
-    },
-    "local_image": "images/uniques/bonesnap.png"
+    }
   },
   {
     "id": "skull-splitter",
     "name": "Skull Splitter",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mindrend_graphic.png",
+    "image": "/images/uniques/skull-splitter.png",
     "type": "Normal Unique",
     "base_item": "Military Pick",
     "properties": {
@@ -4470,13 +4304,12 @@
         "Hit Blinds Target +2",
         "Regenerate Mana 20%"
       ]
-    },
-    "local_image": "images/uniques/skull-splitter.png"
+    }
   },
   {
     "id": "the-gnasher",
     "name": "The Gnasher",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thegnasher_graphic.png",
+    "image": "/images/uniques/the-gnasher.png",
     "type": "Normal Unique",
     "base_item": "Hand Axe",
     "properties": {
@@ -4495,13 +4328,12 @@
         "+8 To Strength",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/the-gnasher.png"
+    }
   },
   {
     "id": "spirit-ward",
     "name": "Spirit Ward",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/theward_graphic.png",
+    "image": "/images/uniques/spirit-ward.png",
     "type": "Elite Unique",
     "base_item": "Ward",
     "properties": {
@@ -4524,13 +4356,12 @@
         "5% Chance To Cast Level 8 Fade When Struck",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/spirit-ward.png"
+    }
   },
   {
     "id": "gleamscythe",
     "name": "Gleamscythe",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gleamscythe_graphic.png",
+    "image": "/images/uniques/gleamscythe.png",
     "type": "Normal Unique",
     "base_item": "Falchion",
     "properties": {
@@ -4551,13 +4382,12 @@
         "+30 To Mana",
         "+3 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/gleamscythe.png"
+    }
   },
   {
     "id": "shadowfang",
     "name": "Shadowfang",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/shadowfang_graphic.png",
+    "image": "/images/uniques/shadowfang.png",
     "type": "Normal Unique",
     "base_item": "Two-handed Sword",
     "properties": {
@@ -4580,13 +4410,12 @@
         "Cold Resist 20%",
         "-2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/shadowfang.png"
+    }
   },
   {
     "id": "wizendraw",
     "name": "Wizendraw",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/wizendraw_graphic.png",
+    "image": "/images/uniques/wizendraw.png",
     "type": "Normal Unique",
     "base_item": "Long Battle Bow",
     "properties": {
@@ -4610,13 +4439,12 @@
         "-(20-35)% To Enemy Cold Resistance",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/wizendraw.png"
+    }
   },
   {
     "id": "string-of-ears",
     "name": "String of Ears",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sash_graphic.png",
+    "image": "/images/uniques/string-of-ears.png",
     "type": "Exceptional Unique",
     "base_item": "Demonhide Sash",
     "properties": {
@@ -4634,13 +4462,12 @@
         "Damage Reduced By 10-15%",
         "Magic Damage Reduced 10-15"
       ]
-    },
-    "local_image": "images/uniques/string-of-ears.png"
+    }
   },
   {
     "id": "spirit-forge",
     "name": "Spirit Forge",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ringmail_graphic.png",
+    "image": "/images/uniques/spirit-forge.png",
     "type": "Exceptional Unique",
     "base_item": "Linked Mail",
     "properties": {
@@ -4659,13 +4486,12 @@
         "Socketed (2)",
         "+4 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/spirit-forge.png"
+    }
   },
   {
     "id": "frostwind",
     "name": "Frostwind",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hellplague_graphic.png",
+    "image": "/images/uniques/frostwind.png",
     "type": "Elite Unique",
     "base_item": "Cryptic Sword",
     "properties": {
@@ -4689,13 +4515,12 @@
         "+25% Increased Attack Speed",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/frostwind.png"
+    }
   },
   {
     "id": "magewrath",
     "name": "Magewrath",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hellclap_graphic.png",
+    "image": "/images/uniques/magewrath.png",
     "type": "Exceptional Unique",
     "base_item": "Rune Bow",
     "properties": {
@@ -4719,13 +4544,12 @@
         "+10 To Dexterity",
         "+3 Guided Arrow (Amazon Only)"
       ]
-    },
-    "local_image": "images/uniques/magewrath.png"
+    }
   },
   {
     "id": "leadcrow",
     "name": "Leadcrow",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/leadcrow_graphic.png",
+    "image": "/images/uniques/leadcrow.png",
     "type": "Normal Unique",
     "base_item": "Light Crossbow",
     "properties": {
@@ -4746,13 +4570,12 @@
         "+10 to Life",
         "+10 to Dexterity"
       ]
-    },
-    "local_image": "images/uniques/leadcrow.png"
+    }
   },
   {
     "id": "the-battlebranch",
     "name": "The Battlebranch",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/poleaxe_graphic.png",
+    "image": "/images/uniques/the-battlebranch.png",
     "type": "Normal Unique",
     "base_item": "Poleaxe",
     "properties": {
@@ -4772,13 +4595,12 @@
         "7% Life Stolen Per Hit",
         "+10 To Dexterity"
       ]
-    },
-    "local_image": "images/uniques/the-battlebranch.png"
+    }
   },
   {
     "id": "executioners-justice",
     "name": "Executioner's Justice",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/executionersjustice_graphic.png",
+    "image": "/images/uniques/executioners-justice.png",
     "type": "Elite Unique",
     "base_item": "Glorious Axe",
     "properties": {
@@ -4800,13 +4622,12 @@
         "50% Chance To Cast Level 6 Decrepify When You Kill An Enemy",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/executioners-justice.png"
+    }
   },
   {
     "id": "serpent-lord",
     "name": "Serpent Lord",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/serpentlord_graphic.png",
+    "image": "/images/uniques/serpent-lord.png",
     "type": "Normal Unique",
     "base_item": "Long Staff",
     "properties": {
@@ -4828,13 +4649,12 @@
         "Poison Resist +50%",
         "-1 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/serpent-lord.png"
+    }
   },
   {
     "id": "spineripper",
     "name": "Spineripper",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/dagger_graphic.png",
+    "image": "/images/uniques/spineripper.png",
     "type": "Exceptional Unique",
     "base_item": "Poignard",
     "properties": {
@@ -4857,13 +4677,12 @@
         "8% Life Stolen Per Hit",
         "+10 To Dexterity"
       ]
-    },
-    "local_image": "images/uniques/spineripper.png"
+    }
   },
   {
     "id": "the-diggler",
     "name": "The Diggler",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thediggler_graphic.png",
+    "image": "/images/uniques/the-diggler.png",
     "type": "Normal Unique",
     "base_item": "Dirk",
     "properties": {
@@ -4884,13 +4703,12 @@
         "Fire Resist +25%",
         "+10 To Dexterity"
       ]
-    },
-    "local_image": "images/uniques/the-diggler.png"
+    }
   },
   {
     "id": "gut-siphon",
     "name": "Gut Siphon",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gutsiphon_graphic.png",
+    "image": "/images/uniques/gut-siphon.png",
     "type": "Elite Unique",
     "base_item": "Demon Crossbow",
     "properties": {
@@ -4911,13 +4729,12 @@
         "Slows Target by 25%",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/gut-siphon.png"
+    }
   },
   {
     "id": "endlesshail",
     "name": "Endlesshail",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/piercerib_graphic.png",
+    "image": "/images/uniques/endlesshail.png",
     "type": "Exceptional Unique",
     "base_item": "Double Bow",
     "properties": {
@@ -4938,13 +4755,12 @@
         "+40 To Mana",
         "+3-5 To Strafe (Amazon Only)"
       ]
-    },
-    "local_image": "images/uniques/endlesshail.png"
+    }
   },
   {
     "id": "stormspike",
     "name": "Stormspike",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/stormspike_graphic.png",
+    "image": "/images/uniques/stormspike.png",
     "type": "Exceptional Unique",
     "base_item": "Stiletto",
     "properties": {
@@ -4965,13 +4781,12 @@
         "Lightning Resist + (1 Per Character Level) 1-99 % (Based On Character Level)",
         "Attacker Takes Lightning Damage of 20"
       ]
-    },
-    "local_image": "images/uniques/stormspike.png"
+    }
   },
   {
     "id": "riphook",
     "name": "Riphook",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/riphook_graphic.png",
+    "image": "/images/uniques/riphook.png",
     "type": "Exceptional Unique",
     "base_item": "Razor Bow",
     "properties": {
@@ -4992,13 +4807,12 @@
         "7-10% Life Stolen Per Hit",
         "+35 To Mana"
       ]
-    },
-    "local_image": "images/uniques/riphook.png"
+    }
   },
   {
     "id": "sureshrill-frost",
     "name": "Sureshrill Frost",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/crushflange_graphic.png",
+    "image": "/images/uniques/sureshrill-frost.png",
     "type": "Exceptional Unique",
     "base_item": "Flanged Mace",
     "properties": {
@@ -5020,13 +4834,12 @@
         "Level 9 Frozen Orb (50 Charges)",
         "Cannot Be Frozen"
       ]
-    },
-    "local_image": "images/uniques/sureshrill-frost.png"
+    }
   },
   {
     "id": "the-atlantean",
     "name": "The Atlantean",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/atlantean_graphic.png",
+    "image": "/images/uniques/the-atlantean.png",
     "type": "Exceptional Unique",
     "base_item": "Ancient Sword",
     "properties": {
@@ -5049,13 +4862,12 @@
         "+12 To Dexterity",
         "+16 To Strength"
       ]
-    },
-    "local_image": "images/uniques/the-atlantean.png"
+    }
   },
   {
     "id": "rainbow-facet-cold-level-up",
     "name": "Rainbow Facet: Cold Level-up",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/jewel02_graphic.png",
+    "image": "/images/uniques/rainbow-facet-cold-level-up.png",
     "type": "Normal Unique\nJewel",
     "base_item": "",
     "properties": {
@@ -5069,13 +4881,12 @@
         "-(3-5)% To Enemy Cold Resistance",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/rainbow-facet-cold-level-up.png"
+    }
   },
   {
     "id": "heart-carver",
     "name": "Heart Carver",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thediggler_graphic.png",
+    "image": "/images/uniques/heart-carver.png",
     "type": "Exceptional Unique",
     "base_item": "Rondel",
     "properties": {
@@ -5098,13 +4909,12 @@
         "+4 To Find Item (Barbarian Only)",
         "+4 To Find Potion (Barbarian Only)"
       ]
-    },
-    "local_image": "images/uniques/heart-carver.png"
+    }
   },
   {
     "id": "peasant-crown",
     "name": "Peasant Crown",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/cap_graphic.png",
+    "image": "/images/uniques/peasant-crown.png",
     "type": "Exceptional Unique",
     "base_item": "War Hat",
     "properties": {
@@ -5122,13 +4932,12 @@
         "+20 To Energy",
         "+20 To Vitality"
       ]
-    },
-    "local_image": "images/uniques/peasant-crown.png"
+    }
   },
   {
     "id": "fleshripper",
     "name": "Fleshripper",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/fleshripper_graphic.png",
+    "image": "/images/uniques/fleshripper.png",
     "type": "Elite Unique",
     "base_item": "Fanged Knife",
     "properties": {
@@ -5153,13 +4962,12 @@
         "Attacker Takes Lightning Damage of 20",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/fleshripper.png"
+    }
   },
   {
     "id": "grims-burning-dead",
     "name": "Grim's Burning Dead",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/warscythe_graphic.png",
+    "image": "/images/uniques/grims-burning-dead.png",
     "type": "Exceptional Unique",
     "base_item": "Grim Scythe",
     "properties": {
@@ -5184,13 +4992,12 @@
         "Requirements -50%",
         "Attacker Takes Damage of 8"
       ]
-    },
-    "local_image": "images/uniques/grims-burning-dead.png"
+    }
   },
   {
     "id": "shaftstop",
     "name": "Shaftstop",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/chainmail_graphic.png",
+    "image": "/images/uniques/shaftstop.png",
     "type": "Exceptional Unique",
     "base_item": "Mesh Armor",
     "properties": {
@@ -5206,13 +5013,12 @@
         "+250 Defense Vs. Missile",
         "+60 To Life"
       ]
-    },
-    "local_image": "images/uniques/shaftstop.png"
+    }
   },
   {
     "id": "the-tannr-gorerod",
     "name": "The Tannr Gorerod",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thetannrgorerod_graphic.png",
+    "image": "/images/uniques/the-tannr-gorerod.png",
     "type": "Normal Unique",
     "base_item": "Pike",
     "properties": {
@@ -5235,13 +5041,12 @@
         "+30 to Life",
         "+3 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/the-tannr-gorerod.png"
+    }
   },
   {
     "id": "baranars-star",
     "name": "Baranar's Star",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodrise_graphic.png",
+    "image": "/images/uniques/baranars-star.png",
     "type": "Elite Unique",
     "base_item": "Devil Star",
     "properties": {
@@ -5266,13 +5071,12 @@
         "+15 To Dexterity",
         "+15 To Strength"
       ]
-    },
-    "local_image": "images/uniques/baranars-star.png"
+    }
   },
   {
     "id": "warshrike",
     "name": "Warshrike",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/warshrike_graphic.png",
+    "image": "/images/uniques/warshrike.png",
     "type": "Elite Unique",
     "base_item": "Winged Knife",
     "properties": {
@@ -5297,13 +5101,12 @@
         "Patch 1.10 or later",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/uniques/warshrike.png"
+    }
   },
   {
     "id": "deathbit",
     "name": "Deathbit",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/throwingknife_graphic.png",
+    "image": "/images/uniques/deathbit.png",
     "type": "Exceptional Unique",
     "base_item": "Battle Dart",
     "properties": {
@@ -5328,13 +5131,12 @@
         "Patch 1.10 or later",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/uniques/deathbit.png"
+    }
   },
   {
     "id": "razors-edge",
     "name": "Razor's Edge",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thegnasher_graphic.png",
+    "image": "/images/uniques/razors-edge.png",
     "type": "Elite Unique",
     "base_item": "Tomahawk",
     "properties": {
@@ -5356,13 +5158,12 @@
         "50% Chance of Open Wounds",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/razors-edge.png"
+    }
   },
   {
     "id": "bloodrise",
     "name": "Bloodrise",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodrise_graphic.png",
+    "image": "/images/uniques/bloodrise.png",
     "type": "Normal Unique",
     "base_item": "Morning Star",
     "properties": {
@@ -5385,13 +5186,12 @@
         "+3 To Sacrifice (Paladin Only)",
         "+2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/bloodrise.png"
+    }
   },
   {
     "id": "stoneraven",
     "name": "Stoneraven",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/stoneraven_graphic.png",
+    "image": "/images/uniques/stoneraven.png",
     "type": "Elite Unique",
     "base_item": "Matriarchal Spear",
     "properties": {
@@ -5414,13 +5214,12 @@
         "Patch 1.10 or later",
         "Amazon equip only"
       ]
-    },
-    "local_image": "images/uniques/stoneraven.png"
+    }
   },
   {
     "id": "lycanders-flank",
     "name": "Lycander's Flank",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/maidenpike_graphic.png",
+    "image": "/images/uniques/lycanders-flank.png",
     "type": "Exceptional Unique",
     "base_item": "Ceremonial Pike",
     "properties": {
@@ -5446,13 +5245,12 @@
         "+2 To Javelin and Spear Skills (Amazon Only)",
         "Amazon equip only"
       ]
-    },
-    "local_image": "images/uniques/lycanders-flank.png"
+    }
   },
   {
     "id": "windhammer",
     "name": "Windhammer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/windhammer_graphic.png",
+    "image": "/images/uniques/windhammer.png",
     "type": "Elite Unique",
     "base_item": "Ogre Maul",
     "properties": {
@@ -5473,13 +5271,12 @@
         "+50% Damage To Undead",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/windhammer.png"
+    }
   },
   {
     "id": "rakescar",
     "name": "Rakescar",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/waraxe_graphic.png",
+    "image": "/images/uniques/rakescar.png",
     "type": "Normal Unique",
     "base_item": "War Axe",
     "properties": {
@@ -5499,13 +5296,12 @@
         "+50 To Attack Rating",
         "Poison resist +50%"
       ]
-    },
-    "local_image": "images/uniques/rakescar.png"
+    }
   },
   {
     "id": "spirit-keeper",
     "name": "Spirit Keeper",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/antlers_graphic.png",
+    "image": "/images/uniques/spirit-keeper.png",
     "type": "Elite Unique",
     "base_item": "Earth Spirit",
     "properties": {
@@ -5526,13 +5322,12 @@
         "Patch 1.10 or later",
         "Druid equip only"
       ]
-    },
-    "local_image": "images/uniques/spirit-keeper.png"
+    }
   },
   {
     "id": "gravenspine",
     "name": "Gravenspine",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gravenspine_graphic.png",
+    "image": "/images/uniques/gravenspine.png",
     "type": "Normal Unique",
     "base_item": "Bone Wand",
     "properties": {
@@ -5553,13 +5348,12 @@
         "+10 To Dexterity",
         "+10 To Strength"
       ]
-    },
-    "local_image": "images/uniques/gravenspine.png"
+    }
   },
   {
     "id": "gore-rider",
     "name": "Gore Rider",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/plateboots_graphic.png",
+    "image": "/images/uniques/gore-rider.png",
     "type": "Exceptional Unique",
     "base_item": "War Boots",
     "properties": {
@@ -5579,13 +5373,12 @@
         "Requirements -25%",
         "+20 Maximum Stamina"
       ]
-    },
-    "local_image": "images/uniques/gore-rider.png"
+    }
   },
   {
     "id": "treads-of-cthon",
     "name": "Treads of Cthon",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/treadsofcthon_graphic.png",
+    "image": "/images/uniques/treads-of-cthon.png",
     "type": "Normal Unique",
     "base_item": "Chain Boots",
     "properties": {
@@ -5604,13 +5397,12 @@
         "+50 Defense VS. Missile",
         "+10 To Life"
       ]
-    },
-    "local_image": "images/uniques/treads-of-cthon.png"
+    }
   },
   {
     "id": "cliffkiller",
     "name": "Cliffkiller",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/cliffkiller_graphic.png",
+    "image": "/images/uniques/cliffkiller.png",
     "type": "Exceptional Unique",
     "base_item": "Large Siege Bow",
     "properties": {
@@ -5631,13 +5423,12 @@
         "+50 To Life",
         "Knockback"
       ]
-    },
-    "local_image": "images/uniques/cliffkiller.png"
+    }
   },
   {
     "id": "bloodthief",
     "name": "Bloodthief",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodthief_graphic.png",
+    "image": "/images/uniques/bloodthief.png",
     "type": "Normal Unique",
     "base_item": "Brandistock",
     "properties": {
@@ -5658,13 +5449,12 @@
         "+26 to Life",
         "+10 to Strength"
       ]
-    },
-    "local_image": "images/uniques/bloodthief.png"
+    }
   },
   {
     "id": "razortine",
     "name": "Razortine",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/razortine_graphic.png",
+    "image": "/images/uniques/razortine.png",
     "type": "Normal Unique",
     "base_item": "Trident",
     "properties": {
@@ -5686,13 +5476,12 @@
         "+8 To Dexterity",
         "+15 To Strength"
       ]
-    },
-    "local_image": "images/uniques/razortine.png"
+    }
   },
   {
     "id": "moonfall",
     "name": "Moonfall",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodrise_graphic.png",
+    "image": "/images/uniques/moonfall.png",
     "type": "Exceptional Unique",
     "base_item": "Jagged Star",
     "properties": {
@@ -5715,13 +5504,12 @@
         "Magic Damage Reduced By 9-12",
         "+2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/moonfall.png"
+    }
   },
   {
     "id": "demons-arch",
     "name": "Demon's Arch",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/demonsarch_graphic.png",
+    "image": "/images/uniques/demons-arch.png",
     "type": "Elite Unique",
     "base_item": "Balrog Spear",
     "properties": {
@@ -5746,13 +5534,12 @@
         "Patch 1.10 or later",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/uniques/demons-arch.png"
+    }
   },
   {
     "id": "gull",
     "name": "Gull",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/dagger_graphic.png",
+    "image": "/images/uniques/gull.png",
     "type": "Normal Unique",
     "base_item": "Dagger",
     "properties": {
@@ -5769,13 +5556,12 @@
         "100% Better Chance of Getting Magic Items",
         "-5 to Mana"
       ]
-    },
-    "local_image": "images/uniques/gull.png"
+    }
   },
   {
     "id": "leviathan",
     "name": "Leviathan",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/leviathan_graphic.png",
+    "image": "/images/uniques/leviathan.png",
     "type": "Elite Unique",
     "base_item": "Kraken Shell",
     "properties": {
@@ -5792,13 +5578,12 @@
         "Indestructible",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/leviathan.png"
+    }
   },
   {
     "id": "baezils-vortex",
     "name": "Baezil's Vortex",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thegeneralstandoliga_graphic.png",
+    "image": "/images/uniques/baezils-vortex.png",
     "type": "Exceptional Unique",
     "base_item": "Knout",
     "properties": {
@@ -5822,13 +5607,12 @@
         "Lightning Resist +25%",
         "+100 To Mana"
       ]
-    },
-    "local_image": "images/uniques/baezils-vortex.png"
+    }
   },
   {
     "id": "wormskull",
     "name": "Wormskull",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/wormskull_graphic.png",
+    "image": "/images/uniques/wormskull.png",
     "type": "Normal Unique",
     "base_item": "Bone Helm",
     "properties": {
@@ -5845,13 +5629,12 @@
         "Poison Resist +25%",
         "+10 To Mana"
       ]
-    },
-    "local_image": "images/uniques/wormskull.png"
+    }
   },
   {
     "id": "hellslayer",
     "name": "Hellslayer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thechieftan_graphic.png",
+    "image": "/images/uniques/hellslayer.png",
     "type": "Elite Unique",
     "base_item": "Decapitator",
     "properties": {
@@ -5875,13 +5658,12 @@
         "10% Chance To Cast Level 16-20 Fireball On Attack",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/hellslayer.png"
+    }
   },
   {
     "id": "the-fetid-sprinkler",
     "name": "The Fetid Sprinkler",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/grandscepter_graphic.png",
+    "image": "/images/uniques/the-fetid-sprinkler.png",
     "type": "Exceptional Unique",
     "base_item": "Holy Water Sprinkler",
     "properties": {
@@ -5904,13 +5686,12 @@
         "+160 Poison Damage Over 4 Seconds",
         "+150-200 To Attack Rating"
       ]
-    },
-    "local_image": "images/uniques/the-fetid-sprinkler.png"
+    }
   },
   {
     "id": "rainbow-facet-fire-level-up",
     "name": "Rainbow Facet: Fire Level-up",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/jewel05_graphic.png",
+    "image": "/images/uniques/rainbow-facet-fire-level-up.png",
     "type": "Normal Unique\nJewel",
     "base_item": "",
     "properties": {
@@ -5924,13 +5705,12 @@
         "-(3-5)% To Enemy Fire Resistance",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/rainbow-facet-fire-level-up.png"
+    }
   },
   {
     "id": "rainbow-facet-fire-death",
     "name": "Rainbow Facet: Fire Death",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/jewel05_graphic.png",
+    "image": "/images/uniques/rainbow-facet-fire-death.png",
     "type": "Normal Unique\nJewel",
     "base_item": "",
     "properties": {
@@ -5944,13 +5724,12 @@
         "-(3-5)% To Enemy Fire Resistance",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/rainbow-facet-fire-death.png"
+    }
   },
   {
     "id": "rainbow-facet-cold-death",
     "name": "Rainbow Facet: Cold Death",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/jewel02_graphic.png",
+    "image": "/images/uniques/rainbow-facet-cold-death.png",
     "type": "Normal Unique\nJewel",
     "base_item": "",
     "properties": {
@@ -5964,13 +5743,12 @@
         "-(3-5)% To Enemy Cold Resistance",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/rainbow-facet-cold-death.png"
+    }
   },
   {
     "id": "sandstorm-trek",
     "name": "Sandstorm Trek",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/heavyboots_graphic.png",
+    "image": "/images/uniques/sandstorm-trek.png",
     "type": "Elite Unique",
     "base_item": "Scarabshell Boots",
     "properties": {
@@ -5993,13 +5771,12 @@
         "Repairs 1 Durability In 20 Seconds",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/sandstorm-trek.png"
+    }
   },
   {
     "id": "eaglehorn",
     "name": "Eaglehorn",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/longbattlebow_graphic.png",
+    "image": "/images/uniques/eaglehorn.png",
     "type": "Elite Unique",
     "base_item": "Crusader Bow",
     "properties": {
@@ -6020,13 +5797,12 @@
         "+25 To Dexterity",
         "Ignores Target's Defense"
       ]
-    },
-    "local_image": "images/uniques/eaglehorn.png"
+    }
   },
   {
     "id": "stormstrike",
     "name": "Stormstrike",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/pullspite_graphic.png",
+    "image": "/images/uniques/stormstrike.png",
     "type": "Normal Unique",
     "base_item": "Short Battle Bow",
     "properties": {
@@ -6047,13 +5823,12 @@
         "Lightning Resist +25%",
         "+8 to Strength"
       ]
-    },
-    "local_image": "images/uniques/stormstrike.png"
+    }
   },
   {
     "id": "steeldriver",
     "name": "Steeldriver",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/steeldriver_graphic.png",
+    "image": "/images/uniques/steeldriver.png",
     "type": "Normal Unique",
     "base_item": "Great Maul",
     "properties": {
@@ -6073,13 +5848,12 @@
         "Requirements -50%",
         "Heal Stamina plus 25%"
       ]
-    },
-    "local_image": "images/uniques/steeldriver.png"
+    }
   },
   {
     "id": "mang-songs-lesson",
     "name": "Mang Song's Lesson",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mangsongslesson_graphic.png",
+    "image": "/images/uniques/mang-songs-lesson.png",
     "type": "Elite Unique",
     "base_item": "Archon Staff",
     "properties": {
@@ -6102,13 +5876,12 @@
         "+50% Damage To Undead",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/mang-songs-lesson.png"
+    }
   },
   {
     "id": "djinn-slayer",
     "name": "Djinn Slayer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodcrescent_graphic.png",
+    "image": "/images/uniques/djinn-slayer.png",
     "type": "Elite Unique",
     "base_item": "Ataghan",
     "properties": {
@@ -6132,13 +5905,12 @@
         "Socketed (1-2)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/djinn-slayer.png"
+    }
   },
   {
     "id": "the-iron-jang-bong",
     "name": "The Iron Jang Bong",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/theironlangbong_graphic.png",
+    "image": "/images/uniques/the-iron-jang-bong.png",
     "type": "Normal Unique",
     "base_item": "War Staff",
     "properties": {
@@ -6161,13 +5933,12 @@
         "+2 To Nova (Sorceress Only)",
         "+30 Defense"
       ]
-    },
-    "local_image": "images/uniques/the-iron-jang-bong.png"
+    }
   },
   {
     "id": "stealskull",
     "name": "Stealskull",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/coifofglory_graphic.png",
+    "image": "/images/uniques/stealskull.png",
     "type": "Exceptional Unique",
     "base_item": "Casque",
     "properties": {
@@ -6185,13 +5956,12 @@
         "5% Mana Stolen Per Hit",
         "30-50% Better Chance of Getting Magic Items"
       ]
-    },
-    "local_image": "images/uniques/stealskull.png"
+    }
   },
   {
     "id": "goblin-toe",
     "name": "Goblin Toe",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/goblintoe_graphic.png",
+    "image": "/images/uniques/goblin-toe.png",
     "type": "Normal Unique",
     "base_item": "Light Plated Boots",
     "properties": {
@@ -6210,13 +5980,12 @@
         "Magic Damage Reduced By 1",
         "+15 Defense"
       ]
-    },
-    "local_image": "images/uniques/goblin-toe.png"
+    }
   },
   {
     "id": "swordback-hold",
     "name": "Swordback Hold",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/swordbackhold_graphic.png",
+    "image": "/images/uniques/swordback-hold.png",
     "type": "Normal Unique",
     "base_item": "Spiked Shield",
     "properties": {
@@ -6237,13 +6006,12 @@
         "50% Chance of Open Wounds",
         "Attacker Takes Damage of 10"
       ]
-    },
-    "local_image": "images/uniques/swordback-hold.png"
+    }
   },
   {
     "id": "lava-gout",
     "name": "Lava Gout",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lightgauntlets_graphic.png",
+    "image": "/images/uniques/lava-gout.png",
     "type": "Exceptional Unique",
     "base_item": "Battle Gauntlets",
     "properties": {
@@ -6261,13 +6029,12 @@
         "+20% Increased Attack Speed",
         "Fire Resist +24%"
       ]
-    },
-    "local_image": "images/uniques/lava-gout.png"
+    }
   },
   {
     "id": "shadow-dancer",
     "name": "Shadow Dancer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/shadowdancer_graphic.png",
+    "image": "/images/uniques/shadow-dancer.png",
     "type": "Elite Unique",
     "base_item": "Myrmidon Greaves",
     "properties": {
@@ -6287,13 +6054,12 @@
         "Requirements -20%",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/shadow-dancer.png"
+    }
   },
   {
     "id": "draculs-grasp",
     "name": "Dracul's Grasp",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/draculsgrasp_graphic.png",
+    "image": "/images/uniques/draculs-grasp.png",
     "type": "Elite Unique",
     "base_item": "Vampirebone Gloves",
     "properties": {
@@ -6312,13 +6078,12 @@
         "5% Chance To Cast Level 10 Life Tap On Striking",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/draculs-grasp.png"
+    }
   },
   {
     "id": "tiamats-rebuke",
     "name": "Tiamat's Rebuke",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/steelclash_graphic.png",
+    "image": "/images/uniques/tiamats-rebuke.png",
     "type": "Exceptional Unique",
     "base_item": "Dragon Shield",
     "properties": {
@@ -6342,13 +6107,12 @@
         "5% Chance To Cast Level 9 Frost Nova When Struck",
         "All Resistances +25-35%"
       ]
-    },
-    "local_image": "images/uniques/tiamats-rebuke.png"
+    }
   },
   {
     "id": "guardian-angel",
     "name": "Guardian Angel",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/guardianangel_graphic.png",
+    "image": "/images/uniques/guardian-angel.png",
     "type": "Exceptional Unique",
     "base_item": "Templar Coat",
     "properties": {
@@ -6370,13 +6134,12 @@
         "15% To Maximum Lightning Resist",
         "15% To Maximum Fire Resist"
       ]
-    },
-    "local_image": "images/uniques/guardian-angel.png"
+    }
   },
   {
     "id": "halaberds-reign",
     "name": "Halaberd's Reign",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/assualthelm_graphic.png",
+    "image": "/images/uniques/halaberds-reign.png",
     "type": "Elite Unique",
     "base_item": "Conqueror Crown",
     "properties": {
@@ -6397,13 +6160,12 @@
         "Patch 1.10 or later",
         "Barbarian equip only"
       ]
-    },
-    "local_image": "images/uniques/halaberds-reign.png"
+    }
   },
   {
     "id": "arreats-face",
     "name": "Arreat's Face",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/avengerguard_graphic.png",
+    "image": "/images/uniques/arreats-face.png",
     "type": "Exceptional Unique",
     "base_item": "Slayer Guard",
     "properties": {
@@ -6425,13 +6187,12 @@
         "+2 To Combat Skills (Barbarian Only)",
         "Barbarian equip only"
       ]
-    },
-    "local_image": "images/uniques/arreats-face.png"
+    }
   },
   {
     "id": "crainte-vomir",
     "name": "Crainte Vomir",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/shadowfang_graphic.png",
+    "image": "/images/uniques/crainte-vomir.png",
     "type": "Exceptional Unique",
     "base_item": "Espandon",
     "properties": {
@@ -6454,13 +6215,12 @@
         "20% Faster Run/Walk",
         "Damage Reduced By 10%"
       ]
-    },
-    "local_image": "images/uniques/crainte-vomir.png"
+    }
   },
   {
     "id": "gerkes-sanctuary",
     "name": "Gerke's Sanctuary",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bverritkeep_graphic.png",
+    "image": "/images/uniques/gerkes-sanctuary.png",
     "type": "Exceptional Unique",
     "base_item": "Pavise",
     "properties": {
@@ -6482,13 +6242,12 @@
         "Damage Reduced By 11-16",
         "Magic Damage Reduced By 14-18"
       ]
-    },
-    "local_image": "images/uniques/gerkes-sanctuary.png"
+    }
   },
   {
     "id": "guardian-naga",
     "name": "Guardian Naga",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/waraxe_graphic.png",
+    "image": "/images/uniques/guardian-naga.png",
     "type": "Exceptional Unique",
     "base_item": "Naga",
     "properties": {
@@ -6509,13 +6268,12 @@
         "Poison Resist +30%",
         "Attacker Takes Damage of 15"
       ]
-    },
-    "local_image": "images/uniques/guardian-naga.png"
+    }
   },
   {
     "id": "greyform",
     "name": "Greyform",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/greyform_graphic.png",
+    "image": "/images/uniques/greyform.png",
     "type": "Normal Unique",
     "base_item": "Quilted Armor",
     "properties": {
@@ -6533,13 +6291,12 @@
         "Fire Resist 20%",
         "+10 To Dexterity"
       ]
-    },
-    "local_image": "images/uniques/greyform.png"
+    }
   },
   {
     "id": "the-dragon-chang",
     "name": "The Dragon Chang",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thedragonchang_graphic.png",
+    "image": "/images/uniques/the-dragon-chang.png",
     "type": "Normal Unique",
     "base_item": "Spear",
     "properties": {
@@ -6559,13 +6316,12 @@
         "+35 to Attack Rating",
         "+2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/the-dragon-chang.png"
+    }
   },
   {
     "id": "ethereal-edge",
     "name": "Ethereal Edge",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/etherealedge_graphic.png",
+    "image": "/images/uniques/ethereal-edge.png",
     "type": "Elite Unique",
     "base_item": "Silver-Edged Axe",
     "properties": {
@@ -6589,13 +6345,12 @@
         "Ethereal (Cannot Be Repaired)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/ethereal-edge.png"
+    }
   },
   {
     "id": "chance-guards",
     "name": "Chance Guards",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/chanceguards_graphic.png",
+    "image": "/images/uniques/chance-guards.png",
     "type": "Normal Unique",
     "base_item": "Chain Gloves",
     "properties": {
@@ -6613,13 +6368,12 @@
         "200% Extra Gold From Monsters",
         "+2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/chance-guards.png"
+    }
   },
   {
     "id": "thunderstroke",
     "name": "Thunderstroke",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thunderstroke_graphic.png",
+    "image": "/images/uniques/thunderstroke.png",
     "type": "Elite Unique",
     "base_item": "Matriarchal Javelin",
     "properties": {
@@ -6646,13 +6400,12 @@
         "Amazon equip only",
         "Data updated for 2.4"
       ]
-    },
-    "local_image": "images/uniques/thunderstroke.png"
+    }
   },
   {
     "id": "darkglow",
     "name": "Darkglow",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/darkglow_graphic.png",
+    "image": "/images/uniques/darkglow.png",
     "type": "Normal Unique",
     "base_item": "Ring Mail",
     "properties": {
@@ -6673,13 +6426,12 @@
         "All Resistances +10",
         "+3 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/darkglow.png"
+    }
   },
   {
     "id": "butchers-pupil",
     "name": "Butcher's Pupil",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/butcherspupil_graphic.png",
+    "image": "/images/uniques/butchers-pupil.png",
     "type": "Exceptional Unique",
     "base_item": "Cleaver",
     "properties": {
@@ -6699,13 +6451,12 @@
         "30% Increased Attack Speed",
         "Indestructible"
       ]
-    },
-    "local_image": "images/uniques/butchers-pupil.png"
+    }
   },
   {
     "id": "goldskin",
     "name": "Goldskin",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/goldskin_graphic.png",
+    "image": "/images/uniques/goldskin.png",
     "type": "Normal Unique",
     "base_item": "Full Plate Mail",
     "properties": {
@@ -6722,13 +6473,12 @@
         "Attacker Takes Damage of 10",
         "100% Extra Gold From Monsters"
       ]
-    },
-    "local_image": "images/uniques/goldskin.png"
+    }
   },
   {
     "id": "medusas-gaze",
     "name": "Medusa's Gaze",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bverritkeep_graphic.png",
+    "image": "/images/uniques/medusas-gaze.png",
     "type": "Elite Unique",
     "base_item": "Aegis",
     "properties": {
@@ -6751,13 +6501,12 @@
         "100% Chance To Cast Level 44 Nova When You Die",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/medusas-gaze.png"
+    }
   },
   {
     "id": "goldwrap",
     "name": "Goldwrap",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/goldwrap_graphic.png",
+    "image": "/images/uniques/goldwrap.png",
     "type": "Normal Unique",
     "base_item": "Heavy Belt",
     "properties": {
@@ -6776,13 +6525,12 @@
         "50-80% Extra Gold From Monsters",
         "+2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/goldwrap.png"
+    }
   },
   {
     "id": "arkaines-valor",
     "name": "Arkaine's Valor",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/balrogskin_graphic.png",
+    "image": "/images/uniques/arkaines-valor.png",
     "type": "Elite Unique",
     "base_item": "Balrog Skin",
     "properties": {
@@ -6800,13 +6548,12 @@
         "Damage Reduced By 10-15",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/arkaines-valor.png"
+    }
   },
   {
     "id": "nords-tenderizer",
     "name": "Nord's Tenderizer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/felloak_graphic.png",
+    "image": "/images/uniques/nords-tenderizer.png",
     "type": "Elite Unique",
     "base_item": "Truncheon",
     "properties": {
@@ -6831,13 +6578,12 @@
         "+150-180% Bonus To Attack Rating",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/nords-tenderizer.png"
+    }
   },
   {
     "id": "hellclap",
     "name": "Hellclap",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hellclap_graphic.png",
+    "image": "/images/uniques/hellclap.png",
     "type": "Normal Unique",
     "base_item": "Short War Bow",
     "properties": {
@@ -6859,13 +6605,12 @@
         "Fire Resist +40%",
         "+12 to Dexterity"
       ]
-    },
-    "local_image": "images/uniques/hellclap.png"
+    }
   },
   {
     "id": "cold-rupture",
     "name": "Cold Rupture",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/coldrupture_graphic.png",
+    "image": "/images/uniques/cold-rupture.png",
     "type": "Elite Unique\nGrand Charm",
     "base_item": "",
     "properties": {
@@ -6877,13 +6622,12 @@
         "Cold resist -(70-90)%",
         "Patch 2.5 or later"
       ]
-    },
-    "local_image": "images/uniques/cold-rupture.png"
+    }
   },
   {
     "id": "griswolds-edge",
     "name": "Griswold's Edge",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/griswoldsedge_graphic.png",
+    "image": "/images/uniques/griswolds-edge.png",
     "type": "Normal Unique",
     "base_item": "Broad Sword",
     "properties": {
@@ -6904,13 +6648,12 @@
         "+12 To Strength",
         "Knockback"
       ]
-    },
-    "local_image": "images/uniques/griswolds-edge.png"
+    }
   },
   {
     "id": "blackbogs-sharp",
     "name": "Blackbog's Sharp",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thejadetando_graphic.png",
+    "image": "/images/uniques/blackbogs-sharp.png",
     "type": "Exceptional Unique",
     "base_item": "Cinquedeas",
     "properties": {
@@ -6934,13 +6677,12 @@
         "+4 To Poison Explosion (Necromancer Only)",
         "+5 To Poison Dagger (Necromancer Only)"
       ]
-    },
-    "local_image": "images/uniques/blackbogs-sharp.png"
+    }
   },
   {
     "id": "venom-grip",
     "name": "Venom Grip",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/leathergloves_graphic.png",
+    "image": "/images/uniques/venom-grip.png",
     "type": "Exceptional Unique",
     "base_item": "Demonhide Gloves",
     "properties": {
@@ -6959,13 +6701,12 @@
         "5% To Maximum Poison Resist",
         "Poison Resist +30%"
       ]
-    },
-    "local_image": "images/uniques/venom-grip.png"
+    }
   },
   {
     "id": "shadow-killer",
     "name": "Shadow Killer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/shadowkiller_graphic.png",
+    "image": "/images/uniques/shadow-killer.png",
     "type": "Elite Unique",
     "base_item": "Battle Cestus",
     "properties": {
@@ -6989,13 +6730,12 @@
         "Patch 1.10 or later",
         "Assassin equip only"
       ]
-    },
-    "local_image": "images/uniques/shadow-killer.png"
+    }
   },
   {
     "id": "black-hades",
     "name": "Black Hades",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/fullplate_graphic.png",
+    "image": "/images/uniques/black-hades.png",
     "type": "Exceptional Unique",
     "base_item": "Chaos Armor",
     "properties": {
@@ -7013,13 +6753,12 @@
         "Socketed (3)",
         "-2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/black-hades.png"
+    }
   },
   {
     "id": "dragonscale",
     "name": "Dragonscale",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/aerinshield_graphic.png",
+    "image": "/images/uniques/dragonscale.png",
     "type": "Elite Unique",
     "base_item": "Zakarum Shield",
     "properties": {
@@ -7042,13 +6781,12 @@
         "Patch 1.10 or later",
         "Paladin equip only"
       ]
-    },
-    "local_image": "images/uniques/dragonscale.png"
+    }
   },
   {
     "id": "ariocs-needle",
     "name": "Arioc's Needle",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ariocsneedle_graphic.png",
+    "image": "/images/uniques/ariocs-needle.png",
     "type": "Elite Unique",
     "base_item": "Hyperion Spear",
     "properties": {
@@ -7071,13 +6809,12 @@
         "Ignore Target's Defense",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/ariocs-needle.png"
+    }
   },
   {
     "id": "silks-of-the-victor",
     "name": "Silks of the Victor",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/victorssilk_graphic.png",
+    "image": "/images/uniques/silks-of-the-victor.png",
     "type": "Normal Unique",
     "base_item": "Ancient Armor",
     "properties": {
@@ -7093,13 +6830,12 @@
         "+1 to all Skills",
         "5% Mana stolen per hit"
       ]
-    },
-    "local_image": "images/uniques/silks-of-the-victor.png"
+    }
   },
   {
     "id": "plague-bearer",
     "name": "Plague Bearer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/plaguebearer_graphic.png",
+    "image": "/images/uniques/plague-bearer.png",
     "type": "Exceptional Unique",
     "base_item": "Rune Sword",
     "properties": {
@@ -7121,13 +6857,12 @@
         "Poison Resist +45%",
         "+5 To Rabies (Druid Only)"
       ]
-    },
-    "local_image": "images/uniques/plague-bearer.png"
+    }
   },
   {
     "id": "annihilus",
     "name": "Annihilus",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bluecharm_graphic.png",
+    "image": "/images/uniques/annihilus.png",
     "type": "Normal Unique\nSmall Charm",
     "base_item": "",
     "properties": {
@@ -7141,13 +6876,12 @@
         "+5-10% To Experience Gained",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/annihilus.png"
+    }
   },
   {
     "id": "kinemils-awl",
     "name": "Kinemil's Awl",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/kinemilsawl_graphic.png",
+    "image": "/images/uniques/kinemils-awl.png",
     "type": "Normal Unique",
     "base_item": "Giant Sword",
     "properties": {
@@ -7169,13 +6903,12 @@
         "+20 To Mana",
         "+6 To Holy Fire (Paladin Only)"
       ]
-    },
-    "local_image": "images/uniques/kinemils-awl.png"
+    }
   },
   {
     "id": "blinkbats-form",
     "name": "Blinkbat's Form",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/blinkbatsform_graphic.png",
+    "image": "/images/uniques/blinkbats-form.png",
     "type": "Normal Unique",
     "base_item": "Leather Armor",
     "properties": {
@@ -7192,13 +6925,12 @@
         "40% Faster Hit Recovery",
         "Adds 3-6 Fire Damage"
       ]
-    },
-    "local_image": "images/uniques/blinkbats-form.png"
+    }
   },
   {
     "id": "undead-crown",
     "name": "Undead Crown",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/undeadcrown_graphic.png",
+    "image": "/images/uniques/undead-crown.png",
     "type": "Normal Unique",
     "base_item": "Crown",
     "properties": {
@@ -7218,13 +6950,12 @@
         "+40 Defense",
         "+3 To Skeleton Mastery (Necromancer Only)"
       ]
-    },
-    "local_image": "images/uniques/undead-crown.png"
+    }
   },
   {
     "id": "stormchaser",
     "name": "Stormchaser",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/stormchaser_graphic.png",
+    "image": "/images/uniques/stormchaser.png",
     "type": "Exceptional Unique",
     "base_item": "Scutum",
     "properties": {
@@ -7249,13 +6980,12 @@
         "Half Freeze Duration",
         "Adds 1-60 Lightning Damage"
       ]
-    },
-    "local_image": "images/uniques/stormchaser.png"
+    }
   },
   {
     "id": "tearhaunch",
     "name": "Tearhaunch",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/tearhaunch_graphic.png",
+    "image": "/images/uniques/tearhaunch.png",
     "type": "Normal Unique",
     "base_item": "Greaves",
     "properties": {
@@ -7275,13 +7005,12 @@
         "+5 To Strength",
         "+2 To Vigor (Paladin Only)"
       ]
-    },
-    "local_image": "images/uniques/tearhaunch.png"
+    }
   },
   {
     "id": "crack-of-the-heavens",
     "name": "Crack of the Heavens",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/crackofheavens_graphic.png",
+    "image": "/images/uniques/crack-of-the-heavens.png",
     "type": "Elite Unique\nGrand Charm",
     "base_item": "",
     "properties": {
@@ -7293,13 +7022,12 @@
         "Lightning Resist -(70-90)%",
         "Patch 2.5 or later"
       ]
-    },
-    "local_image": "images/uniques/crack-of-the-heavens.png"
+    }
   },
   {
     "id": "rotting-fissure",
     "name": "Rotting Fissure",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/rottingfissure_graphic.png",
+    "image": "/images/uniques/rotting-fissure.png",
     "type": "Elite Unique\nGrand Charm",
     "base_item": "",
     "properties": {
@@ -7311,13 +7039,12 @@
         "Poison Resist -(70-90)%",
         "Patch 2.5 or later"
       ]
-    },
-    "local_image": "images/uniques/rotting-fissure.png"
+    }
   },
   {
     "id": "astreons-iron-ward",
     "name": "Astreon's Iron Ward",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/warscepter_graphic.png",
+    "image": "/images/uniques/astreons-iron-ward.png",
     "type": "Elite Unique",
     "base_item": "Caduceus",
     "properties": {
@@ -7344,13 +7071,12 @@
         "150-200% Bonus To Attack Rating",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/astreons-iron-ward.png"
+    }
   },
   {
     "id": "blackoak-shield",
     "name": "Blackoak Shield",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/umbraldisk_graphic.png",
+    "image": "/images/uniques/blackoak-shield.png",
     "type": "Elite Unique",
     "base_item": "Luna",
     "properties": {
@@ -7374,13 +7100,12 @@
         "Half Freeze Duration",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/blackoak-shield.png"
+    }
   },
   {
     "id": "radaments-sphere",
     "name": "Radament's Sphere",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/theward_graphic.png",
+    "image": "/images/uniques/radaments-sphere.png",
     "type": "Exceptional Unique",
     "base_item": "Ancient Shield",
     "properties": {
@@ -7403,13 +7128,12 @@
         "Poison Resist +75%",
         "+80 Poison Damage Over 4 Seconds"
       ]
-    },
-    "local_image": "images/uniques/radaments-sphere.png"
+    }
   },
   {
     "id": "bonehew",
     "name": "Bonehew",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bonehew_graphic.png",
+    "image": "/images/uniques/bonehew.png",
     "type": "Elite Unique",
     "base_item": "Ogre Axe",
     "properties": {
@@ -7432,13 +7156,12 @@
         "Socketed (2)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/bonehew.png"
+    }
   },
   {
     "id": "waterwalk",
     "name": "Waterwalk",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/heavyboots_graphic.png",
+    "image": "/images/uniques/waterwalk.png",
     "type": "Exceptional Unique",
     "base_item": "Sharkskin Boots",
     "properties": {
@@ -7459,13 +7182,12 @@
         "+40 Max Stamina",
         "+45-65 To Life"
       ]
-    },
-    "local_image": "images/uniques/waterwalk.png"
+    }
   },
   {
     "id": "fleshrender",
     "name": "Fleshrender",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/stoutnail_graphic.png",
+    "image": "/images/uniques/fleshrender.png",
     "type": "Exceptional Unique",
     "base_item": "Barbed Club",
     "properties": {
@@ -7489,13 +7211,12 @@
         "+2 To Shape Shifting Skills (Druid Only)",
         "Prevent Monster Heal"
       ]
-    },
-    "local_image": "images/uniques/fleshrender.png"
+    }
   },
   {
     "id": "infernostride",
     "name": "Infernostride",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/leatherboots_graphic.png",
+    "image": "/images/uniques/infernostride.png",
     "type": "Exceptional Unique",
     "base_item": "Demonhide Boots",
     "properties": {
@@ -7517,13 +7238,12 @@
         "40-70% Extra Gold From Monsters",
         "+2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/infernostride.png"
+    }
   },
   {
     "id": "the-gladiators-bane",
     "name": "The Gladiator's Bane",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gladiatorsbane_graphic.png",
+    "image": "/images/uniques/the-gladiators-bane.png",
     "type": "Elite Unique",
     "base_item": "Wire Fleece",
     "properties": {
@@ -7543,13 +7263,12 @@
         "Damage Reduced By 15-20",
         "Magic Damage Reduced By 15-20"
       ]
-    },
-    "local_image": "images/uniques/the-gladiators-bane.png"
+    }
   },
   {
     "id": "head-hunters-glory",
     "name": "Head Hunter's Glory",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/walloftheeyeless_graphic.png",
+    "image": "/images/uniques/head-hunters-glory.png",
     "type": "Elite Unique",
     "base_item": "Troll Nest",
     "properties": {
@@ -7572,13 +7291,12 @@
         "Socketed (1-3)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/head-hunters-glory.png"
+    }
   },
   {
     "id": "flame-rift",
     "name": "Flame Rift",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flamerift_graphic.png",
+    "image": "/images/uniques/flame-rift.png",
     "type": "Elite Unique\nGrand Charm",
     "base_item": "",
     "properties": {
@@ -7590,13 +7308,12 @@
         "Fire Resist -(70-90)%",
         "Patch 2.5 or later"
       ]
-    },
-    "local_image": "images/uniques/flame-rift.png"
+    }
   },
   {
     "id": "valkyrie-wing",
     "name": "Valkyrie Wing",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/howltusk_graphic.png",
+    "image": "/images/uniques/valkyrie-wing.png",
     "type": "Exceptional Unique",
     "base_item": "Winged Helm",
     "properties": {
@@ -7613,13 +7330,12 @@
         "20% Faster Hit Recovery",
         "+2-4 To Mana After Each Kill"
       ]
-    },
-    "local_image": "images/uniques/valkyrie-wing.png"
+    }
   },
   {
     "id": "torch-of-iro",
     "name": "Torch of Iro",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/irostorch_graphic.png",
+    "image": "/images/uniques/torch-of-iro.png",
     "type": "Normal Unique",
     "base_item": "Wand",
     "properties": {
@@ -7640,13 +7356,12 @@
         "6% Life Stolen Per Hit",
         "+3 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/torch-of-iro.png"
+    }
   },
   {
     "id": "stormeye",
     "name": "Stormeye",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/warscepter_graphic.png",
+    "image": "/images/uniques/stormeye.png",
     "type": "Normal Unique",
     "base_item": "War Scepter",
     "properties": {
@@ -7669,13 +7384,12 @@
         "+3 To Holy Shock (Paladin Only)",
         "+3-5 To Resist Lightning (Paladin Only)"
       ]
-    },
-    "local_image": "images/uniques/stormeye.png"
+    }
   },
   {
     "id": "cranebeak",
     "name": "Cranebeak",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mindrend_graphic.png",
+    "image": "/images/uniques/cranebeak.png",
     "type": "Elite Unique",
     "base_item": "War Spike",
     "properties": {
@@ -7698,13 +7412,12 @@
         "Level 8 Raven (15 charges)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/cranebeak.png"
+    }
   },
   {
     "id": "zakarums-hand",
     "name": "Zakarum's Hand",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/scepter_graphic.png",
+    "image": "/images/uniques/zakarums-hand.png",
     "type": "Exceptional Unique",
     "base_item": "Rune Scepter",
     "properties": {
@@ -7729,13 +7442,12 @@
         "+2 To Holy Shock (Paladin Only)",
         "+2 To Holy Freeze (Paladin Only)"
       ]
-    },
-    "local_image": "images/uniques/zakarums-hand.png"
+    }
   },
   {
     "id": "ichorsting",
     "name": "Ichorsting",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ichorsting_graphic.png",
+    "image": "/images/uniques/ichorsting.png",
     "type": "Normal Unique",
     "base_item": "Crossbow",
     "properties": {
@@ -7756,13 +7468,12 @@
         "+50 to Attack Rating",
         "+20 to Dexterity"
       ]
-    },
-    "local_image": "images/uniques/ichorsting.png"
+    }
   },
   {
     "id": "stormguild",
     "name": "Stormguild",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/stormguild_graphic.png",
+    "image": "/images/uniques/stormguild.png",
     "type": "Normal Unique",
     "base_item": "Large Shield",
     "properties": {
@@ -7785,13 +7496,12 @@
         "Attacker Takes Lightning Damage Of 3",
         "Magic Damage Reduced By 1"
       ]
-    },
-    "local_image": "images/uniques/stormguild.png"
+    }
   },
   {
     "id": "steel-shade",
     "name": "Steel Shade",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/steelshade_graphic.png",
+    "image": "/images/uniques/steel-shade.png",
     "type": "Elite Unique",
     "base_item": "Armet",
     "properties": {
@@ -7808,13 +7518,12 @@
         "+5-11 Fire Absorb",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/steel-shade.png"
+    }
   },
   {
     "id": "culwens-point",
     "name": "Culwen's Point",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/warsword_graphic.png",
+    "image": "/images/uniques/culwens-point.png",
     "type": "Normal Unique",
     "base_item": "War Sword",
     "properties": {
@@ -7836,13 +7545,12 @@
         "20% Faster Hit Recovery",
         "+60 to Attack Rating"
       ]
-    },
-    "local_image": "images/uniques/culwens-point.png"
+    }
   },
   {
     "id": "stoutnail",
     "name": "Stoutnail",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/stoutnail_graphic.png",
+    "image": "/images/uniques/stoutnail.png",
     "type": "Normal Unique",
     "base_item": "Spiked Club",
     "properties": {
@@ -7861,13 +7569,12 @@
         "Attacker Takes Damage of 3-10",
         "Magic Damage Reduced By 2"
       ]
-    },
-    "local_image": "images/uniques/stoutnail.png"
+    }
   },
   {
     "id": "crushflange",
     "name": "Crushflange",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/crushflange_graphic.png",
+    "image": "/images/uniques/crushflange.png",
     "type": "Normal Unique",
     "base_item": "Mace",
     "properties": {
@@ -7889,13 +7596,12 @@
         "+15 To Strength",
         "+2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/crushflange.png"
+    }
   },
   {
     "id": "axe-of-fechmar",
     "name": "Axe of Fechmar",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/largeaxe_graphic.png",
+    "image": "/images/uniques/axe-of-fechmar.png",
     "type": "Normal Unique",
     "base_item": "Large Axe",
     "properties": {
@@ -7914,13 +7620,12 @@
         "Cold Resist +50%",
         "+2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/axe-of-fechmar.png"
+    }
   },
   {
     "id": "the-spirit-shroud",
     "name": "The Spirit Shroud",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/quilted_graphic.png",
+    "image": "/images/uniques/the-spirit-shroud.png",
     "type": "Exceptional Unique",
     "base_item": "Ghost Armor",
     "properties": {
@@ -7937,13 +7642,12 @@
         "Replenish Life +10",
         "Magic Damage Reduced By 7-11"
       ]
-    },
-    "local_image": "images/uniques/the-spirit-shroud.png"
+    }
   },
   {
     "id": "vampire-gaze",
     "name": "Vampire Gaze",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/vampiregaze_graphic.png",
+    "image": "/images/uniques/vampire-gaze.png",
     "type": "Exceptional Unique",
     "base_item": "Grim Helm",
     "properties": {
@@ -7962,13 +7666,12 @@
         "Damage Reduced By 15-20%",
         "Magic Damage Reduced By 10-15"
       ]
-    },
-    "local_image": "images/uniques/vampire-gaze.png"
+    }
   },
   {
     "id": "sparking-mail",
     "name": "Sparking Mail",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sparklingmail_graphic.png",
+    "image": "/images/uniques/sparking-mail.png",
     "type": "Normal Unique",
     "base_item": "Chain Mail",
     "properties": {
@@ -7984,13 +7687,12 @@
         "Attacker Takes Lightning Damage of 10-14",
         "Adds 1-20 Lightning Damage"
       ]
-    },
-    "local_image": "images/uniques/sparking-mail.png"
+    }
   },
   {
     "id": "iceblink",
     "name": "Iceblink",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/iceblink_graphic.png",
+    "image": "/images/uniques/iceblink.png",
     "type": "Normal Unique",
     "base_item": "Splint Mail",
     "properties": {
@@ -8007,13 +7709,12 @@
         "Magic Damage Reduced By 1",
         "+4 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/iceblink.png"
+    }
   },
   {
     "id": "knell-striker",
     "name": "Knell Striker",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/scepter_graphic.png",
+    "image": "/images/uniques/knell-striker.png",
     "type": "Normal Unique",
     "base_item": "Scepter",
     "properties": {
@@ -8035,13 +7736,12 @@
         "Fire Resist +20%",
         "+15 To Mana"
       ]
-    },
-    "local_image": "images/uniques/knell-striker.png"
+    }
   },
   {
     "id": "ginthers-rift",
     "name": "Ginther's Rift",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/riftlash_graphic.png",
+    "image": "/images/uniques/ginthers-rift.png",
     "type": "Exceptional Unique",
     "base_item": "Dimensional Blade",
     "properties": {
@@ -8062,13 +7762,12 @@
         "Magic Damage Reduced By 7-12",
         "Repairs 1 Durability in 5 Seconds"
       ]
-    },
-    "local_image": "images/uniques/ginthers-rift.png"
+    }
   },
   {
     "id": "the-ward",
     "name": "The Ward",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/theward_graphic.png",
+    "image": "/images/uniques/the-ward.png",
     "type": "Normal Unique",
     "base_item": "Gothic Shield",
     "properties": {
@@ -8090,13 +7789,12 @@
         "Magic Damage Reduced By 2",
         "+10 To Strength"
       ]
-    },
-    "local_image": "images/uniques/the-ward.png"
+    }
   },
   {
     "id": "dark-clan-crusher",
     "name": "Dark Clan Crusher",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/felloak_graphic.png",
+    "image": "/images/uniques/dark-clan-crusher.png",
     "type": "Exceptional Unique",
     "base_item": "Cudgel",
     "properties": {
@@ -8118,13 +7816,12 @@
         "+15 Life After Each Demon Kill",
         "+2 To Druid Skill Levels"
       ]
-    },
-    "local_image": "images/uniques/dark-clan-crusher.png"
+    }
   },
   {
     "id": "mosers-blessed-circle",
     "name": "Moser's Blessed Circle",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/blessedcircle_graphic.png",
+    "image": "/images/uniques/mosers-blessed-circle.png",
     "type": "Exceptional Unique",
     "base_item": "Round Shield",
     "properties": {
@@ -8145,13 +7842,12 @@
         "All Resistances +25",
         "Socketed (2)"
       ]
-    },
-    "local_image": "images/uniques/mosers-blessed-circle.png"
+    }
   },
   {
     "id": "hawkmail",
     "name": "Hawkmail",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hawkmail_graphic.png",
+    "image": "/images/uniques/hawkmail.png",
     "type": "Normal Unique",
     "base_item": "Scale Mail",
     "properties": {
@@ -8168,13 +7864,12 @@
         "Cold Resist +15%",
         "Cannot Be Frozen"
       ]
-    },
-    "local_image": "images/uniques/hawkmail.png"
+    }
   },
   {
     "id": "crow-caw",
     "name": "Crow Caw",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/scalemail_graphic.png",
+    "image": "/images/uniques/crow-caw.png",
     "type": "Exceptional Unique",
     "base_item": "Tigulated Mail",
     "properties": {
@@ -8191,13 +7886,12 @@
         "35% Chance of Open Wounds",
         "+15 Dexterity"
       ]
-    },
-    "local_image": "images/uniques/crow-caw.png"
+    }
   },
   {
     "id": "howltusk",
     "name": "Howltusk",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/howltusk_graphic.png",
+    "image": "/images/uniques/howltusk.png",
     "type": "Normal Unique",
     "base_item": "Great Helm",
     "properties": {
@@ -8215,13 +7909,12 @@
         "Knockback",
         "Hit Causes Monster To Flee 25%"
       ]
-    },
-    "local_image": "images/uniques/howltusk.png"
+    }
   },
   {
     "id": "rockfleece",
     "name": "Rockfleece",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/rockfleece_graphic.png",
+    "image": "/images/uniques/rockfleece.png",
     "type": "Normal Unique",
     "base_item": "Field Plate",
     "properties": {
@@ -8238,13 +7931,12 @@
         "+5 To Strength",
         "Damage Reduced By 5"
       ]
-    },
-    "local_image": "images/uniques/rockfleece.png"
+    }
   },
   {
     "id": "heavenly-garb",
     "name": "Heavenly Garb",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/heavenlygarb_graphic.png",
+    "image": "/images/uniques/heavenly-garb.png",
     "type": "Normal Unique",
     "base_item": "Light Plate",
     "properties": {
@@ -8262,13 +7954,12 @@
         "+50% Damage To Undead",
         "+100 To Attack Rating Against Undead"
       ]
-    },
-    "local_image": "images/uniques/heavenly-garb.png"
+    }
   },
   {
     "id": "iron-pelt",
     "name": "Iron Pelt",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ironpelt_graphic.png",
+    "image": "/images/uniques/iron-pelt.png",
     "type": "Exceptional Unique",
     "base_item": "Trellised Armor",
     "properties": {
@@ -8285,13 +7976,12 @@
         "Magic Damage Reduced by 10-16",
         "+25 To Life"
       ]
-    },
-    "local_image": "images/uniques/iron-pelt.png"
+    }
   },
   {
     "id": "toothrow",
     "name": "Toothrow",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/toothrow_graphic.png",
+    "image": "/images/uniques/toothrow.png",
     "type": "Exceptional Unique",
     "base_item": "Sharktooth Armor",
     "properties": {
@@ -8309,13 +7999,12 @@
         "+10 Strength",
         "Attacker Takes Damage of 20-40"
       ]
-    },
-    "local_image": "images/uniques/toothrow.png"
+    }
   },
   {
     "id": "pompeiis-wrath",
     "name": "Pompeii's Wrath",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mindrend_graphic.png",
+    "image": "/images/uniques/pompeiis-wrath.png",
     "type": "Exceptional Unique",
     "base_item": "Crowbill",
     "properties": {
@@ -8336,13 +8025,12 @@
         "4% Chance To Cast Level 8 Volcano On Striking",
         "Knockback"
       ]
-    },
-    "local_image": "images/uniques/pompeiis-wrath.png"
+    }
   },
   {
     "id": "duskdeep",
     "name": "Duskdeep",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/duskdeep_graphic.png",
+    "image": "/images/uniques/duskdeep.png",
     "type": "Normal Unique",
     "base_item": "Full Helm",
     "properties": {
@@ -8360,13 +8048,12 @@
         "+8 To Maximum Damage",
         "-2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/duskdeep.png"
+    }
   },
   {
     "id": "coif-of-glory",
     "name": "Coif of Glory",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/coifofglory_graphic.png",
+    "image": "/images/uniques/coif-of-glory.png",
     "type": "Normal Unique",
     "base_item": "Helm",
     "properties": {
@@ -8383,13 +8070,12 @@
         "Lightning Resist +15%",
         "+100 Defense vs. Missile"
       ]
-    },
-    "local_image": "images/uniques/coif-of-glory.png"
+    }
   },
   {
     "id": "earthshaker",
     "name": "Earthshaker",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/warhammer_graphic.png",
+    "image": "/images/uniques/earthshaker.png",
     "type": "Exceptional Unique",
     "base_item": "Battle Hammer",
     "properties": {
@@ -8411,13 +8097,12 @@
         "Knockback",
         "+3 To Elemental Skills (Druid Only)"
       ]
-    },
-    "local_image": "images/uniques/earthshaker.png"
+    }
   },
   {
     "id": "ironstone",
     "name": "Ironstone",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ironstone_graphic.png",
+    "image": "/images/uniques/ironstone.png",
     "type": "Normal Unique",
     "base_item": "War Hammer",
     "properties": {
@@ -8437,13 +8122,12 @@
         "+100-150 To Attack Rating",
         "+10 To Strength"
       ]
-    },
-    "local_image": "images/uniques/ironstone.png"
+    }
   },
   {
     "id": "wall-of-the-eyeless",
     "name": "Wall of the Eyeless",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/walloftheeyeless_graphic.png",
+    "image": "/images/uniques/wall-of-the-eyeless.png",
     "type": "Normal Unique",
     "base_item": "Bone Shield",
     "properties": {
@@ -8465,13 +8149,12 @@
         "3% Mana Stolen Per Hit",
         "Poison Resist +20%"
       ]
-    },
-    "local_image": "images/uniques/wall-of-the-eyeless.png"
+    }
   },
   {
     "id": "steelclash",
     "name": "Steelclash",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/steelclash_graphic.png",
+    "image": "/images/uniques/steelclash.png",
     "type": "Normal Unique",
     "base_item": "Kite Shield",
     "properties": {
@@ -8495,13 +8178,12 @@
         "+3 To Light Radius",
         "Damage Reduced By 3"
       ]
-    },
-    "local_image": "images/uniques/steelclash.png"
+    }
   },
   {
     "id": "bverrit-keep",
     "name": "Bverrit Keep",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bverritkeep_graphic.png",
+    "image": "/images/uniques/bverrit-keep.png",
     "type": "Normal Unique",
     "base_item": "Tower Shield",
     "properties": {
@@ -8523,13 +8205,12 @@
         "+5 To Strength",
         "Magic Damage Reduced By 5"
       ]
-    },
-    "local_image": "images/uniques/bverrit-keep.png"
+    }
   },
   {
     "id": "crown-of-thieves",
     "name": "Crown of Thieves",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/crownofthieves_graphic.png",
+    "image": "/images/uniques/crown-of-thieves.png",
     "type": "Exceptional Unique",
     "base_item": "Grand Crown",
     "properties": {
@@ -8548,13 +8229,12 @@
         "+25 To Dexterity",
         "80-100% Extra Gold From Monsters"
       ]
-    },
-    "local_image": "images/uniques/crown-of-thieves.png"
+    }
   },
   {
     "id": "chromatic-ire",
     "name": "Chromatic Ire",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lazarusspire_graphic.png",
+    "image": "/images/uniques/chromatic-ire.png",
     "type": "Exceptional Unique",
     "base_item": "Cedar Staff",
     "properties": {
@@ -8578,13 +8258,12 @@
         "+1 To Lightning Mastery (Sorceress Only)",
         "+1 To Fire Mastery (Sorceress Only)"
       ]
-    },
-    "local_image": "images/uniques/chromatic-ire.png"
+    }
   },
   {
     "id": "eschutas-temper",
     "name": "Eschuta's Temper",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/sacredglobe_graphic.png",
+    "image": "/images/uniques/eschutas-temper.png",
     "type": "Elite Unique",
     "base_item": "Eldritch Orb",
     "properties": {
@@ -8605,13 +8284,12 @@
         "Patch 1.10 or later",
         "Sorceress equip only"
       ]
-    },
-    "local_image": "images/uniques/eschutas-temper.png"
+    }
   },
   {
     "id": "coldsteel-eye",
     "name": "Coldsteel Eye",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodcrescent_graphic.png",
+    "image": "/images/uniques/coldsteel-eye.png",
     "type": "Exceptional Unique",
     "base_item": "Cutlass",
     "properties": {
@@ -8633,13 +8311,12 @@
         "Slows Target By 30%",
         "Hit Blinds Target"
       ]
-    },
-    "local_image": "images/uniques/coldsteel-eye.png"
+    }
   },
   {
     "id": "widowmaker",
     "name": "Widowmaker",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/widowmaker_graphic.png",
+    "image": "/images/uniques/widowmaker.png",
     "type": "Elite Unique",
     "base_item": "Ward Bow",
     "properties": {
@@ -8660,13 +8337,12 @@
         "Fires Magic Arrows [Level 11]",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/widowmaker.png"
+    }
   },
   {
     "id": "the-salamander",
     "name": "The Salamander",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thesalamander_graphic.png",
+    "image": "/images/uniques/the-salamander.png",
     "type": "Normal Unique",
     "base_item": "Battle Staff",
     "properties": {
@@ -8687,13 +8363,12 @@
         "+2 To Fire Ball (Sorceress Only)",
         "+1 To Fire Wall (Sorceress Only)"
       ]
-    },
-    "local_image": "images/uniques/the-salamander.png"
+    }
   },
   {
     "id": "islestrike",
     "name": "Islestrike",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/doubleaxe_graphic.png",
+    "image": "/images/uniques/islestrike.png",
     "type": "Exceptional Unique",
     "base_item": "Twin Axe",
     "properties": {
@@ -8715,13 +8390,12 @@
         "+1 Fury (Druid Only)",
         "+1 Maul (Druid Only)"
       ]
-    },
-    "local_image": "images/uniques/islestrike.png"
+    }
   },
   {
     "id": "magefist",
     "name": "Magefist",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/magefist_graphic.png",
+    "image": "/images/uniques/magefist.png",
     "type": "Normal Unique",
     "base_item": "Light Gauntlets",
     "properties": {
@@ -8739,13 +8413,12 @@
         "Regenerate Mana 25%",
         "Adds 1-6 Fire Damage"
       ]
-    },
-    "local_image": "images/uniques/magefist.png"
+    }
   },
   {
     "id": "glooms-trap",
     "name": "Gloom's Trap",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/belt_graphic.png",
+    "image": "/images/uniques/glooms-trap.png",
     "type": "Exceptional Unique",
     "base_item": "Mesh Belt",
     "properties": {
@@ -8764,13 +8437,12 @@
         "+15 To Vitality",
         "-3 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/glooms-trap.png"
+    }
   },
   {
     "id": "bartucs-cut-throat",
     "name": "Bartuc's Cut-Throat",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/claws_graphic.png",
+    "image": "/images/uniques/bartucs-cut-throat.png",
     "type": "Exceptional Unique",
     "base_item": "Greater Talons",
     "properties": {
@@ -8796,13 +8468,12 @@
         "+1 To Martial Arts Skills (Assassin Only)",
         "Assassin equip only"
       ]
-    },
-    "local_image": "images/uniques/bartucs-cut-throat.png"
+    }
   },
   {
     "id": "doomslinger",
     "name": "Doomslinger",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/doomspittle_graphic.png",
+    "image": "/images/uniques/doomslinger.png",
     "type": "Normal Unique",
     "base_item": "Repeating Crossbow",
     "properties": {
@@ -8822,13 +8493,12 @@
         "+1 To Amazon Skill Levels",
         "+15 To Life"
       ]
-    },
-    "local_image": "images/uniques/doomslinger.png"
+    }
   },
   {
     "id": "lance-of-yaggai",
     "name": "Lance of Yaggai",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lanceofyaggai_graphic.png",
+    "image": "/images/uniques/lance-of-yaggai.png",
     "type": "Normal Unique",
     "base_item": "Spetum",
     "properties": {
@@ -8848,13 +8518,12 @@
         "40% Increased Attack Speed",
         "Attacker takes damage of 8"
       ]
-    },
-    "local_image": "images/uniques/lance-of-yaggai.png"
+    }
   },
   {
     "id": "ripsaw",
     "name": "Ripsaw",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ripsaw_graphic.png",
+    "image": "/images/uniques/ripsaw.png",
     "type": "Normal Unique",
     "base_item": "Flamberge",
     "properties": {
@@ -8875,13 +8544,12 @@
         "80% Chance of Open Wounds",
         "6% Mana stolen per hit"
       ]
-    },
-    "local_image": "images/uniques/ripsaw.png"
+    }
   },
   {
     "id": "blacktongue",
     "name": "Blacktongue",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/blacktongue_graphic.png",
+    "image": "/images/uniques/blacktongue.png",
     "type": "Normal Unique",
     "base_item": "Bastard Sword",
     "properties": {
@@ -8902,13 +8570,12 @@
         "+50 To Attack Rating",
         "Poison Resist +50%"
       ]
-    },
-    "local_image": "images/uniques/blacktongue.png"
+    }
   },
   {
     "id": "war-traveler",
     "name": "War Traveler",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lightplateboots_graphic.png",
+    "image": "/images/uniques/war-traveler.png",
     "type": "Exceptional Unique",
     "base_item": "Battle Boots",
     "properties": {
@@ -8929,13 +8596,12 @@
         "Attacker Takes Damage Of 5-10",
         "30-50% Better Chance of Getting Magic Items"
       ]
-    },
-    "local_image": "images/uniques/war-traveler.png"
+    }
   },
   {
     "id": "hellplague",
     "name": "Hellplague",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hellplague_graphic.png",
+    "image": "/images/uniques/hellplague.png",
     "type": "Normal Unique",
     "base_item": "Long Sword",
     "properties": {
@@ -8957,13 +8623,12 @@
         "5% Life Stolen Per Hit",
         "5% Mana Stolen Per Hit"
       ]
-    },
-    "local_image": "images/uniques/hellplague.png"
+    }
   },
   {
     "id": "jade-talon",
     "name": "Jade Talon",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/jadetalon_graphic.png",
+    "image": "/images/uniques/jade-talon.png",
     "type": "Elite Unique",
     "base_item": "Wrist Sword",
     "properties": {
@@ -8987,13 +8652,12 @@
         "Patch 1.10 or later",
         "Assassin equip only"
       ]
-    },
-    "local_image": "images/uniques/jade-talon.png"
+    }
   },
   {
     "id": "razortail",
     "name": "Razortail",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lightbelt_graphic.png",
+    "image": "/images/uniques/razortail.png",
     "type": "Exceptional Unique",
     "base_item": "Sharkskin Belt",
     "properties": {
@@ -9012,13 +8676,12 @@
         "+15 To Dexterity",
         "Attacker Takes Damage of (1 Per Character Level) 1-99 (Based On Character Level)"
       ]
-    },
-    "local_image": "images/uniques/razortail.png"
+    }
   },
   {
     "id": "razorswitch",
     "name": "Razorswitch",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/shortstaff_graphic.png",
+    "image": "/images/uniques/razorswitch.png",
     "type": "Exceptional Unique",
     "base_item": "Jo Staff",
     "properties": {
@@ -9041,13 +8704,12 @@
         "+80 To Life",
         "Attacker Takes Damage Of 15"
       ]
-    },
-    "local_image": "images/uniques/razorswitch.png"
+    }
   },
   {
     "id": "silkweave",
     "name": "Silkweave",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/chainboots_graphic.png",
+    "image": "/images/uniques/silkweave.png",
     "type": "Exceptional Unique",
     "base_item": "Mesh Boots",
     "properties": {
@@ -9065,13 +8727,12 @@
         "Increase Maximum Mana 10%",
         "+200 Defense VS. Missile"
       ]
-    },
-    "local_image": "images/uniques/silkweave.png"
+    }
   },
   {
     "id": "the-chieftain",
     "name": "The Chieftain",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thechieftan_graphic.png",
+    "image": "/images/uniques/the-chieftain.png",
     "type": "Normal Unique",
     "base_item": "Battle Axe",
     "properties": {
@@ -9091,13 +8752,12 @@
         "All Resistances +10-20",
         "+6 To Mana After Each Kill"
       ]
-    },
-    "local_image": "images/uniques/the-chieftain.png"
+    }
   },
   {
     "id": "bloodfist",
     "name": "Bloodfist",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodfist_graphic.png",
+    "image": "/images/uniques/bloodfist.png",
     "type": "Normal Unique",
     "base_item": "Heavy Gloves",
     "properties": {
@@ -9114,13 +8774,12 @@
         "+40 To Life",
         "+5 To Min Damage"
       ]
-    },
-    "local_image": "images/uniques/bloodfist.png"
+    }
   },
   {
     "id": "the-generals-tan-do-li-ga",
     "name": "The General's Tan Do Li Ga",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thegeneralstandoliga_graphic.png",
+    "image": "/images/uniques/the-generals-tan-do-li-ga.png",
     "type": "Normal Unique",
     "base_item": "Flail",
     "properties": {
@@ -9143,13 +8802,12 @@
         "Slows Target By 50%",
         "+25 Defense"
       ]
-    },
-    "local_image": "images/uniques/the-generals-tan-do-li-ga.png"
+    }
   },
   {
     "id": "cloudcrack",
     "name": "Cloudcrack",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/blacktongue_graphic.png",
+    "image": "/images/uniques/cloudcrack.png",
     "type": "Exceptional Unique",
     "base_item": "Gothic Sword",
     "properties": {
@@ -9175,13 +8833,12 @@
         "+2 To Offensive Auras (Paladin Only)",
         "+2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/cloudcrack.png"
+    }
   },
   {
     "id": "soul-harvest",
     "name": "Soul Harvest",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/soulharvest_graphic.png",
+    "image": "/images/uniques/soul-harvest.png",
     "type": "Normal Unique",
     "base_item": "Scythe",
     "properties": {
@@ -9203,13 +8860,12 @@
         "+5 To Energy",
         "All Resistances +20"
       ]
-    },
-    "local_image": "images/uniques/soul-harvest.png"
+    }
   },
   {
     "id": "thundergods-vigor",
     "name": "Thundergod's Vigor",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/girdle_graphic.png",
+    "image": "/images/uniques/thundergods-vigor.png",
     "type": "Exceptional Unique",
     "base_item": "War Belt",
     "properties": {
@@ -9231,13 +8887,12 @@
         "+3 To Lightning Fury (Amazon Only)",
         "+3 To Lightning Strike (Amazon Only)"
       ]
-    },
-    "local_image": "images/uniques/thundergods-vigor.png"
+    }
   },
   {
     "id": "warlords-trust",
     "name": "Warlord's Trust",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/largeaxe_graphic.png",
+    "image": "/images/uniques/warlords-trust.png",
     "type": "Exceptional Unique",
     "base_item": "Military Axe",
     "properties": {
@@ -9258,13 +8913,12 @@
         "All Resistances +10",
         "+75 Defense"
       ]
-    },
-    "local_image": "images/uniques/warlords-trust.png"
+    }
   },
   {
     "id": "goreshovel",
     "name": "Goreshovel",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/broadaxe_graphic.png",
+    "image": "/images/uniques/goreshovel.png",
     "type": "Normal Unique",
     "base_item": "Broad Axe",
     "properties": {
@@ -9284,13 +8938,12 @@
         "30% Increased Attack Speed",
         "+25 To Strength"
       ]
-    },
-    "local_image": "images/uniques/goreshovel.png"
+    }
   },
   {
     "id": "ondals-wisdom",
     "name": "Ondal's Wisdom",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lazarusspire_graphic.png",
+    "image": "/images/uniques/ondals-wisdom.png",
     "type": "Elite Unique",
     "base_item": "Elder Staff",
     "properties": {
@@ -9314,13 +8967,12 @@
         "+50% Damage To Undead",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/ondals-wisdom.png"
+    }
   },
   {
     "id": "spire-of-honor",
     "name": "Spire of Honor",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thetannrgorerod_graphic.png",
+    "image": "/images/uniques/spire-of-honor.png",
     "type": "Exceptional Unique",
     "base_item": "Lance",
     "properties": {
@@ -9345,13 +8997,12 @@
         "+3 To Combat Skills (Paladin Only)",
         "+3 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/spire-of-honor.png"
+    }
   },
   {
     "id": "deathspade",
     "name": "Deathspade",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/deathspade_graphic.png",
+    "image": "/images/uniques/deathspade.png",
     "type": "Normal Unique",
     "base_item": "Axe",
     "properties": {
@@ -9371,13 +9022,12 @@
         "Hit Blinds Target",
         "+4 points of Mana after each kill"
       ]
-    },
-    "local_image": "images/uniques/deathspade.png"
+    }
   },
   {
     "id": "soulflay",
     "name": "Soulflay",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/soulflay_graphic.png",
+    "image": "/images/uniques/soulflay.png",
     "type": "Normal Unique",
     "base_item": "Claymore",
     "properties": {
@@ -9398,13 +9048,12 @@
         "4-10% Mana stolen per hit",
         "All Resistances +5"
       ]
-    },
-    "local_image": "images/uniques/soulflay.png"
+    }
   },
   {
     "id": "athenas-wrath",
     "name": "Athena's Wrath",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/athenaswrath_graphic.png",
+    "image": "/images/uniques/athenas-wrath.png",
     "type": "Exceptional Unique",
     "base_item": "Battle Scythe",
     "properties": {
@@ -9426,13 +9075,12 @@
         "+1-3 To Druid Skill Levels",
         "+15 To Dexterity"
       ]
-    },
-    "local_image": "images/uniques/athenas-wrath.png"
+    }
   },
   {
     "id": "humongous",
     "name": "Humongous",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/giantaxe_graphic.png",
+    "image": "/images/uniques/humongous.png",
     "type": "Normal Unique",
     "base_item": "Giant Axe",
     "properties": {
@@ -9452,13 +9100,12 @@
         "Requirements 20%",
         "+20-30 to Strength"
       ]
-    },
-    "local_image": "images/uniques/humongous.png"
+    }
   },
   {
     "id": "spire-of-lazarus",
     "name": "Spire of Lazarus",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lazarusspire_graphic.png",
+    "image": "/images/uniques/spire-of-lazarus.png",
     "type": "Normal Unique",
     "base_item": "Gnarled Staff",
     "properties": {
@@ -9482,13 +9129,12 @@
         "Damage Reduced By 5",
         "Lightning Resist +75%"
       ]
-    },
-    "local_image": "images/uniques/spire-of-lazarus.png"
+    }
   },
   {
     "id": "brainhew",
     "name": "Brainhew",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/brainhew_graphic.png",
+    "image": "/images/uniques/brainhew.png",
     "type": "Normal Unique",
     "base_item": "Great Axe",
     "properties": {
@@ -9510,13 +9156,12 @@
         "+25 To Mana",
         "+4 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/brainhew.png"
+    }
   },
   {
     "id": "dimoaks-hew",
     "name": "Dimoak's Hew",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bardiche_graphic.png",
+    "image": "/images/uniques/dimoaks-hew.png",
     "type": "Normal Unique",
     "base_item": "Bardiche",
     "properties": {
@@ -9535,13 +9180,12 @@
         "+15 Dexterity",
         "-8 Defense"
       ]
-    },
-    "local_image": "images/uniques/dimoaks-hew.png"
+    }
   },
   {
     "id": "marrowwalk",
     "name": "Marrowwalk",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/chainboots_graphic.png",
+    "image": "/images/uniques/marrowwalk.png",
     "type": "Elite Unique",
     "base_item": "Boneweave Boots",
     "properties": {
@@ -9565,13 +9209,12 @@
         "Level 12 Life Tap (10 Charges)",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/marrowwalk.png"
+    }
   },
   {
     "id": "rogues-bow",
     "name": "Rogue's Bow",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/piercerib_graphic.png",
+    "image": "/images/uniques/rogues-bow.png",
     "type": "Normal Unique",
     "base_item": "Composite Bow",
     "properties": {
@@ -9592,13 +9235,12 @@
         "+60 to Attack Rating",
         "All Resistances +10"
       ]
-    },
-    "local_image": "images/uniques/rogues-bow.png"
+    }
   },
   {
     "id": "rainbow-facet-lightning-death",
     "name": "Rainbow Facet: Lightning Death",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/jewel06_graphic.png",
+    "image": "/images/uniques/rainbow-facet-lightning-death.png",
     "type": "Normal Unique\nJewel",
     "base_item": "",
     "properties": {
@@ -9612,13 +9254,12 @@
         "-(3-5)% To Enemy Lightning Resistance",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/rainbow-facet-lightning-death.png"
+    }
   },
   {
     "id": "rainbow-facet-lightning-level-up",
     "name": "Rainbow Facet: Lightning Level-up",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/jewel06_graphic.png",
+    "image": "/images/uniques/rainbow-facet-lightning-level-up.png",
     "type": "Normal Unique\nJewel",
     "base_item": "",
     "properties": {
@@ -9632,13 +9273,12 @@
         "-(3-5)% To Enemy Lightning Resistance",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/rainbow-facet-lightning-level-up.png"
+    }
   },
   {
     "id": "rainbow-facet-poison-level-up",
     "name": "Rainbow Facet: Poison Level-up",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/jewel04_graphic.png",
+    "image": "/images/uniques/rainbow-facet-poison-level-up.png",
     "type": "Normal Unique\nJewel",
     "base_item": "",
     "properties": {
@@ -9652,13 +9292,12 @@
         "-(3-5)% To Enemy Poison Resistance",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/rainbow-facet-poison-level-up.png"
+    }
   },
   {
     "id": "witherstring",
     "name": "Witherstring",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/witherstring_graphic.png",
+    "image": "/images/uniques/witherstring.png",
     "type": "Normal Unique",
     "base_item": "Hunter's Bow",
     "properties": {
@@ -9678,13 +9317,12 @@
         "+50 To Attack Rating",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/witherstring.png"
+    }
   },
   {
     "id": "warpspear",
     "name": "Warpspear",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/warpspear_graphic.png",
+    "image": "/images/uniques/warpspear.png",
     "type": "Exceptional Unique",
     "base_item": "Gothic Staff",
     "properties": {
@@ -9706,13 +9344,12 @@
         "+3 To Telekinesis (Sorceress Only)",
         "+3 To Teleport (Sorceress Only)"
       ]
-    },
-    "local_image": "images/uniques/warpspear.png"
+    }
   },
   {
     "id": "the-patriarch",
     "name": "The Patriarch",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thepatriarch_graphic.png",
+    "image": "/images/uniques/the-patriarch.png",
     "type": "Normal Unique",
     "base_item": "Great Sword",
     "properties": {
@@ -9735,13 +9372,12 @@
         "Magic Damage Reduced By 3",
         "Damage Reduced By 3"
       ]
-    },
-    "local_image": "images/uniques/the-patriarch.png"
+    }
   },
   {
     "id": "the-hand-of-broc",
     "name": "The Hand of Broc",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thehandofbroc_graphic.png",
+    "image": "/images/uniques/the-hand-of-broc.png",
     "type": "Normal Unique",
     "base_item": "Leather Gloves",
     "properties": {
@@ -9758,13 +9394,12 @@
         "Poison Resist +10%",
         "+20 To Mana"
       ]
-    },
-    "local_image": "images/uniques/the-hand-of-broc.png"
+    }
   },
   {
     "id": "steelrend",
     "name": "Steelrend",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/steelrend_graphic.png",
+    "image": "/images/uniques/steelrend.png",
     "type": "Elite Unique",
     "base_item": "Ogre Gauntlets",
     "properties": {
@@ -9781,13 +9416,12 @@
         "+15-20 To Strength",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/steelrend.png"
+    }
   },
   {
     "id": "steelgoad",
     "name": "Steelgoad",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/steelgoad_graphic.png",
+    "image": "/images/uniques/steelgoad.png",
     "type": "Normal Unique",
     "base_item": "Voulge",
     "properties": {
@@ -9807,13 +9441,12 @@
         "All resistances +5",
         "Hit Causes monster to flee 75%"
       ]
-    },
-    "local_image": "images/uniques/steelgoad.png"
+    }
   },
   {
     "id": "spellsteel",
     "name": "Spellsteel",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/broadaxe_graphic.png",
+    "image": "/images/uniques/spellsteel.png",
     "type": "Exceptional Unique",
     "base_item": "Bearded Axe",
     "properties": {
@@ -9838,13 +9471,12 @@
         "Level 1 Teleport (20 Charges)",
         "Magic Damage Reduced By 12-15"
       ]
-    },
-    "local_image": "images/uniques/spellsteel.png"
+    }
   },
   {
     "id": "soul-drainer",
     "name": "Soul Drainer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/souldrainer_graphic.png",
+    "image": "/images/uniques/soul-drainer.png",
     "type": "Elite Unique",
     "base_item": "Vambraces",
     "properties": {
@@ -9862,13 +9494,12 @@
         "8% Chance To Cast Level 3 Weaken On Striking",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/soul-drainer.png"
+    }
   },
   {
     "id": "snakecord",
     "name": "Snakecord",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/snakecord_graphic.png",
+    "image": "/images/uniques/snakecord.png",
     "type": "Normal Unique",
     "base_item": "Light Belt",
     "properties": {
@@ -9886,13 +9517,12 @@
         "Poison Length Reduced By 50%",
         "+12 Poison Damage Over 3 Seconds"
       ]
-    },
-    "local_image": "images/uniques/snakecord.png"
+    }
   },
   {
     "id": "pluckeye",
     "name": "Pluckeye",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/pluckeye_graphic.png",
+    "image": "/images/uniques/pluckeye.png",
     "type": "Normal Unique",
     "base_item": "Short Bow",
     "properties": {
@@ -9912,13 +9542,12 @@
         "+2 To Mana After Each Kill",
         "+2 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/pluckeye.png"
+    }
   },
   {
     "id": "nosferatus-coil",
     "name": "Nosferatu's Coil",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/nosferatuscoil_graphic.png",
+    "image": "/images/uniques/nosferatus-coil.png",
     "type": "Elite Unique",
     "base_item": "Vampirefang Belt",
     "properties": {
@@ -9938,13 +9567,12 @@
         "-3 To Light Radius",
         "Patch 1.10 or later"
       ]
-    },
-    "local_image": "images/uniques/nosferatus-coil.png"
+    }
   },
   {
     "id": "nightsmoke",
     "name": "Nightsmoke",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/nightsmoke_graphic.png",
+    "image": "/images/uniques/nightsmoke.png",
     "type": "Normal Unique",
     "base_item": "Belt",
     "properties": {
@@ -9963,13 +9591,12 @@
         "All Resistances +10",
         "+20 To Mana"
       ]
-    },
-    "local_image": "images/uniques/nightsmoke.png"
+    }
   },
   {
     "id": "lenymo",
     "name": "Lenymo",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lenymscord_graphic.png",
+    "image": "/images/uniques/lenymo.png",
     "type": "Normal Unique",
     "base_item": "Sash",
     "properties": {
@@ -9985,13 +9612,12 @@
         "+15 To Mana",
         "+1 To Light Radius"
       ]
-    },
-    "local_image": "images/uniques/lenymo.png"
+    }
   },
   {
     "id": "hotspur",
     "name": "Hotspur",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hotspur_graphic.png",
+    "image": "/images/uniques/hotspur.png",
     "type": "Normal Unique",
     "base_item": "Boots",
     "properties": {
@@ -10009,13 +9635,12 @@
         "Adds 3-6 Fire Damage",
         "+15 To Life"
       ]
-    },
-    "local_image": "images/uniques/hotspur.png"
+    }
   },
   {
     "id": "hellmouth",
     "name": "Hellmouth",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gauntlets_graphic.png",
+    "image": "/images/uniques/hellmouth.png",
     "type": "Exceptional Unique",
     "base_item": "War Gauntlets",
     "properties": {
@@ -10032,13 +9657,12 @@
         "+15 Fire Absorb",
         "Adds 15-72 Fire Damage"
       ]
-    },
-    "local_image": "images/uniques/hellmouth.png"
+    }
   },
   {
     "id": "gravepalm",
     "name": "Gravepalm",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/heavygloves_graphic.png",
+    "image": "/images/uniques/gravepalm.png",
     "type": "Exceptional Unique",
     "base_item": "Sharkskin Gloves",
     "properties": {
@@ -10055,13 +9679,12 @@
         "+10 To Energy",
         "+10 To Strength"
       ]
-    },
-    "local_image": "images/uniques/gravepalm.png"
+    }
   },
   {
     "id": "gorefoot",
     "name": "Gorefoot",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gorefoot_graphic.png",
+    "image": "/images/uniques/gorefoot.png",
     "type": "Normal Unique",
     "base_item": "Heavy Boots",
     "properties": {
@@ -10080,13 +9703,12 @@
         "+12 Defense",
         "+2 To Leap (Barbarian Only)"
       ]
-    },
-    "local_image": "images/uniques/gorefoot.png"
+    }
   },
   {
     "id": "frostburn",
     "name": "Frostburn",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/frostburn_graphic.png",
+    "image": "/images/uniques/frostburn.png",
     "type": "Normal Unique",
     "base_item": "Gauntlets",
     "properties": {
@@ -10103,13 +9725,12 @@
         "Increase Maximum Mana 40%",
         "Adds 1-6 Cold Damage, Cold Duration: 2 Seconds"
       ]
-    },
-    "local_image": "images/uniques/frostburn.png"
+    }
   },
   {
     "id": "firelizards-talons",
     "name": "Firelizard's Talons",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/claws_graphic.png",
+    "image": "/images/uniques/firelizards-talons.png",
     "type": "Elite Unique",
     "base_item": "Feral Claws",
     "properties": {
@@ -10134,13 +9755,12 @@
         "Patch 1.10 or later",
         "Assassin equip only"
       ]
-    },
-    "local_image": "images/uniques/firelizards-talons.png"
+    }
   },
   {
     "id": "felloak",
     "name": "Felloak",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/felloak_graphic.png",
+    "image": "/images/uniques/felloak.png",
     "type": "Normal Unique",
     "base_item": "Club",
     "properties": {
@@ -10160,13 +9780,12 @@
         "Lightning Resist +60%",
         "Fire Resist +20%"
       ]
-    },
-    "local_image": "images/uniques/felloak.png"
+    }
   },
   {
     "id": "cerebus-bite",
     "name": "Cerebus' Bite",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/cerebusbite_graphic.png",
+    "image": "/images/uniques/cerebus-bite.png",
     "type": "Elite Unique",
     "base_item": "Blood Spirit",
     "properties": {
@@ -10186,13 +9805,12 @@
         "Patch 1.10 or later",
         "Druid equip only"
       ]
-    },
-    "local_image": "images/uniques/cerebus-bite.png"
+    }
   },
   {
     "id": "blastbark",
     "name": "Blastbark",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/blastbark_graphic.png",
+    "image": "/images/uniques/blastbark.png",
     "type": "Normal Unique",
     "base_item": "Long War Bow",
     "properties": {
@@ -10212,13 +9830,12 @@
         "+5 to Strength",
         "+2 To Exploding Arrow (Amazon Only)"
       ]
-    },
-    "local_image": "images/uniques/blastbark.png"
+    }
   },
   {
     "id": "bladebuckle",
     "name": "Bladebuckle",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bladebuckle_graphic.png",
+    "image": "/images/uniques/bladebuckle.png",
     "type": "Normal Unique",
     "base_item": "Plated Belt",
     "properties": {
@@ -10238,13 +9855,12 @@
         "Damage Reduced By 3",
         "Attacker Takes Damage of 8"
       ]
-    },
-    "local_image": "images/uniques/bladebuckle.png"
+    }
   },
   {
     "id": "bane-ash",
     "name": "Bane Ash",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/baneash_graphic.png",
+    "image": "/images/uniques/bane-ash.png",
     "type": "Normal Unique",
     "base_item": "Short Staff",
     "properties": {
@@ -10266,7 +9882,6 @@
         "+5 To Fire Bolt (Sorceress Only)",
         "+2 To Warmth (Sorceress Only)"
       ]
-    },
-    "local_image": "images/uniques/bane-ash.png"
+    }
   }
 ]

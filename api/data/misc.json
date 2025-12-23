@@ -2,7 +2,7 @@
   {
     "id": "jah",
     "name": "Jah",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeJo_graphic.png",
+    "image": "/images/misc/jah.png",
     "type": "Misc Item",
     "category": "Level 65 Rune\nIndex: 31",
     "properties": {
@@ -40,13 +40,12 @@
         "Product of:",
         "Recipe: Jah"
       ]
-    },
-    "local_image": "images/misc/jah.png"
+    }
   },
   {
     "id": "3x3-keyset",
     "name": "3x3 Keyset",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/questkeys_graphic.png",
+    "image": "/images/misc/3x3-keyset.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -54,13 +53,12 @@
         "All 3 Uber Keys required for the Pandemonium Event",
         "Patch 1.11 or later"
       ]
-    },
-    "local_image": "images/misc/3x3-keyset.png"
+    }
   },
   {
     "id": "ort",
     "name": "Ort",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeOrt_graphic.png",
+    "image": "/images/misc/ort.png",
     "type": "Misc Item",
     "category": "Level 21 Rune\nIndex: 9",
     "properties": {
@@ -114,13 +112,12 @@
         "Product of:",
         "Recipe: Ort"
       ]
-    },
-    "local_image": "images/misc/ort.png"
+    }
   },
   {
     "id": "charged-essence-of-hatred",
     "name": "Charged Essence of Hatred",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/essencehatred_graphic.png",
+    "image": "/images/misc/charged-essence-of-hatred.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -130,13 +127,12 @@
         "Ingredient in:",
         "Recipe: Token of Absolution"
       ]
-    },
-    "local_image": "images/misc/charged-essence-of-hatred.png"
+    }
   },
   {
     "id": "twisted-essence-of-suffering",
     "name": "Twisted Essence of Suffering",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/essencesuffering_graphic.png",
+    "image": "/images/misc/twisted-essence-of-suffering.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -146,13 +142,12 @@
         "Ingredient in:",
         "Recipe: Token of Absolution"
       ]
-    },
-    "local_image": "images/misc/twisted-essence-of-suffering.png"
+    }
   },
   {
     "id": "safety-amulet",
     "name": "Safety Amulet",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetyamu1_graphic.png",
+    "image": "/images/misc/safety-amulet.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -165,13 +160,12 @@
         "Product of:",
         "Recipe: Safety Amulet"
       ]
-    },
-    "local_image": "images/misc/safety-amulet.png"
+    }
   },
   {
     "id": "eld",
     "name": "Eld",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeEld_graphic.png",
+    "image": "/images/misc/eld.png",
     "type": "Misc Item",
     "category": "Level 11 Rune\nIndex: 2",
     "properties": {
@@ -210,13 +204,12 @@
         "Product of:",
         "Recipe: Eld"
       ]
-    },
-    "local_image": "images/misc/eld.png"
+    }
   },
   {
     "id": "safety-belt",
     "name": "Safety Belt",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetysash_graphic.png",
+    "image": "/images/misc/safety-belt.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -230,39 +223,36 @@
         "Product of:",
         "Recipe: Safety Belt"
       ]
-    },
-    "local_image": "images/misc/safety-belt.png"
+    }
   },
   {
     "id": "chipped-gems",
     "name": "Chipped Gems",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippedgems_graphic.png",
+    "image": "/images/misc/chipped-gems.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
       "magical_properties": [
         "Pseudo item representing any quantity or type of Chipped Gem"
       ]
-    },
-    "local_image": "images/misc/chipped-gems.png"
+    }
   },
   {
     "id": "gold",
     "name": "Gold",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/gold_graphic.png",
+    "image": "/images/misc/gold.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
       "magical_properties": [
         "Pseudo item representing any quantity of Gold"
       ]
-    },
-    "local_image": "images/misc/gold.png"
+    }
   },
   {
     "id": "hit-power-ring",
     "name": "Hit Power Ring",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowerring5_graphic.png",
+    "image": "/images/misc/hit-power-ring.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -275,13 +265,12 @@
         "Product of:",
         "Recipe: Hit Power Ring"
       ]
-    },
-    "local_image": "images/misc/hit-power-ring.png"
+    }
   },
   {
     "id": "blood-amulet",
     "name": "Blood Amulet",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodamu3_graphic.png",
+    "image": "/images/misc/blood-amulet.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -294,13 +283,12 @@
         "Product of:",
         "Recipe: Blood Amulet"
       ]
-    },
-    "local_image": "images/misc/blood-amulet.png"
+    }
   },
   {
     "id": "blood-helm",
     "name": "Blood Helm",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodhelm_graphic.png",
+    "image": "/images/misc/blood-helm.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -313,13 +301,12 @@
         "Product of:",
         "Recipe: Blood Helm"
       ]
-    },
-    "local_image": "images/misc/blood-helm.png"
+    }
   },
   {
     "id": "zod",
     "name": "Zod",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeZod_graphic.png",
+    "image": "/images/misc/zod.png",
     "type": "Misc Item",
     "category": "Level 69 Rune\nIndex: 33",
     "properties": {
@@ -339,13 +326,12 @@
         "Product of:",
         "Recipe: Zod"
       ]
-    },
-    "local_image": "images/misc/zod.png"
+    }
   },
   {
     "id": "the-gidbinn",
     "name": "The Gidbinn",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thegidbin_graphic.png",
+    "image": "/images/misc/the-gidbinn.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -360,13 +346,12 @@
         "Source:",
         "Found in  Flayer Jungle"
       ]
-    },
-    "local_image": "images/misc/the-gidbinn.png"
+    }
   },
   {
     "id": "caster-gloves",
     "name": "Caster Gloves",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/casterleathergloves_graphic.png",
+    "image": "/images/misc/caster-gloves.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -379,13 +364,12 @@
         "Product of:",
         "Recipe: Caster Gloves"
       ]
-    },
-    "local_image": "images/misc/caster-gloves.png"
+    }
   },
   {
     "id": "ral",
     "name": "Ral",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeRal_graphic.png",
+    "image": "/images/misc/ral.png",
     "type": "Misc Item",
     "category": "Level 19 Rune\nIndex: 8",
     "properties": {
@@ -447,13 +431,12 @@
         "Product of:",
         "Recipe: Ral"
       ]
-    },
-    "local_image": "images/misc/ral.png"
+    }
   },
   {
     "id": "ber",
     "name": "Ber",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeBer_graphic.png",
+    "image": "/images/misc/ber.png",
     "type": "Misc Item",
     "category": "Level 63 Rune\nIndex: 30",
     "properties": {
@@ -487,13 +470,12 @@
         "Product of:",
         "Recipe: Ber"
       ]
-    },
-    "local_image": "images/misc/ber.png"
+    }
   },
   {
     "id": "book-of-skill",
     "name": "Book of Skill",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bookofskill_graphic.png",
+    "image": "/images/misc/book-of-skill.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -502,13 +484,12 @@
         "Source:",
         "Drops from  Radament"
       ]
-    },
-    "local_image": "images/misc/book-of-skill.png"
+    }
   },
   {
     "id": "burning-essence-of-terror",
     "name": "Burning Essence of Terror",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/essenceterror_graphic.png",
+    "image": "/images/misc/burning-essence-of-terror.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -518,13 +499,12 @@
         "Ingredient in:",
         "Recipe: Token of Absolution"
       ]
-    },
-    "local_image": "images/misc/burning-essence-of-terror.png"
+    }
   },
   {
     "id": "festering-essence-of-destruction",
     "name": "Festering Essence of Destruction",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/essencedestruction_graphic.png",
+    "image": "/images/misc/festering-essence-of-destruction.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -534,13 +514,12 @@
         "Ingredient in:",
         "Recipe: Token of Absolution"
       ]
-    },
-    "local_image": "images/misc/festering-essence-of-destruction.png"
+    }
   },
   {
     "id": "cham",
     "name": "Cham",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeCham_graphic.png",
+    "image": "/images/misc/cham.png",
     "type": "Misc Item",
     "category": "Level 67 Rune\nIndex: 32",
     "properties": {
@@ -570,13 +549,12 @@
         "Product of:",
         "Recipe: Cham"
       ]
-    },
-    "local_image": "images/misc/cham.png"
+    }
   },
   {
     "id": "um",
     "name": "Um",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeUm_graphic.png",
+    "image": "/images/misc/um.png",
     "type": "Misc Item",
     "category": "Level 47 Rune\nIndex: 22",
     "properties": {
@@ -618,13 +596,12 @@
         "Product of:",
         "Recipe: Um"
       ]
-    },
-    "local_image": "images/misc/um.png"
+    }
   },
   {
     "id": "chipped-emerald",
     "name": "Chipped Emerald",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippedemerald_graphic.png",
+    "image": "/images/misc/chipped-emerald.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -640,13 +617,12 @@
         "Recipe: Flawed Emerald",
         "Recipe: Hel"
       ]
-    },
-    "local_image": "images/misc/chipped-emerald.png"
+    }
   },
   {
     "id": "mephistos-soulstone",
     "name": "Mephisto's Soulstone",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bluecharm_graphic.png",
+    "image": "/images/misc/mephistos-soulstone.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -655,13 +631,12 @@
         "Source:",
         "Drops from  Mephisto"
       ]
-    },
-    "local_image": "images/misc/mephistos-soulstone.png"
+    }
   },
   {
     "id": "lam-esens-tome",
     "name": "Lam Esen's Tome",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lamesenstome_graphic.png",
+    "image": "/images/misc/lam-esens-tome.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -670,13 +645,12 @@
         "Source:",
         "Found in  Ruined Temple"
       ]
-    },
-    "local_image": "images/misc/lam-esens-tome.png"
+    }
   },
   {
     "id": "blood-gloves",
     "name": "Blood Gloves",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodheavygloves_graphic.png",
+    "image": "/images/misc/blood-gloves.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -689,26 +663,24 @@
         "Product of:",
         "Recipe: Blood Gloves"
       ]
-    },
-    "local_image": "images/misc/blood-gloves.png"
+    }
   },
   {
     "id": "ear",
     "name": "Ear",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ear_graphic.png",
+    "image": "/images/misc/ear.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
       "magical_properties": [
         "Dropped by PvP victims"
       ]
-    },
-    "local_image": "images/misc/ear.png"
+    }
   },
   {
     "id": "token-of-absolution",
     "name": "Token of Absolution",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/tokenofabsolution_graphic.png",
+    "image": "/images/misc/token-of-absolution.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -718,13 +690,12 @@
         "Product of:",
         "Recipe: Token of Absolution"
       ]
-    },
-    "local_image": "images/misc/token-of-absolution.png"
+    }
   },
   {
     "id": "safety-shield",
     "name": "Safety Shield",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetykiteshield_graphic.png",
+    "image": "/images/misc/safety-shield.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -738,13 +709,12 @@
         "Product of:",
         "Recipe: Safety Shield"
       ]
-    },
-    "local_image": "images/misc/safety-shield.png"
+    }
   },
   {
     "id": "lem",
     "name": "Lem",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeLem_graphic.png",
+    "image": "/images/misc/lem.png",
     "type": "Misc Item",
     "category": "Level 43 Rune\nIndex: 20",
     "properties": {
@@ -784,13 +754,12 @@
         "Product of:",
         "Recipe: Lem"
       ]
-    },
-    "local_image": "images/misc/lem.png"
+    }
   },
   {
     "id": "blood-body",
     "name": "Blood Body",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodplatemail_graphic.png",
+    "image": "/images/misc/blood-body.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -803,13 +772,12 @@
         "Product of:",
         "Recipe: Blood Body"
       ]
-    },
-    "local_image": "images/misc/blood-body.png"
+    }
   },
   {
     "id": "hit-power-shield",
     "name": "Hit Power Shield",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowergothicshield_graphic.png",
+    "image": "/images/misc/hit-power-shield.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -822,13 +790,12 @@
         "Product of:",
         "Recipe: Hit Power Shield"
       ]
-    },
-    "local_image": "images/misc/hit-power-shield.png"
+    }
   },
   {
     "id": "hit-power-body",
     "name": "Hit Power Body",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowerfieldplate_graphic.png",
+    "image": "/images/misc/hit-power-body.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -841,13 +808,12 @@
         "Product of:",
         "Recipe: Hit Power Body"
       ]
-    },
-    "local_image": "images/misc/hit-power-body.png"
+    }
   },
   {
     "id": "hit-power-weapon",
     "name": "Hit Power Weapon",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowermorningstar_graphic.png",
+    "image": "/images/misc/hit-power-weapon.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -860,13 +826,12 @@
         "Product of:",
         "Recipe: Hit Power Weapon"
       ]
-    },
-    "local_image": "images/misc/hit-power-weapon.png"
+    }
   },
   {
     "id": "hit-power-amulet",
     "name": "Hit Power Amulet",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpoweramu2_graphic.png",
+    "image": "/images/misc/hit-power-amulet.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -879,13 +844,12 @@
         "Product of:",
         "Recipe: Hit Power Amulet"
       ]
-    },
-    "local_image": "images/misc/hit-power-amulet.png"
+    }
   },
   {
     "id": "hit-power-gloves",
     "name": "Hit Power Gloves",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowerchaingloves_graphic.png",
+    "image": "/images/misc/hit-power-gloves.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -898,13 +862,12 @@
         "Product of:",
         "Recipe: Hit Power Gloves"
       ]
-    },
-    "local_image": "images/misc/hit-power-gloves.png"
+    }
   },
   {
     "id": "hit-power-boots",
     "name": "Hit Power Boots",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowerchainboots_graphic.png",
+    "image": "/images/misc/hit-power-boots.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -917,13 +880,12 @@
         "Product of:",
         "Recipe: Hit Power Boots"
       ]
-    },
-    "local_image": "images/misc/hit-power-boots.png"
+    }
   },
   {
     "id": "hit-power-belt",
     "name": "Hit Power Belt",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowerheavybelt_graphic.png",
+    "image": "/images/misc/hit-power-belt.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -936,13 +898,12 @@
         "Product of:",
         "Recipe: Hit Power Belt"
       ]
-    },
-    "local_image": "images/misc/hit-power-belt.png"
+    }
   },
   {
     "id": "hit-power-helm",
     "name": "Hit Power Helm",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hitpowerfullhelm_graphic.png",
+    "image": "/images/misc/hit-power-helm.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -955,13 +916,12 @@
         "Product of:",
         "Recipe: Hit Power Helm"
       ]
-    },
-    "local_image": "images/misc/hit-power-helm.png"
+    }
   },
   {
     "id": "tir",
     "name": "Tir",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTir_graphic.png",
+    "image": "/images/misc/tir.png",
     "type": "Misc Item",
     "category": "Level 13 Rune\nIndex: 3",
     "properties": {
@@ -1011,13 +971,12 @@
         "Product of:",
         "Recipe: Tir"
       ]
-    },
-    "local_image": "images/misc/tir.png"
+    }
   },
   {
     "id": "flawless-amethyst",
     "name": "Flawless Amethyst",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawlessamethyst_graphic.png",
+    "image": "/images/misc/flawless-amethyst.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -1036,13 +995,12 @@
         "Product of:",
         "Recipe: Flawless Amethyst"
       ]
-    },
-    "local_image": "images/misc/flawless-amethyst.png"
+    }
   },
   {
     "id": "caster-weapon",
     "name": "Caster Weapon",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/casterscepter_graphic.png",
+    "image": "/images/misc/caster-weapon.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -1055,13 +1013,12 @@
         "Product of:",
         "Recipe: Caster Weapon"
       ]
-    },
-    "local_image": "images/misc/caster-weapon.png"
+    }
   },
   {
     "id": "amethyst",
     "name": "Amethyst",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amethyst_graphic.png",
+    "image": "/images/misc/amethyst.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -1080,13 +1037,12 @@
         "Product of:",
         "Recipe: Amethyst"
       ]
-    },
-    "local_image": "images/misc/amethyst.png"
+    }
   },
   {
     "id": "perfect-gems",
     "name": "Perfect Gems",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/pgems_graphic.png",
+    "image": "/images/misc/perfect-gems.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -1095,13 +1051,12 @@
         "Ingredient in:",
         "Recipe: Random Magic Item of Same Type"
       ]
-    },
-    "local_image": "images/misc/perfect-gems.png"
+    }
   },
   {
     "id": "io",
     "name": "Io",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeIo_graphic.png",
+    "image": "/images/misc/io.png",
     "type": "Misc Item",
     "category": "Level 35 Rune\nIndex: 16",
     "properties": {
@@ -1147,13 +1102,12 @@
         "Product of:",
         "Recipe: Io"
       ]
-    },
-    "local_image": "images/misc/io.png"
+    }
   },
   {
     "id": "oil-potion",
     "name": "Oil Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/oil_graphic.png",
+    "image": "/images/misc/oil-potion.png",
     "type": "Misc Item",
     "category": "Throwing Potion",
     "properties": {
@@ -1167,13 +1121,12 @@
         "Deals 13-34 Fire damage & 13-30 Physical damage",
         "Explosion Radius of 4 yards"
       ]
-    },
-    "local_image": "images/misc/oil-potion.png"
+    }
   },
   {
     "id": "el",
     "name": "El",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeEl_graphic.png",
+    "image": "/images/misc/el.png",
     "type": "Misc Item",
     "category": "Level 11 Rune\nIndex: 1",
     "properties": {
@@ -1212,13 +1165,12 @@
         "Voice of Reason",
         "Wind"
       ]
-    },
-    "local_image": "images/misc/el.png"
+    }
   },
   {
     "id": "scroll-of-town-portal",
     "name": "Scroll of Town Portal",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/scroll-blue_graphic.png",
+    "image": "/images/misc/scroll-of-town-portal.png",
     "type": "Misc Item",
     "category": "Consumable",
     "properties": {
@@ -1227,13 +1179,12 @@
         "Ingredient in:",
         "Recipe: Remove All Items from Sockets"
       ]
-    },
-    "local_image": "images/misc/scroll-of-town-portal.png"
+    }
   },
   {
     "id": "eth",
     "name": "Eth",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeEth_graphic.png",
+    "image": "/images/misc/eth.png",
     "type": "Misc Item",
     "category": "Level 15 Rune\nIndex: 5",
     "properties": {
@@ -1283,13 +1234,12 @@
         "Product of:",
         "Recipe: Eth"
       ]
-    },
-    "local_image": "images/misc/eth.png"
+    }
   },
   {
     "id": "blood-boots",
     "name": "Blood Boots",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodboots_graphic.png",
+    "image": "/images/misc/blood-boots.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -1302,26 +1252,24 @@
         "Product of:",
         "Recipe: Blood Boots"
       ]
-    },
-    "local_image": "images/misc/blood-boots.png"
+    }
   },
   {
     "id": "junk-jewels",
     "name": "Junk Jewels",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/junkjewels_graphic.png",
+    "image": "/images/misc/junk-jewels.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
       "magical_properties": [
         "Pseudo item representing any quantity or type of Jewel"
       ]
-    },
-    "local_image": "images/misc/junk-jewels.png"
+    }
   },
   {
     "id": "perfect-topaz",
     "name": "Perfect Topaz",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/perfecttopaz_graphic.png",
+    "image": "/images/misc/perfect-topaz.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -1340,26 +1288,24 @@
         "Product of:",
         "Recipe: Perfect Topaz"
       ]
-    },
-    "local_image": "images/misc/perfect-topaz.png"
+    }
   },
   {
     "id": "scroll-of-resistance",
     "name": "Scroll of Resistance",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/scroll_graphic.png",
+    "image": "/images/misc/scroll-of-resistance.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
       "magical_properties": [
         "Increases all resistances by 10 (once per difficulty)"
       ]
-    },
-    "local_image": "images/misc/scroll-of-resistance.png"
+    }
   },
   {
     "id": "horadric-cube",
     "name": "Horadric Cube",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/horadric_cube_graphic.png",
+    "image": "/images/misc/horadric-cube.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -1368,13 +1314,12 @@
         "Source:",
         "From superchest in  Halls of the Dead Level 3"
       ]
-    },
-    "local_image": "images/misc/horadric-cube.png"
+    }
   },
   {
     "id": "ith",
     "name": "Ith",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeIth_graphic.png",
+    "image": "/images/misc/ith.png",
     "type": "Misc Item",
     "category": "Level 15 Rune\nIndex: 6",
     "properties": {
@@ -1418,13 +1363,12 @@
         "Product of:",
         "Recipe: Ith"
       ]
-    },
-    "local_image": "images/misc/ith.png"
+    }
   },
   {
     "id": "safety-boots",
     "name": "Safety Boots",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetyplateboots_graphic.png",
+    "image": "/images/misc/safety-boots.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -1438,13 +1382,12 @@
         "Product of:",
         "Recipe: Safety Boots"
       ]
-    },
-    "local_image": "images/misc/safety-boots.png"
+    }
   },
   {
     "id": "caster-belt",
     "name": "Caster Belt",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/casterlightbelt_graphic.png",
+    "image": "/images/misc/caster-belt.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -1457,13 +1400,12 @@
         "Product of:",
         "Recipe: Caster Belt"
       ]
-    },
-    "local_image": "images/misc/caster-belt.png"
+    }
   },
   {
     "id": "blood-weapon",
     "name": "Blood Weapon",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/blooddoubleaxe_graphic.png",
+    "image": "/images/misc/blood-weapon.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -1476,13 +1418,12 @@
         "Product of:",
         "Recipe: Blood Weapon"
       ]
-    },
-    "local_image": "images/misc/blood-weapon.png"
+    }
   },
   {
     "id": "safety-weapon",
     "name": "Safety Weapon",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetyspear_graphic.png",
+    "image": "/images/misc/safety-weapon.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -1495,13 +1436,12 @@
         "Product of:",
         "Recipe: Safety Weapon"
       ]
-    },
-    "local_image": "images/misc/safety-weapon.png"
+    }
   },
   {
     "id": "amulet-of-the-viper",
     "name": "Amulet of the Viper",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/amuletoftheviper_graphic.png",
+    "image": "/images/misc/amulet-of-the-viper.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -1514,13 +1454,12 @@
         "Ingredient in:",
         "Recipe: Horadric Staff"
       ]
-    },
-    "local_image": "images/misc/amulet-of-the-viper.png"
+    }
   },
   {
     "id": "blood-ring",
     "name": "Blood Ring",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodring1_graphic.png",
+    "image": "/images/misc/blood-ring.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -1533,13 +1472,12 @@
         "Product of:",
         "Recipe: Blood Ring"
       ]
-    },
-    "local_image": "images/misc/blood-ring.png"
+    }
   },
   {
     "id": "ist",
     "name": "Ist",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeIst_graphic.png",
+    "image": "/images/misc/ist.png",
     "type": "Misc Item",
     "category": "Level 51 Rune\nIndex: 24",
     "properties": {
@@ -1573,13 +1511,12 @@
         "Product of:",
         "Recipe: Ist"
       ]
-    },
-    "local_image": "images/misc/ist.png"
+    }
   },
   {
     "id": "safety-ring",
     "name": "Safety Ring",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetyring3_graphic.png",
+    "image": "/images/misc/safety-ring.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -1592,13 +1529,12 @@
         "Product of:",
         "Recipe: Safety Ring"
       ]
-    },
-    "local_image": "images/misc/safety-ring.png"
+    }
   },
   {
     "id": "tome-of-town-portal",
     "name": "Tome of Town Portal",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/tome-blue_graphic.png",
+    "image": "/images/misc/tome-of-town-portal.png",
     "type": "Misc Item",
     "category": "Consumable",
     "properties": {
@@ -1607,26 +1543,24 @@
         "Ingredient in:",
         "Recipe: Portal to the Secret Cow Level"
       ]
-    },
-    "local_image": "images/misc/tome-of-town-portal.png"
+    }
   },
   {
     "id": "potion-of-life",
     "name": "Potion of Life",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/questpotion_graphic.png",
+    "image": "/images/misc/potion-of-life.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
       "magical_properties": [
         "Permanently grants +20 to life"
       ]
-    },
-    "local_image": "images/misc/potion-of-life.png"
+    }
   },
   {
     "id": "arrows",
     "name": "Arrows",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/arrows_graphic.png",
+    "image": "/images/misc/arrows.png",
     "type": "Misc Item",
     "category": "Consumable",
     "properties": {
@@ -1640,13 +1574,12 @@
         "Product of:",
         "Recipe: Arrows"
       ]
-    },
-    "local_image": "images/misc/arrows.png"
+    }
   },
   {
     "id": "bolts",
     "name": "Bolts",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bolts_graphic.png",
+    "image": "/images/misc/bolts.png",
     "type": "Misc Item",
     "category": "Consumable",
     "properties": {
@@ -1658,13 +1591,12 @@
         "Product of:",
         "Recipe: Bolts"
       ]
-    },
-    "local_image": "images/misc/bolts.png"
+    }
   },
   {
     "id": "antidote-potion",
     "name": "Antidote Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/antidote_graphic.png",
+    "image": "/images/misc/antidote-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -1677,13 +1609,12 @@
         "Product of:",
         "Recipe: Antidote Potion"
       ]
-    },
-    "local_image": "images/misc/antidote-potion.png"
+    }
   },
   {
     "id": "thawing-potion",
     "name": "Thawing Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/thawing_graphic.png",
+    "image": "/images/misc/thawing-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -1694,13 +1625,12 @@
         "Ingredient in:",
         "Recipe: Cobalt Ring"
       ]
-    },
-    "local_image": "images/misc/thawing-potion.png"
+    }
   },
   {
     "id": "horadric-scroll",
     "name": "Horadric Scroll",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/horadricscroll_graphic.png",
+    "image": "/images/misc/horadric-scroll.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -1709,13 +1639,12 @@
         "Source:",
         "From superchest in  Sewers Level 2"
       ]
-    },
-    "local_image": "images/misc/horadric-scroll.png"
+    }
   },
   {
     "id": "key-of-destruction",
     "name": "Key of Destruction",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/questkey_graphic.png",
+    "image": "/images/misc/key-of-destruction.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -1731,13 +1660,12 @@
         "Recipe: Portal to Furnace of Pain",
         "Recipe: Portal to Matron's Den"
       ]
-    },
-    "local_image": "images/misc/key-of-destruction.png"
+    }
   },
   {
     "id": "perfect-skull",
     "name": "Perfect Skull",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/perfectskull_graphic.png",
+    "image": "/images/misc/perfect-skull.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -1758,13 +1686,12 @@
         "Product of:",
         "Recipe: Perfect Skull"
       ]
-    },
-    "local_image": "images/misc/perfect-skull.png"
+    }
   },
   {
     "id": "caster-amulet",
     "name": "Caster Amulet",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/casteramuletoftheviper_graphic.png",
+    "image": "/images/misc/caster-amulet.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -1777,26 +1704,24 @@
         "Product of:",
         "Recipe: Caster Amulet"
       ]
-    },
-    "local_image": "images/misc/caster-amulet.png"
+    }
   },
   {
     "id": "key",
     "name": "Key",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/key_graphic.png",
+    "image": "/images/misc/key.png",
     "type": "Misc Item",
     "category": "Consumable",
     "properties": {
       "magical_properties": [
         "Opens locked chests and stashes."
       ]
-    },
-    "local_image": "images/misc/key.png"
+    }
   },
   {
     "id": "diablos-horn",
     "name": "Diablo's Horn",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/horn_graphic.png",
+    "image": "/images/misc/diablos-horn.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -1808,13 +1733,12 @@
         "Ingredient in:",
         "Recipe: Portal to Uber Tristram"
       ]
-    },
-    "local_image": "images/misc/diablos-horn.png"
+    }
   },
   {
     "id": "mephistos-brain",
     "name": "Mephisto's Brain",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/brain_graphic.png",
+    "image": "/images/misc/mephistos-brain.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -1826,13 +1750,12 @@
         "Ingredient in:",
         "Recipe: Portal to Uber Tristram"
       ]
-    },
-    "local_image": "images/misc/mephistos-brain.png"
+    }
   },
   {
     "id": "baals-eye",
     "name": "Baal's Eye",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/eye_graphic.png",
+    "image": "/images/misc/baals-eye.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -1844,13 +1767,12 @@
         "Ingredient in:",
         "Recipe: Portal to Uber Tristram"
       ]
-    },
-    "local_image": "images/misc/baals-eye.png"
+    }
   },
   {
     "id": "greater-mana-potion",
     "name": "Greater Mana Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/greatermana_graphic.png",
+    "image": "/images/misc/greater-mana-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -1859,13 +1781,12 @@
         "A, Asn, P: Restores 225MP",
         "D, N, S: Restores 300MP"
       ]
-    },
-    "local_image": "images/misc/greater-mana-potion.png"
+    }
   },
   {
     "id": "super-mana-potion",
     "name": "Super Mana Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/supermana_graphic.png",
+    "image": "/images/misc/super-mana-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -1874,13 +1795,12 @@
         "A, Asn, P: Restores 375MP",
         "D, N, S: Restores 500MP"
       ]
-    },
-    "local_image": "images/misc/super-mana-potion.png"
+    }
   },
   {
     "id": "malahs-potion",
     "name": "Malah's Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/questpotion_graphic.png",
+    "image": "/images/misc/malahs-potion.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -1889,13 +1809,12 @@
         "Source:",
         "Given by  Malah"
       ]
-    },
-    "local_image": "images/misc/malahs-potion.png"
+    }
   },
   {
     "id": "rancid-gas-potion",
     "name": "Rancid Gas Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/strangling_graphic.png",
+    "image": "/images/misc/rancid-gas-potion.png",
     "type": "Misc Item",
     "category": "Throwing Potion",
     "properties": {
@@ -1907,13 +1826,12 @@
       "magical_properties": [
         "Deals a large area of damage that lasts a considerable amount of time."
       ]
-    },
-    "local_image": "images/misc/rancid-gas-potion.png"
+    }
   },
   {
     "id": "key-of-hate",
     "name": "Key of Hate",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/questkey_graphic.png",
+    "image": "/images/misc/key-of-hate.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -1929,13 +1847,12 @@
         "Recipe: Portal to Furnace of Pain",
         "Recipe: Portal to Matron's Den"
       ]
-    },
-    "local_image": "images/misc/key-of-hate.png"
+    }
   },
   {
     "id": "key-of-terror",
     "name": "Key of Terror",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/questkey_graphic.png",
+    "image": "/images/misc/key-of-terror.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -1951,13 +1868,12 @@
         "Recipe: Portal to Furnace of Pain",
         "Recipe: Portal to Matron's Den"
       ]
-    },
-    "local_image": "images/misc/key-of-terror.png"
+    }
   },
   {
     "id": "blood-belt",
     "name": "Blood Belt",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodbelt_graphic.png",
+    "image": "/images/misc/blood-belt.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -1970,13 +1886,12 @@
         "Product of:",
         "Recipe: Blood Belt"
       ]
-    },
-    "local_image": "images/misc/blood-belt.png"
+    }
   },
   {
     "id": "caster-boots",
     "name": "Caster Boots",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/casterleatherboots_graphic.png",
+    "image": "/images/misc/caster-boots.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -1989,13 +1904,12 @@
         "Product of:",
         "Recipe: Caster Boots"
       ]
-    },
-    "local_image": "images/misc/caster-boots.png"
+    }
   },
   {
     "id": "safety-gloves",
     "name": "Safety Gloves",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetygauntlets_graphic.png",
+    "image": "/images/misc/safety-gloves.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -2009,13 +1923,12 @@
         "Product of:",
         "Recipe: Safety Gloves"
       ]
-    },
-    "local_image": "images/misc/safety-gloves.png"
+    }
   },
   {
     "id": "caster-ring",
     "name": "Caster Ring",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/casterring4_graphic.png",
+    "image": "/images/misc/caster-ring.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -2028,13 +1941,12 @@
         "Product of:",
         "Recipe: Caster Ring"
       ]
-    },
-    "local_image": "images/misc/caster-ring.png"
+    }
   },
   {
     "id": "horadric-malus",
     "name": "Horadric Malus",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/horadricmalus_graphic.png",
+    "image": "/images/misc/horadric-malus.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -2049,13 +1961,12 @@
         "Source:",
         "Found in  Barracks"
       ]
-    },
-    "local_image": "images/misc/horadric-malus.png"
+    }
   },
   {
     "id": "wirts-leg",
     "name": "Wirt's Leg",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/wirtsleg_graphic.png",
+    "image": "/images/misc/wirts-leg.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -2070,13 +1981,12 @@
         "Ingredient in:",
         "Recipe: Portal to the Secret Cow Level"
       ]
-    },
-    "local_image": "images/misc/wirts-leg.png"
+    }
   },
   {
     "id": "hellforge-hammer",
     "name": "Hellforge Hammer",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/hellforgehammer_graphic.png",
+    "image": "/images/misc/hellforge-hammer.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -2094,13 +2004,12 @@
         "Source:",
         "Drops from  Hephasto the Armorer"
       ]
-    },
-    "local_image": "images/misc/hellforge-hammer.png"
+    }
   },
   {
     "id": "sur",
     "name": "Sur",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeSur_graphic.png",
+    "image": "/images/misc/sur.png",
     "type": "Misc Item",
     "category": "Level 61 Rune\nIndex: 29",
     "properties": {
@@ -2132,13 +2041,12 @@
         "Product of:",
         "Recipe: Sur"
       ]
-    },
-    "local_image": "images/misc/sur.png"
+    }
   },
   {
     "id": "vex",
     "name": "Vex",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeVex_graphic.png",
+    "image": "/images/misc/vex.png",
     "type": "Misc Item",
     "category": "Level 55 Rune\nIndex: 26",
     "properties": {
@@ -2172,13 +2080,12 @@
         "Product of:",
         "Recipe: Vex"
       ]
-    },
-    "local_image": "images/misc/vex.png"
+    }
   },
   {
     "id": "portal-to-forgotten-sands",
     "name": "Portal to Forgotten Sands",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/portalforgottensands_graphic.png",
+    "image": "/images/misc/portal-to-forgotten-sands.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -2188,13 +2095,12 @@
         "Product of:",
         "Recipe: Portal to Forgotten Sands"
       ]
-    },
-    "local_image": "images/misc/portal-to-forgotten-sands.png"
+    }
   },
   {
     "id": "portal-to-matrons-den",
     "name": "Portal to Matron's Den",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/portalmatronsden_graphic.png",
+    "image": "/images/misc/portal-to-matrons-den.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -2204,13 +2110,12 @@
         "Product of:",
         "Recipe: Portal to Matron's Den"
       ]
-    },
-    "local_image": "images/misc/portal-to-matrons-den.png"
+    }
   },
   {
     "id": "portal-to-furnace-of-pain",
     "name": "Portal to Furnace of Pain",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/portalfurnaceofpain_graphic.png",
+    "image": "/images/misc/portal-to-furnace-of-pain.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -2218,13 +2123,12 @@
         "A portal to the Furnace of Pain (Uber Izual)",
         "Patch 1.11 or later"
       ]
-    },
-    "local_image": "images/misc/portal-to-furnace-of-pain.png"
+    }
   },
   {
     "id": "portal-to-uber-tristram",
     "name": "Portal to Uber Tristram",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/portalubertristram_graphic.png",
+    "image": "/images/misc/portal-to-uber-tristram.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -2234,13 +2138,12 @@
         "Product of:",
         "Recipe: Portal to Uber Tristram"
       ]
-    },
-    "local_image": "images/misc/portal-to-uber-tristram.png"
+    }
   },
   {
     "id": "portal-to-the-secret-cow-level",
     "name": "Portal to the Secret Cow Level",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/cow_portal_graphic.png",
+    "image": "/images/misc/portal-to-the-secret-cow-level.png",
     "type": "Misc Item",
     "category": "Miscellaneous Item",
     "properties": {
@@ -2249,13 +2152,12 @@
         "Product of:",
         "Recipe: Portal to the Secret Cow Level"
       ]
-    },
-    "local_image": "images/misc/portal-to-the-secret-cow-level.png"
+    }
   },
   {
     "id": "horadric-staff",
     "name": "Horadric Staff",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/Horadricstaff_graphic.png",
+    "image": "/images/misc/horadric-staff.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -2276,26 +2178,24 @@
         "Product of:",
         "Recipe: Horadric Staff"
       ]
-    },
-    "local_image": "images/misc/horadric-staff.png"
+    }
   },
   {
     "id": "scroll-of-identify",
     "name": "Scroll of Identify",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/scroll-red_graphic.png",
+    "image": "/images/misc/scroll-of-identify.png",
     "type": "Misc Item",
     "category": "Consumable",
     "properties": {
       "magical_properties": [
         "Identifies an item."
       ]
-    },
-    "local_image": "images/misc/scroll-of-identify.png"
+    }
   },
   {
     "id": "scroll-of-inifuss",
     "name": "Scroll of Inifuss",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/scroll_graphic.png",
+    "image": "/images/misc/scroll-of-inifuss.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -2304,13 +2204,12 @@
         "Source:",
         "Found in  Dark Wood"
       ]
-    },
-    "local_image": "images/misc/scroll-of-inifuss.png"
+    }
   },
   {
     "id": "staff-of-kings",
     "name": "Staff of Kings",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lazarusspire_graphic.png",
+    "image": "/images/misc/staff-of-kings.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -2328,13 +2227,12 @@
         "Ingredient in:",
         "Recipe: Horadric Staff"
       ]
-    },
-    "local_image": "images/misc/staff-of-kings.png"
+    }
   },
   {
     "id": "perfect-amethyst",
     "name": "Perfect Amethyst",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/perfectamethyst_graphic.png",
+    "image": "/images/misc/perfect-amethyst.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -2373,13 +2271,12 @@
         "Product of:",
         "Recipe: Perfect Amethyst"
       ]
-    },
-    "local_image": "images/misc/perfect-amethyst.png"
+    }
   },
   {
     "id": "khalims-will",
     "name": "Khalim's Will",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/khalimswill_graphic.png",
+    "image": "/images/misc/khalims-will.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -2395,13 +2292,12 @@
         "Product of:",
         "Recipe: Khalim's Will"
       ]
-    },
-    "local_image": "images/misc/khalims-will.png"
+    }
   },
   {
     "id": "khalims-flail",
     "name": "Khalim's Flail",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/khalimsflail_graphic.png",
+    "image": "/images/misc/khalims-flail.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -2421,13 +2317,12 @@
         "Ingredient in:",
         "Recipe: Khalim's Will"
       ]
-    },
-    "local_image": "images/misc/khalims-flail.png"
+    }
   },
   {
     "id": "hel",
     "name": "Hel",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeHel_graphic.png",
+    "image": "/images/misc/hel.png",
     "type": "Misc Item",
     "category": "Level 1 Rune\nIndex: 15",
     "properties": {
@@ -2465,13 +2360,12 @@
         "Product of:",
         "Recipe: Hel"
       ]
-    },
-    "local_image": "images/misc/hel.png"
+    }
   },
   {
     "id": "perfect-ruby",
     "name": "Perfect Ruby",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/perfectruby_graphic.png",
+    "image": "/images/misc/perfect-ruby.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -2508,13 +2402,12 @@
         "Product of:",
         "Recipe: Perfect Ruby"
       ]
-    },
-    "local_image": "images/misc/perfect-ruby.png"
+    }
   },
   {
     "id": "perfect-diamond",
     "name": "Perfect Diamond",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/perfectdiamond_graphic.png",
+    "image": "/images/misc/perfect-diamond.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -2537,13 +2430,12 @@
         "Product of:",
         "Recipe: Perfect Diamond"
       ]
-    },
-    "local_image": "images/misc/perfect-diamond.png"
+    }
   },
   {
     "id": "perfect-emerald",
     "name": "Perfect Emerald",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/perfectemerald_graphic.png",
+    "image": "/images/misc/perfect-emerald.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -2586,13 +2478,12 @@
         "Product of:",
         "Recipe: Perfect Emerald"
       ]
-    },
-    "local_image": "images/misc/perfect-emerald.png"
+    }
   },
   {
     "id": "standard-of-heroes",
     "name": "Standard of Heroes",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/standard_graphic.png",
+    "image": "/images/misc/standard-of-heroes.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -2600,13 +2491,12 @@
         "Proves completion of the Pandemonium Event.",
         "Patch 1.11 or later"
       ]
-    },
-    "local_image": "images/misc/standard-of-heroes.png"
+    }
   },
   {
     "id": "khalims-heart",
     "name": "Khalim's Heart",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/heart_graphic.png",
+    "image": "/images/misc/khalims-heart.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -2617,13 +2507,12 @@
         "Ingredient in:",
         "Recipe: Khalim's Will"
       ]
-    },
-    "local_image": "images/misc/khalims-heart.png"
+    }
   },
   {
     "id": "khalims-brain",
     "name": "Khalim's Brain",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/brain_graphic.png",
+    "image": "/images/misc/khalims-brain.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -2634,13 +2523,12 @@
         "Ingredient in:",
         "Recipe: Khalim's Will"
       ]
-    },
-    "local_image": "images/misc/khalims-brain.png"
+    }
   },
   {
     "id": "khalims-eye",
     "name": "Khalim's Eye",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/eye_graphic.png",
+    "image": "/images/misc/khalims-eye.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -2651,13 +2539,12 @@
         "Ingredient in:",
         "Recipe: Khalim's Will"
       ]
-    },
-    "local_image": "images/misc/khalims-eye.png"
+    }
   },
   {
     "id": "golden-bird-of-ku-yleh",
     "name": "Golden Bird of Ku Y'leh",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/birdofkulyeh_graphic.png",
+    "image": "/images/misc/golden-bird-of-ku-yleh.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -2666,13 +2553,12 @@
         "Source:",
         "Given by  Meshif"
       ]
-    },
-    "local_image": "images/misc/golden-bird-of-ku-yleh.png"
+    }
   },
   {
     "id": "a-jade-figurine",
     "name": "A Jade Figurine",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/jadefigurine_graphic.png",
+    "image": "/images/misc/a-jade-figurine.png",
     "type": "Misc Item",
     "category": "Quest Item",
     "properties": {
@@ -2681,13 +2567,12 @@
         "Source:",
         "Found in  Spider Forest"
       ]
-    },
-    "local_image": "images/misc/a-jade-figurine.png"
+    }
   },
   {
     "id": "safety-body",
     "name": "Safety Body",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetybreastplate_graphic.png",
+    "image": "/images/misc/safety-body.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -2701,13 +2586,12 @@
         "Product of:",
         "Recipe: Safety Body"
       ]
-    },
-    "local_image": "images/misc/safety-body.png"
+    }
   },
   {
     "id": "safety-helm",
     "name": "Safety Helm",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/safetycrown_graphic.png",
+    "image": "/images/misc/safety-helm.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -2721,13 +2605,12 @@
         "Product of:",
         "Recipe: Safety Helm"
       ]
-    },
-    "local_image": "images/misc/safety-helm.png"
+    }
   },
   {
     "id": "caster-body",
     "name": "Caster Body",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/casterlightplate_graphic.png",
+    "image": "/images/misc/caster-body.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -2740,13 +2623,12 @@
         "Product of:",
         "Recipe: Caster Body"
       ]
-    },
-    "local_image": "images/misc/caster-body.png"
+    }
   },
   {
     "id": "caster-shield",
     "name": "Caster Shield",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/castersmallshield_graphic.png",
+    "image": "/images/misc/caster-shield.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -2759,13 +2641,12 @@
         "Product of:",
         "Recipe: Caster Shield"
       ]
-    },
-    "local_image": "images/misc/caster-shield.png"
+    }
   },
   {
     "id": "caster-helm",
     "name": "Caster Helm",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/castermask_graphic.png",
+    "image": "/images/misc/caster-helm.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -2778,13 +2659,12 @@
         "Product of:",
         "Recipe: Caster Helm"
       ]
-    },
-    "local_image": "images/misc/caster-helm.png"
+    }
   },
   {
     "id": "blood-shield",
     "name": "Blood Shield",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/bloodspikedshield_graphic.png",
+    "image": "/images/misc/blood-shield.png",
     "type": "Misc Item",
     "category": "Crafted Item",
     "properties": {
@@ -2797,26 +2677,24 @@
         "Product of:",
         "Recipe: Blood Shield"
       ]
-    },
-    "local_image": "images/misc/blood-shield.png"
+    }
   },
   {
     "id": "tome-of-identify",
     "name": "Tome of Identify",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/tome-red_graphic.png",
+    "image": "/images/misc/tome-of-identify.png",
     "type": "Misc Item",
     "category": "Consumable",
     "properties": {
       "magical_properties": [
         "Conveniently stores 20 Scrolls of Identify."
       ]
-    },
-    "local_image": "images/misc/tome-of-identify.png"
+    }
   },
   {
     "id": "stamina-potion",
     "name": "Stamina Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/stamina_graphic.png",
+    "image": "/images/misc/stamina-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -2824,13 +2702,12 @@
         "Instantly restores all stamina",
         "Super stamina recovery for (30 sec)"
       ]
-    },
-    "local_image": "images/misc/stamina-potion.png"
+    }
   },
   {
     "id": "exploding-potion",
     "name": "Exploding Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/exploding_graphic.png",
+    "image": "/images/misc/exploding-potion.png",
     "type": "Misc Item",
     "category": "Throwing Potion",
     "properties": {
@@ -2845,13 +2722,12 @@
         "Ingredient in:",
         "Recipe: Garnet Ring"
       ]
-    },
-    "local_image": "images/misc/exploding-potion.png"
+    }
   },
   {
     "id": "fulminating-potion",
     "name": "Fulminating Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/fulm_graphic.png",
+    "image": "/images/misc/fulminating-potion.png",
     "type": "Misc Item",
     "category": "Throwing Potion",
     "properties": {
@@ -2861,13 +2737,12 @@
       "magical_properties": [
         "Deals 3-8 Fire damage & 2-7 Physical damage"
       ]
-    },
-    "local_image": "images/misc/fulminating-potion.png"
+    }
   },
   {
     "id": "choking-gas-potion",
     "name": "Choking Gas Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/rancidgas_graphic.png",
+    "image": "/images/misc/choking-gas-potion.png",
     "type": "Misc Item",
     "category": "Throwing Potion",
     "properties": {
@@ -2879,13 +2754,12 @@
       "magical_properties": [
         "Causes poison damage to any enemy within a small radius."
       ]
-    },
-    "local_image": "images/misc/choking-gas-potion.png"
+    }
   },
   {
     "id": "strangling-gas-potion",
     "name": "Strangling Gas Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/strangling2_graphic.png",
+    "image": "/images/misc/strangling-gas-potion.png",
     "type": "Misc Item",
     "category": "Throwing Potion",
     "properties": {
@@ -2899,13 +2773,12 @@
         "Ingredient in:",
         "Recipe: Antidote Potion"
       ]
-    },
-    "local_image": "images/misc/strangling-gas-potion.png"
+    }
   },
   {
     "id": "super-healing-potion",
     "name": "Super Healing Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/superhealing_graphic.png",
+    "image": "/images/misc/super-healing-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -2914,13 +2787,12 @@
         "A, Assn,P: Heals 480HP",
         "B: Heals 640HP"
       ]
-    },
-    "local_image": "images/misc/super-healing-potion.png"
+    }
   },
   {
     "id": "greater-healing-potion",
     "name": "Greater Healing Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/greaterhealing_graphic.png",
+    "image": "/images/misc/greater-healing-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -2929,13 +2801,12 @@
         "A, Assn,P: Heals 270HP",
         "B: Heals 360HP"
       ]
-    },
-    "local_image": "images/misc/greater-healing-potion.png"
+    }
   },
   {
     "id": "mana-potion",
     "name": "Mana Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/mana_graphic.png",
+    "image": "/images/misc/mana-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -2944,13 +2815,12 @@
         "A, Asn, P: Restores 120MP",
         "D, N, S: Restores 160MP"
       ]
-    },
-    "local_image": "images/misc/mana-potion.png"
+    }
   },
   {
     "id": "healing-potion",
     "name": "Healing Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/healing_graphic.png",
+    "image": "/images/misc/healing-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -2959,13 +2829,12 @@
         "A, Assn,P: Heals 150HP",
         "B: Heals 200HP"
       ]
-    },
-    "local_image": "images/misc/healing-potion.png"
+    }
   },
   {
     "id": "light-mana-potion",
     "name": "Light Mana Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lightmana_graphic.png",
+    "image": "/images/misc/light-mana-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -2974,13 +2843,12 @@
         "A, Asn, P: Restores 60MP",
         "D, N, S: Restores 80MP"
       ]
-    },
-    "local_image": "images/misc/light-mana-potion.png"
+    }
   },
   {
     "id": "light-healing-potion",
     "name": "Light Healing Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/lighthealing_graphic.png",
+    "image": "/images/misc/light-healing-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -2989,13 +2857,12 @@
         "A, Assn,P: Heals 90HP",
         "B: Heals 120HP"
       ]
-    },
-    "local_image": "images/misc/light-healing-potion.png"
+    }
   },
   {
     "id": "minor-mana-potion",
     "name": "Minor Mana Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/minormana_graphic.png",
+    "image": "/images/misc/minor-mana-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -3004,13 +2871,12 @@
         "A, Asn, P: Restores 30MP",
         "D, N, S: Restores 40MP"
       ]
-    },
-    "local_image": "images/misc/minor-mana-potion.png"
+    }
   },
   {
     "id": "minor-healing-potion",
     "name": "Minor Healing Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/minorhealing_graphic.png",
+    "image": "/images/misc/minor-healing-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -3019,13 +2885,12 @@
         "A, Asn, P: Heals 45HP",
         "B: Heals 60HP"
       ]
-    },
-    "local_image": "images/misc/minor-healing-potion.png"
+    }
   },
   {
     "id": "rejuvenation-potion",
     "name": "Rejuvenation Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/rejuv_graphic.png",
+    "image": "/images/misc/rejuvenation-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -3038,13 +2903,12 @@
         "Product of:",
         "Recipe: Rejuvenation Potion"
       ]
-    },
-    "local_image": "images/misc/rejuvenation-potion.png"
+    }
   },
   {
     "id": "full-rejuvenation-potion",
     "name": "Full Rejuvenation Potion",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/full_rejuv_graphic.png",
+    "image": "/images/misc/full-rejuvenation-potion.png",
     "type": "Misc Item",
     "category": "Potion",
     "properties": {
@@ -3055,13 +2919,12 @@
         "Recipe: Full Rejuvenation Potion",
         "Recipe: Full Rejuvenation Potion (Alternative)"
       ]
-    },
-    "local_image": "images/misc/full-rejuvenation-potion.png"
+    }
   },
   {
     "id": "flawless-topaz",
     "name": "Flawless Topaz",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawlesstopaz_graphic.png",
+    "image": "/images/misc/flawless-topaz.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3080,13 +2943,12 @@
         "Product of:",
         "Recipe: Flawless Topaz"
       ]
-    },
-    "local_image": "images/misc/flawless-topaz.png"
+    }
   },
   {
     "id": "flawless-diamond",
     "name": "Flawless Diamond",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawlessdiamond_graphic.png",
+    "image": "/images/misc/flawless-diamond.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3103,13 +2965,12 @@
         "Product of:",
         "Recipe: Flawless Diamond"
       ]
-    },
-    "local_image": "images/misc/flawless-diamond.png"
+    }
   },
   {
     "id": "flawless-ruby",
     "name": "Flawless Ruby",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawlessruby_graphic.png",
+    "image": "/images/misc/flawless-ruby.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3128,13 +2989,12 @@
         "Product of:",
         "Recipe: Flawless Ruby"
       ]
-    },
-    "local_image": "images/misc/flawless-ruby.png"
+    }
   },
   {
     "id": "flawless-emerald",
     "name": "Flawless Emerald",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawlessemerald_graphic.png",
+    "image": "/images/misc/flawless-emerald.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3153,13 +3013,12 @@
         "Product of:",
         "Recipe: Flawless Emerald"
       ]
-    },
-    "local_image": "images/misc/flawless-emerald.png"
+    }
   },
   {
     "id": "flawless-skull",
     "name": "Flawless Skull",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawlessskull_graphic.png",
+    "image": "/images/misc/flawless-skull.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3176,13 +3035,12 @@
         "Product of:",
         "Recipe: Flawless Skull"
       ]
-    },
-    "local_image": "images/misc/flawless-skull.png"
+    }
   },
   {
     "id": "topaz",
     "name": "Topaz",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/topaz_graphic.png",
+    "image": "/images/misc/topaz.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3201,13 +3059,12 @@
         "Product of:",
         "Recipe: Topaz"
       ]
-    },
-    "local_image": "images/misc/topaz.png"
+    }
   },
   {
     "id": "diamond",
     "name": "Diamond",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/diamond_graphic.png",
+    "image": "/images/misc/diamond.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3226,13 +3083,12 @@
         "Product of:",
         "Recipe: Diamond"
       ]
-    },
-    "local_image": "images/misc/diamond.png"
+    }
   },
   {
     "id": "ruby",
     "name": "Ruby",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/ruby_graphic.png",
+    "image": "/images/misc/ruby.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3251,13 +3107,12 @@
         "Product of:",
         "Recipe: Ruby"
       ]
-    },
-    "local_image": "images/misc/ruby.png"
+    }
   },
   {
     "id": "emerald",
     "name": "Emerald",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/emerald_graphic.png",
+    "image": "/images/misc/emerald.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3276,13 +3131,12 @@
         "Product of:",
         "Recipe: Emerald"
       ]
-    },
-    "local_image": "images/misc/emerald.png"
+    }
   },
   {
     "id": "sapphire",
     "name": "Sapphire",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/saphire_graphic.png",
+    "image": "/images/misc/sapphire.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3301,13 +3155,12 @@
         "Product of:",
         "Recipe: Sapphire"
       ]
-    },
-    "local_image": "images/misc/sapphire.png"
+    }
   },
   {
     "id": "skull",
     "name": "Skull",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/skull_graphic.png",
+    "image": "/images/misc/skull.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3324,13 +3177,12 @@
         "Product of:",
         "Recipe: Skull"
       ]
-    },
-    "local_image": "images/misc/skull.png"
+    }
   },
   {
     "id": "flawed-diamond",
     "name": "Flawed Diamond",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flaweddiamond_graphic.png",
+    "image": "/images/misc/flawed-diamond.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3349,13 +3201,12 @@
         "Product of:",
         "Recipe: Flawed Diamond"
       ]
-    },
-    "local_image": "images/misc/flawed-diamond.png"
+    }
   },
   {
     "id": "flawed-ruby",
     "name": "Flawed Ruby",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawedruby_graphic.png",
+    "image": "/images/misc/flawed-ruby.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3374,13 +3225,12 @@
         "Product of:",
         "Recipe: Flawed Ruby"
       ]
-    },
-    "local_image": "images/misc/flawed-ruby.png"
+    }
   },
   {
     "id": "flawed-emerald",
     "name": "Flawed Emerald",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawedemerald_graphic.png",
+    "image": "/images/misc/flawed-emerald.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3399,13 +3249,12 @@
         "Product of:",
         "Recipe: Flawed Emerald"
       ]
-    },
-    "local_image": "images/misc/flawed-emerald.png"
+    }
   },
   {
     "id": "flawed-sapphire",
     "name": "Flawed Sapphire",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawedsaphire_graphic.png",
+    "image": "/images/misc/flawed-sapphire.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3424,13 +3273,12 @@
         "Product of:",
         "Recipe: Flawed Sapphire"
       ]
-    },
-    "local_image": "images/misc/flawed-sapphire.png"
+    }
   },
   {
     "id": "flawed-amethyst",
     "name": "Flawed Amethyst",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawedamethyst_graphic.png",
+    "image": "/images/misc/flawed-amethyst.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3449,13 +3297,12 @@
         "Product of:",
         "Recipe: Flawed Amethyst"
       ]
-    },
-    "local_image": "images/misc/flawed-amethyst.png"
+    }
   },
   {
     "id": "flawed-skull",
     "name": "Flawed Skull",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawedskull_graphic.png",
+    "image": "/images/misc/flawed-skull.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3472,13 +3319,12 @@
         "Product of:",
         "Recipe: Flawed Skull"
       ]
-    },
-    "local_image": "images/misc/flawed-skull.png"
+    }
   },
   {
     "id": "chipped-diamond",
     "name": "Chipped Diamond",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippeddiamond_graphic.png",
+    "image": "/images/misc/chipped-diamond.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3494,13 +3340,12 @@
         "Recipe: Flawed Diamond",
         "Recipe: Io"
       ]
-    },
-    "local_image": "images/misc/chipped-diamond.png"
+    }
   },
   {
     "id": "chipped-ruby",
     "name": "Chipped Ruby",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippedruby_graphic.png",
+    "image": "/images/misc/chipped-ruby.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3516,13 +3361,12 @@
         "Recipe: Dol",
         "Recipe: Flawed Ruby"
       ]
-    },
-    "local_image": "images/misc/chipped-ruby.png"
+    }
   },
   {
     "id": "chipped-sapphire",
     "name": "Chipped Sapphire",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippedsaphire_graphic.png",
+    "image": "/images/misc/chipped-sapphire.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3538,13 +3382,12 @@
         "Recipe: Flawed Sapphire",
         "Recipe: Shael"
       ]
-    },
-    "local_image": "images/misc/chipped-sapphire.png"
+    }
   },
   {
     "id": "chipped-amethyst",
     "name": "Chipped Amethyst",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippedamethyst_graphic.png",
+    "image": "/images/misc/chipped-amethyst.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3560,13 +3403,12 @@
         "Recipe: Flawed Amethyst",
         "Recipe: Sol"
       ]
-    },
-    "local_image": "images/misc/chipped-amethyst.png"
+    }
   },
   {
     "id": "chipped-skull",
     "name": "Chipped Skull",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippedskull_graphic.png",
+    "image": "/images/misc/chipped-skull.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -3580,13 +3422,12 @@
         "Ingredient in:",
         "Recipe: Flawed Skull"
       ]
-    },
-    "local_image": "images/misc/chipped-skull.png"
+    }
   },
   {
     "id": "lo",
     "name": "Lo",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeLo_graphic.png",
+    "image": "/images/misc/lo.png",
     "type": "Misc Item",
     "category": "Level 59 Rune\nIndex: 28",
     "properties": {
@@ -3624,13 +3465,12 @@
         "Product of:",
         "Recipe: Lo"
       ]
-    },
-    "local_image": "images/misc/lo.png"
+    }
   },
   {
     "id": "ohm",
     "name": "Ohm",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeOhm_graphic.png",
+    "image": "/images/misc/ohm.png",
     "type": "Misc Item",
     "category": "Level 57 Rune\nIndex: 27",
     "properties": {
@@ -3662,13 +3502,12 @@
         "Product of:",
         "Recipe: Ohm"
       ]
-    },
-    "local_image": "images/misc/ohm.png"
+    }
   },
   {
     "id": "gul",
     "name": "Gul",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeGul_graphic.png",
+    "image": "/images/misc/gul.png",
     "type": "Misc Item",
     "category": "Level 53 Rune\nIndex: 25",
     "properties": {
@@ -3702,13 +3541,12 @@
         "Product of:",
         "Recipe: Gul"
       ]
-    },
-    "local_image": "images/misc/gul.png"
+    }
   },
   {
     "id": "mal",
     "name": "Mal",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeMal_graphic.png",
+    "image": "/images/misc/mal.png",
     "type": "Misc Item",
     "category": "Level 49 Rune\nIndex: 23",
     "properties": {
@@ -3754,13 +3592,12 @@
         "Product of:",
         "Recipe: Mal"
       ]
-    },
-    "local_image": "images/misc/mal.png"
+    }
   },
   {
     "id": "pul",
     "name": "Pul",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runePul_graphic.png",
+    "image": "/images/misc/pul.png",
     "type": "Misc Item",
     "category": "Level 45 Rune\nIndex: 21",
     "properties": {
@@ -3803,13 +3640,12 @@
         "Product of:",
         "Recipe: Pul"
       ]
-    },
-    "local_image": "images/misc/pul.png"
+    }
   },
   {
     "id": "fal",
     "name": "Fal",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeFal_graphic.png",
+    "image": "/images/misc/fal.png",
     "type": "Misc Item",
     "category": "Level 41 Rune\nIndex: 19",
     "properties": {
@@ -3845,13 +3681,12 @@
         "Product of:",
         "Recipe: Fal"
       ]
-    },
-    "local_image": "images/misc/fal.png"
+    }
   },
   {
     "id": "ko",
     "name": "Ko",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeKo_graphic.png",
+    "image": "/images/misc/ko.png",
     "type": "Misc Item",
     "category": "Level 39 Rune\nIndex: 18",
     "properties": {
@@ -3897,13 +3732,12 @@
         "Product of:",
         "Recipe: Ko"
       ]
-    },
-    "local_image": "images/misc/ko.png"
+    }
   },
   {
     "id": "shael",
     "name": "Shael",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeShae_graphic.png",
+    "image": "/images/misc/shael.png",
     "type": "Misc Item",
     "category": "Level 29 Rune\nIndex: 13",
     "properties": {
@@ -3959,13 +3793,12 @@
         "Product of:",
         "Recipe: Shael"
       ]
-    },
-    "local_image": "images/misc/shael.png"
+    }
   },
   {
     "id": "sol",
     "name": "Sol",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeSol_graphic.png",
+    "image": "/images/misc/sol.png",
     "type": "Misc Item",
     "category": "Level 27 Rune\nIndex: 12",
     "properties": {
@@ -4015,13 +3848,12 @@
         "Product of:",
         "Recipe: Sol"
       ]
-    },
-    "local_image": "images/misc/sol.png"
+    }
   },
   {
     "id": "nef",
     "name": "Nef",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeNef_graphic.png",
+    "image": "/images/misc/nef.png",
     "type": "Misc Item",
     "category": "Level 13 Rune\nIndex: 4",
     "properties": {
@@ -4063,13 +3895,12 @@
         "Product of:",
         "Recipe: Nef"
       ]
-    },
-    "local_image": "images/misc/nef.png"
+    }
   },
   {
     "id": "tal",
     "name": "Tal",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeTal_graphic.png",
+    "image": "/images/misc/tal.png",
     "type": "Misc Item",
     "category": "Level 17 Rune\nIndex: 7",
     "properties": {
@@ -4121,13 +3952,12 @@
         "Product of:",
         "Recipe: Tal"
       ]
-    },
-    "local_image": "images/misc/tal.png"
+    }
   },
   {
     "id": "lum",
     "name": "Lum",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeLum_graphic.png",
+    "image": "/images/misc/lum.png",
     "type": "Misc Item",
     "category": "Level 37 Rune\nIndex: 17",
     "properties": {
@@ -4167,13 +3997,12 @@
         "Product of:",
         "Recipe: Lum"
       ]
-    },
-    "local_image": "images/misc/lum.png"
+    }
   },
   {
     "id": "flawless-sapphire",
     "name": "Flawless Sapphire",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawlesssaphire_graphic.png",
+    "image": "/images/misc/flawless-sapphire.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -4191,13 +4020,12 @@
         "Product of:",
         "Recipe: Flawless Sapphire"
       ]
-    },
-    "local_image": "images/misc/flawless-sapphire.png"
+    }
   },
   {
     "id": "perfect-sapphire",
     "name": "Perfect Sapphire",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/perfectsaphire_graphic.png",
+    "image": "/images/misc/perfect-sapphire.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -4237,13 +4065,12 @@
         "Product of:",
         "Recipe: Perfect Sapphire"
       ]
-    },
-    "local_image": "images/misc/perfect-sapphire.png"
+    }
   },
   {
     "id": "flawed-topaz",
     "name": "Flawed Topaz",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/flawedtopaz_graphic.png",
+    "image": "/images/misc/flawed-topaz.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -4261,13 +4088,12 @@
         "Product of:",
         "Recipe: Flawed Topaz"
       ]
-    },
-    "local_image": "images/misc/flawed-topaz.png"
+    }
   },
   {
     "id": "dol",
     "name": "Dol",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeDol_graphic.png",
+    "image": "/images/misc/dol.png",
     "type": "Misc Item",
     "category": "Level 31 Rune\nIndex: 14",
     "properties": {
@@ -4299,13 +4125,12 @@
         "Product of:",
         "Recipe: Dol"
       ]
-    },
-    "local_image": "images/misc/dol.png"
+    }
   },
   {
     "id": "chipped-topaz",
     "name": "Chipped Topaz",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/chippedtopaz_graphic.png",
+    "image": "/images/misc/chipped-topaz.png",
     "type": "Misc Item",
     "category": "Gem",
     "properties": {
@@ -4321,13 +4146,12 @@
         "Recipe: Amn",
         "Recipe: Flawed Topaz"
       ]
-    },
-    "local_image": "images/misc/chipped-topaz.png"
+    }
   },
   {
     "id": "amn",
     "name": "Amn",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeAmn_graphic.png",
+    "image": "/images/misc/amn.png",
     "type": "Misc Item",
     "category": "Level 25 Rune\nIndex: 11",
     "properties": {
@@ -4385,13 +4209,12 @@
         "Product of:",
         "Recipe: Amn"
       ]
-    },
-    "local_image": "images/misc/amn.png"
+    }
   },
   {
     "id": "thul",
     "name": "Thul",
-    "image": "https://diablo2.io/styles/zulu/theme/images/items/runeThul_graphic.png",
+    "image": "/images/misc/thul.png",
     "type": "Misc Item",
     "category": "Level 23 Rune\nIndex: 10",
     "properties": {
@@ -4445,7 +4268,6 @@
         "Product of:",
         "Recipe: Thul"
       ]
-    },
-    "local_image": "images/misc/thul.png"
+    }
   }
 ]
